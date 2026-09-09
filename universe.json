@@ -7,6 +7,10 @@
    "name": "Aussie Broadband"
   },
   {
+   "code": "ACW",
+   "name": "Actinogen Medical"
+  },
+  {
    "code": "AD8",
    "name": "Audinate"
   },
@@ -17,6 +21,10 @@
   {
    "code": "AEF",
    "name": "Australian Ethical"
+  },
+  {
+   "code": "APX",
+   "name": "Appen"
   },
   {
    "code": "ARB",
@@ -47,12 +55,20 @@
    "name": "Codan"
   },
   {
+   "code": "CMA",
+   "name": "Carma"
+  },
+  {
    "code": "COS",
    "name": "Cosol"
   },
   {
    "code": "CTD",
    "name": "Corporate Travel"
+  },
+  {
+   "code": "DDR",
+   "name": "Dicker Data"
   },
   {
    "code": "DRO",
@@ -73,6 +89,10 @@
   {
    "code": "ELD",
    "name": "Elders"
+  },
+  {
+   "code": "EVO",
+   "name": "Embark Early Education"
   },
   {
    "code": "EVT",
@@ -139,6 +159,10 @@
    "name": "Megaport"
   },
   {
+   "code": "MTS",
+   "name": "Metcash"
+  },
+  {
    "code": "MYR",
    "name": "Myer"
   },
@@ -171,12 +195,20 @@
    "name": "People Infrastructure"
   },
   {
+   "code": "PPT",
+   "name": "Perpetual"
+  },
+  {
    "code": "PWH",
    "name": "PWR Holdings"
   },
   {
    "code": "SDR",
    "name": "SiteMinder"
+  },
+  {
+   "code": "SHV",
+   "name": "Select Harvests"
   },
   {
    "code": "SIQ",
@@ -195,6 +227,10 @@
    "name": "SRG Global"
   },
   {
+   "code": "SSG",
+   "name": "Shaver Shop"
+  },
+  {
    "code": "STP",
    "name": "Step One"
   },
@@ -205,6 +241,10 @@
   {
    "code": "SXE",
    "name": "Southern Cross Electrical"
+  },
+  {
+   "code": "TER",
+   "name": "TerraCom"
   },
   {
    "code": "TNE",

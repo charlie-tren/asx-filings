@@ -1,0 +1,2971 @@
+{
+ "swept": "2026-09-09T11:31:47+00:00",
+ "n_announcements": 9899,
+ "date_range": [
+  "2026-08-20",
+  "2026-09-09"
+ ],
+ "candidates": [
+  {
+   "announcementTypes": [
+    "Profit Guidance",
+    "Notice of Meeting - Other"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "FPH"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "FPH",
+     "xid": "109555",
+     "ASXSecurityType": 1,
+     "displayName": "FISHER & PAYKEL HEALTHCARE CORPORATION LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "NZFAPE0001S2",
+     "xidEntity": 204272164,
+     "sector": "Health Care",
+     "industryGroup": "Health Care Equipment & Services",
+     "industry": "Health Care Equipment & Supplies",
+     "subIndustry": "Health Care Equipment"
+    }
+   ],
+   "date": "2026-08-20T21:30:06.000Z",
+   "documentKey": "2924-03123853-2A1690873",
+   "fileSize": "124KB",
+   "headline": "Profit Guidance",
+   "isPriceSensitive": true,
+   "symbol": "FPH",
+   "symbolsSecondary": [
+    "FPH",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Web Cast",
+    "Preliminary Final Report",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "RRL"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "RRL",
+     "xid": "244730",
+     "ASXSecurityType": 1,
+     "displayName": "REGIS RESOURCES LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000RRL8",
+     "xidEntity": 204101560,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Gold"
+    }
+   ],
+   "date": "2026-08-20T21:47:41.000Z",
+   "documentKey": "2924-03123862-6A1339564",
+   "fileSize": "194KB",
+   "headline": "Record Profit Delivers Record 20cps Final Dividends",
+   "isPriceSensitive": true,
+   "symbol": "RRL",
+   "symbolsSecondary": [
+    "RRL",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Web Cast",
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "QFE"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "QFE",
+     "xid": "542569815",
+     "ASXSecurityType": 1,
+     "displayName": "QUICKFEE LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000049025",
+     "xidEntity": 538762876,
+     "sector": "Financials",
+     "industryGroup": "Financial Services",
+     "industry": "Consumer Finance",
+     "subIndustry": "Consumer Finance"
+    }
+   ],
+   "date": "2026-08-20T22:03:21.000Z",
+   "documentKey": "2924-03123904-2A1690906",
+   "fileSize": "163KB",
+   "headline": "QuickFee announces FY26 results and FY27 earnings guidance",
+   "isPriceSensitive": true,
+   "symbol": "QFE",
+   "symbolsSecondary": [
+    "QFE",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Web Cast",
+    "Half Yearly Report",
+    "Dividend Record Date",
+    "Dividend Pay Date",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "GQG"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "GQG",
+     "xid": "684507497",
+     "ASXSecurityType": 1,
+     "displayName": "GQG PARTNERS INC.",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000180499",
+     "xidEntity": 405979811,
+     "sector": "Financials",
+     "industryGroup": "Financial Services",
+     "industry": "Capital Markets",
+     "subIndustry": "Asset Management & Custody Banks"
+    }
+   ],
+   "date": "2026-08-20T22:18:11.000Z",
+   "documentKey": "2924-03123956-2A1690924",
+   "fileSize": "99KB",
+   "headline": "Earnings Call - Results for Half-Year ended 30 June 2026",
+   "isPriceSensitive": true,
+   "symbol": "GQG",
+   "symbolsSecondary": [
+    "GQG",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Notification of Results/Reporting Date",
+    "Periodic Reports - Other"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "PPT"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "PPT",
+     "xid": "232984",
+     "ASXSecurityType": 1,
+     "displayName": "PERPETUAL LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000PPT9",
+     "xidEntity": 199002980,
+     "sector": "Financials",
+     "industryGroup": "Financial Services",
+     "industry": "Capital Markets",
+     "subIndustry": "Asset Management & Custody Banks"
+    }
+   ],
+   "date": "2026-08-20T23:06:06.000Z",
+   "documentKey": "2924-03124062-2A1690988",
+   "fileSize": "154KB",
+   "headline": "Non-cash impairment",
+   "isPriceSensitive": true,
+   "symbol": "PPT",
+   "symbolsSecondary": [
+    "PPT",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Dividend Reinvestment Plan",
+    "Dividend - Special",
+    "Preliminary Final Report",
+    "Dividend Record Date",
+    "Dividend Pay Date",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "CDO"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "CDO",
+     "xid": "503220421",
+     "ASXSecurityType": 1,
+     "displayName": "CADENCE OPPORTUNITIES FUND LIMITED.",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000186165",
+     "xidEntity": 503205836
+    }
+   ],
+   "date": "2026-08-21T01:57:27.000Z",
+   "documentKey": "2924-03124212-2A1691069",
+   "fileSize": "319KB",
+   "headline": "Media Release - Full Year Results & Record Profits",
+   "isPriceSensitive": true,
+   "symbol": "CDO",
+   "symbolsSecondary": [
+    "CDO",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "CYM"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "CYM",
+     "xid": "48449",
+     "ASXSecurityType": 1,
+     "displayName": "CYPRIUM METALS LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000050536",
+     "xidEntity": 204151252,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Copper"
+    }
+   ],
+   "date": "2026-08-21T09:24:43.000Z",
+   "documentKey": "2924-03124458-6A1339743",
+   "fileSize": "564KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "CYM",
+   "symbolsSecondary": [
+    "CYM",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Trading Update",
+    "Web Cast",
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "EDV"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-23T21:53:34.000Z",
+   "documentKey": "2924-03124519-2A1691230",
+   "fileSize": "586KB",
+   "headline": "F26 Full-Year Profit and Dividend Announcement",
+   "isPriceSensitive": true,
+   "symbol": "EDV",
+   "symbolsSecondary": [
+    "EDV",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Half Yearly Report",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "GLF"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "GLF",
+     "xid": "994434973",
+     "ASXSecurityType": 6,
+     "displayName": "GEMLIFE COMMUNITIES GROUP",
+     "issueType": "UT",
+     "issueTypeName": "Unit Trust Fund",
+     "issueTypeCode": 6,
+     "isin": "AU0000402562",
+     "xidEntity": 994429789,
+     "sector": "Real Estate",
+     "industryGroup": "Real Estate Management & Development",
+     "industry": "Real Estate Management & Development",
+     "subIndustry": "Real Estate Development"
+    }
+   ],
+   "date": "2026-08-23T22:34:10.000Z",
+   "documentKey": "2924-03124660-2A1691274",
+   "fileSize": "97KB",
+   "headline": "Earnings guidance upgrade, 1H26 results exceed Prospectus fo",
+   "isPriceSensitive": true,
+   "symbol": "GLF",
+   "symbolsSecondary": [
+    "GLF",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "CCG"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "CCG",
+     "xid": "444640568",
+     "ASXSecurityType": 1,
+     "displayName": "COMMS GROUP LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000CCG2",
+     "xidEntity": 441881788,
+     "sector": "Communication Services",
+     "industryGroup": "Telecommunication Services",
+     "industry": "Diversified Telecommunication Services",
+     "subIndustry": "Integrated Telecommunication Services"
+    }
+   ],
+   "date": "2026-08-23T23:21:45.000Z",
+   "documentKey": "2924-03124792-3A699563",
+   "fileSize": "312KB",
+   "headline": "Comms Group Delivers Record Revenue and Profit in FY26",
+   "isPriceSensitive": true,
+   "symbol": "CCG",
+   "symbolsSecondary": [
+    "CCG",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "NMT"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "NMT",
+     "xid": "240272",
+     "ASXSecurityType": 1,
+     "displayName": "NEOMETALS LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000NMT1",
+     "xidEntity": 204142216,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Diversified Metals & Mining"
+    }
+   ],
+   "date": "2026-08-23T23:30:55.000Z",
+   "documentKey": "2924-03124808-6A1339856",
+   "fileSize": "485KB",
+   "headline": "Response to ASX Price and Volume Query",
+   "isPriceSensitive": true,
+   "symbol": "NMT",
+   "symbolsSecondary": [
+    "NMT",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Profit Guidance",
+    "Preliminary Final Report",
+    "Placement",
+    "Dividend Rate",
+    "Security Purchase Plan"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "GNG"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "GNG",
+     "xid": "31830468",
+     "ASXSecurityType": 1,
+     "displayName": "GR ENGINEERING SERVICES LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000GNG0",
+     "xidEntity": 204140252,
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Diversified Metals & Mining"
+    }
+   ],
+   "date": "2026-08-23T23:43:40.000Z",
+   "documentKey": "2924-03124839-6A1339847",
+   "fileSize": "240KB",
+   "headline": "Media Release - FY26 Results, Guidance and Equity Raising",
+   "isPriceSensitive": true,
+   "symbol": "GNG",
+   "symbolsSecondary": [
+    "GNG",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Dividend Reinvestment Plan",
+    "Company Presentation",
+    "Preliminary Final Report",
+    "Placement",
+    "Dividend Record Date",
+    "Dividend Rate",
+    "Security Purchase Plan"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "GNG"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "GNG",
+     "xid": "31830468",
+     "ASXSecurityType": 1,
+     "displayName": "GR ENGINEERING SERVICES LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000GNG0",
+     "xidEntity": 204140252,
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Diversified Metals & Mining"
+    }
+   ],
+   "date": "2026-08-23T23:43:50.000Z",
+   "documentKey": "2924-03124840-6A1339849",
+   "fileSize": "1802KB",
+   "headline": "FY26 Results, Guidance and Equity Raising",
+   "isPriceSensitive": true,
+   "symbol": "GNG",
+   "symbolsSecondary": [
+    "GNG",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Progress Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "AEM"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "AEM",
+     "xid": "1030519162",
+     "ASXSecurityType": 1,
+     "displayName": "ADVANCED ENGINEERED MATERIALS LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000433500",
+     "xidEntity": 1030491008,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Chemicals",
+     "subIndustry": "Commodity Chemicals"
+    }
+   ],
+   "date": "2026-08-24T02:27:55.000Z",
+   "documentKey": "2924-03124925-6A1339895",
+   "fileSize": "889KB",
+   "headline": "AEM Provides Update On Commercial Progress",
+   "isPriceSensitive": true,
+   "symbol": "AEM",
+   "symbolsSecondary": [
+    "AEM",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "ACU"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-24T05:26:16.000Z",
+   "documentKey": "2924-03125015-2A1691473",
+   "fileSize": "393KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "ACU",
+   "symbolsSecondary": [
+    "ACU",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Notification of Results/Reporting Date",
+    "Periodic Reports - Other"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "DGH"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-24T05:44:26.000Z",
+   "documentKey": "2924-03125032-2A1691480",
+   "fileSize": "142KB",
+   "headline": "FY26 Results Guidance",
+   "isPriceSensitive": true,
+   "symbol": "DGH",
+   "symbolsSecondary": [
+    "DGH",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "ACF"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "ACF",
+     "xid": "12134104",
+     "ASXSecurityType": 1,
+     "displayName": "ACROW LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000006124",
+     "xidEntity": 204178595,
+     "sector": "Industrials",
+     "industryGroup": "Capital Goods",
+     "industry": "Trading Companies & Distributors",
+     "subIndustry": "Trading Companies & Distributors"
+    }
+   ],
+   "date": "2026-08-24T09:15:12.000Z",
+   "documentKey": "2924-03125169-6A1339967",
+   "fileSize": "341KB",
+   "headline": "Acrow Reports FY26 Results and Upgrades FY27 Guidance",
+   "isPriceSensitive": true,
+   "symbol": "ACF",
+   "symbolsSecondary": [
+    "ACF",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "SDR"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-24T21:46:30.000Z",
+   "documentKey": "2924-03125226-2A1691563",
+   "fileSize": "233KB",
+   "headline": "FY26 Earnings Release",
+   "isPriceSensitive": true,
+   "symbol": "SDR",
+   "symbolsSecondary": [
+    "SDR",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "ANG"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-24T22:17:05.000Z",
+   "documentKey": "2924-03125317-6A1340024",
+   "fileSize": "249KB",
+   "headline": "FY26 Full Year Results & FY27 Guidance",
+   "isPriceSensitive": true,
+   "symbol": "ANG",
+   "symbolsSecondary": [
+    "ANG",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "MAD"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "MAD",
+     "xid": "554837084",
+     "ASXSecurityType": 1,
+     "displayName": "MADER GROUP LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000056269",
+     "xidEntity": 549078199,
+     "subIndustry": "Diversified Support Services"
+    }
+   ],
+   "date": "2026-08-24T22:39:00.000Z",
+   "documentKey": "2924-03125371-6A1340041",
+   "fileSize": "430KB",
+   "headline": "FY26 Full Year Results & FY27 Guidance",
+   "isPriceSensitive": true,
+   "symbol": "MAD",
+   "symbolsSecondary": [
+    "MAD",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "CMP"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "CMP",
+     "xid": "77795",
+     "ASXSecurityType": 1,
+     "displayName": "COMPUMEDICS LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000CMP2",
+     "xidEntity": 204254753,
+     "sector": "Health Care",
+     "industryGroup": "Health Care Equipment & Services",
+     "industry": "Health Care Equipment & Supplies",
+     "subIndustry": "Health Care Equipment"
+    }
+   ],
+   "date": "2026-08-24T23:07:50.000Z",
+   "documentKey": "2924-03125476-3A699697",
+   "fileSize": "156KB",
+   "headline": "Business Update",
+   "isPriceSensitive": true,
+   "symbol": "CMP",
+   "symbolsSecondary": [
+    "CMP",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Company Presentation",
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "GSS"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "GSS",
+     "xid": "86540654",
+     "ASXSecurityType": 1,
+     "displayName": "GENETIC SIGNATURES LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000GSS4",
+     "xidEntity": 235638960,
+     "sector": "Health Care",
+     "industryGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+     "industry": "Life Sciences Tools & Services",
+     "subIndustry": "Life Sciences Tools & Services"
+    }
+   ],
+   "date": "2026-08-24T23:25:05.000Z",
+   "documentKey": "2924-03125532-2A1691740",
+   "fileSize": "2875KB",
+   "headline": "FY26 Market Update",
+   "isPriceSensitive": true,
+   "symbol": "GSS",
+   "symbolsSecondary": [
+    "GSS",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Progress Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "IG6"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "IG6",
+     "xid": "710467349",
+     "ASXSecurityType": 1,
+     "displayName": "INTERNATIONAL GRAPHITE LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000210957",
+     "xidEntity": 688486645,
+     "sector": "Industrials",
+     "industryGroup": "Capital Goods",
+     "industry": "Electrical Equipment",
+     "subIndustry": "Electrical Components & Equipment"
+    }
+   ],
+   "date": "2026-08-24T23:26:10.000Z",
+   "documentKey": "2924-03125533-6A1340078",
+   "fileSize": "387KB",
+   "headline": "High value graphite products drive earnings capability",
+   "isPriceSensitive": true,
+   "symbol": "IG6",
+   "symbolsSecondary": [
+    "IG6",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report",
+    "Dividend Pay Date",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "PPC"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "PPC",
+     "xid": "232688",
+     "ASXSecurityType": 1,
+     "displayName": "PEET LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000PPC5",
+     "xidEntity": 204212585,
+     "sector": "Real Estate",
+     "industryGroup": "Real Estate Management & Development",
+     "industry": "Real Estate Management & Development",
+     "subIndustry": "Real Estate Development"
+    }
+   ],
+   "date": "2026-08-24T23:46:05.000Z",
+   "documentKey": "2924-03125560-6A1340087",
+   "fileSize": "200KB",
+   "headline": "Peet Delivers Record FY26 Earnings",
+   "isPriceSensitive": true,
+   "symbol": "PPC",
+   "symbolsSecondary": [
+    "PPC",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "LRM"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "LRM",
+     "xid": "405404754",
+     "ASXSecurityType": 1,
+     "displayName": "LION ROCK MINERALS LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000412231",
+     "xidEntity": 204174948,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Gold"
+    }
+   ],
+   "date": "2026-08-25T03:56:06.000Z",
+   "documentKey": "2924-03125692-6A1340132",
+   "fileSize": "288KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "LRM",
+   "symbolsSecondary": [
+    "LRM",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Company Presentation",
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "CVC"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "CVC",
+     "xid": "83753",
+     "ASXSecurityType": 1,
+     "displayName": "CVC LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000CVC1",
+     "xidEntity": 199002902,
+     "sector": "Financials",
+     "industryGroup": "Financial Services",
+     "industry": "Capital Markets",
+     "subIndustry": "Asset Management & Custody Banks"
+    }
+   ],
+   "date": "2026-08-25T05:53:46.000Z",
+   "documentKey": "2924-03125740-2A1691872",
+   "fileSize": "1722KB",
+   "headline": "FY26 Results Presentation and Business Update",
+   "isPriceSensitive": true,
+   "symbol": "CVC",
+   "symbolsSecondary": [
+    "CVC",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "ICR"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "ICR",
+     "xid": "494884349",
+     "ASXSecurityType": 1,
+     "displayName": "INTELICARE HOLDINGS LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000081788",
+     "xidEntity": 494892912,
+     "sector": "Health Care",
+     "industryGroup": "Health Care Equipment & Services",
+     "industry": "Health Care Technology",
+     "subIndustry": "Health Care Technology"
+    }
+   ],
+   "date": "2026-08-25T06:32:01.000Z",
+   "documentKey": "2924-03125760-6A1340149",
+   "fileSize": "432KB",
+   "headline": "Response to ASX Price and Volume Query",
+   "isPriceSensitive": true,
+   "symbol": "ICR",
+   "symbolsSecondary": [
+    "ICR",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Profit Guidance",
+    "Web Cast",
+    "Preliminary Final Report",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "INA"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "INA",
+     "xid": "283015",
+     "ASXSecurityType": 6,
+     "displayName": "INGENIA COMMUNITIES GROUP",
+     "issueType": "UT",
+     "issueTypeName": "Unit Trust Fund",
+     "issueTypeCode": 6,
+     "isin": "AU000000INA9",
+     "xidEntity": 204154735,
+     "sector": "Real Estate",
+     "industryGroup": "Equity Real Estate Investment Trusts (REITs)",
+     "industry": "Residential REITs",
+     "subIndustry": "Multi-Family Residential REITs"
+    }
+   ],
+   "date": "2026-08-25T07:03:37.000Z",
+   "documentKey": "2924-03125785-2A1691897",
+   "fileSize": "238KB",
+   "headline": "Continued Delivery Against Strategy - Guidance Exceeded",
+   "isPriceSensitive": true,
+   "symbol": "INA",
+   "symbolsSecondary": [
+    "INA",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "WZR"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "WZR",
+     "xid": "59739",
+     "ASXSecurityType": 1,
+     "displayName": "WISR LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000004129",
+     "xidEntity": 204150291,
+     "sector": "Financials",
+     "industryGroup": "Financial Services",
+     "industry": "Consumer Finance",
+     "subIndustry": "Consumer Finance"
+    }
+   ],
+   "date": "2026-08-25T21:52:55.000Z",
+   "documentKey": "2924-03125929-2A1692008",
+   "fileSize": "1340KB",
+   "headline": "Wisr Delivers FY26 Cash NPAT Profitability, Exceeds Guidance",
+   "isPriceSensitive": true,
+   "symbol": "WZR",
+   "symbolsSecondary": [
+    "WZR",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Web Cast",
+    "Preliminary Final Report",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "KLS"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "KLS",
+     "xid": "68502887",
+     "ASXSecurityType": 1,
+     "displayName": "KELSIAN GROUP LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000186678",
+     "xidEntity": 234235984,
+     "sector": "Industrials",
+     "industryGroup": "Transportation",
+     "industry": "Ground Transportation",
+     "subIndustry": "Passenger Ground Transportation"
+    }
+   ],
+   "date": "2026-08-25T22:20:40.000Z",
+   "documentKey": "2924-03126025-2A1692042",
+   "fileSize": "314KB",
+   "headline": "FY26 Results Announcement & FY27 Guidance",
+   "isPriceSensitive": true,
+   "symbol": "KLS",
+   "symbolsSecondary": [
+    "KLS",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Web Cast",
+    "Preliminary Final Report",
+    "Dividend Record Date",
+    "Dividend Pay Date",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "WTC"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "WTC",
+     "xid": "339231743",
+     "ASXSecurityType": 1,
+     "displayName": "WISETECH GLOBAL LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000WTC3",
+     "xidEntity": 339218110,
+     "sector": "Information Technology",
+     "industryGroup": "Software & Services",
+     "industry": "Software",
+     "subIndustry": "Application Software"
+    }
+   ],
+   "date": "2026-08-25T22:57:20.000Z",
+   "documentKey": "2924-03126141-2A1692103",
+   "fileSize": "238KB",
+   "headline": "WTC record revenue, up 79%, exceeds guidance EBITDA, up 54%",
+   "isPriceSensitive": true,
+   "symbol": "WTC",
+   "symbolsSecondary": [
+    "WTC",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Web Cast",
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "ABV"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "ABV",
+     "xid": "247217",
+     "ASXSecurityType": 1,
+     "displayName": "ADVANCED BRAKING TECHNOLOGY LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000ABV7",
+     "xidEntity": 204114904,
+     "sector": "Consumer Discretionary",
+     "industryGroup": "Automobiles & Components",
+     "industry": "Automobile Components",
+     "subIndustry": "Automotive Parts & Equipment"
+    }
+   ],
+   "date": "2026-08-25T23:08:50.000Z",
+   "documentKey": "2924-03126183-6A1340320",
+   "fileSize": "560KB",
+   "headline": "FY26 Results Record Revenue and Strong Earnings Growth",
+   "isPriceSensitive": true,
+   "symbol": "ABV",
+   "symbolsSecondary": [
+    "ABV",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Periodic Reports - Other",
+    "Asset Acquisition",
+    "Progress Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "SKK"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-25T23:50:00.000Z",
+   "documentKey": "2924-03126316-6A1340348",
+   "fileSize": "127KB",
+   "headline": "ParaScript Nears Completion, Revenue Outlook Strengthened",
+   "isPriceSensitive": true,
+   "symbol": "SKK",
+   "symbolsSecondary": [
+    "SKK",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Trading Halt Lifted",
+    "Company Administration - Other"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "TCF"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "TCF",
+     "xid": "5457157",
+     "ASXSecurityType": 6,
+     "displayName": "360 CAPITAL MORTGAGE REIT",
+     "issueType": "UT",
+     "issueTypeName": "Unit Trust Fund",
+     "issueTypeCode": 6,
+     "isin": "AU0000108771",
+     "xidEntity": 204168623,
+     "sector": "Financials",
+     "industryGroup": "Financial Services",
+     "industry": "Mortgage Real Estate Investment Trusts (REITs)",
+     "subIndustry": "Mortgage REITs"
+    }
+   ],
+   "date": "2026-08-26T00:07:35.000Z",
+   "documentKey": "2924-03126372-2A1692205",
+   "fileSize": "143KB",
+   "headline": "Update on Bathla Group Administration",
+   "isPriceSensitive": true,
+   "symbol": "TCF",
+   "symbolsSecondary": [
+    "TCF",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "ESR"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "ESR",
+     "xid": "44939793",
+     "ASXSecurityType": 1,
+     "displayName": "ESTRELLA RESOURCES LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000ESR1",
+     "xidEntity": 216445458,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Diversified Metals & Mining"
+    }
+   ],
+   "date": "2026-08-26T02:53:16.000Z",
+   "documentKey": "2924-03126493-6A1340396",
+   "fileSize": "485KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "ESR",
+   "symbolsSecondary": [
+    "ESR",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "GTI"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "GTI",
+     "xid": "12390046",
+     "ASXSecurityType": 1,
+     "displayName": "GRATIFII LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000152183",
+     "xidEntity": 204225295,
+     "sector": "Information Technology",
+     "industryGroup": "Software & Services",
+     "industry": "Software",
+     "subIndustry": "Application Software"
+    }
+   ],
+   "date": "2026-08-26T05:12:51.000Z",
+   "documentKey": "2924-03126532-2A1692304",
+   "fileSize": "381KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "GTI",
+   "symbolsSecondary": [
+    "GTI",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Trading Update"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "WEB"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "WEB",
+     "xid": "284512",
+     "ASXSecurityType": 1,
+     "displayName": "WEBBEDS GROUP LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000WEB7",
+     "xidEntity": 204144750,
+     "sector": "Consumer Discretionary",
+     "industryGroup": "Consumer Services",
+     "industry": "Hotels, Restaurants & Leisure",
+     "subIndustry": "Hotels, Resorts & Cruise Lines"
+    }
+   ],
+   "date": "2026-08-26T08:54:27.000Z",
+   "documentKey": "2924-03126688-3A699937",
+   "fileSize": "150KB",
+   "headline": "Upgrading 1H27 guidance",
+   "isPriceSensitive": true,
+   "symbol": "WEB",
+   "symbolsSecondary": [
+    "WEB",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "VEE"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "VEE",
+     "xid": "368486095",
+     "ASXSecurityType": 1,
+     "displayName": "VEEM LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000VEE3",
+     "xidEntity": 365646120,
+     "sector": "Industrials",
+     "industryGroup": "Capital Goods",
+     "industry": "Machinery",
+     "subIndustry": "Industrial Machinery & Supplies & Components"
+    }
+   ],
+   "date": "2026-08-26T21:35:59.000Z",
+   "documentKey": "2924-03126737-6A1340496",
+   "fileSize": "494KB",
+   "headline": "FY26 Results - Upper End of Guidance",
+   "isPriceSensitive": true,
+   "symbol": "VEE",
+   "symbolsSecondary": [
+    "VEE",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Web Cast",
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "BOE"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "BOE",
+     "xid": "7501402",
+     "ASXSecurityType": 1,
+     "displayName": "BOSS ENERGY LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000BOE4",
+     "xidEntity": 204207831,
+     "sector": "Energy",
+     "industryGroup": "Energy",
+     "industry": "Oil, Gas & Consumable Fuels",
+     "subIndustry": "Coal & Consumable Fuels"
+    }
+   ],
+   "date": "2026-08-26T21:39:09.000Z",
+   "documentKey": "2924-03126752-6A1340505",
+   "fileSize": "485KB",
+   "headline": "FY2026 Financial Results and FY2027 Guidance",
+   "isPriceSensitive": true,
+   "symbol": "BOE",
+   "symbolsSecondary": [
+    "BOE",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report",
+    "Dividend Record Date",
+    "Dividend Pay Date",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "S32"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "S32",
+     "xid": "88102539",
+     "ASXSecurityType": 1,
+     "displayName": "SOUTH32 LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000S320",
+     "xidEntity": 235660700,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Diversified Metals & Mining"
+    }
+   ],
+   "date": "2026-08-26T21:48:14.000Z",
+   "documentKey": "2924-03126776-6A1340555",
+   "fileSize": "284KB",
+   "headline": "Appendix 4E and 2026 Financial Results Outlook",
+   "isPriceSensitive": true,
+   "symbol": "S32",
+   "symbolsSecondary": [
+    "S32",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report",
+    "Dividend Record Date",
+    "Dividend Pay Date",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "AMI"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "AMI",
+     "xid": "7308393",
+     "ASXSecurityType": 1,
+     "displayName": "AURELIA METALS LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000AMI1",
+     "xidEntity": 204171736,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Diversified Metals & Mining"
+    }
+   ],
+   "date": "2026-08-26T22:02:44.000Z",
+   "documentKey": "2924-03126823-2A1692431",
+   "fileSize": "295KB",
+   "headline": "FY26 Financial Results, Dividend and FY27 Guidance",
+   "isPriceSensitive": true,
+   "symbol": "AMI",
+   "symbolsSecondary": [
+    "AMI",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report",
+    "Periodic Reports - Other"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "SSG"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-26T22:34:20.000Z",
+   "documentKey": "2924-03126914-3A699968",
+   "fileSize": "196KB",
+   "headline": "SSG - FY26 Results Announcement & Trading Update",
+   "isPriceSensitive": true,
+   "symbol": "SSG",
+   "symbolsSecondary": [
+    "SSG",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Web Cast",
+    "Half Yearly Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "APX"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "APX",
+     "xid": "82356054",
+     "ASXSecurityType": 1,
+     "displayName": "APPEN LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000APX3",
+     "xidEntity": 235366583,
+     "sector": "Information Technology",
+     "industryGroup": "Software & Services",
+     "industry": "IT Services",
+     "subIndustry": "IT Consulting & Other Services"
+    }
+   ],
+   "date": "2026-08-26T22:42:20.000Z",
+   "documentKey": "2924-03126948-2A1692509",
+   "fileSize": "153KB",
+   "headline": "H1FY26 Results and FY26 Outlook & Guidance",
+   "isPriceSensitive": true,
+   "symbol": "APX",
+   "symbolsSecondary": [
+    "APX",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Company Presentation",
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "FWD"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "FWD",
+     "xid": "113937",
+     "ASXSecurityType": 1,
+     "displayName": "FLEETWOOD LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000FWD0",
+     "xidEntity": 204256847,
+     "sector": "Industrials",
+     "industryGroup": "Capital Goods",
+     "industry": "Construction & Engineering",
+     "subIndustry": "Construction & Engineering"
+    }
+   ],
+   "date": "2026-08-26T22:44:25.000Z",
+   "documentKey": "2924-03126957-6A1340583",
+   "fileSize": "7920KB",
+   "headline": "FY26 Investor Presentation (Revised Version)",
+   "isPriceSensitive": true,
+   "symbol": "FWD",
+   "symbolsSecondary": [
+    "FWD",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Web Cast",
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "CCR"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "CCR",
+     "xid": "621258852",
+     "ASXSecurityType": 1,
+     "displayName": "CREDIT CLEAR LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000107526",
+     "xidEntity": 621271399,
+     "sector": "Information Technology",
+     "industryGroup": "Software & Services",
+     "industry": "Software",
+     "subIndustry": "Application Software"
+    }
+   ],
+   "date": "2026-08-27T00:06:15.000Z",
+   "documentKey": "2924-03127260-3A700056",
+   "fileSize": "189KB",
+   "headline": "FY26 Results & FY27 Guidance",
+   "isPriceSensitive": true,
+   "symbol": "CCR",
+   "symbolsSecondary": [
+    "CCR",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "CUV"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "CUV",
+     "xid": "27486573",
+     "ASXSecurityType": 1,
+     "displayName": "CLINUVEL PHARMACEUTICALS LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000CUV3",
+     "xidEntity": 204247560,
+     "sector": "Health Care",
+     "industryGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+     "industry": "Biotechnology",
+     "subIndustry": "Biotechnology"
+    }
+   ],
+   "date": "2026-08-27T02:22:00.000Z",
+   "documentKey": "2924-03127367-3A700085",
+   "fileSize": "161KB",
+   "headline": "A decade of profitability provides U.S. expansion foundation",
+   "isPriceSensitive": true,
+   "symbol": "CUV",
+   "symbolsSecondary": [
+    "CUV",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Periodic Reports - Other"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "UOS"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "UOS",
+     "xid": "277508",
+     "ASXSecurityType": 1,
+     "displayName": "UNITED OVERSEAS AUSTRALIA LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000UOS4",
+     "xidEntity": 204253799,
+     "sector": "Real Estate",
+     "industryGroup": "Real Estate Management & Development",
+     "industry": "Real Estate Management & Development",
+     "subIndustry": "Diversified Real Estate Activities"
+    }
+   ],
+   "date": "2026-08-27T03:19:05.000Z",
+   "documentKey": "2924-03127392-6A1340669",
+   "fileSize": "2153KB",
+   "headline": "UOA Development Bhd - Profit Result (2nd Quarter 2026)",
+   "isPriceSensitive": true,
+   "symbol": "UOS",
+   "symbolsSecondary": [
+    "UOS",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "8IH"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "8IH",
+     "xid": "80536669",
+     "ASXSecurityType": 1,
+     "displayName": "8I HOLDINGS LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000008IH1",
+     "xidEntity": 235324060
+    }
+   ],
+   "date": "2026-08-27T04:30:46.000Z",
+   "documentKey": "2924-03127447-6A1340682",
+   "fileSize": "543KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "8IH",
+   "symbolsSecondary": [
+    "8IH",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "W2V"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "W2V",
+     "xid": "674482191",
+     "ASXSecurityType": 1,
+     "displayName": "WAY 2 VAT LTD.",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "IL0011795064",
+     "xidEntity": 674475631,
+     "sector": "Information Technology",
+     "industryGroup": "Software & Services",
+     "industry": "Software",
+     "subIndustry": "Application Software"
+    }
+   ],
+   "date": "2026-08-27T05:15:51.000Z",
+   "documentKey": "2924-03127483-6A1340685",
+   "fileSize": "354KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "W2V",
+   "symbolsSecondary": [
+    "W2V",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Dividend - Special",
+    "Profit Guidance",
+    "Notification of Results/Reporting Date",
+    "Dividend Record Date",
+    "Dividend Pay Date",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "CAM"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-27T06:22:41.000Z",
+   "documentKey": "2924-03127526-2A1692851",
+   "fileSize": "702KB",
+   "headline": "FY26 Profit Guidance and 2026 September Quarter Dividend",
+   "isPriceSensitive": true,
+   "symbol": "CAM",
+   "symbolsSecondary": [
+    "CAM",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "ACW"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "ACW",
+     "xid": "8548581",
+     "ASXSecurityType": 1,
+     "displayName": "ACTINOGEN MEDICAL LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000ACW3",
+     "xidEntity": 204208253,
+     "sector": "Health Care",
+     "industryGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+     "industry": "Biotechnology",
+     "subIndustry": "Biotechnology"
+    }
+   ],
+   "date": "2026-08-27T06:27:41.000Z",
+   "documentKey": "2924-03127531-2A1692854",
+   "fileSize": "261KB",
+   "headline": "ACW FY2026 results and outlook",
+   "isPriceSensitive": true,
+   "symbol": "ACW",
+   "symbolsSecondary": [
+    "ACW",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Half Yearly Report",
+    "Dividend Record Date",
+    "Dividend Pay Date",
+    "Dividend Rate"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "EVO"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "EVO",
+     "xid": "81389048",
+     "ASXSecurityType": 1,
+     "displayName": "EMBARK EARLY EDUCATION LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000289134",
+     "xidEntity": 235325465,
+     "sector": "Consumer Discretionary",
+     "industryGroup": "Consumer Services",
+     "industry": "Diversified Consumer Services",
+     "subIndustry": "Education Services"
+    }
+   ],
+   "date": "2026-08-27T22:38:24.000Z",
+   "documentKey": "2924-03127881-2A1693025",
+   "fileSize": "222KB",
+   "headline": "EVO Market Update 28 August 26",
+   "isPriceSensitive": true,
+   "symbol": "EVO",
+   "symbolsSecondary": [
+    "EVO",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Web Cast",
+    "Half Yearly Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "DDR"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "DDR",
+     "xid": "27317116",
+     "ASXSecurityType": 1,
+     "displayName": "DICKER DATA LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000DDR5",
+     "xidEntity": 204131593,
+     "sector": "Information Technology",
+     "industryGroup": "Technology Hardware & Equipment",
+     "industry": "Electronic Equipment, Instruments & Components",
+     "subIndustry": "Technology Distributors"
+    }
+   ],
+   "date": "2026-08-27T23:20:09.000Z",
+   "documentKey": "2924-03127997-2A1693092",
+   "fileSize": "279KB",
+   "headline": "H1 FY26 Results & FY26 Guidance Update",
+   "isPriceSensitive": true,
+   "symbol": "DDR",
+   "symbolsSecondary": [
+    "DDR",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Company Presentation",
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "RHT"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-27T23:24:29.000Z",
+   "documentKey": "2924-03128013-6A1340857",
+   "fileSize": "4958KB",
+   "headline": "FY26 Full Year Results & FY27 Guidance Investor Presentation",
+   "isPriceSensitive": true,
+   "symbol": "RHT",
+   "symbolsSecondary": [
+    "RHT",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Half Yearly Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "OLL"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-28T00:01:35.000Z",
+   "documentKey": "2924-03128110-6A1340878",
+   "fileSize": "459KB",
+   "headline": "H1 2026 Results - Gross Profit Up 64% and Revenue Up 43%",
+   "isPriceSensitive": true,
+   "symbol": "OLL",
+   "symbolsSecondary": [
+    "OLL",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "RFT"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "RFT",
+     "xid": "152243",
+     "ASXSecurityType": 1,
+     "displayName": "RECTIFIER TECHNOLOGIES LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000RFT6",
+     "xidEntity": 204132335,
+     "sector": "Industrials",
+     "industryGroup": "Capital Goods",
+     "industry": "Electrical Equipment",
+     "subIndustry": "Electrical Components & Equipment"
+    }
+   ],
+   "date": "2026-08-28T03:18:05.000Z",
+   "documentKey": "2924-03128287-3A700317",
+   "fileSize": "337KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "RFT",
+   "symbolsSecondary": [
+    "RFT",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Profit Guidance",
+    "Notification of Results/Reporting Date",
+    "Dividend - Other"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "CIW"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "CIW",
+     "xid": "181975",
+     "ASXSecurityType": 1,
+     "displayName": "CLIME INVESTMENT MANAGEMENT LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000CIW6",
+     "xidEntity": 204210011,
+     "sector": "Financials",
+     "industryGroup": "Financial Services",
+     "industry": "Capital Markets",
+     "subIndustry": "Asset Management & Custody Banks"
+    }
+   ],
+   "date": "2026-08-28T03:33:15.000Z",
+   "documentKey": "2924-03128298-2A1693228",
+   "fileSize": "699KB",
+   "headline": "FY26 Profit and Dividend Guidance",
+   "isPriceSensitive": true,
+   "symbol": "CIW",
+   "symbolsSecondary": [
+    "CIW",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "AU1"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-30T21:52:14.000Z",
+   "documentKey": "2924-03128715-6A1341142",
+   "fileSize": "325KB",
+   "headline": "The Agency Delivers Record FY26 GCI & Stronger Earnings",
+   "isPriceSensitive": true,
+   "symbol": "AU1",
+   "symbolsSecondary": [
+    "AU1",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Trading Update",
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "CMA"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-30T21:56:34.000Z",
+   "documentKey": "2924-03128724-2A1693492",
+   "fileSize": "182KB",
+   "headline": "FY26 Results and Trading Update",
+   "isPriceSensitive": true,
+   "symbol": "CMA",
+   "symbolsSecondary": [
+    "CMA",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "OEC"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "OEC",
+     "xid": "27277396",
+     "ASXSecurityType": 1,
+     "displayName": "ORBITAL CORPORATION LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000OEC2",
+     "xidEntity": 204264311,
+     "sector": "Industrials",
+     "industryGroup": "Capital Goods",
+     "industry": "Aerospace & Defense",
+     "subIndustry": "Aerospace & Defense"
+    }
+   ],
+   "date": "2026-08-30T23:25:19.000Z",
+   "documentKey": "2924-03129042-6A1341218",
+   "fileSize": "183KB",
+   "headline": "Annual Results and FY2027 Outlook",
+   "isPriceSensitive": true,
+   "symbol": "OEC",
+   "symbolsSecondary": [
+    "OEC",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "AL3"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "AL3",
+     "xid": "581348909",
+     "ASXSecurityType": 1,
+     "displayName": "AML3D LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000079212",
+     "xidEntity": 577321716,
+     "sector": "Industrials",
+     "industryGroup": "Capital Goods",
+     "industry": "Machinery",
+     "subIndustry": "Industrial Machinery & Supplies & Components"
+    }
+   ],
+   "date": "2026-08-30T23:32:44.000Z",
+   "documentKey": "2924-03129078-6A1341235",
+   "fileSize": "153KB",
+   "headline": "AML3D Delivers Record FY26 Revenue & Second Half Profit",
+   "isPriceSensitive": true,
+   "symbol": "AL3",
+   "symbolsSecondary": [
+    "AL3",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Profit Guidance",
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "BLS"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "BLS",
+     "xid": "282421",
+     "ASXSecurityType": 1,
+     "displayName": "BLS PHARMACEUTICALS LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000477796",
+     "xidEntity": 204285472,
+     "sector": "Health Care",
+     "industryGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+     "industry": "Life Sciences Tools & Services",
+     "subIndustry": "Life Sciences Tools & Services"
+    }
+   ],
+   "date": "2026-08-31T02:51:40.000Z",
+   "documentKey": "2924-03129273-2A1693772",
+   "fileSize": "388KB",
+   "headline": "BLS FY2027 Guidance",
+   "isPriceSensitive": true,
+   "symbol": "BLS",
+   "symbolsSecondary": [
+    "BLS",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Preliminary Final Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "SKK"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "SKK",
+     "xid": "71790",
+     "ASXSecurityType": 1,
+     "displayName": "STAKK LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000378291",
+     "xidEntity": 204290679,
+     "sector": "Information Technology",
+     "industryGroup": "Software & Services",
+     "industry": "Software",
+     "subIndustry": "Application Software"
+    }
+   ],
+   "date": "2026-08-31T06:55:36.000Z",
+   "documentKey": "2924-03129479-6A1341359",
+   "fileSize": "153KB",
+   "headline": "Stakk Delivers FY2026 Operating Profit",
+   "isPriceSensitive": true,
+   "symbol": "SKK",
+   "symbolsSecondary": [
+    "SKK",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Progress Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "TER"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "TER",
+     "xid": "24788500",
+     "ASXSecurityType": 1,
+     "displayName": "TERRACOM LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000TER9",
+     "xidEntity": 204273044,
+     "sector": "Energy",
+     "industryGroup": "Energy",
+     "industry": "Oil, Gas & Consumable Fuels",
+     "subIndustry": "Coal & Consumable Fuels"
+    }
+   ],
+   "date": "2026-08-31T09:06:06.000Z",
+   "documentKey": "2924-03129726-2A1693991",
+   "fileSize": "313KB",
+   "headline": "Market Update",
+   "isPriceSensitive": true,
+   "symbol": "TER",
+   "symbolsSecondary": [
+    "TER",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Progress Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "SFX"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "SFX",
+     "xid": "28186030",
+     "ASXSecurityType": 1,
+     "displayName": "SHEFFIELD RESOURCES LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000SFX6",
+     "xidEntity": 199001833,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Diversified Metals & Mining"
+    }
+   ],
+   "date": "2026-08-31T22:15:54.000Z",
+   "documentKey": "2924-03129802-6A1341513",
+   "fileSize": "113KB",
+   "headline": "Update on Thunderbird Senior Loan Facilities",
+   "isPriceSensitive": true,
+   "symbol": "SFX",
+   "symbolsSecondary": [
+    "SFX",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Trading Update",
+    "Chair's Address to Shareholders"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "CKF"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-08-31T22:16:19.000Z",
+   "documentKey": "2924-03129807-2A1694013",
+   "fileSize": "214KB",
+   "headline": "2026 AGM Chair's and MD & CEO's Addresses and Trading Update",
+   "isPriceSensitive": true,
+   "symbol": "CKF",
+   "symbolsSecondary": [
+    "CKF",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Asset Acquisition"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "PWR"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "PWR",
+     "xid": "653032762",
+     "ASXSecurityType": 1,
+     "displayName": "PETER WARREN AUTOMOTIVE HOLDINGS LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000143711",
+     "xidEntity": 653037167,
+     "sector": "Consumer Discretionary",
+     "industryGroup": "Consumer Discretionary Distribution & Retail",
+     "industry": "Specialty Retail",
+     "subIndustry": "Automotive Retail"
+    }
+   ],
+   "date": "2026-09-03T23:14:38.000Z",
+   "documentKey": "2924-03131685-2A1695028",
+   "fileSize": "210KB",
+   "headline": "Update on Wakeling Automotive Acquisition",
+   "isPriceSensitive": true,
+   "symbol": "PWR",
+   "symbolsSecondary": [
+    "PWR",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Progress Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "HIO"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "HIO",
+     "xid": "8737551",
+     "ASXSecurityType": 1,
+     "displayName": "HAWSONS IRON LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000171290",
+     "xidEntity": 204232190,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Steel"
+    }
+   ],
+   "date": "2026-09-04T02:49:44.000Z",
+   "documentKey": "2924-03131893-2A1695186",
+   "fileSize": "1810KB",
+   "headline": "Revised - Elutriation Testwork Results",
+   "isPriceSensitive": true,
+   "symbol": "HIO",
+   "symbolsSecondary": [
+    "HIO",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "ACW"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "ACW",
+     "xid": "8548581",
+     "ASXSecurityType": 1,
+     "displayName": "ACTINOGEN MEDICAL LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000ACW3",
+     "xidEntity": 204208253,
+     "sector": "Health Care",
+     "industryGroup": "Pharmaceuticals, Biotechnology & Life Sciences",
+     "industry": "Biotechnology",
+     "subIndustry": "Biotechnology"
+    }
+   ],
+   "date": "2026-09-04T05:55:34.000Z",
+   "documentKey": "2924-03131997-2A1695257",
+   "fileSize": "508KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "ACW",
+   "symbolsSecondary": [
+    "ACW",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "AM7"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-09-04T06:44:44.000Z",
+   "documentKey": "2924-03132058-6A1342304",
+   "fileSize": "400KB",
+   "headline": "Response to ASX Price and Volume Query",
+   "isPriceSensitive": true,
+   "symbol": "AM7",
+   "symbolsSecondary": [
+    "AM7",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Progress Report"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "G1C"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "G1C",
+     "xid": "244352",
+     "ASXSecurityType": 1,
+     "displayName": "GROUP ONE CAPITAL LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000423741",
+     "xidEntity": 204156169,
+     "sector": "Real Estate",
+     "industryGroup": "Real Estate Management & Development",
+     "industry": "Real Estate Management & Development",
+     "subIndustry": "Diversified Real Estate Activities"
+    }
+   ],
+   "date": "2026-09-07T01:20:30.000Z",
+   "documentKey": "2924-03132491-2A1695684",
+   "fileSize": "5994KB",
+   "headline": "Sterling - Update on contracted facilitation fees",
+   "isPriceSensitive": true,
+   "symbol": "G1C",
+   "symbolsSecondary": [
+    "G1C",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "RRR"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "RRR",
+     "xid": "674176576",
+     "ASXSecurityType": 1,
+     "displayName": "REVOLVER RESOURCES HOLDINGS LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000169559",
+     "xidEntity": 674199318,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Copper"
+    }
+   ],
+   "date": "2026-09-07T04:03:51.000Z",
+   "documentKey": "2924-03132551-6A1342515",
+   "fileSize": "537KB",
+   "headline": "Response to ASX Price and Volume Query",
+   "isPriceSensitive": true,
+   "symbol": "RRR",
+   "symbolsSecondary": [
+    "RRR",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "LM1"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "LM1",
+     "xid": "786879102",
+     "ASXSecurityType": 1,
+     "displayName": "LEEUWIN METALS LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000268286",
+     "xidEntity": 786848971,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Diversified Metals & Mining"
+    }
+   ],
+   "date": "2026-09-07T05:03:41.000Z",
+   "documentKey": "2924-03132567-6A1342519",
+   "fileSize": "425KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "LM1",
+   "symbolsSecondary": [
+    "LM1",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "NAG"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-09-07T06:02:31.000Z",
+   "documentKey": "2924-03132604-3A701211",
+   "fileSize": "311KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "NAG",
+   "symbolsSecondary": [
+    "NAG",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Periodic Reports - Other"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "ATV"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "ATV",
+     "xid": "676836288",
+     "ASXSecurityType": 1,
+     "displayName": "ACTIVEPORT GROUP LTD",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000171910",
+     "xidEntity": 676802417,
+     "sector": "Information Technology",
+     "industryGroup": "Software & Services",
+     "industry": "Software",
+     "subIndustry": "Application Software"
+    }
+   ],
+   "date": "2026-09-07T22:18:59.000Z",
+   "documentKey": "2924-03132854-6A1342668",
+   "fileSize": "203KB",
+   "headline": "ATV RESTRUCTURE DELIVERS RESULTS",
+   "isPriceSensitive": true,
+   "symbol": "ATV",
+   "symbolsSecondary": [
+    "ATV",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Notification of Results/Reporting Date",
+    "Trading Update"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "SHV"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "SHV",
+     "xid": "253118",
+     "ASXSecurityType": 1,
+     "displayName": "SELECT HARVESTS LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000SHV6",
+     "xidEntity": 204174702,
+     "sector": "Consumer Staples",
+     "industryGroup": "Food, Beverage & Tobacco",
+     "industry": "Food Products",
+     "subIndustry": "Agricultural Products & Services"
+    }
+   ],
+   "date": "2026-09-07T23:06:14.000Z",
+   "documentKey": "2924-03132940-3A701260",
+   "fileSize": "313KB",
+   "headline": "SHV Business Update",
+   "isPriceSensitive": true,
+   "symbol": "SHV",
+   "symbolsSecondary": [
+    "SHV",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "ERL"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "ERL",
+     "xid": "6063607",
+     "ASXSecurityType": 1,
+     "displayName": "EMPIRE RESOURCES LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000ERL6",
+     "xidEntity": 199003011,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Diversified Metals & Mining"
+    }
+   ],
+   "date": "2026-09-08T01:37:30.000Z",
+   "documentKey": "2924-03133049-6A1342739",
+   "fileSize": "472KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "ERL",
+   "symbolsSecondary": [
+    "ERL",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "BPM"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "BPM",
+     "xid": "630845640",
+     "ASXSecurityType": 1,
+     "displayName": "BPM MINERALS LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000119810",
+     "xidEntity": 629550828,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Diversified Metals & Mining"
+    }
+   ],
+   "date": "2026-09-08T06:49:51.000Z",
+   "documentKey": "2924-03133175-6A1342786",
+   "fileSize": "423KB",
+   "headline": "Response to ASX Price and Volume Query",
+   "isPriceSensitive": true,
+   "symbol": "BPM",
+   "symbolsSecondary": [
+    "BPM",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "MRD"
+    }
+   ],
+   "companyInfo": [],
+   "date": "2026-09-08T07:29:11.000Z",
+   "documentKey": "2924-03133212-6A1342802",
+   "fileSize": "548KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "MRD",
+   "symbolsSecondary": [
+    "MRD",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Periodic Reports - Other"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "WGX"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "WGX",
+     "xid": "373366067",
+     "ASXSecurityType": 1,
+     "displayName": "WESTGOLD RESOURCES LIMITED.",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000WGX6",
+     "xidEntity": 204098062,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Gold"
+    }
+   ],
+   "date": "2026-09-08T22:31:38.000Z",
+   "documentKey": "2924-03133378-6A1342896",
+   "fileSize": "1655KB",
+   "headline": "FY27 Guidance and Three-Year Outlook",
+   "isPriceSensitive": true,
+   "symbol": "WGX",
+   "symbolsSecondary": [
+    "WGX",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Trading Update",
+    "Company Presentation",
+    "Chair's Address to Shareholders"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "MTS"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "MTS",
+     "xid": "206949",
+     "ASXSecurityType": 1,
+     "displayName": "METCASH LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000MTS0",
+     "xidEntity": 204192676,
+     "sector": "Consumer Staples",
+     "industryGroup": "Consumer Staples Distribution & Retail",
+     "industry": "Consumer Staples Distribution & Retail",
+     "subIndustry": "Food Distributors"
+    }
+   ],
+   "date": "2026-09-08T23:34:59.000Z",
+   "documentKey": "2924-03133489-2A1696256",
+   "fileSize": "1861KB",
+   "headline": "2026 Annual General Meeting and Trading Update",
+   "isPriceSensitive": true,
+   "symbol": "MTS",
+   "symbolsSecondary": [
+    "MTS",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "WSI"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "WSI",
+     "xid": "4802238",
+     "ASXSecurityType": 1,
+     "displayName": "WESTSTAR INDUSTRIAL LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU000000WSI2",
+     "xidEntity": 204225585,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Diversified Metals & Mining"
+    }
+   ],
+   "date": "2026-09-09T00:38:29.000Z",
+   "documentKey": "2924-03133550-6A1342959",
+   "fileSize": "430KB",
+   "headline": "Response to ASX Query Letter",
+   "isPriceSensitive": true,
+   "symbol": "WSI",
+   "symbolsSecondary": [
+    "WSI",
+    ""
+   ],
+   "url": ""
+  },
+  {
+   "announcementTypes": [
+    "Response to ASX Query"
+   ],
+   "companies": [
+    {
+     "symbolDisplay": "NMR"
+    }
+   ],
+   "companyInfo": [
+    {
+     "symbol": "NMR",
+     "xid": "621922965",
+     "ASXSecurityType": 1,
+     "displayName": "NATIVE MINERAL RESOURCES HOLDINGS LIMITED",
+     "issueType": "CS",
+     "issueTypeName": "Common Stock",
+     "issueTypeCode": 1,
+     "isin": "AU0000108219",
+     "xidEntity": 621920397,
+     "sector": "Materials",
+     "industryGroup": "Materials",
+     "industry": "Metals & Mining",
+     "subIndustry": "Diversified Metals & Mining"
+    }
+   ],
+   "date": "2026-09-09T05:18:15.000Z",
+   "documentKey": "2924-03133652-2A1696319",
+   "fileSize": "562KB",
+   "headline": "Response to ASX Price Query",
+   "isPriceSensitive": true,
+   "symbol": "NMR",
+   "symbolsSecondary": [
+    "NMR",
+    ""
+   ],
+   "url": ""
+  }
+ ]
+}

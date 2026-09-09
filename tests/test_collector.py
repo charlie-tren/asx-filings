@@ -177,16 +177,51 @@ def test_gold_labels_are_complete_and_valid():
         assert d["quote"].strip(), f"{d['ticker']} has no load-bearing quote"
 
 
-def test_gold_set_is_honest_about_its_class_imbalance():
-    """25 of 33 documents are positive and one is negative, so a model that
-    answers "positive" every time scores 76%. Any future session reading
-    labels.json must meet that warning before it quotes an accuracy figure."""
+def test_the_readme_states_the_baseline_it_actually_has():
+    """Recompute the documented figure rather than matching a phrase.
+
+    The first version of this test asserted the README contained the words
+    "unusable as a benchmark", and it broke the moment the imbalance was fixed
+    and the wording changed - a test about the prose, not the fact. This one
+    fails when the set is rebalanced and the stated number is left behind,
+    which is the failure worth catching."""
+    import json
+    import re
+    from collections import Counter
+    docs = []
+    for f in ("labels.json", "labels_negative.json"):
+        docs += json.loads((ROOT / "gold" / f).read_text(encoding="utf-8"))["documents"]
+    counts = Counter(d["stance"] for d in docs)
+    baseline = round(100 * counts.most_common(1)[0][1] / len(docs))
+    readme = (ROOT / "gold" / "README.md").read_text(encoding="utf-8")
+    stated = [int(x) for x in re.findall(r"baseline is\s+\*\*(\d+)%", readme)]
+    assert stated, "the README no longer states a majority-class baseline"
+    assert baseline in stated, (
+        f"README says {stated}%, the labels say {baseline}%")
+
+
+def test_gold_set_stance_is_now_measurable():
+    """The results-season half was 25 positive to 1 negative, so answering
+    "positive" every time scored 76% and stance could not be measured. Ten
+    negatives found via the market-wide sweep bring the majority-class baseline
+    down. This fails if a future edit unbalances it again."""
     import json
     from collections import Counter
-    docs = json.loads((ROOT / "gold" / "labels.json").read_text(encoding="utf-8"))["documents"]
+    docs = []
+    for f in ("labels.json", "labels_negative.json"):
+        docs += json.loads((ROOT / "gold" / f).read_text(encoding="utf-8"))["documents"]
+    assert len(docs) >= 40
     counts = Counter(d["stance"] for d in docs)
-    majority = counts.most_common(1)[0][1] / len(docs)
-    readme = (ROOT / "gold" / "README.md").read_text(encoding="utf-8")
-    if majority > 0.6:
-        assert "unusable as a benchmark" in readme, \
-            "stance is still imbalanced but the README no longer says so"
+    baseline = counts.most_common(1)[0][1] / len(docs)
+    assert baseline < 0.65, f"majority-class baseline back up to {baseline:.0%}"
+    assert counts["negative"] >= 5, "too few negatives to count sign errors"
+
+
+def test_the_two_halves_of_the_gold_set_stay_separable():
+    """They were sampled differently - one from results season, one from a
+    deliberate hunt for downgrades - so a model scored on the combined set is
+    being scored on a balanced sample, not a natural one. Anyone reporting a
+    number off it has to be able to say which half."""
+    import json
+    neg = json.loads((ROOT / "gold" / "labels_negative.json").read_text(encoding="utf-8"))
+    assert all(d["source"] == "market_sweep" for d in neg["documents"])

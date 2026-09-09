@@ -45,6 +45,30 @@ per document does.
 exactly like a ticker with nothing to announce** unless the fetch outcome is
 recorded, and by the time anyone notices, the window has moved on.
 
+## There is a market-wide feed, and it is better than per-ticker polling
+
+Found 09/09/2026 while hunting for downgrades. `/markets/announcements` on the
+same host returns announcements for **every listed company**, and unlike the
+per-ticker index it **pages**:
+
+    /markets/announcements?itemsPerPage=100&page=N
+
+Hard cap at 100 pages of 100 items. Measured: **9,899 announcements reaching
+back 20 days**, against five items per ticker with no paging. `itemsPerPage`
+works and `pageSize` does not; `startDate`, `date` and `days` are all ignored.
+
+This is a better collection mechanism than the ticker loop below it, on three
+counts: it covers companies not in `universe.json`, it needs about 100 requests
+a day instead of one per ticker, and a missed day costs 20 days of slack rather
+than five announcements.
+
+**The collector does not use it yet.** It was found after the ticker loop was
+built and verified, and swapping the ingestion path is not a change to make in
+the same breath as discovering the endpoint. `gold/find_negatives.py` is a
+working sweep over it. What has NOT been established: whether the 20-day depth
+is stable or a function of current volume, and whether it drops announcement
+types the per-ticker index carries. Check both before migrating.
+
 ## Two hosts, and they are not interchangeable
 
 - **Index**: `asx.api.markitdigital.com`

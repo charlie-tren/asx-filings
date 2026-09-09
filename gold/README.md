@@ -1,40 +1,72 @@
 # Gold set
 
-33 documents from 21 ASX companies, FY26 results, hand-labelled 09/09/2026.
-`labels.json` is the machine-readable version; `build_labels.py` is where the
-labels are written and reviewed. `extract_candidates.py` pulls the
-forward-looking passages that were read to assign them.
+**43 documents from 31 ASX companies, hand-labelled 09/09/2026**, in two halves
+that were sampled differently and must stay separable:
+
+- **33 results documents** from the collector's own universe (`labels.json`).
+- **10 downgrades and profit warnings** found by sweeping the market-wide
+  announcement feed (`labels_negative.json`), because the results half is 25
+  positive to 1 negative and could not measure stance at all.
+
+A model scored on the combined set is being scored on a **deliberately balanced
+sample, not a natural one**. Say which half any number came from.
+
+`build_labels.py` and `build_negatives.py` are where the labels are written and
+reviewed; they emit the two JSON files. `extract_candidates.py` pulls the
+forward-looking passages that were read to assign them, and `find_negatives.py`
+sweeps the market for the second half.
 
 **Nothing here was produced by a model.** The point of the set is to have
 something a model can be wrong against.
 
 ## Read this before quoting an accuracy number off it
 
-**Stance is unusable as a benchmark.** 25 of 33 documents are positive and
-exactly **one** is negative. A model that answers "positive" to everything
-scores 76%, so any stance accuracy measured here is measuring the base rate, not
-the model. Before stance can be scored, the set needs negatives on purpose:
-either a reporting season with more bad news in it, or a deliberate hunt for
-downgrades and profit warnings.
+**Stance is now measurable, but only just.** The majority-class baseline is
+**58%** across the combined set (25 positive of 43), down from 76% on the
+results half alone. A model has to beat 58% before it has demonstrated anything,
+and the number worth reporting is **sign errors on the 14 negative and mixed
+documents**, not overall accuracy.
 
-**Guide type is measurable.** `next_period_guide` runs 19 / 7 / 5 / 1 / 1 across
-its five classes, which is spread enough to catch a model that collapses them.
-That is the one label to score first.
+The results half on its own remains unusable for stance: 25 positive to 1
+negative.
 
-**Horizon is not measurable either.** One split-horizon document in 33.
+**Guide type is measurable.** `next_period_guide` runs 25 / 9 / 7 / 1 / 1
+across its five classes, spread enough to catch a model that collapses them.
+That is the label to score first.
+
+**Horizon still is not.** One split-horizon document in 43.
 
 ## Distribution
 
-| next_period_guide | n | | stance | n |
-|---|---|---|---|---|
-| none | 19 | | positive | 25 |
-| relational | 7 | | neutral | 4 |
-| full | 5 | | mixed | 3 |
-| segment | 1 | | negative | 1 |
-| deferred | 1 | | | |
+Combined, n = 43:
 
-Period: 31 full-year, 2 half-year. Current trading disclosed in 5 documents
-(CCX x2, LOV x2, MND).
+| stance | n | | next_period_guide | n |
+|---|---|---|---|---|
+| positive | 25 | | none | 25 |
+| negative | 7 | | relational | 9 |
+| mixed | 7 | | full | 7 |
+| neutral | 4 | | segment | 1 |
+| | | | deferred | 1 |
+
+Horizon: 34 next_year, 6 current_trading_only, 2 medium_term, 1 split.
+Current trading disclosed in 6 documents, five positive or flat and one
+negative (SSG).
+
+## How the negatives were found
+
+The per-ticker index keeps five items and will not page. The **market-wide**
+feed at `/markets/announcements` is different: it pages back to a hard cap of
+100 pages of 100 items, about **9,899 announcements over 20 days**, every listed
+company. `find_negatives.py` sweeps it, filters to price-sensitive
+downgrade-shaped headlines, and the survivors were read by hand.
+
+That is the only way to find a downgrade without knowing in advance who issued
+it, and **it is a better collection mechanism than per-ticker polling** - see
+the note in the repo README.
+
+Headlines do not give it away. Of 83 price-sensitive candidates, the genuine
+downgrades were titled "Market Update", "Business Update" and "Non-cash
+impairment". Several headlines that sounded bad were records or upgrades.
 
 ## What the larger sample changed
 
@@ -92,6 +124,24 @@ Each of these is a real document in the set, not a hypothetical.
   NWH's "$320 million to $330 million", the feature is measuring house style.
 - **The safe-harbour block outranks real guidance.** STP had five of seven
   candidate passages come back as disclaimer text.
+
+- **Guidance held is not guidance safe.** TerraCom is producing "below plan
+  during the early part of FY2027" and *maintains* its production guidance
+  "at this time", promising to update "should its expectations materially
+  change". A model keying on "maintains its guidance" scores this positive.
+  It is a pre-downgrade and the best single document in the set.
+- **A cut and a record in one breath.** Select Harvests cuts external grower
+  volumes from 15,400MT to 13,800-14,200MT and calls the crop "near record" and
+  "an exceptional result" in the same update. One line down, another up.
+- **The number can be in the table and never in the prose.** Embark reports a
+  swing from +$4.0m to -$12.7m as a line in an interim accounts table, third,
+  under a bank facility renewal and a dividend. The word "loss" never appears.
+- **Attach the number to the right entity.** Dicker Data's group profit before
+  tax rose 50.1% while New Zealand fell to $4.0m on "softer market conditions".
+  Both numbers are in the same release.
+- **A loss is not always bad news.** Actinogen's loss widened to $15.4m, which
+  is the expected state of a pre-revenue biotech. Included on purpose: a model
+  that scores every loss as negative is wrong about a whole sector.
 
 ## How to score a model against this
 

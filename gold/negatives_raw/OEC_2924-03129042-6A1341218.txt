@@ -1,0 +1,152 @@
+ASX ANNOUNCEMENT
+31 August 2026 Orbital Corporation Limited | ASX: OEC 
+ORBITAL EXPANDS CUSTOMER AND PRODUCT BASE AS 
+GLOBAL UAV MARKET ENTERS NEW GROWTH PHASE 
+HIGHLIGHTS 
+• Customer base expanded to 14 across key international markets, including entry into the 
+commercial UAV sector putting the Company on track to deliver $3.2 million of sales  
+revenue in Q1 of FY2027
+• Product portfolio broadened with the 350HFE and Generation 2 Power Management  
+System, alongside development of an ICE-Electric hybrid propulsion solution
+• Business efficiency program reduced FTE headcount by over 20% alongside engineering 
+and supply chain initiatives targeting lower product costs
+• Orbital enters FY2027 with exposure to growing opportunities across defence,  
+commercial BVLOS and emerging Attritable UAV markets
+Orbital Corporation Limited ( ASX:OEC) ("Orbital" or the " Company") has released its Annual 
+Report for the year ended 30 June 2026, highlighting the Company’s broadened customer and 
+product base and it’s  improved positioning to capture the growth opportunities emerging across 
+global defence and commercial UAV markets in FY2027. 
+During FY2026, Orbital expanded its customer base to 14 across key international markets and 
+entered the commercial UAV sector through its range of Commercial Off -The-Shelf (COTS) 
+propulsion systems. 
+The Company also expanded its product portfolio with the 350HFE propulsion system and 
+Generation 2 Power Management System, while continuing development of an ICE -Electric hybrid 
+propulsion solution designed to provide increased flight duration and range for battery-powered UAV 
+platforms. 
+Orbital continued to progress customer programs across the United States, South -East Asia, India 
+and the Middle East, while establishing a dedicated Business Development function covering the 
+United States and Europe. 
+The Company also implemented a business efficiency and cost reduction program during the year, 
+reducing FTE headcount from 54 to 42 and progressing engineering and supply chain initiatives 
+targeting lower product costs and reduced lead times. 
+The Company expects $3.2 million to be delivered to customers in the US, the Middle East and 
+India during the first quarter of FY2027. 
+For personal use only 
+ 
+ 
+CEO COMMENT 
+“Orbital enters FY2027 with a much broader customer base, an expanded product portfolio and 
+growing exposure to some of the fastest-evolving areas of the UAV market. 
+“Our focus now is on converting these customer relationships and development programs into 
+production orders .  The i nitial orders received from new customers during the year reflect the 
+integration of our propulsion systems into customer UAV platforms, and the conversion to production 
+volumes has a lead time of six to eighteen months. 
+“The changes we have made to the business over the past year provide us with a stronger platform 
+to pursue these opportunities and build a more diversified and scalable propulsion business , 
+including new markets in commercial UAVs and the higher-volume Attritable market.” 
+Stephen Pearce, CEO, Orbital Corporation Limited 
+ 
+FINANCIAL RESULTS 
+For the year ended 30 June 2026, Orbital reported revenue from continuing operations of $6.2 million 
+(FY2025: $8.2 million), other income of $3.3 million (FY2025: $4.5 million) and a net loss after tax of 
+$4.8 million (FY2025: $4.3 million loss).  
+This reflects a transitional year in which the Company completed its business efficiency program and 
+continued to invest in its expanded product portfolio, positioning Orbital to deliver against its current 
+pipeline of global opportunities across both the defence and commercial sectors.  FY2026 revenue 
+was adversely impacted by the cancellation of the FTUAS program by the US Government. 
+At 30 June 2026, the Company reported cash and receivables of $2.5 million and net assets of $6.8 
+million. 
+During the year, Orbital also received $4.1 million under the Australian Research and Development 
+Tax Incentive program and completed a $3.0 million equity placement.  
+ 
+FY2027 OUTLOOK 
+Orbital enters FY2027 focused on converting its expanded international customer base and business 
+development pipeline into production contracts and longer-term revenue opportunities. 
+The Company intends to continue growing its presence across established defence markets while 
+further penetrating the commercial UAV sector and pursuing new opportunities emerging from 
+changing defence procurement requirements, including the Attritable UAV segment. 
+Orbital will also continue development of its expanded propulsion technology portfolio to adapt to 
+global UAV market developments as it seeks to build a broader and more diversified revenue base. 
+ 
+  
+For personal use only 
+ 
+ 
+New Customer Segments 
+The Company has substantial opportunities within two new market segments: 
+• The rapidly evolving commercial segment –  the key driver being the regulatory changes in 
+the US to allow the use of unmanned flights in commercial air space. 
+• The new Attritable segment within the US defence sector – this is characterised by lower unit 
+costs, shorter development cycles and substantially higher potential production volumes than 
+traditional defence aviation programs  
+ 
+Global UAV Market Developments 
+Increased payload requirements are driving demand for higher -capacity engines capable of 
+supporting larger aircraft and more complex mission profiles. This trend supported Orbital's 
+development of the 350HFE and continues to inform the Company's future product roadmap. 
+The growing adoption of Vertical Take- Off and Landing (VTOL) configurations is also increasing 
+demand for onboard electrical power generation and high- voltage battery charging. Orbital is 
+addressing this requirement through its Generation 2 Power Management System and ICE-Electric 
+hybrid propulsion technology. 
+ 
+First Customer Deployment of Orbital Gen 2 PMS 
+The Company has received an initial order from a new Indian engineering, defence and aerospace 
+customer comprising the new 350HFE propulsion system along with Orbital's Gen 2 PMS, which 
+have been earmarked for integration into a new high-altitude tactical UAS for military applications in 
+India. A further order for an additional two 350HFE propulsion systems and PMS units is expected 
+to support integration and flight testing. 
+ 
+Building Long-Term Volume Production Opportunities 
+Orbital's strategy is to establish long- term customer relationships that progress from engineering 
+evaluation through integration, ground testing, flight testing and qualification before advancing to 
+potential large-scale production programs. 
+For defence programs, this commercialisation pathway typically spans six to eighteen months, 
+reflecting the rigorous qualification and testing requirements of military customers.  
+Commercial UAV programs generally progress more rapidly, providing the potential for shorter sales 
+cycles and earlier production opportunities. 
+Orbital’s expanded customer base reflects the continued execution of its strategy to build a stronger 
+platform for growth across defence and commercial UAV markets in FY2027. 
+This growing portfolio of customer programs spans North America, Europe, the Middle East, India, 
+Singapore and Australia, and includes new customers ST Engineering, AATI, MightyFly, Sky Front, 
+Freespace Operations, IGG and Callen-Lenz (BAE Systems).  
+For personal use only 
+ 
+ 
+As these programs mature, Orbital expects to generate propulsion system production and spare 
+parts orders, enter into in-service support agreements and implement the Power by the Hour model 
+in line with its strategy to develop multiple and recurring revenue streams. 
+ 
+ABOUT ORBITAL CORPORATION LIMITED (ASX: OEC) 
+Orbital Corporation Limited (ASX: OEC) is a Perth, Western Australia- based designer and 
+manufacturer of integrated heavy fuel propulsion systems for Group 2 and Group 3 unmanned aerial 
+vehicles (UAVs) for both defence and commercial applications.  
+The Company has over 40 years of engineering heritage and more than 1.2 million proven in- field 
+service hours across multiple Tier 1 defence customers including Boeing Insitu and Textron 
+Systems, OEC is a recognised global leader in UAV heavy fuel engine technology. 
+ 
+AUTHORISATION 
+This announcement has been authorised for release to the ASX by the Board of Directors of Orbital 
+Corporation Limited. 
+This announcement should be read in conjunction with Orbital’s FY2026 Annual Report and audited 
+financial statements released separately today. 
+ 
+ 
+For further information, please contact: 
+Stephen Pearce    Mark Wege 
+Chief Executive Officer   CFO & Company Secretary 
+Orbital Corporation Limited   Orbital Corporation Limited 
+T: +61 8 9441 2233    T: +61 8 9441 2135 
+ 
+E: investors@orbitalcorp.com.au 
+W: www.orbitaluav.com 
+ 
+Follow us on LinkedIn  
+Join us on Investor Hub https://investors.orbitaluav.com/link/r6wOwP 
+ 
+ 
+FORWARD-LOOKING STATEMENT DISCLAIMER 
+This announcement contains certain forward- looking statements and information. Forward- looking statements are inherently subject to 
+significant uncertainties, risks and contingencies, many of which are outside the control of OEC. Actual outcomes may differ  materially 
+from that forecast. OEC undertakes no obligation to update or revise forward- looking statements after the date of this announcement 
+except to the extent required by applicable law or the ASX Listing Rules. Nothing in this announcement constitutes investment advice.  
+For personal use only
