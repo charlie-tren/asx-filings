@@ -52,6 +52,7 @@ LEDGERS = {
     "rejections": ROOT / "data" / "rejections.jsonl",
     "fetches": ROOT / "data" / "fetches.jsonl",
     "runs": ROOT / "data" / "runs.jsonl",
+    "features": ROOT / "data" / "features.jsonl",
 }
 
 
@@ -167,6 +168,28 @@ CREATE TABLE IF NOT EXISTS fetches (
   PRIMARY KEY (run_id, ticker)
 );
 
+-- The extraction layer's output. One row per document PER MODEL, deliberately:
+-- a corpus written by two models must be splittable afterwards, and Ghostwriters
+-- shipped a front page ranking two calibrations in one column because a quota
+-- fallback was never recorded.
+CREATE TABLE IF NOT EXISTS features (
+  document_key    TEXT NOT NULL,
+  ticker          TEXT NOT NULL,
+  next_period_guide TEXT NOT NULL,
+  stance          TEXT NOT NULL,
+  horizon         TEXT NOT NULL,
+  guided_period   TEXT,
+  current_trading TEXT,
+  quote           TEXT NOT NULL,
+  confidence      TEXT,
+  provider        TEXT NOT NULL,
+  model           TEXT NOT NULL,
+  prompt_version  TEXT NOT NULL,
+  selected_chars  INTEGER,
+  extracted_at    TEXT NOT NULL,
+  PRIMARY KEY (document_key, model, prompt_version)
+);
+
 CREATE TABLE IF NOT EXISTS runs (
   run_id       TEXT PRIMARY KEY,
   started_at   TEXT NOT NULL,
@@ -190,6 +213,10 @@ COLUMNS = {
     "fetches": ["run_id", "ticker", "ok", "items", "error", "fetched_at"],
     "runs": ["run_id", "started_at", "finished_at", "tickers", "tickers_ok",
              "new_announcements", "new_documents"],
+    "features": ["document_key", "ticker", "next_period_guide", "stance",
+                 "horizon", "guided_period", "current_trading", "quote",
+                 "confidence", "provider", "model", "prompt_version",
+                 "selected_chars", "extracted_at"],
 }
 
 
@@ -256,11 +283,26 @@ def _read_one(path: Path) -> list[dict]:
     return rows
 
 
-def rebuild_db() -> sqlite3.Connection:
-    """Reconstruct corpus.db from the ledgers. The ledgers are the truth."""
-    if DB_PATH.exists():
-        DB_PATH.unlink()
-    con = connect()
+def rebuild_db(path: Path | str | None = None) -> sqlite3.Connection:
+    """Reconstruct the database from the ledgers. The ledgers are the truth.
+
+    Pass ":memory:" for a read-only index that touches no file. The collector
+    wants corpus.db on disk so a later run starts warm; the extraction layer
+    only needs a lookup table and must not fight the collector for the file -
+    rebuild_db() deletes and recreates it, so two tools running at once is a
+    PermissionError on Windows and a corrupted read anywhere else.
+    """
+    if path == ":memory:":
+        con = sqlite3.connect(":memory:")
+        con.row_factory = sqlite3.Row
+        con.executescript(SCHEMA)
+    else:
+        target = Path(path) if path else DB_PATH
+        if target.exists():
+            target.unlink()
+        con = connect() if target == DB_PATH else sqlite3.connect(target)
+        con.row_factory = sqlite3.Row
+        con.executescript(SCHEMA)
     for table, cols in COLUMNS.items():
         for row in read_ledger(table):
             values = [row.get(c) for c in cols]

@@ -164,10 +164,10 @@ L = {
   quote="Consistent with previous practice, we will be providing FY27 Guidance in November.",
   notes="Explicitly declines to guide, then gives an FY29 target ($1bn revenue, $200m EBITDA). A four-year target is not next-year guidance and must not be scored as one."),
  ("STP", "Presentation"): dict(
-  period="FY26", next_period_guide="none", stance="neutral",
+  period="FY26", next_period_guide="deferred", stance="neutral",
   horizon="next_year", current_trading=None,
-  quote="Step One will continue to execute the plan to reset the business",
-  notes="EXTRACTION POOR: five of seven candidates were safe-harbour boilerplate. The only concrete forward statement is conditional (dividends resume once retained earnings turn positive)."),
+  quote="No financial guidance will be issued.",
+  notes="LABEL CORRECTED 09/09/2026. First labelled 'none' with the note 'extraction poor', because five of the seven candidate passages the old sentence-based selector returned were safe-harbour boilerplate and this line was not among them. tools/passages.py found it. The original note was right about the cause and the label was still wrong, which is what a bad selector costs a hand-labelled set. Filed as 'deferred' as the nearest class: SLC declines to guide UNTIL November, STP declines outright. Different claims, one class, because n=1 each and a sixth class nobody can measure is worse than a noted approximation."),
  ("UNI", "Presentation"): dict(
   period="FY26", next_period_guide="none", stance="neutral",
   horizon="next_year", current_trading=None,
