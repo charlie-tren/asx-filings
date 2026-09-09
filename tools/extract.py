@@ -89,7 +89,6 @@ class ProviderError(Exception):
 
     code: int = 0
     transient: bool = False
-    suspect_key: bool = False
 
 
 def _post(url: str, payload: dict, headers: dict, timeout: int = 180) -> dict:
@@ -115,44 +114,15 @@ def _post(url: str, payload: dict, headers: dict, timeout: int = 180) -> dict:
         # answered a probe seconds earlier and seconds later. Treating that
         # message at face value stopped a whole batch and would have killed a
         # nightly run with a diagnosis pointing at the wrong thing entirely.
-        # Verified, not assumed: see verify_key().
-        # ...and it is treated as TRANSIENT rather than terminal. A key that is
-        # genuinely dead fails every retry, extracts nothing and exits non-zero,
-        # which is visible. A key that is fine and was libelled once must not be
-        # allowed to stop a nightly batch.
-        if e.code == 400 and "API_KEY_INVALID" in str(err):
-            err.transient = True
+        # API_KEY_INVALID is TERMINAL, and the earlier code here claimed the
+        # opposite. On 09/09/2026 this file sent a 23-character document key as
+        # credentials for hours - a variable named `key` in the gold-mode block
+        # shadowed the API key - and the provider correctly said the key was not
+        # valid every single time. That was diagnosed as the provider
+        # misreporting overload, retry ladders were built for it, and the claim
+        # was written into a commit message. The service was right and the bug
+        # was local. Retrying a real auth failure only hides it for longer.
         raise err
-
-
-VERIFY_MODELS = {
-    "gemini": ["gemini-3-flash-preview", "gemini-flash-lite-latest",
-               "gemini-3.6-flash"],
-    "groq": ["llama-3.3-70b-versatile"],
-}
-
-
-def verify_key(provider: str, key: str) -> bool:
-    """One cheap call to settle whether a reported bad key is really bad.
-
-    "A secret is set" and "the secret works" are different claims, and so are
-    "the service said the key is invalid" and "the key is invalid".
-    """
-    for model in VERIFY_MODELS[provider]:
-        try:
-            if provider == "gemini":
-                call_gemini(model, 'Reply {"ok":true}', key)
-            else:
-                call_groq(model, 'Reply {"ok":true}', key)
-            return True
-        except ProviderError as e:
-            # Only an AUTH failure is evidence about the key. A 503 on the
-            # verification model says nothing at all, and reading it as "key
-            # rejected" is the same mistake one level down.
-            if e.code in (401, 403) or "API_KEY_INVALID" in str(e):
-                continue          # try the next model before concluding
-            return True           # not an auth problem, so not a key problem
-    return False
 
 
 def call_gemini(model: str, prompt: str, key: str) -> str:
@@ -221,6 +191,11 @@ def extract_one(doc: dict, ann: dict, provider: str, model: str,
     prompt = build_prompt(doc["ticker"], ann["headline"],
                           ann["announced_at"][:10], selected)
     fn, _ = PROVIDERS[provider]
+    if os.environ.get("EXTRACT_DEBUG"):
+        import hashlib
+        print(f"    DEBUG model={model!r} keylen={len(key)} "
+              f"keysha={hashlib.sha1(key.encode()).hexdigest()[:12]} "
+              f"promptchars={len(prompt)}", flush=True)
     raw = fn(model, prompt, key)
     obj = parse(raw)
     return {
@@ -269,6 +244,10 @@ def main() -> int:
     if not key:
         print(f"FAIL: {PROVIDERS[args.provider][1]} is not set", file=sys.stderr)
         return 1
+    if os.environ.get("EXTRACT_DEBUG"):
+        import hashlib as _h
+        print(f"    MAINKEY len={len(key)} sha={_h.sha1(key.encode()).hexdigest()[:12]}"
+              f" provider={args.provider}", flush=True)
 
     # In memory: this database is a lookup index over the ledger, nothing more,
     # and writing it to disk would fight the collector for the same file.
@@ -284,14 +263,17 @@ def main() -> int:
             if not path.exists():
                 continue
             for g in _json.loads(path.read_text(encoding="utf-8"))["documents"]:
-                key = g["document_key"]
-                gold_ann[key] = {"headline": g["headline"],
-                                 "announced_at": g["announced"]}
-                existing = next((d for d in docs if d["document_key"] == key), None)
+                # NOT `key`. That shadowed the API key in this function's scope
+                # and sent a 23-character document key to the provider as
+                # credentials, for every document, deterministically.
+                dk = g["document_key"]
+                gold_ann[dk] = {"headline": g["headline"],
+                                "announced_at": g["announced"]}
+                existing = next((d for d in docs if d["document_key"] == dk), None)
                 if existing:
                     gold_docs.append(existing)
                 elif g.get("text_path"):
-                    gold_docs.append({"document_key": key, "ticker": g["ticker"],
+                    gold_docs.append({"document_key": dk, "ticker": g["ticker"],
                                       "text_path": g["text_path"]})
         docs, ann = gold_docs, gold_ann
         print(f"gold mode: {len(docs)} labelled documents")
@@ -309,7 +291,7 @@ def main() -> int:
     ok = 0
     for d in todo:
         row = None
-        for attempt in (1, 2, 3, 4):
+        for attempt in (1, 2, 3):
             try:
                 row = extract_one(d, ann[d["document_key"]], args.provider,
                                   args.model, key)
@@ -321,10 +303,7 @@ def main() -> int:
                     print("  not retryable, stopping the batch", file=sys.stderr)
                     row = "stop"
                     break
-                # 15s, 30s, 45s. The earlier 6s ladder gave up inside the
-                # window: AEF failed five times in a row with API_KEY_INVALID
-                # and the same prompt succeeded on the same key minutes later.
-                time.sleep(15 * attempt)
+                time.sleep(10 * attempt)
             except Exception as e:                               # noqa: BLE001
                 print(f"{d['ticker']}: {type(e).__name__}: {str(e)[:300]}",
                       file=sys.stderr)
@@ -342,7 +321,9 @@ def main() -> int:
         ok += 1
         print(f"  {d['ticker']:5} {row['next_period_guide']:10} "
               f"{row['stance']:8} {row['horizon']:22} {row['quote'][:44]}")
-        time.sleep(1.0)
+        # Gemini's free tier is 20 calls per day per model, so throughput is
+        # not the constraint; this only keeps the per-minute limit clear.
+        time.sleep(3.0)
 
     print(f"\n{ok}/{len(todo)} extracted")
     return 0 if ok or not todo else 1

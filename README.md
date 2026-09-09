@@ -177,3 +177,49 @@ with less.
 The first like-for-like pair for a year-on-year guidance comparison lands in
 **August 2027**. February 2027 gives halves against fulls, which is a different
 claim.
+
+## The extraction layer
+
+`tools/passages.py` narrows a document to its forward-looking text with regexes,
+`tools/extract.py` sends that to a model for the one thing rules cannot do, and
+`tools/score.py` measures the result against `gold/`. The model returns
+structured fields and stops; nothing here ranks, scores or decides, and no model
+call happens inside anything serving a page.
+
+Passage selection has two modes and needs both. Sentences for prose releases,
+character WINDOWS around anchors for slides - Lycopodium's FY27 guidance
+($540-580m revenue, $54-58m NPAT) contains no sentence at all, and a splitter
+scores it as no guidance.
+
+### Correction, 09/09/2026: the provider was right and this code was wrong
+
+An earlier commit message and a block of comments here claimed that this API
+returns `400 API_KEY_INVALID` for a valid key when the model behind it is
+overloaded. **That was false.** In `--gold` mode a loop variable named `key`
+shadowed the API key, so a 23-character document key was being sent as
+credentials, deterministically, for hours. The service said the key was not
+valid because the key was not valid.
+
+Retry ladders and a `verify_key()` probe were built for the imagined provider
+fault and have been removed. `API_KEY_INVALID` is terminal again.
+
+Worth keeping, because the failure was legible the whole time and the debugging
+was not: the difference between the failing batch and every passing manual test
+was never inspected directly. One `print(len(key))` at the call site settled in
+seconds what an afternoon of theories about the provider did not.
+
+### Free tier
+
+`gemini-2.5-flash` and `gemini-2.5-flash-lite` are LISTED by `models?key=` and
+answer 404 "no longer available to new users". Being listed is not being usable:
+enumerate, then walk a candidate list.
+
+The quota is **20 calls per day, per model** - the 429 body names it exactly
+(`limit: 20, model: gemini-3-flash`). Per-model is the useful half: trial work
+goes on a sibling so it cannot starve a scheduled run. The "Please retry in
+29.5s" hint on that error is a bucket-refill estimate and is not true of the
+daily cap.
+
+`GROQ_API_KEY` in `.env` is dead (401) and needs re-issuing. Groq's 100K
+tokens/day suits this far better than 20 calls/day, since a selected passage
+bundle is ~1,500 tokens.

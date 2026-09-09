@@ -131,17 +131,40 @@ def test_the_valid_sets_match_the_gold_vocabulary():
 # the error handling that decides whether a nightly batch survives
 # --------------------------------------------------------------------------
 
-def test_api_key_invalid_is_treated_as_transient():
-    """MEASURED 09/09/2026: this API returns 400 API_KEY_INVALID for a key that
-    is valid, when the model behind it is overloaded. The same key answered a
-    probe seconds before and seconds after. Believing it stopped a whole batch
-    with a diagnosis pointing at the wrong thing.
+def test_the_api_key_is_not_shadowed_in_gold_mode():
+    """THE BUG, 09/09/2026. A loop variable named `key` in the --gold block
+    shadowed the API key, so a 23-character document key went to the provider as
+    credentials for every document. The service correctly answered
+    API_KEY_INVALID, that was diagnosed as the PROVIDER misreporting overload,
+    and retry ladders plus a verify_key() probe were built for a fault that did
+    not exist.
 
-    A genuinely dead key still fails every retry, extracts nothing and exits
-    non-zero, so nothing is lost by not believing the message the first time."""
+    Asserted structurally: nothing between loading the key and calling the
+    provider may rebind the name."""
     src = (ROOT / "tools" / "extract.py").read_text(encoding="utf-8")
-    block = src.split("API_KEY_INVALID", 1)[1].split("raise err", 1)[0]
-    assert "transient = True" in block
+    body = src.split("def main(", 1)[1]
+    after_load = body.split("PROVIDERS[args.provider][1]}", 1)[-1]
+    for line in after_load.splitlines():
+        stripped = line.strip()
+        if stripped.startswith("key ") and "=" in stripped and "==" not in stripped:
+            raise AssertionError(f"key rebound after loading: {stripped}")
+        if stripped.startswith("key["):
+            raise AssertionError(f"key mutated after loading: {stripped}")
+
+
+def test_api_key_invalid_is_terminal():
+    """The retraction of the claim above. A real auth failure retried three
+    times is a real auth failure that took longer to report."""
+    src = (ROOT / "tools" / "extract.py").read_text(encoding="utf-8")
+    block = src.split("err.transient = e.code in", 1)[1].split("raise err", 1)[0]
+    assert "transient = True" not in block,         "API_KEY_INVALID must not be retried; the provider was right last time"
+
+
+def test_no_verify_key_apparatus_remains():
+    """Built for the imagined provider fault. Dead code that encodes a false
+    belief is worse than dead code."""
+    src = (ROOT / "tools" / "extract.py").read_text(encoding="utf-8")
+    assert "verify_key" not in src and "suspect_key" not in src
 
 
 def test_a_quota_wall_is_not_retried():
