@@ -54,7 +54,7 @@ jobs:
       - name: Commit what arrived
         if: always()
         run: |
-          git config user.name  "asx-filings bot"
+          git config user.name  "asx-outlook-watch bot"
           git config user.email "noreply@github.com"
           # Explicit pathspecs, never `git add -A`. Other sessions leave work in
           # these trees, and a sweep with -A has twice committed changes it did

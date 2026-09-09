@@ -1,4 +1,4 @@
-# asx-filings
+# ASX Outlook Watch
 
 A daily collector for ASX results announcements. It reads each ticker's
 announcement index, records everything it saw, and stores the extracted text of
