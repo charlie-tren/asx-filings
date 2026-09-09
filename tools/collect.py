@@ -85,7 +85,13 @@ def main() -> int:
         keep = {t.strip().upper() for t in args.only.split(",")}
         universe = [t for t in universe if t["code"] in keep]
 
-    con = common.connect()
+    # REBUILD FROM THE LEDGER, do not just open an empty database.
+    #
+    # corpus.db is gitignored, so a CI checkout has no database at all. The first
+    # CI run therefore saw every one of the 227 announcements as new and appended
+    # them all a second time. The ledger is the truth; the database is an index
+    # over it and has to be reconstructed before anything is deduped against it.
+    con = common.rebuild_db()
     run_id = uuid.uuid4().hex[:12]
     started_at = common.now_iso()
     con.execute("INSERT INTO runs(run_id,started_at,tickers) VALUES(?,?,?)",
@@ -96,6 +102,7 @@ def main() -> int:
     tmp.mkdir(parents=True, exist_ok=True)
 
     ok_tickers = new_ann = new_doc = 0
+    parse_failures: list[str] = []
 
     for entry in universe:
         code = entry["code"]
@@ -175,11 +182,22 @@ def main() -> int:
                 text = "".join((p.extract_text() or "") for p in reader.pages)
                 pages = len(reader.pages)
             except Exception as e:                              # noqa: BLE001
-                record(con, "rejections", {"document_key": key, "ticker": code,
-                                           "headline": it["headline"],
-                                           "reason": "parse-failed",
-                                           "detail": str(e)[:400],
-                                           "rejected_at": common.now_iso()})
+                # RETRYABLE, deliberately not recorded as a settled rejection.
+                #
+                # The first CI run recorded 32 of these as permanent and would
+                # never have looked at those documents again. The cause was not
+                # the documents: it was a missing `cryptography` extra on the
+                # runner, so every AES-encrypted ASX PDF failed to open. An
+                # environment fault written down as a verdict about the document
+                # is unrecoverable here, because the five-item window means there
+                # is no second chance to fetch it.
+                #
+                # A genuinely corrupt PDF is retried for the few days it stays in
+                # the window and then falls out. That costs a handful of wasted
+                # downloads. The alternative cost the whole day's corpus.
+                print(f"{code}: parse failed {key}: {str(e)[:120]} (retry tomorrow)",
+                      flush=True)
+                parse_failures.append(f"{code} {it['headline'][:40]}: {str(e)[:80]}")
                 continue
             finally:
                 path.unlink(missing_ok=True)
@@ -240,6 +258,16 @@ def main() -> int:
     if universe and ok_tickers < 0.6 * len(universe):
         print(f"FAIL: only {ok_tickers} of {len(universe)} indexes reachable",
               file=sys.stderr)
+        return 1
+
+    # Every document that was attempted failed to open, and none succeeded. That
+    # is an environment fault, not a run of bad PDFs - it is what a missing
+    # `cryptography` extra looks like, and it cost 32 documents on the first CI
+    # run while the job reported success. It cannot fire on a quiet day, because
+    # a day with nothing to fetch has no parse failures either.
+    if parse_failures and new_doc == 0:
+        print(f"FAIL: {len(parse_failures)} documents were fetched and NONE "
+              f"could be opened. First: {parse_failures[0]}", file=sys.stderr)
         return 1
     return 0
 

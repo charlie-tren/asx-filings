@@ -107,3 +107,51 @@ def test_forward_markers_counts_real_guidance(cfg):
         "Genus is forecasting to deliver circa $200m - $205m EBITDA FY2027. "
         "The integration remains on track and we are confident in the outlook.",
         cfg) >= 3
+
+
+# --------------------------------------------------------------------------
+# the first CI run: three bugs, none of which failed anything
+# --------------------------------------------------------------------------
+
+def test_requirements_pin_the_pypdf_crypto_extra():
+    """ASX PDFs are AES-encrypted with an empty password. pypdf needs the
+    optional `cryptography` extra to open them, and it happens to be installed
+    on the laptop as a transitive dependency of something else. The plain
+    requirement passed locally and rejected 32 of 32 documents on the first
+    clean CI runner with "cryptography>=3.1 is required for AES algorithm"."""
+    req = (ROOT / "requirements.txt").read_text(encoding="utf-8")
+    assert "pypdf[crypto]" in req, "the extra is not optional here"
+    import cryptography          # noqa: F401  - must be importable, not just listed
+
+
+def test_a_parse_failure_is_not_recorded_as_settled():
+    """It is an environment fault as often as a document fault, and there is no
+    backfill: a document written off today cannot be fetched again once it
+    leaves the five-item window."""
+    src = (ROOT / "tools" / "collect.py").read_text(encoding="utf-8")
+    body = src.split("PdfReader(path)", 1)[1].split("s = cfg[", 1)[0]
+    assert "parse-failed" not in body, \
+        "parse failures must stay retryable, not become a rejection row"
+    assert "parse_failures.append" in body
+
+
+def test_the_collector_rebuilds_the_database_from_the_ledger():
+    """corpus.db is gitignored, so a CI checkout has none. Opening an empty one
+    made every announcement look new: the first CI run appended all 227 a second
+    time and reported success."""
+    src = (ROOT / "tools" / "collect.py").read_text(encoding="utf-8")
+    assert "common.rebuild_db()" in src
+    assert "con = common.connect()" not in src
+
+
+def test_ledgers_hold_no_duplicate_keys():
+    """Guards the repaired ledger against the bug coming back."""
+    import json
+    for name, key in (("announcements", "document_key"), ("documents", "document_key"),
+                      ("rejections", "document_key"), ("runs", "run_id")):
+        path = ROOT / "data" / f"{name}.jsonl"
+        if not path.exists():
+            continue
+        keys = [json.loads(l)[key]
+                for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
+        assert len(keys) == len(set(keys)), f"{name} has duplicate {key} rows"

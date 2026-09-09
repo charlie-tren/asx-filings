@@ -1,3 +1,10 @@
-pyyaml
-pypdf
-pytest
+pyyaml==6.0.2
+# pypdf[crypto], NOT pypdf. ASX announcement PDFs are AES-encrypted with an empty
+# password, and pypdf needs the optional `cryptography` extra to open them. It is
+# installed on Charlie's laptop as a transitive dependency of something else, so
+# the plain requirement passes locally and fails on every clean CI runner: the
+# first CI run rejected 32 of 32 results documents with
+# "cryptography>=3.1 is required for AES algorithm".
+# Same shape as google-auth[requests]. An optional extra is not optional.
+pypdf[crypto]==6.13.3
+pytest==8.4.2
