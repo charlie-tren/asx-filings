@@ -1,0 +1,251 @@
+ASX Announcement   
+ 
+Audinate Group Limited  ABN 56 618 616 916 
+Level 7, 64 Kippax Street,  Tel +61 8090 1000 
+Surry Hills NSW  2010 Australia  Page 1 
+FY26 Full-Year Results  
+ 
+Audinate Delivers 15% US Dollar Revenue Growth and Expands Dante Platform Across 
+Audio, Video and Control 
+Audinate Group Limited (ASX:AD8) today announced its full -year results for FY26, delivering 
+revenue growth, continued expansion of the Dante platform and a realignment of the Group’s 
+operating cost base. 
+Audinate reported FY26 full-year revenue of US$46.0 million, up 14.9% on FY25. Gross profit 
+increased to US$37.7 million, up 14.7%, with gross margin of 82.0%, broadly in line with FY25.  
+Ecosystem and commercial momentum 
+The Dante ecosystem continued to expand, reaching over 8 million devices shipped, 5,158 
+products, with an additional 555 products launched during the year and 542 OEM partners 
+globally. Each new device deployed deepens the ecosystem's value, creating self-reinforcing 
+network effects that make Dante the default standard in professional AV. Audinate also secured 
+137 design wins during the year, further expanding the pipeline of products expected to generate 
+revenue in future periods. 
+Platform expansion and launch of Iris  
+Audinate continued to invest in initiatives designed to broaden the Dante ecosystem and grow its 
+share of the addressable market across audio, video and control. Key initiatives during the year 
+included expanding the AVIO range into installation markets, enhancing control capabilities 
+through Dante Director, and integrating Iris following its acquisition.  In December 2025, Audinate 
+launched Iris, a SaaS-based subscription offering that enables intelligent camera control and 
+cloud-enabled video production workflows.  
+Together, these initiatives strengthen Audinate’s position across professional audio, video and 
+control while creating new products, customer applications and revenue opportunities.  
+Cost realignment and operating leverage 
+During FY26, Audinate restructured its workforce and operations to sharpen focus on the highest-
+return opportunities across the Dante platform. The restructure reduced overhead in areas where 
+major build programs are now complete, while preserving investment in the R&D capabilities that 
+support future growth. The full benefits of these changes will flow from FY27, driving meaningful 
+expansion in operating profit as revenue scales.  
+FY27 Outlook 
+Audinate enters FY27 with sustained revenue and gross profit growth momentum, strong gross 
+margins and a pathway to positive free cash flow. In FY27, US dollar gross profit growth is 
+expected to be in line with or slightly ahead of the rate achieved in FY26 , with gross margins 
+maintained and operating costs held flat, supporting a meaningful improvement in operating 
+profit. With the Dante platform now spanning audio, video and control, Audinate is well 
+positioned to capture a broader share of the professional AV market.  
+ 
+For personal use onlyASX Announcement   
+ 
+Audinate Group Limited  ABN 56 618 616 916 
+Level 7, 64 Kippax Street,  Tel +61 8090 1000 
+Surry Hills NSW  2010 Australia  Page 2 
+Audinate Co-founder and CEO Aidan Williams commented:  
+"This year marks twenty years since Audinate was founded with a vision to pioneer the future of 
+AV. FY26 is a year that reflects how far we have come and the scale of the opportunity ahead.  
+The Dante ecosystem now spans over 8 million devices shipped, 5,100+ products and 542 OEM 
+partners. The platform has never been broader, extending across audio, video and control in ways 
+we could only imagine when Audinate began. FY26 saw Audinate deliver revenue growth, 
+continue to advance major platform investments, and reshape its cost base for the next phase of 
+growth. Twenty years in, the foundation is strong, the direction is clear, and the opportunity in 
+front of us is the largest it has ever been." 
+ 
+FY26 Full-Year Results – Highlights  
+Delivers revenue growth while maintaining gross margins  
+• Revenue of US$46.0 million (FY25: US$40.0 million, up 14.9%), gross profit of US$37.7 
+million (FY25: US$32.9 million, up 14.7%) - at the upper end of market guidance. 
+• Gross margin of 82.0%, compared to 82.1% in FY25.  
+• Underlying EBITDA was a loss of A$3.6 million (FY25: profit of A$0.7 million), reflecting 
+increased investment in Iris, Dante Director and broader platform development ahead of 
+their expected revenue contribution. The cost base restructuring completed in FY26 is 
+expected to support a meaningful improvement in operating profitability from FY27. 
+• Cash and term deposits at year end of A$65.1 million, providing substantial liquidity to 
+fund Audinate’s growth initiatives and strategic priorities.  
+Sustained market leadership and ecosystem expansion  
+• Continued to lead the global AV-over-IP transition, reinforcing Dante as the industry 
+standard - 14x adoption of nearest competitor 
+• Secured 137 design wins (FY25: 129), sustaining the pipeline of future Dante-enabled 
+products from OEM partners globally. 
+• 542 OEM partners have Dante products in market, with a further 229 developing new 
+Dante-enabled products, broadening the Dante ecosystem across audio, video and 
+control. 
+• The third edition of Dante Certification training was launched in October 2025. More 
+than 375,000 AV professionals have now been trained and certified, supported by 42 
+certified training partners across 24 countries. 
+Launch of Iris camera control product 
+• Launched Iris in December 2025 and the platform now covers 20 camera manufacturers. 
+The SaaS-based subscription model extends Dante's reach across video and AV control.  
+  
+For personal use onlyASX Announcement   
+ 
+Audinate Group Limited  ABN 56 618 616 916 
+Level 7, 64 Kippax Street,  Tel +61 8090 1000 
+Surry Hills NSW  2010 Australia  Page 3 
+Financial Performance  
+$US Revenue and Gross Profit  
+US$million Revenue  Gross Profit   Gross Margin % 
+ FY25 FY26 Change  FY25 FY26 Change  FY25 FY26 Change 
+Audinate 40.0 46.0 14.9%  32.9 37.7 14.7%  82.1% 82.0% -0.1pp 
+Revenue Contribution by Product  
+Revenue Product Category (US$ million) FY25 FY26 Variance 
+Embedded Components (CCM / Software) 28.2 31.7 12.2% 
+Adaptors 6.3 8.6 36.1% 
+Platform Software  4.7 5.4 13.7% 
+Other  0.8 0.4 - 
+Total Revenue 40.0 46.0 14.9% 
+ 
+Embedded Components, which includes both Chips, Cards and Modules (CCM) and embedded 
+software, remains a large and strategically important part of Audinate’s revenue base.  Growth 
+was supported by continued adoption of embedded software products, including DEP and Dante 
+IP Core, as OEM partners transition from hardware-based implementations to software-enabled 
+solutions. CCM also delivered a strong second half, reinforcing its ongoing relevance within the 
+Dante ecosystem and its importance to OEM product development cycles.  
+Adaptor revenue growth was supported by Audinate’s continued expansion of the adaptor 
+portfolio into installation-focused use cases, including corporate meeting rooms, boardrooms and 
+education environments. This included the launch of the ‘AVIOs for Installation’ range, which 
+features an installer-friendly mounting system and an upgraded Pro S1 chip with audio 
+encryption. 
+Platform Software performance was supported by increased adoption of DVS Pro, an initial 
+US$0.2 million revenue contribution from Iris
+ reflecting its early-stage commercial ramp following 
+launch, and early customer uptake of Dante Director, Audinate’s cloud -based AV management 
+platform. 
+Platform Software maintained a consistent attach rate to Dante-enabled products, highlighting 
+the strength of Audinate’s software proposition and the opportunity to deepen software 
+monetisation across the growing Dante ecosystem. 
+For personal use onlyASX Announcement   
+ 
+Audinate Group Limited  ABN 56 618 616 916 
+Level 7, 64 Kippax Street,  Tel +61 8090 1000 
+Surry Hills NSW  2010 Australia  Page 4 
+Income Statement (Australian dollars)  
+Income statement A$ million FY25 FY26 
+Revenue  62.1 67.8 
+Gross Profit  51.1 55.5 
+Gross Margin % 82.3% 81.9% 
+Operating Costs * (50.5) (59.1) 
+Underlying EBITDA 0.7 (3.6) 
+Restructure Costs 0.0 (1.8) 
+Iris – Acquisition-related payments  (0.6) (3.5) 
+Reported EBITDA 0.03 (8.9) 
+* Operating costs include foreign exchange gains and losses; exclude depreciation and amortisation, one-off 
+restructuring and acquisition-related expenses that are not reflective of underlying performance. 
+Revenue Growth  
+Revenue grew 9% to $67.8 million in FY26. The growth rate in Australian dollar terms was lower 
+than in US dollar terms, reflecting AUD/USD movements over the year. While revenue is 100% US 
+dollar-denominated, the Group had US dollar-denominated expenses covering approximately 
+half of this revenue and providing a partial natural hedge against exchange rate movements.  
+Operating Costs - Continued Investment in Growth Initiatives  
+Operating costs increased by 17% to $59.1 million for the year, compared to $50.5 million for the 
+prior year, reflecting ongoing investment in core capabilities and product innovation  including Iris, 
+Dante Director and the wider Dante platform. 
+Underlying employment expenses were $44.3 million (excluding the employment expense 
+component of the Iris acquisition-related costs of $3.2 million and restructuring costs of $1.8 
+million), compared with $36.1 million in the prior year, representing a 23% increase. The increase in 
+underlying employment expenses primarily reflects the acquisition of Iris ($ 2.0 million); stronger 
+performance against short-term incentive targets, driving higher variable incentive costs ($3.9 
+million); and increases in headcount during the second half of FY25. 
+During the year, the Group completed an operating restructure to better align its workforce with 
+its strategic priorities, resulting in a net reduction of 10% of roles across the broader Group, 
+despite the addition of headcount from Iris.  
+Sales and marketing expenses were $5.7 million, a 15% reduction over the prior year, reflecting the 
+normalisation of expenditure following the launch of Dante Director, tighter prioritisation of 
+marketing programs and improved efficiency in campaign delivery. Audinate maintained its 
+presence at key global trade shows and continued to invest in activities supporting customer 
+For personal use onlyASX Announcement   
+ 
+Audinate Group Limited  ABN 56 618 616 916 
+Level 7, 64 Kippax Street,  Tel +61 8090 1000 
+Surry Hills NSW  2010 Australia  Page 5 
+engagement and long-term growth. 
+Administration and other expenses rose to $8.8 million, a 9% increase over the prior year. This cost 
+category is driven by travel, software subscriptions, and professional fees required to operate a 
+geographically diverse, listed business.  
+Restructuring costs recognised in the income statement relate to organisational changes made 
+to realign Audinate's cost base toward its highest-return growth opportunities across the Dante 
+platform. The associated financial benefits are expected to be fully realised in FY27.  
+The Iris acquisition-related payments comprise Audinate shares issued at completion of the 
+transaction. As the entitlement to the shares is conditional on continued employment, it is 
+accounted for as remuneration for future services rather than as consideration for the acquired 
+business. 
+Implications of AI for Audinate and the AV Industry  
+Recent commentary has focused on the potential for AI to disrupt SaaS, particularly those reliant 
+on seat-based subscription business models. In Audinate’s case, the risk profile is fundamentally 
+different. 
+The majority of the Group’s revenue is linked to hardware devices (e.g. amplifiers, microphones, 
+cameras) that are installed into physical spaces, which is an infrastructure business model.  The 
+value of Dante comes from enabling interoperability, which in turn creates a powerful economic 
+network effect, which increases with further adoption.  Today there are 8M+ Dante devices 
+deployed in the field globally from over 540 OEM partners.  Moreover, since Dante moves audio 
+and video signals onto IP networks, Dante APIs and platform services create a natural foundation 
+for AI and  workflow automation.  Iris is a good example of this, where video networking and deep 
+camera control enable AI-driven workflow automation in a manner not seen before. 
+Activity in the AV industry is often project-based with three broad phases: 1) design; 2) install; 
+3) operate; and AI technologies can be applied to all three phases: 
+• Design: AI streamlines capture & conversion of requirements into technical system 
+designs. 
+• Install : combines system programming, which is amenable to AI-enabled automation, 
+with the physical installation of equipment. 
+• Operate: is largely about system workflow automation & agility, again potentially 
+benefiting from AI. 
+Meanwhile, a technology transition is underway in the AV industry – from traditional bespoke AV 
+hardware connected via looms of audio/video cables (with limited or no APIs), to IT-compute and 
+For personal use onlyASX Announcement   
+ 
+Audinate Group Limited  ABN 56 618 616 916 
+Level 7, 64 Kippax Street,  Tel +61 8090 1000 
+Surry Hills NSW  2010 Australia  Page 6 
+AV software connected by networks (e.g. Dante) and controlled by APIs.  The further the industry 
+travels through this transition, the easier it becomes to use AI technologies in AV systems.  From 
+this perspective, Audinate, Dante & Iris provide key networking and control technology that will 
+enable broader adoption of AI in the AV industry. 
+FY27 Outlook 
+In FY27, US dollar gross profit growth is expected to be in line with or slightly ahead of the rate 
+achieved in FY26, with gross margins maintained at approximately 82%. Australian dollar 
+operating costs are expected to remain flat against FY26 (excluding one-off restructuring and Iris 
+acquisition-related payments), reflecting the cost base changes delivered during the year. 
+Together, the gross profit outlook and a leaner cost base are expected to deliver improvement in 
+operating profit and cash flows in FY27. Audinate maintains a robust balance sheet, with 
+sufficient liquidity to fund growth initiatives and strategic priorities.  
+Investor Briefing 
+The Company will host a webinar via Zoom to discuss its FY26 results at 9.30am (AEST) on 17 
+August 2026. The webinar is expected to last approximately 45 minutes, including question time.  
+Register here in advance for this webinar 
+ Authorisation: This announcement was authorised by the Board of Audinate Group Limited.  
+-       ENDS      - 
+Investor and media enquiries:   
+Chris Rollinson 
+CFO & Company Secretary 
+P: +61 2 8090 1000   
+ 
+For more information on Audinate, please visit:   
+Investor Centre – https://investor.audinate.com/investor-centre/ 
+Website – www.audinate.com   
+About Audinate Group Limited    
+Audinate Group Ltd (ASX:AD8) was founded with a vision to pioneer the future of AV. Audinate's award-winning Dante IP 
+networking solution is the worldwide leader and used extensively in the professional live sound, commercial installation, 
+broadcast, public address, and recording industries. Dante replaces traditional analogue cables by transmitting perfectly 
+synchronised AV signals across large distances to multiple locations at once, using nothing more than an Ethernet cable. 
+Audinate is headquartered in Australia and has regional offices in the United States, United Kingdom, Belgium, and Hong 
+Kong. Dante technology powers products available from hundreds of leading audio and video partners around the world. 
+The Company's ordinary shares are traded on the Australian Securities Exchange (ASX) under the ticker code AD8.   
+For personal use onlyASX Announcement   
+ 
+Audinate Group Limited  ABN 56 618 616 916 
+Level 7, 64 Kippax Street,  Tel +61 8090 1000 
+Surry Hills NSW  2010 Australia  Page 7 
+Forward-Looking Statements 
+This ASX release includes certain forward-looking statements that are based on information and assumptions known to 
+date and are subject to various risks and uncertainties. Actual results, performance or achievements could be significantly 
+different from those expressed in, or implied by, these forward-looking statements. Such forward-looking statements are 
+not guarantees of future performance and involve known and unknown risks, uncertainties, and other factors, many of 
+which are beyond the control of Audinate. These factors may cause actual results to differ materially from those 
+expressed in the statements contained in this announcement. 
+For personal use only

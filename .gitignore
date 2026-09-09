@@ -1,0 +1,10 @@
+# corpus.db is DERIVED and rebuilt from the ledgers by common.rebuild_db().
+# Committing it would store a whole new multi-megabyte blob every day.
+data/corpus.db
+data/corpus.db-journal
+data/_tmp/
+data/*.log
+*.pdf
+__pycache__/
+.pytest_cache/
+.env

@@ -1,0 +1,214 @@
+{
+ "note": "Hand-curated ASX small and mid caps. There is no free point-in-time Small Ordinaries constituent list, so this is not index membership and must not be described as one. Add codes freely; the collector keys on documentKey so re-running is idempotent.",
+ "updated": "2026-09-09",
+ "tickers": [
+  {
+   "code": "AD8",
+   "name": "Audinate"
+  },
+  {
+   "code": "ADH",
+   "name": "Adairs"
+  },
+  {
+   "code": "AEF",
+   "name": "Australian Ethical"
+  },
+  {
+   "code": "ARB",
+   "name": "ARB Corporation"
+  },
+  {
+   "code": "AX1",
+   "name": "Accent Group"
+  },
+  {
+   "code": "BAP",
+   "name": "Bapcor"
+  },
+  {
+   "code": "BRG",
+   "name": "Breville"
+  },
+  {
+   "code": "BVS",
+   "name": "Bravura"
+  },
+  {
+   "code": "CCX",
+   "name": "City Chic"
+  },
+  {
+   "code": "CDA",
+   "name": "Codan"
+  },
+  {
+   "code": "COS",
+   "name": "Cosol"
+  },
+  {
+   "code": "CTD",
+   "name": "Corporate Travel"
+  },
+  {
+   "code": "DTL",
+   "name": "Data#3"
+  },
+  {
+   "code": "DUR",
+   "name": "Duratec"
+  },
+  {
+   "code": "EGG",
+   "name": "Enero"
+  },
+  {
+   "code": "ELD",
+   "name": "Elders"
+  },
+  {
+   "code": "EVT",
+   "name": "EVT Limited"
+  },
+  {
+   "code": "GNP",
+   "name": "Genus Plus"
+  },
+  {
+   "code": "HSN",
+   "name": "Hansen"
+  },
+  {
+   "code": "IEL",
+   "name": "IDP Education"
+  },
+  {
+   "code": "JIN",
+   "name": "Jumbo Interactive"
+  },
+  {
+   "code": "KGN",
+   "name": "Kogan"
+  },
+  {
+   "code": "LOV",
+   "name": "Lovisa"
+  },
+  {
+   "code": "MAD",
+   "name": "Mader Group"
+  },
+  {
+   "code": "MHJ",
+   "name": "Michael Hill"
+  },
+  {
+   "code": "MND",
+   "name": "Monadelphous"
+  },
+  {
+   "code": "MP1",
+   "name": "Megaport"
+  },
+  {
+   "code": "MYR",
+   "name": "Myer"
+  },
+  {
+   "code": "NAN",
+   "name": "Nanosonics"
+  },
+  {
+   "code": "NCK",
+   "name": "Nick Scali"
+  },
+  {
+   "code": "NWL",
+   "name": "Netwealth"
+  },
+  {
+   "code": "OFX",
+   "name": "OFX Group"
+  },
+  {
+   "code": "PNV",
+   "name": "PolyNovo"
+  },
+  {
+   "code": "PPE",
+   "name": "People Infrastructure"
+  },
+  {
+   "code": "PWH",
+   "name": "PWR Holdings"
+  },
+  {
+   "code": "SDR",
+   "name": "SiteMinder"
+  },
+  {
+   "code": "SIQ",
+   "name": "Smartgroup"
+  },
+  {
+   "code": "SLC",
+   "name": "Superloop"
+  },
+  {
+   "code": "SNL",
+   "name": "Supply Network"
+  },
+  {
+   "code": "STP",
+   "name": "Step One"
+  },
+  {
+   "code": "SUL",
+   "name": "Super Retail"
+  },
+  {
+   "code": "SXE",
+   "name": "Southern Cross Electrical"
+  },
+  {
+   "code": "TNE",
+   "name": "TechnologyOne"
+  },
+  {
+   "code": "TPW",
+   "name": "Temple & Webster"
+  },
+  {
+   "code": "UNI",
+   "name": "Universal Store"
+  },
+  {
+   "code": "VEE",
+   "name": "Veem"
+  },
+  {
+   "code": "WGN",
+   "name": "Wagners"
+  }
+ ],
+ "retired": [
+  {
+   "code": "IFM",
+   "name": "Infomedia",
+   "reason": "index returns 400 Symbol not found",
+   "checked": "2026-09-09"
+  },
+  {
+   "code": "JLG",
+   "name": "Johns Lyng",
+   "reason": "index returns 400 Symbol not found",
+   "checked": "2026-09-09"
+  },
+  {
+   "code": "RUL",
+   "name": "RPMGlobal",
+   "reason": "index returns 400 Symbol not found",
+   "checked": "2026-09-09"
+  }
+ ]
+}

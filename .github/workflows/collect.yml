@@ -1,0 +1,79 @@
+name: collect
+
+# DAILY, AND THAT IS THE WHOLE POINT. The free ASX index returns the last five
+# announcements per ticker and will not paginate, so anything that falls out of
+# the window is gone permanently. Of 20 tickers probed on 09/09/2026, eight had
+# already lost their August FY26 results. This job is not gathering data that
+# will still be there tomorrow.
+#
+# 06:20 UTC / 16:20 AEST, an hour after the ASX close at 16:00 AEST, so the
+# day's announcements are in. Odd minute on purpose: GitHub's scheduler drops
+# on-the-hour jobs, and on this account has been measured 3 to 7 hours late
+# with no open incident.
+#
+# The schedule below is the backstop, NOT the primary. The primary trigger is
+# the repository_dispatch from site-stats/heartbeat, because a deadline that
+# has to be met cannot be met by a GitHub cron on this account.
+on:
+  schedule:
+    - cron: "23 6 * * *"
+    - cron: "17 9 * * *"      # second pass, in case the first was dropped
+  repository_dispatch:
+    types: [heartbeat]
+  workflow_dispatch:
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Collect
+        run: python tools/collect.py
+
+      - name: Health
+        # Runs even if the collect step failed: the whole reason this exists is
+        # that a broken collector must be loud, and a skipped health check on a
+        # failed run is the quietest possible outcome.
+        if: always()
+        run: python tools/health.py
+
+      - name: Commit what arrived
+        if: always()
+        run: |
+          git config user.name  "asx-filings bot"
+          git config user.email "noreply@github.com"
+          # Explicit pathspecs, never `git add -A`. Other sessions leave work in
+          # these trees, and a sweep with -A has twice committed changes it did
+          # not make under a message describing something else.
+          git add data/*.jsonl data/text
+          if git diff --cached --quiet; then
+            echo "nothing new today"
+            exit 0
+          fi
+          git commit -m "collect: $(date -u +%Y-%m-%d)"
+          # --mixed, never --soft. A `reset --soft` in CI keeps the index from
+          # the ORIGINAL checkout, so the replay commit rewrites every tracked
+          # file back to how it stood when the job started. That is how the hub
+          # silently reverted nine pages under a thumbnail-refresh commit.
+          for i in 1 2 3; do
+            git push && exit 0
+            git fetch origin
+            git reset --mixed origin/main
+            git add data/*.jsonl data/text
+            git commit -m "collect: $(date -u +%Y-%m-%d)" || exit 0
+          done
+          exit 1

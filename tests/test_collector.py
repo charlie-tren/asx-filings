@@ -1,0 +1,109 @@
+"""Every test here is aimed at a failure that actually happened on 09/09/2026
+while the corpus was being assembled by hand. None of them are aimed at Python.
+"""
+
+from __future__ import annotations
+
+import sys
+from datetime import datetime, timedelta, timezone
+from pathlib import Path
+
+import pytest
+
+ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "tools"))
+
+import collect  # noqa: E402
+import common  # noqa: E402
+
+
+@pytest.fixture()
+def cfg():
+    return common.load_config()
+
+
+# --------------------------------------------------------------------------
+# the truncation bug
+# --------------------------------------------------------------------------
+
+def test_truncated_pdf_is_rejected():
+    """A 2.6MB deck came back short from asx.api.markitdigital.com with no
+    error: %PDF- header, plausible length, no %%EOF. It parsed as a valid
+    download and blew up in the extractor much later."""
+    assert not common.pdf_is_complete(b"%PDF-1.7\n" + b"x" * 5000)
+
+
+def test_complete_pdf_is_accepted():
+    assert common.pdf_is_complete(b"%PDF-1.7\n" + b"x" * 5000 + b"\n%%EOF\n")
+
+
+def test_non_pdf_is_rejected():
+    assert not common.pdf_is_complete(b'{"error":"not found"}')
+
+
+def test_document_host_is_the_cdn_gateway(cfg):
+    """The api host truncates large documents and the gateway does not. This is
+    an assertion rather than a comment because a comment stating an external
+    fact rots silently, and this one costs the whole corpus."""
+    assert "cdn-api.markitdigital.com" in cfg["doc_host"]
+    assert "asx.api.markitdigital.com" not in cfg["doc_host"]
+
+
+# --------------------------------------------------------------------------
+# headline triage: every case below is a real headline
+# --------------------------------------------------------------------------
+
+@pytest.mark.parametrize("headline", [
+    "FY26 Full Year Results Presentation",          # LOV, ADH
+    "FY26 Results ASX Announcement",                # SLC
+    "AEF FY26 Results Announcement",                # AEF
+    "Appendix 4E and Full Year Accounts",
+    "FY26 Investor Presentation",                   # AD8
+])
+def test_real_results_headlines_are_kept(headline, cfg):
+    keep, _ = collect.wanted(headline, cfg)
+    assert keep, headline
+
+
+@pytest.mark.parametrize("headline,why", [
+    # Both announced as results; both are one-page PDFs linking to a video.
+    ("FY26 Full Year Results Briefing - Webcast Recording", "MAD"),
+    ("PolyNovo FY26 Results Presentation Webinar Recording", "PNV"),
+    # Admitted by a filter matching "fy2026". A year token is not a doc type.
+    ("Corporate Governance Statement FY2026", "ARB"),
+    # 153 pages, 420,635 characters, 188 forward markers almost all of which are
+    # in the notes to the financial statements. Cleared every other filter.
+    ("Full Year Statutory Accounts", "MND"),
+    ("Annual Financial Report 2026", "financial report"),
+    ("Notice of Annual General Meeting", "routine"),
+    ("Update - Dividend/Distribution - BHP", "routine"),
+    ("Becoming a substantial holder", "routine"),
+])
+def test_known_traps_are_rejected(headline, why, cfg):
+    keep, reason = collect.wanted(headline, cfg)
+    assert not keep, f"{why}: {headline}"
+    assert reason
+
+
+def test_size_kb_parses_the_index_format():
+    assert collect.size_kb("2210KB") == 2210
+    assert collect.size_kb("") == 0
+    assert collect.size_kb(None) == 0
+
+
+# --------------------------------------------------------------------------
+# substance floor
+# --------------------------------------------------------------------------
+
+def test_forward_markers_ignores_a_deck_with_none(cfg):
+    """The webcast cover note, in full. 1,722 characters, zero markers."""
+    assert collect.forward_markers(
+        "Mader Group Limited advises that the FY26 results briefing "
+        "webcast recording is now available on the company website.", cfg) == 0
+
+
+def test_forward_markers_counts_real_guidance(cfg):
+    assert collect.forward_markers(
+        "Genus is forecasting to deliver circa $200m - $205m EBITDA FY2027. "
+        "The integration remains on track and we are confident in the outlook.",
+        cfg) >= 3

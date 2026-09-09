@@ -1,0 +1,929 @@
+WORLD-LEADING TECHNOLOGY SUPPLIER TO PRO-AV
+Audinate FY26 
+Investor Presentation
+Aidan Williams, Co-Founder and Chief Executive Officer
+Nick Peace, Chief Strategy Officer 
+Chris Rollinson, Chief Financial Officer 
+For personal use only2
+Audinate’s
+20 Year Anniversary
+This year marks twenty years since Audinate was 
+founded with a vision to pioneer the future of AV. 
+FY26 is a year that reflects how far we have come 
+and the scale of the opportunity ahead. 
+The Dante ecosystem now spans over 8 million 
+shipped devices, 5,100+ products and 542 OEM 
+partners. The platform has never been broader, 
+extending across audio, video and control in ways 
+we could only imagine when Audinate began.
+FY26 saw Audinate deliver revenue growth, 
+continue to advance major platform investments, 
+and reshape its cost base for the next phase 
+of growth.
+Twenty years in, the foundation is strong, the 
+direction is clear, and the opportunity in front 
+of us is the largest it has ever been.
+Aidan Williams
+Co-Founder and CEO
+Audinate FY26 Investor Presentation 17 Aug 2026
+For personal use onlyAidan Williams, Co-Founder and CEO
+01
+Highlights
+3
+Audinate FY26 Investor Presentation 17 Aug 2026
+For personal use onlyFY26 Highlights: 
+Revenue Growth, Market Leadership, Product Expansion
+FY26 Return to Growth Sustaining Leadership, 
+Expanding the Dante Ecosystem Product & Platform Expansion
+US$46.0m
+FY26 revenue
+137
+Design wins
++15%
+Revenue and GP - YoY growth
+14x
+Adoption v nearest competitor
+82.0%
+Gross margin – maintained 
+20+
+Iris OEM camera partners
+5,158
+Dante-enabled products
+542
+OEMs shipping Dante-enabled products
+• Delivered revenue growth in FY26 with performance 
+at the upper end of guidance – improved momentum 
+across product portfolio
+• Strong second-half revenue performance, 
+particularly from OEM-facing products, underpinned 
+delivery of the FY26 outlook
+• Adaptor growth supported by launch of new AVIO 
+for installation products into new market segments
+• High gross margin maintained
+• Dante remains the industry standard in digital 
+audio networking – 14x adoption of nearest 
+competitor 
+• OEM launches continued to expand the 
+ecosystem, with 555 new products released during 
+the year
+• 137 design wins strengthen the foundation for 
+future revenue expansion
+• The third edition of Dante Certification training was 
+launched during the year. Currently 375,000+ 
+trained and certified AV professionals, 42 certified 
+training partners, across 24 countries 
+• Broadening the Dante product portfolio to grow 
+share of the addressable market
+• AVIO range expanded into installation market 
+applications
+• Dante Director enhanced to strengthen control 
+capabilities
+• Iris integrated following acquisition. Extends 
+product portfolio into intelligent camera control 
+and video production workflows.
+4
+FY26 RESULTS
+Audinate FY26 Investor Presentation 17 Aug 2026
+For personal use onlyOrganisational Changes Robust Balance Sheet Audinate’s Strategic Evolution
+• Workforce and operations restructured to 
+sharpen focus on key growth initiatives across 
+the Dante platform
+• Reduced overhead in areas where major build 
+programs are now complete
+• Preserved investment in R&D capabilities 
+supporting future growth
+• Full benefit of restructure expected from FY27, 
+lowering cost base to support  disciplined 
+profitable growth as revenue scales
+• Strong financial capacity and strategic 
+flexibility retained
+• Balance sheet supports continued investment 
+in product development and future growth
+• Investment capacity maintained without 
+compromising financial stability
+• Improved FY27 cash flow trajectory 
+anticipated, driven by revenue growth and 
+reduced cost base
+• Extending Dante from audio networking into 
+products, software and solutions targeting a 
+broad range of AV application areas
+• Internal resources realigned around three 
+core categories - Embedded Components, 
+Installed Products, and Software & Services 
+- to sharpen accountability and focus across 
+the portfolio
+• New leadership roles established to drive 
+each category, bringing dedicated 
+ownership of product strategy, roadmap and 
+go-to-market
+• Senior product and engineering hires added 
+deep professional AV experience, 
+strengthening capability to execute 
+5
+Executing the Strategy: 
+Leaner Cost Base, Strong Balance Sheet, Broader Platform
+A$65m+ 
+Cash & Term Deposits
+More Efficient 
+Operating Model
+Audio + Video 
++ Control
+FY26 RESULTS
+Audinate FY26 Investor Presentation 17 Aug 2026
+For personal use onlyKey US$ Metrics FY25 FY26 Variance vs FY25
+US$ M US$ M
+Revenue 40.0 46.0 15%
+Gross Profit 32.9 37.7 15%
+Gross Margin % 82.1% 82.0% -0.1 pp
+Key A$ Metrics FY25 FY26 Variance vs FY25
+A$ M A$ M
+Revenue 62.1 67.8 9%
+Gross Profit 51.1 55.5 9%
+Underlying EBITDA 0.7 (3.6)
+Cash & Term Deposits 109.9 65.1
+15% revenue and gross profit growth – at the upper end of guidance 
+$19.2 
+$24.9 
+$33.4 
+$44.5 
+$32.9 
+$37.7 
+76.8%
+74.4%
+71.5%
+74.2%
+82.1% 82.0%
+FY21 FY22 FY23 FY24 FY25 FY26
+US$M Gross Profit
+Gross Profit $ Gross Margin %
+6
+FY26 RESULTS
+FY26 Highlights: Key financial metrics
+Audinate FY26 Investor Presentation 17 Aug 2026
+For personal use onlyRevenue by Product US$M FY25 FY26 Variance vs FY25
+Embedded Components 28.2 31.7 12%
+Installed Products - Adaptors 6.3 8.6 36%
+AV System Software & Services 4.7 5.4 14%
+Other 0.8 0.4 –
+Total 40.0 46.0 15%
+Embedded Components – Strong performance in 2H FY26
+• Includes Chips, Cards and Modules (CCM) and embedded software; a large, strategically 
+important revenue base.
+• Growth driven by adoption of embedded software (DEP, Dante IP Core) as OEMs shift from 
+hardware to software-enabled solutions. 
+• CCM delivered a strong second half, reinforcing its role in OEM product development cycles. 
+Broad-based growth across all product categories, led by new product launches
+FY26 RESULTS
+Product Portfolio Performance
+7Audinate FY26 Investor Presentation 17 Aug 2026
+AV System Software & Services – Maintains consistent attach rate to Dante-
+enabled products
+• Growth driven by DVS Pro adoption, early Iris revenue ($0.2m) reflecting its early-stage 
+commercial ramp following launch, and enterprise customer uptake of Dante Director, 
+Audinate’s cloud-based AV management platform.
+• Maintained consistent attach rate to Dante-enabled products, underscoring the software 
+proposition and the opportunity to monetise Dante installed base via platform software 
+offerings.
+Installed Products – Adaptors – Growth driven by product range expansion 
+• Growth driven by adaptor portfolio expansion into installation applications: meeting rooms, 
+boardrooms, education.
+• Launched 'AVIOs for Installation' range, featuring installer-friendly mounting and an upgraded 
+Pro S1 chip with audio encryption.
+For personal use onlyOEM Brands shipping and developing 
+Dante-enabled Products
+Design Wins Dante-enabled Products Ecosystem
+• In FY26, solid momentum in design wins
+• Audio wins in FY26 118 (FY25:91); 
+• Video wins in FY26 12 (FY25:19); and an additional 7 
+design wins for Dante Connect (FY25:19)
+• Product ecosystem includes 5,158 Dante-enabled 
+products and growing, with OEMs launching 555 new 
+products during the year, driving further adoption
+• 14x number of products than the next digital audio 
+networking technology, up from 12x in FY24
+• 542 OEM brands have announced products in 
+the market
+• 229 OEM brands currently developing new 
+Dante-enabled products
+• In total, 817 OEM brands have licensed Dante 
+(includes OEMs shipping & and developing 
+products, ODMs and parent brands)
+82
+95
+126
+142
+114
+129 137
+FY20 FY21 FY22 FY23 FY24 FY25 FY26
+2,738 
+3,123 
+3,610 3,853 
+4,176 
+4,603 
+5,158 
+FY20 FY21 FY22 FY23 FY24 FY25 FY26
+328 371 410 400 460 490 542
+178 
+103 138 
+161 
+194 
+229 
+506 500 513 538
+621
+684
+771 
+FY20 FY21 FY22 FY23 FY24 FY25 FY26
+Shipping Product Developing Product
+129
+8
+Value Chain: From OEM Design Wins through to Product Launches
+FY26 RESULTS
+Audinate FY26 Investor Presentation 17 Aug 2026
+For personal use onlyChris Rollinson, Chief Financial Officer
+02
+Financial Performance
+9
+Audinate FY26 Investor Presentation 17 Aug 2026
+For personal use only(A$'000) FY25 FY26 Change (%)
+Revenue 62,069 67,775 9%
+Gross profit 51,104 55,482 9%
+Gross margin % 82.3% 81.9%
+Employee expenses (36,070) (44,291) (23%)
+Sales & marketing expenses (6,704) (5,718) 15%
+Other operating expenses (7,679) (9,077) (18%)
+Operating expenses (50,453) (59,086) (17%)
+Underlying EBITDA 651 (3,603) -
+Restructure Costs - (1,805) -
+Iris – Acquisition-related payments (625) (3,449) (452%)
+Reported EBITDA 26 (8,857) -
+Depreciation & amortisation (15,612) (19,268) (23%)
+EBIT (15,586) (28,126) (80%)
+Net Interest income 4,464 2,350 (47%)
+(Loss) / profit before tax (11,122) (25,776) (132%)
+Income tax 4,744 6,159 30%
+(Loss) / profit after tax (6,378) (19,617) (208%)
+Operating Expenses
+* Operating costs include foreign exchange gains and losses; exclude depreciation and amortisation, one-off restructuring 
+and acquisition-related expenses that are not reflective of underlying performance.
+10
+• Revenue increased 9% in Australian dollar terms 
+to A$67.8 million. Growth was lower than the 
+increase reported in US dollars due to movements 
+in the AUD/USD exchange rate during FY26.
+• While revenue is 100% US dollar-denominated, 
+the Group had US dollar-denominated expenses 
+covering approximately half of this revenue and 
+providing a partial natural hedge against exchange 
+rate movements.
+• Gross margin of 81.9%, compared to 82.3% in 
+FY25 - decline driven by strengthening of CCM 
+revenue in the second half. Overall margins driven 
+by product mix shift towards higher margin 
+software products.
+• Employee expenses increase reflects the 
+acquisition of Iris ($2.0 million); stronger 
+performance against short-term incentive targets, 
+driving higher variable incentive costs ($3.9 
+million); and increases in headcount during the 
+second half of FY25.
+• Sales & marketing expenses decreased 
+following the completion of launch-related 
+investment in Dante Director, while Audinate 
+maintained a targeted presence at key industry 
+trade shows across its major regions.
+Income Statement
+FY26 FINANCIAL PERFORMANCE
+• Other operating expenses reflect travel, 
+subscriptions and professional fees required to 
+operate a geographically diverse, listed business.
+• Iris – Acquisition-related payments comprises 
+Audinate shares issued at completion
+• Depreciation and amortisation expense 
+increase reflects the investment in Iris and 
+subsequent amortisation of the acquired Iris 
+platform. 
+• Net capitalised development costs – operating 
+expenses are shown net of internal costs 
+capitalised in relation to the development of 
+future revenue-generating products. Capitalised 
+development expenditure for FY26 was $12.7 
+million, including $1.3 million relating to Iris 
+(FY25: $12.1 million).
+Audinate FY26 Investor Presentation
+17 Aug 2026
+For personal use only(A$'000) FY25 FY26
+Receipts from customers * 68,204 64,737
+Payments to suppliers and employees * (64,743) (65,803)
+Interest received 4,705 2,993
+Interest paid (204) (247)
+Income tax paid (489) (437)
+Operating activities 7,473 1,243
+Payments for property, plant and equipment * (1,347) (692)
+Payment for intangible assets * (11,989) (12,470)
+Payment for acquisition of business - (30,974)
+Investment in term deposits 21,395 (5,356)
+Investing activities 8,059 (49,492)
+Principal elements of lease payments * (1,379) (1,441)
+Financing activities (1,379) (1,441)
+Effects of exchange rate changes on cash and cash 
+equivalent 104 (445)
+Net increase / (decrease) in cash 14,257 (50,135)
+Free Cash Flow (sum of * ) (11,254) (15,670)
+• Operating cash flow remained positive. The reduction in FY26 reflects three factors: lower 
+interest income following the reduced cash balance post-Iris acquisition; funding of Iris's 
+operating costs as the business scales; and cash outflows associated with the operational 
+restructure.
+• Investing activities were the larger driver of cash movement this year. This comprised the 
+$31 million Iris acquisition, and $12.5 million invested in continued development across our 
+audio, video, and control product lines. We expect this investment to convert into revenue in 
+future years.
+• Looking ahead to FY27, we will continue to invest in the business, increasingly funded 
+through improved operating cash flow rather than the balance sheet. Together, the FY27 gross 
+profit outlook and the leaner cost base delivered through the operational restructure are 
+expected to drive improved operating profit and cash flow.
+• We remain in a robust financial position. Cash and term deposits together stood at $65 
+million at year end. The Group has no external borrowings, and our balance sheet gives us the 
+flexibility to fund our strategic initiatives into FY27.
+11
+FY26 Operating Cash Flow to EBITDA Bridge (A$ million)
+EBITDA ($8.9) 
+Reverse non-cash share-based payments $2.3
+Reverse  non-cash acquisition related share-based payments $3.2
+Interest received $2.7
+Other movements including working capital $1.9
+Cash from operating activities $1.2
+Cash Flow Statement
+FY26 FINANCIAL PERFORMANCE
+Audinate FY26 Investor Presentation 17 Aug 2026
+* Free cash flow is a non-IFRS measure calculated as receipts from customers less payments to 
+suppliers and employees, property, plant and equipment, intangible assets and principal lease payments.
+For personal use only(A$’000s) FY25 FY26
+Cash 62,099 11,964
+Term deposits 47,800 53,155
+Cash and term deposits 109,899 65,119
+Trade and other receivables 6,939 10,346
+Inventories 4,087 3,276
+Other assets 2,749 2,624
+Income tax receivable 25 -
+Property, plant and equipment 2,223 1,544
+Right-of-use assets 2,296 3,222
+Intangibles 38,609 65,702
+Deferred tax asset 15,113 21,259
+Other current & non-current assets 463 485
+Total assets 182,403 173,577
+Trade and other payables 3,451 3,247
+Contract liabilities 5,543 6,333
+Income tax payable 43 107
+Employee benefits & other provisions 4,762 8,943
+Other liabilities 564 277
+Deferred tax liability 37 1,197
+Lease liabilities 2,694 3,632
+Total liabilities 17,094 23,736
+Net assets 165,309 149,841
+Contributed capital 202,211 205,174
+Reserves 3,407 4,593
+Accumulated losses (40,309) (59,926)
+Total equity 165,309 149,841
+• Cash & term deposits of $65.1 million at 
+year end (FY25: $109.9 million). The 
+movement of $44.8 million in FY26 is 
+driven by acquisition payment for Iris in 
+July 2025 and investment in platform 
+expansion.
+• Trade and other receivables increased 
+driven by revenue growth.
+• Inventory levels reduced, reflecting active 
+inventory management and strong sales in 
+the final quarter of FY26.
+• Intangible assets primarily comprise 
+capitalised development costs ($28.5 
+million) and increased goodwill ($34.2 
+million), driven by the Iris acquisition.
+12
+Balance Sheet
+FY26 FINANCIAL PERFORMANCE
+Audinate FY26 Investor Presentation 17 Aug 2026
+• Deferred tax asset includes $16.4 
+million in Australian tax losses, carried 
+forward in accordance with applicable tax 
+legislation.
+• Contract liabilities increased, driven by 
+growth in deferred revenue from 
+expanding software subscription sales.
+• Employee benefits & other provisions 
+increased, driven by higher incentive 
+provisions reflecting stronger 
+performance against company targets.
+• Accumulated losses include the $18.5 
+million accounting impact from fair value 
+treatment of preference shares at IPO, 
+and the FY26 net loss of ($19.6 million).
+For personal use onlyAidan Williams, Co-Founder and CEO
+Nick Peace, Chief Strategy Officer 
+03
+Strategy & Outlook
+13
+Audinate FY26 Investor Presentation 17 Aug 2026
+For personal use onlyDante replaces traditional audio and video cabling by distributing high-quality, low-latency digital signals over standard IP networks — increasing flexibility while 
+significantly reducing cabling and labour costs. It’s the de facto AV networking standard trusted by customers around the world.
+THE DANTE PLATFORM –  AUDIO, VIDEO & CONTROL
+14
+Why Customers Choose Dante
+Audinate FY26 Investor Presentation 17 Aug 2026
+Ubiquitous Scalable Reliable Easy to Use Secure
+• Trusted by over 500 
+leading AV brands — 
+including Yamaha, 
+Harman and Shure
+• 8M+ units shipped; 1M+ 
+per year
+• Guaranteed 
+interoperability — any 
+brand, any Dante device
+• Confidence – a large 
+installed base and broad 
+OEM adoption reduce 
+customer risk
+• Single room to enterprise 
+multi-site deployments
+• Runs on standard off-the-
+shelf network equipment 
+— no proprietary 
+hardware
+• No rip-and-replace — add 
+devices over time without 
+rewiring. 
+• Extends from audio into 
+video, control, software 
+and cloud workflows
+• Trusted to run the world's 
+most high-profile AV 
+installations — including 
+Premier League grounds, 
+the Olympics, major 
+concert tours and Fortune 
+500 HQs
+• Emmy Award-winning 
+technology
+• Purpose-built for low-
+latency, mission-critical 
+AV workflows
+• Auto-discovery — plug in, 
+devices appear instantly
+• Named devices, no IP 
+addresses to manage
+• Free award-winning 
+training & certification
+• Lower cost of deployment 
+- Less cabling, simpler 
+installation, faster 
+commissioning and easier 
+expansion
+• Role-based access 
+control across all devices
+• Full activity logs & audit 
+trails
+• Cross-manufacturer 
+security — DDM & Dante 
+Director
+For personal use only01 02 03Component Business Installed Products AV System Software & Services
+Professional AV is moving from analogue, hardware-defined systems to networked, software-defined and cloud-enabled workflows. Dante is positioned to be the 
+platform layer that connects, controls and powers this next generation of AV systems globally.
+Expand the Network
+Build Audinate-owned products that extend Dante 
+into more AV installations.
+Products AVIO Adaptors
+Customers Distributors & integrators
+Revenue model Per-unit product sale
+Value creation Larger installed base, 
+Seeding the network
+Monetise the Network
+Software and cloud workflows that help customers design, 
+manage, control and operate AV systems.
+Products Iris, DVS, Dante Director
+Customers Distributors & integrators, End users
+Revenue model Subscriptions & services
+Value creation Recurring revenue, higher 
+customer lifetime value, stickiness
+Strategic objective: Expand Dante’s installed base across audio and video, deepen customer engagement, and grow recurring software and services revenue.
+Embed Dante into OEM products and 
+establish Dante as the industry standard for 
+networked audio and video.
+Create the Network Foundation
+Products CCM & Embedded Software
+Customers OEM partners
+Revenue model Per-unit licensing
+Value creation High margin, repeat demand
+15
+Path to Creating Sustained Value
+Audinate FY26 Investor Presentation 17 Aug 2026
+THE DANTE PLATFORM –  AUDIO, VIDEO & CONTROL
+For personal use only01 02 03Component Business Installed Products
+Expand the Network
+• Grow AVIO revenue through new product 
+offerings targeting installed AV projects  
+• Refresh engagement with integrators and 
+end-users via dedicated Solutions Sales 
+team
+• Develop products that set the benchmark 
+for Dante-enabled installations
+Monetise the Network
+• Grow Iris subscriber base 
+• Grow control solutions across enterprise end 
+customers, integrators and consultants
+• Extend Dante and Iris beyond device 
+connectivity into higher-value AV workflows 
+and applications
+• Grow adoption - OEM partners, products 
+and geographies 
+• Make Dante software-based solutions 
+easier to deploy in existing systems
+• Deepen the ecosystem with integrators, 
+consultants and installers of AV systems via 
+Dante Certification and training
+Create the Network Foundation
+16
+FY27 Strategic Priorities
+Audinate FY26 Investor Presentation 17 Aug 2026
+THE DANTE PLATFORM –  AUDIO, VIDEO & CONTROL
+AV System Software & Services
+For personal use only17
+AI, Audinate & the AV Industry
+Audinate FY26 Investor Presentation 17 Aug 2026
+STRATEGY & OUTLOOK
+Audinate is well positioned to provide networking and control technologies that support AI-enabled workflows in professional AV.
+Dante – Value & Revenue Model AV Industry – Live, Broadcast & Installed
+Revenue is linked to hardware devices
+installed into physical locations
+Dante value is tied to the economic network effect
+created by interoperability
+AI is enabled by
+Dante networking, APIs & platform services
+• E.g., microphones, amplifiers, cameras
+• Revenue model is infrastructure oriented
+• 8 million devices shipped
+• ~5,100 different products from 540 brands
+• AI can access networked audio/video/control using Dante
+• Enables workflow automation and AI-driven applications
+The professional AV industry is project-based,
+spanning design, installation and operation
+AI applicability is broad
+AI connects to AV through networking and APIs
+• Design  Install  Operate
+• Design: requirements documents to detailed design specifications
+• Install: “system programming” work during installation
+• Operate: workflow automation, monitoring, management
+• The interface for AI in the AV industry is networking and APIs
+• Dante and Iris provide key networking and control technologies
+• Ultimately enabling AI usage in the AV industry
+For personal use onlySustained Market Leadership
+Nearest competitor’s on-market products Dante-enabled products in market OEMs shipping Dante products Dante-trained professionals
+Audinate enters FY27 with sustained revenue momentum, strong gross margins and a leaner cost base.
+FY27 OUTLOOK
+14x 5,100+ 542 375,000+
+Audinate FY26 Investor Presentation 1817 Aug 2026
+Executing Growth Strategy
+FY27 Targets
+US-Dollar Gross Profit Growth
+Growth expected to be in line with or slightly ahead 
+of the rate achieved in FY26
+Gross Profit Margin
+In line with FY26, supported by current product mix Expected to remain flat against FY26 (excluding one-
+off restructuring and Iris acquisition-related 
+payments), reflecting the cost base changes 
+delivered during the year
+AU-Dollar Operating Costs
+Growth beyond audio – products, markets and customers
+New product development, expansion into new geographic markets and deeper 
+customer engagement are accelerating growth. Continued investment in the 
+Dante platform is expected to support meaningful revenue growth over time.
+Strong balance sheet & improved operating cash flow 
+Audinate holds sufficient liquidity to fund its growth initiatives and strategic priorities. 
+Materially stronger operating cash flow in FY27 driven by improved revenue and leaner 
+cost base.
+01 02 03
+For personal use onlyA global AV networking platform with high-margin IP, expanding software capability and operating leverage.
+Core investment thesis
+Platform Leadership 
+With Network Effects
+De-facto standard in professional audio networking – 14x the 
+market adoption of the nearest competitor. 5,100+ Dante-
+enabled products across 540+ OEM partners deepen 
+switching costs and stickiness with every new integration.
+Expanding Beyond Audio
+Dante is extending into video, control, cloud 
+and software workflows, broadening the 
+addressable market well beyond the original 
+audio networking category.
+High-Margin, Operating-
+Leverage Model
+Proprietary technology and embedded software 
+support gross margins above 80%. Combined with 
+a realigned cost base, this is built to convert 
+revenue growth into margin expansion.
+Founder-Led Management
+20 years of category leadership 
+under founder CEO Aidan Williams.
+Underpenetrated Market
+Professional AV is still early in its 
+shift to networked, software-defined 
+workflows.
+Repeat OEM Demand
+Embedded chips and platform 
+software drive recurring, sticky 
+OEM partner relationships.
+Balance Sheet Flexibility
+Strong cash position to fund 
+selective growth opportunities.
+Realigned Cost Base
+Focused investment priorities 
+support margin durability as 
+revenue scales.
+80%+  Gross margin 14x  Adoption vs. nearest competitor 5,100+  Dante-enabled products 540+  OEM partners
+01 02 03
+Supporting factors
+04 05 06 07 08
+19
+Why Audinate?
+Audinate FY26 Investor Presentation 17 Aug 2026
+For personal use onlyAudinate Pty Ltd
+ABN 41 120 828 006
+Level 7, 64 Kippax Street
+Surry Hills NSW 2010
++61 2 8090 1000
+www.audinate.com
+For personal use onlyAppendix
+21
+Audinate FY26 Investor Presentation 17 Aug 2026
+For personal use onlyEnd-user demand drives Dante adoption. Growth initiatives span products, markets, channels and geographies
+THE DANTE PLATFORM
+Audinate FY26 Investor Presentation 2217 Aug 2026
+Dante Value Chain: One protocol, many markets
+Audinate products Professional AV products Go-to-market channels End-to-end market demand Geographic markets
+Embedded components
+• Chips, cards and modules
+• Embedded software
+Installed products
+• Audio AVIO
+AV systems software and 
+services
+• Iris 
+• Dante Director, DDM 
+• DVS
+Embedded components - Audio
+• Mixing consoles, DSP
+• Amplifiers, mics, speakers
+Installed products
+• AVIO - Audio
+Collaboration
+Corporate · Education · Government · Healthcare
+Hybrid work & unified communication
+Commercial
+Transportation · Retail · Hospitality · Stadiums
+Infrastructure & public-space spend
+Entertainment
+Venues · Themed · Cinema · Cruise
+The experience economy
+Production
+Studios ·  Broadcast ·  Remote
+Content creation and production 
+Live
+Touring · Festivals · Worship · Corporate events
+Live and experiential events
+North America
+Largest overall market
+EMEA
+Europe major market, mature
+Middle East smaller, but with growth 
+opportunities
+Japan
+Significant market, growing slowly
+APAC
+Significant growth opportunities, 
+including China.
+LATAM 
+Emerging market, currently small
+Growth opportunities
+Dante products
+Optimise Dante solution capability 
+and price points for each product 
+segment.
+Professional AV products
+Significant opportunities still exist 
+in microphone, speakers, video 
+and control.
+Go-to-market channels
+Deepen OEM partner engagement
+Build out the Dante / Audinate reseller network.
+Geographies
+Focus on supporting individual market 
+applications in mature geographies
+Build awareness in emerging markets.
+End-to-end market demand
+Increased focus on improving AV experiences in 
+individual market application areas.
+Embedded components - Video
+• Cameras, signal & switching
+• Displays & projectors
+OEM 
+Global standard adoption speeds product 
+relevance and customer uptake.AV System Software & 
+Services
+• Application software (e.g., 
+Iris)
+• Managed Dante
+Reseller
+Local market reach and installation 
+expertise. Dante scales into new markets. 
+Integrator / Consultant 
+Specifies and delivers AV systems for end 
+users. Wants a proven, interoperable 
+platform that cuts risk and simplifies 
+management.
+End User
+Mixes best-of-breed across brands on one 
+network — no vendor lock-in.
+For personal use onlyRepeat 
+Revenue 
+Model
+OEM Design Wins Drive Future Revenue Growth
+Pre-sales Design win OEM 
+product 
+design
+Release 
+new 
+product
+Buy 
+prototype 
+Dante units
+Design wins 
+are a key step 
+in the OEM 
+sales cycle
+Customer 
+commits to use 
+Dante in new 
+products
+01 02 03 04 05
+From design win to product release takes 18-24 months
+OEM 
+manufactures 
+more AV 
+products
+06
+Once a new Dante-enabled product is released the OEM keeps 
+buying more Dante units as long as they keep selling their product. 
+Dante units may be in the form of chips, cards, modules or software.
+OEM sells 
+Dante-
+enabled AV 
+products
+OEM buys 
+more Dante 
+units
+OEM 
+Manufactures 
+more AV 
+products
+OEM sells 
+more Dante-
+enabled AV 
+products
+OEM buys 
+more Dante 
+units
+23Audinate FY26 Investor Presentation 17 Aug 2026
+For personal use onlyAudinate FY26 Investor Presentation 2417 Aug 2026
+Category Description Audinate Products Sales Channel Revenue Model 
+Component  Business
+Embedded – CCM Hardware products embedded into AV devices to enable transport of AV 
+signals Brooklyn, Ultimo, Broadway, Pro S1 OEM Unit price, Subscription 
+Embedded – Software Software-based products embedded into AV devices to enable transport 
+of AV signals IP Core, DEP, DAV OEM Unit price (Royalty), 
+Subscription
+Installed 
+Products
+Adaptors Hardware product converting existing analogue device into a Dante-
+enabled device AVIO, Dante AVIOs for Installation Distributors & integrators Unit price 
+AV System 
+Software & 
+Services
+Platform  Software 
+Software applications that integrate Dante products into other systems 
+and for monitoring, configuration, and control. A centralised platform for 
+managing networked AV devices
+Iris, DVS, Dante Studio, Dante 
+Connect, Dante Director, Dante 
+Domain Manager 
+Distributors & integrators, 
+End users Term licence, Subscription
+Other
+Other Revenue Training, certification and consulting services Training and consulting Direct & OEM Unit price
+THE DANTE PLATFORM
+Product Portfolio Performance
+For personal use only17 Aug 2026
+Development Costs (A$'000) FY25 FY26
+Development Costs (capitalised) 12,084 12,660
+Research Costs (expensed) 3,261 4,651
+Total R&D Costs 15,345 17,311
+% of Revenue 25% 26%
+Audinate FY26 Investor Presentation 25
+Driver of future revenue growth 
+Capitalised development costs 
+deliver new products and 
+enhancements to existing 
+products to drive sustained 
+revenue growth. 
+Development costs comprise 
+internal employee costs and 
+expenditure on external 
+development resources.
+The increase in 
+development costs was 
+partly driven by the 
+acquisition of Iris in July 
+2025
+R&D Costs
+For personal use onlyDisclaimer
+To the maximum extent permitted by law, neither 
+Audinate Group Limited nor any of its subsidiaries or 
+their directors, employees or agents accept any 
+liability, including, without limitation, any liability 
+arising out of fault or negligence, for any loss arising 
+from the use of the information contained in this 
+presentation. In particular, no representation or 
+warranty, express or implied, is given as to the 
+accuracy, completeness, correctness, likelihood of 
+achievement or reasonableness of any forecasts, 
+prospects, statements or returns contained in this 
+presentation. Such forecasts, prospects, statements 
+or returns are by their nature subject to significant 
+uncertainties and contingencies. Actual future events 
+may vary from those included in this presentation.
+Summary information
+This presentation is for information purposes only 
+and is not a  recommendation or advice in relation to 
+Audinate or any  product or service offered by 
+Audinate or any of its  subsidiaries. The information 
+in the presentation is of a  general nature only and is 
+not intended to be relied upon as advice to investors 
+or potential investors.
+Currency
+All amounts in this presentation are in Australian 
+dollars  unless otherwise stated.
+Past performance
+Past performance information, including past share 
+price  information, given in this presentation is given 
+for illustrative  purposes only and should not be relied 
+upon as an indication of future performance.
+Future performance
+Forward-looking statements, opinions and estimates 
+provided  in this presentation are based on 
+assumptions and  contingencies which are subject to 
+change without notice, as  are statements about 
+market and industry trends, which are  based on 
+interpretations of current market conditions.
+Financial information
+Certain financial data included in this presentation is 
+‘non-IFRS financial information.' These measures are 
+used internally by management to assess the 
+performance of the business and make decisions on 
+the allocation of resources and are included in this 
+presentation to provide greater understanding of the 
+underlying financial performance of the  Group's 
+operations. When reviewing business performance,  
+this non-IFRS information should be used in addition 
+to, and  not as a replacement of, measures prepared 
+in accordance  with IFRS. Readers are cautioned not 
+to place undue reliance on any non-IFRS financial 
+information and ratios included in  this presentation. 
+The non-IFRS information has not been  subject to 
+audit or review by Audinate's external auditor. 
+The non-IFRS measures do not have any standard 
+definition under IFRS and may be calculated 
+differently by other companies.
+Market share information
+All market share information in this presentation is 
+based on management estimates and internally 
+available information, unless otherwise indicated.
+No offer of securities
+Nothing in this presentation should be construed as 
+either an  offer to sell or a solicitation of an offer to 
+buy or sell Audinate securities in any jurisdiction.
+Reliance on third party information
+The views expressed in this presentation contain 
+information that has been derived from publicly 
+available sources that have not been independently 
+verified. No representation or warranty is made as to 
+the accuracy, completeness or reliability of the 
+information. This presentation should not be relied 
+upon as a recommendation or forecast by Audinate.
+Important Notice and Disclaimer
+26Audinate FY26 Investor Presentation 17 Aug 2026
+For personal use onlyAudinate Pty Ltd
+ABN 41 120 828 006
+Level 7, 64 Kippax Street
+Surry Hills NSW 2010
++61 2 8090 1000
+www.audinate.com
+For personal use only

@@ -1,0 +1,98 @@
+# Where the documents come from, and what counts as one.
+#
+# TWO HOSTS, AND THEY ARE NOT INTERCHANGEABLE. The index is served by
+# asx.api.markitdigital.com. Documents must come from the cdn-api gateway:
+# measured 09/09/2026, a 2.6MB presentation truncates silently on the api host
+# (no %%EOF, parses as a valid download, fails later in the extractor) and
+# arrives whole from the gateway in 8 seconds.
+index_host: "https://asx.api.markitdigital.com/asx-research/1.0"
+doc_host: "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0"
+
+# Public token embedded in ASX's own site. Not a secret; kept here so a rotation
+# is one edit rather than a grep.
+access_token: "83ff96335c2d45a094df02a206a39ff4"
+
+# THE INDEX RETURNS FIVE ITEMS PER TICKER AND WILL NOT PAGINATE. Tested
+# pageSize, count, page, pageIndex, dateFrom/dateTo and years against both
+# hosts on 09/09/2026: every one returns the same five. There is no backfill,
+# so a missed day is a permanently missed document. This is the entire reason
+# the job runs daily rather than in reporting season.
+index_page_size: 20          # asked for; five is what arrives
+
+http:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+  timeout_seconds: 180
+  pause_seconds: 0.4         # between tickers
+  attempts: 3
+
+# A document is kept if the headline looks like results AND the extracted text
+# clears the substance floor below. The headline alone is not enough: MAD and
+# PNV both announced "FY26 Results Presentation" on 25-26/08/2026 and both are
+# one-page PDFs linking to a webcast recording, ~1,700 characters, zero
+# forward-looking markers.
+keep_headline_any:
+  - "appendix 4e"
+  - "appendix 4d"
+  - "full year"
+  - "half year"
+  - "full-year"
+  - "preliminary final"
+  - "results"
+  - "investor present"
+  - "market release"
+  - "trading update"
+  - "guidance"
+
+# Rejected before download. "recording"/"webcast" are the cover-note trap above.
+# Everything else here is a document type that is never results.
+skip_headline_any:
+  - "webcast"
+  - "webinar"
+  - "recording"
+  - "teleconference"
+  - "transcript"
+  - "investor call"
+  - "briefing"
+  - "annual report"
+  # MND's "Full Year Statutory Accounts" cleared every filter on 09/09/2026:
+  # 153 pages, 420,635 characters, 188 forward markers, almost all of them in
+  # the notes to the financial statements. It is a different document type from
+  # a results release, it is the wrong text to reason about guidance from, and
+  # it is 100k+ tokens on its own.
+  - "statutory accounts"
+  - "financial report"
+  - "financial statements"
+  - "annual financial"
+  - "corporate governance"     # ARB's "Corporate Governance Statement FY2026"
+  - "notice of"                #   was admitted by a filter matching "fy2026".
+  - "dividend"                 #   A year token is not a document type.
+  - "distribution"
+  - "substantial"
+  - "ceasing to be"
+  - "change of director"
+  - "appendix 2a"
+  - "appendix 3"
+  - "proxy"
+  - "agm"
+
+substance:
+  min_pages: 3
+  min_chars: 4000
+  # A backstop for the statutory-accounts class above, because the next one will
+  # have a headline nobody predicted. Judged on EXTRACTED CHARACTERS rather than
+  # file size: a 3MB deck is mostly images and extracts to ~30k characters,
+  # while a 1MB financial report is all text and extracts to 400k.
+  max_chars: 150000
+  # At least one genuine forward-looking marker. Deliberately NOT the safe-harbour
+  # vocabulary, which is written out of these exact words and appears in every deck.
+  min_forward_markers: 1
+  forward_markers:
+    - "expect"
+    - "outlook"
+    - "guidance"
+    - "anticipat"
+    - "on track"
+    - "confident"
+    - "forecast"
+
+max_document_kb: 8000          # above this it is an annual report, not results

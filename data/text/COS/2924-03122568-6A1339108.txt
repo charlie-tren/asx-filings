@@ -1,0 +1,742 @@
+FY26 Results Presentation
+19 August 2026
+For personal use onlyImportant notices & disclaimer
+USE OF THIS DOCUMENT
+You must read the following notices before  reading or making any use of this document or any information contained  in this document.  By continuing to read, use or otherwise  act on this document, you agree to be bound by the 
+following terms and conditions, including any modifications to them, and make or give the acknowledgements, representations or warranties  (as applicable).
+This presentation is provided for information purposes only.  The information in this presentation is in a summary form, does not purport to  be complete and is not intended to be relied upon as advice to investors or  other persons. The 
+information contained in this presentation was prepared  by COSOL Limited (COSOL) and is current only  as of its date of release. The information in this presentation and remains subject to change without notice,  and COSOL is under no 
+obligation to update or correct this presentation after the date of its release. This presentation has been provided to you solely for the purpose of giving you background  information about COSOL. This presentation should be read in 
+conjunction with COSOL's other periodic and continuous disclosure announcements lodged with ASX, including the full year financial report for the period ended  30 June 2026 .
+NOT FOR DISTRIBUTION OR RELEASE IN THE UNITED STATES
+This document  is not to be distributed or released in the United States.
+FORWARD-LOOKING STATEMENTS
+This presentation may include forward-looking statements. Such statements 
+can generally be identified by the use of words such as 'may', 'will', 'expect', 
+'intend', 'plan', 'estimate', 'anticipate', 'believe', 'continue', 'objectives', 'outlook', 
+'guidance‘, ‘forecast’ and similar expressions.
+Indications of plans, strategies, management objectives, sales and financial 
+performance are also forward-looking statements.
+Such statements are not guarantees of future performance, and involve known 
+and unknown risks, uncertainties, assumptions, contingencies and other 
+factors, many of which are outside the control of COSOL. No representation is 
+made or will be made that any forward-looking statements will be achieved or 
+will prove to be correct. Actual results, performance, operations or 
+achievements may vary materially from any forward-looking statements. 
+Circumstances may change and the contents of this presentation may become 
+outdated as a result. Readers are cautioned not to place undue reliance on 
+forward looking statements and COSOL assumes no obligation to update such 
+statements.
+No representation or warranty, expressed or implied, is made as to the 
+accuracy, reliability, adequacy or completeness of the information contained in 
+this presentation.
+NON-IFRS FINANCIAL INFORMATION
+This presentation uses non-IFRS financial information including EBITDA and 
+EBIT which are used to measure both group and operational performance. 
+Non-IFRS financial measures have not been subject to audit or review.
+PAST PERFORMANCE
+Past performance information given in this presentation is given for 
+illustrative purposes only and should not be relied upon as (and is not) 
+an indication of future performance.
+NOT FINANCIAL PRODUCT ADVICE OR OFFER OF SECURITIES
+This presentation is not, and is not intended to constitute, financial 
+advice, or an offer or an invitation, solicitation or recommendation to 
+acquire or sell COSOL shares or any other financial products in any 
+jurisdiction and is not a prospectus, product disclosure statement, 
+disclosure document or other offering document under Australian law or 
+any other law.
+This presentation also does not form the basis of any contract or 
+commitment to sell or apply for securities in COSOL or any of its 
+subsidiaries. It is for information purposes only.
+COSOL does not warrant or represent that the information in this 
+presentation is free from errors, omissions or misrepresentations or is 
+suitable for your intended use. The information contained in this 
+presentation has been prepared without taking account of any person’s 
+investment objectives, financial situation or particular needs and nothing 
+contained in this presentation constitutes investment, legal, tax or other 
+advice. The information provided in this presentation may not be suitable 
+for your specific needs and should not be relied up on by you in 
+substitution of you obtaining independent advice.
+Subject to any terms implied by law and which cannot be excluded, COSOL 
+accepts no responsibility for any loss, damage, cost or expense (whether direct, 
+or indirect, consequential, exceptional or special damages including but not 
+limited to loss of revenue, profits, time, goodwill, data, anticipated savings, 
+opportunity, business reputation, future reputation, production or profit, any delay 
+costs, economic loss or damage) incurred by you as a result of any error, 
+omission or misrepresentation in this presentation.
+PRESENTATION OF INFORMATION
+All currency amounts in this presentation are in Australian dollars unless 
+otherwise stated. Amounts in this document have been rounded and any 
+differences between this document and COSOL's financial statements 
+are due to rounding.
+AUTHORISATION
+This presentation is dated 19 August 2026 and was authorised for release by the 
+Board of COSOL.
+For more information, please contact: ir@cosol.global
+COSOL Limited ABN 66 635 371 363
+490 Adelaide Street, Brisbane QLD 4000
+2
+For personal use onlyCompany update
+Improved profitability in H2FY26, provides platform for continued performance improvement in FY27
+Executive changes and appointment of interim CEO and Executive Chairman
+• Operating profitability rebounded in H2FY26, driven by gross margin recovery in data and digital consulting.
+• $9.8m underlying EBITDA in FY26, underpinned by $6.3m underlying EBITDA in H2FY26.
+3
+Improved trading 
+performance in H2FY26
+Leadership changes 
+and transition plan 
+providing stability
+• Scott McGowan steps down as Managing Director/CEO after 10 years, to focus on new role as director of 
+strategy and solutions.
+• Anthony Stokes (CFO/COO) appointed interim CEO. Anthony has been with COSOL for 4 years, most recently 
+expanding his role to include operations.
+• Chairman assumes Executive roles to see through transition.
+• Nicola Williamson, General Manager Finance appointed interim CFO.
+• Rebuild of Australian sales capability. New sales leader joined in May 2026. 
+• Sales team recruitment complete; 6 new hires commenced over last 4 months with final roles beginning in next 
+six weeks. Anticipated to make impact on revenue from H2FY27.
+Rebuild of Australian  
+sales engine underway
+• Contract wins for two major mass transportation projects in Australia and Canada, utilising proprietary IP 
+platforms in data and digital consulting.
+• Americas appointed preferred tenderer for large transport authority greenfield system implementation (IBM 
+Maximo). This represents 2 nd large scale implementation win in last 12 months.
+Recent wins provide 
+platform for FY27 and 
+beyond
+For personal use onlyFY26 at a glance
+FY26 performance driven by $6.3m underlying EBITDA in H2FY26 reflecting the reset of the cost base
+Strong operating cash flows improved Net Debt by $0.7m from December 2025
+Cash position of $5.3m with cash conversion of 108% for FY26. Net debt of $20.0m reflecting the reduction in utilisation of W estpac facility and 
+the remaining $2.0m deferred consideration payable for T oustone in February 2027.     2
+Data and Digital consulting margin of 37.9% for H2FY26, a 340 basis point improvement on H1FY26 and 100 basis points lower th an PCP . 
+Creating a sustainable cost base to maximise margin in FY27. 3
+Impairment of goodwill of $6.5m 1, made up of $4.0m in relation to Asset Management Services and $2.5m for Australian Data and Digital 
+Consulting. 4
+Delivered on the diversification of the Americas revenue base with IBM revenue, now representing 25% of the FY26 performance (from zero in 
+FY23) and anticipated to grow to circa 45% of the FY27 revenue, on the back of recent contract wins. 5
+FY26 Revenue of $98.6m and underlying EBITDA of $9.8m. H2FY26 underlying EBITDA of $6.3m a significant turnaround in earnings  from 
+H1FY26 driven by a reset of the cost base across the business driving EBITDA margin recovery of ~570 bps. 1
+4
+1. Excludes the $4.5m reduction in Toustone’s deferred consideration recognised in H1FY26, which resulted in a $4.5m impairment of goodwill, which was offset by a corresponding $4.5m gain on deferred consideration, with no 
+impact on profit or cash.
+For personal use onlyH2FY26 Priorities and focus
+Progress on the key challenges being addressed
+• CFO role expanded from January 2026 to include COO responsibility 
+for data and digital consulting in Australia. Remit includes to review 
+operating context and right size of delivery team for current revenue 
+pipeline  
+• Focus on utilisation, pricing and contracting terms
+5
+Recovery of gross 
+margin1
+• Expansion outside traditional coal and iron ore customer base, into 
+gold, lithium and other precious metals
+• Heightened focus on hot, high demand sectors such as gold and 
+lithium
+• Longer term engagements, better revenue and volume certainty
+Asset 
+Management 
+Services revenue 
+growth
+2
+• Data and digital consulting gross margin in H2FY26 of 37.9%, 
+a 340 bps improvement over H1FY26 returning to normal 
+operating levels
+• AMS gross margin remained under pressure with further 
+improvements being undertaken in FY27 
+• H2FY26 revenue decline on HFY26 predominantly driven by 
+softness in West coast operations. East coast operations 
+stabilised in H2FY26 with gross margin improvement on H1 
+FY26
+• Initial positive revenue momentum in Q1FY27
+Area HYFY26 Actions Delivered
+• Push of COSOL’s transport sector expertise to developers of major 
+projects already underway and other infrastructure opportunities
+• Rebuild of Australian sales capability
+• Revenue growth through ‘volume to value’ strategy 
+Data and digital 
+consulting 
+revenue growth3
+• 2 multi year contracts signed for transport information suite 
+• New sales leader joined in May 2026, 6 additional sales team 
+members onboarded since March 2026
+• 2 major consulting projects sourced via AMS engagements 
+commenced during the half 
+• Improved cost discipline and focus on simplification of the integrated 
+offer
+• Investment in growth opportunities and delivery efficiencies
+• Integration and restructuring costs of circa $340k to be incurred in H2 
+FY26 (forecast was $500k)
+Cost management 
+and integration 4
+• Cost base in H2FY26 reflects structural changes undertaken in 
+H1FY26. In addition, operating cost base managed tightly
+• Toustone integration now completed. This will provide 
+simplification in the Australian operating model
+For personal use only$116.8m
+$98.6m$10.8m
+FY25 Revenue AMS
+$8.3m
+Australian 
+data and digital 
+consulting
+$0.9m
+Americas
+data and digital 
+consulting
+FY26 Revenue
+Overview of financial performance – FY26
+Modest revenue growth in Americas data and digital consulting, offset by lower revenue in AMS and Australian 
+data and digital consulting. Data and digital consulting margin impacted by under-utilisation in H1FY26.
+6
+Revenue bridge
+Underlying EBITDA bridge
+Key Comments:
+• Australian data and digital consulting revenue is 13.1% lower than FY25 
+impacted by the ending of a managed services contract in H1 and H2 
+revenue $5.1m lower than PCP.
+• Americas data and digital consulting revenue increased driven by 
+professional services growth and new wins across infrastructure and 
+transport. Lower gross margin was due to a reduction in Software sales.
+• Asset Management Services (AMS) performance impacted by 
+lower Australian demand, notably from coal sector on the east 
+coast. Lower gross margins due to mix of projects partially offset 
+by reduction in operating expenses. 
+• Operating costs lower than FY25 reflecting the reset of the cost base 
+undertaken to position the operating base in line with the lower revenue 
+position, supporting underlying EBITDA margin. 
+$16.8m
+$9.8m
+$3.2m
+$2.8m
+$1.4m
+FY25 underlying  
+EBITDA
+AMS
+ EBITDA
+Data and digital 
+consulting 
+revenue
+Data and digital 
+consulting 
+margin
+$0.4m
+Data and 
+digital reduced 
+operating costs
+FY26 underlying 
+EBITDA
+For personal use only$49.6m $48.9m
+H1FY26 Revenue
+$1.0m
+AMS
+$0.3m
+Australian 
+data and digital 
+consulting
+$0.7m
+Americas  
+data and digital 
+consulting
+H2FY26 Revenue
+Overview of financial performance – H2FY26 v H1FY26
+H2FY26 performance driven by recovery of data and digital consulting margin and reduced operating costs.
+H2FY26 EBITDA margin of 12.8% , 570 bps improvement on H1FY26 
+7
+Revenue bridge
+Underlying EBITDA bridge
+Key Comments:
+Revenue
+• Australian data and digital consulting revenue remained flat half on half 
+with the wind down of major project during H1 offset by a number of new 
+projects ramping up during the second half of the year. Providing 
+momentum into FY27. 
+• Americas data and digital consulting revenue increased slightly driven 
+by professional services growth and new wins across infrastructure and 
+transport. Offset by a reduction in Software sales during the half 
+impacting margin. 
+• Asset Management Services (AMS) revenue continued to stagnate in 
+H2 with main decline on the West coast.
+Earnings
+• Gross profit increased with higher consulting revenue and margin 
+recovery to 37.9% in H2FY26, a 340 bps gross margin improvement 
+over H1FY26.
+• Operating costs reduced in H2 with tight management of the cost base.
+$3.5m
+$6.3m
+$1.2m
+$1.6m
+H1FY26 
+Underlying 
+EBITDA
+$0.1m
+AMS
+ EBITDA
+$0.1m
+Data and digital 
+consulting 
+revenue
+Data and digital 
+consulting 
+margin
+Data and digtal 
+reduced 
+operating costs
+H2FY26 
+Underlying 
+EBITDA
+For personal use onlyExpand transport 
+sector revenue on 
+back of recent 
+contract wins
+Drive higher 
+margin revenue 
+growth through 
+expanded 
+Australian sales 
+team
+Grow Ai revenue 
+base by leveraging 
+COSOL’s unique 
+data expertise and 
+industry domain 
+knowledge to 
+support clients
+Rebuild the asset 
+management 
+services business 
+for profitable 
+growth
+Build on Americas 
+momentum in IBM 
+Maximo with 
+further new 
+contracts
+FY27 Priorities 5 Point Plan:
+8
+Driving 
+Shareholder 
+Returns
+Grow revenue through focussed 
+sales leveraging proprietary IP 
+and domain expertise in critical 
+assets. 
+Returning both gross margin and 
+EBITDA margin to historical 
+levels through efficient delivery 
+models and efficient overhead 
+base
+For personal use onlyF I N A N C I A L S
+For personal use onlyFY26 key financial metrics
+Revenue and earnings were subdued in H1 FY26 with management prioritising operational reset and margin
+restoration to support earnings recovery in H2 FY26
+10
+1. Underlying EBITDA is a non-statutory measure and is defined on slide 19.
+2. Includes acquisition and restructuring costs, Toustone contingent consideration revaluation and impairment.
+3. Amortisation of right-of-use assets.
+4. EPS calculated using NPAT.
+5. Underlying NPATA is a non-statutory measure and is defined on slide 19.
+Key Comments:
+• Group revenue was down 15.6% on the previous corresponding period 
+and underlying EBITDA fell by 41.8%. 
+• Gross margin recovered H2FY26 to 37.9% in H2FY26, a 340 bps gross 
+margin improvement over H1FY26. As a result, FY26 gross margin was 180 
+bps lower than FY25
+• Cost out program undertaken during the half, targeting $1m in annual 
+savings in operating costs.
+• Amortisation increase reflects the full-period impact of amortising 
+intangible assets recognised on the acquisition of Toustone.
+• Significant items include restructuring costs in relation to the cost out 
+program acquisition costs, goodwill impairment and the deferred 
+consideration revaluation in relation to the Toustone acquisition. See slide 19 
+for more details. 
+($’000) FY26 FY25 YoY YoY %
+Revenue 98,557 116,808 (18,251) (15.6%)
+Gross Profit 29,546 37,091 (7,545) (20.3%)
+Gross Margin % 30.0% 31.8% (1.8%)
+Operating Costs 19,779 20,296 (517) (2.5%)
+Underlying EBITDA1 9,767 16,795 (7,028) (41.8%)
+Underlying EBITDA Margin % 9.9% 14.4% (4.5%)
+Significant Items2 7,722 1,010 6,712 664.5%
+Depreciation & Amortisation3 1,238 1,077 160 14.9%
+Amortisation Intangibles 2,717 1,902 815 42.8%
+EBIT (1,910) 12,805 (14,715) (114.9%)
+NPBT (3,791) 10,996 (14,787) (134.5%)
+Tax 230 3,101 (2,872) (92.6%)
+NPAT (4,021) 7,894 (11,916) (150.9%)
+EPS4 (2.21) 4.39 (6.59) (150.4%)
+Underlying NPATA5 5,236 9,933 (11,197) (112.7%)
+Underlying EPS NPATA 2.9 5.5 (6.2) (112.6%)
+For personal use onlyCashflow and balance sheet highlights
+Demonstrated balance sheet resilience through strong cash conversion and disciplined capital management, 
+maintaining ample headroom for deferred consideration commitments
+Key Comments:
+• Cash conversion improved on prior year with focus on trade debtor 
+management 
+• Debt to equity and gearing ratios consistent with December 2025 
+• $6.6m net debt reduction from June 2025 due to the $4.5m 
+reduction in Toustone deferred consideration (refer to slide 19) and 
+repayments of Westpac facility. The total Westpac borrowing facility 
+reduced $4.4m with facility repayments.
+• $11.0 m headroom in Westpac facility sufficient to cover vendor 
+deferred consideration of $2.0m due in February 2027. 
+• Net debt leverage increased due to lower EBITDA performance.
+11
+Debt Summary ($'m) 30-Jun-26 30-Jun-25 Movement
+Total Borrowing Facility 34.5 38.9 (4.4)
+Bank drawn 23.4 26.1 (2.6)
+Available borrowing capacity 11.0 12.8 (1.8)
+Contingent Consideration 2.0 6.9 (4.9)
+Net debt (incl. Contingent 
+Consideration) 20.0 26.6 (6.7)
+Net debt leverage 2 2.05 1.59 0.5
+FY26 FY25 Movement
+Current Ratio (x) 1.45 1.49 (0.04)
+Cash Conversion (%)1 107.7% 85.1% 22.6%
+Debt:Equity 70.9% 73.3% (2.4%)
+Gearing Ratio (%) 36.2% 43.0% (6.8%)
+Notes:
+1. Cash conversion is Cash from operations excl Tax and other cashflows divided by EBITDA
+2. Net debt leverage is Net debt (including Contingent Consideration) divided by Underlying EBITDA
+For personal use onlyNew segment reporting – FY261
+Improving clarity on the make-up of revenue and earnings. 
+12
+Managed services
+• Application managed support 
+contracts
+• Hosting and cloud services
+• Asset Management as a Service
+• Enterprise Asset Management 
+as a Service (EAMaaS)
+• Evergreen
+Asset management services
+• Operational and performance 
+improvement
+• Maintenance scheduling and 
+planning
+• Workforce training 
+• ERP systems usage coaching
+Data and digital advisory & 
+consulting
+• Systems advisory and 
+assessments
+• Strategic asset planning
+• System implementations and 
+enhancements
+• Ai data strategies
+Product and product-led services
+• Proprietary IP solutions: 
+• RP Connect led data migrations
+• Legacy data vault
+• OnPlan works management 
+platform
+• Transport intelligence suite platform
+• 3rd party license sales
+Asset management services 
+(AMS)
+Data and digital consulting
+Australian and Americas (Geographic segments)
+Revenue: $30.7m (31.2% share)
+Gross Profit: $5.0m (16.8% share)
+Gross Margin: 16.2% (-3.7pts pcp)
+Revenue: $67.8m (68.8% share)
+Gross Profit: $24.6m (83.2% share)
+Gross Margin: 36.2% (-2.1pts pcp)
+12
+Revenue: $98.6m
+Gross Profit: $29.5m
+Gross Margin: 30.0%
+1. Previous financial year information under new segment reporting for purposes included in Note 3 of the FY26 financial statements
+For personal use onlyPerformance by revenue type
+Gross margin was lower across all revenue types for the year, predominately due to H1FY26 performance. 
+Pleasingly, data and digital consulting gross margins improved in H2FY26, reducing the full year decline.
+Have this as a matrix and have 
+the revenue composition  
+ADVISORY, PROFESSIONAL 
+SERVICES & Asset 
+Management Services
+Revenue generated through licensing our 
+unique and proprietary software, solutions and 
+services – and where projects have been 
+sourced via our proprietary IP. A combination 
+of ARR SaaS -based revenue, subscription 
+licensing and project services
+PRODUCT & PRODUCT-
+ SERVICES
+Annuity based revenue from the provision of 
+managed support, hosting and retainer -based 
+services for the clients. Generally covered by 
+multi-year contracts with minimum spend 
+commitments
+MANAGED SERVICES
+Advisory and professional consulting revenue 
+through client engagements secured on the 
+basis of our industry expertise and knowledge
+DATA AND 
+DIGITAL 
+ADVISORY & 
+CONSULTING
+3
+PRODUCT & 
+PRODUCT-LED 
+SERVICES
+1
+MANAGED 
+SERVICES
+% Gross Margin 
+30.5%
+(32.1% FY25)
+40.1%
+(44.4% FY25)
+40.8%
+(42.6% FY25)
+16.2%
+(19.8% FY25)
+Key Comments
+• Revenue lower due to lower new project starts during the 
+year.
+• H2FY26 margin recovered to 32.4% with improved operating 
+performance and consultant utilisation.  
+• Revenue impacted by wind down and completion of major 
+project (Defence) partially offset by new projects.
+• Margin reduced due to a lower volume of owned IP (~65% 
+margin) product during the year vs the 3rd party license sales 
+(~18% margin).
+• Revenue lower due to loss of natural resources customer.
+• Margin decrease predominantly due to the delay in cost 
+reduction after contract loss. H2FY26 margin was 41.6% due 
+to improved revenue and cost reductions. 
+• Lower revenue predominately due to Coal based projects in 
+central Queensland, with revenue 26.1% lower than FY25. 
+However, revenue stabilized in H2FY26. 
+• Margin lower predominately due lower East Coast revenue 
+(higher margin) and Western Australian project mix.
+2
+13
+FY26 Revenue
+$17.3m
+($18.0m FY25)
+$21.7m
+($23.5m FY25)
+$28.9m
+($33.7m FY25)
+$30.7m
+($41.6m FY25)
+ASSET 
+MANAGEMENT 
+SERVICES
+4
+% Total 
+Revenue
+29.3%
+(28.8% FY25)
+17.5%
+(15.4% FY25)
+22.0%
+(20.2% FY25)
+31.2%
+(35.6% FY25)
+TOTAL 
+CONSULTING
+$67.8m
+($75.3m FY25)
+36.2%
+(38.3% FY25)
+% Consulting 
+Revenue
+42.6%
+(44.7% FY25)
+25.5%
+(24.0% FY25)
+31.9%
+(31.3% FY25)
+68.8%
+(64.4% FY25)
+100%
+For personal use onlyData and digital consulting revenue by industry
+Data and digital consulting revenue has a relatively even mixture of industry sources with growth focused on both 
+Transport & Infrastructure and Energy & Water where COSOL holds unique expertise 
+14
+$6.4m
+$6.0m
+$6.7m
+$2.6m
+$6.2m
+$3.6m
+$3.6m
+$3.9m
+$10.2m
+$12.3m
+$5.5m
+$0.8m
+$22.8m
+$21.9m
+$15.8m
+$7.3m
+Managed services
+Product & product led services
+Data and digital advisory & consulting
+• Transport & Infrastructure performance is underpinned 
+by a combination of long-term managed services 
+contracts and COSOL’s Transport information suite 
+(platform utilised by Metro Trains Sydney)  and 
+implementation of new managed services contracts.
+• Energy & Water continues to grow with the strong 
+position where Hitachi Ellipse has a large installed 
+customer base and IBM Maximo has a strong position in 
+mid market operators and is the leading choice for linear 
+asset operators (where COSOL has deep expertise and 
+capability) in the Australian market.Energy & Water
+Natural Resources
+Transport & Infrastructure
+Government & Defence
+Revenue by Industry – FY26
+Key Metrics:
+• Natural Resources remains the largest industry contributor to group revenue, 
+with approximately 62% of segment revenue generated through Asset 
+Management Services.
+• Transport and Infrastructure revenue is led by Advisory & Professional Services
+• Energy and Water Managed services dominated by Managed Services and 
+Product and Product Lead Services
+• By capability, H1 FY26 revenue is led by Asset Management Services at 
+32.7%, with a relatively even contribution from the remaining three capabilities.
+• Talk about OnPlan ARR
+• Asset Management: the remainder is in Natural Resources
+33.6%
+32.3%
+23.3%
+10.8%
+Consulting Revenue 
+Industry Share
+For personal use onlyFY performance trend 
+15
+Revenue ($m) Underlying EBITDA1 ($m) Underlying NPATA1 ($m)
+FY22 FY23 FY24 FY25 FY26
+48.2
+75.1
+101.9
+116.8
+98.6
+Underlying EPS1 (cents)
+1. These are non-statutory measures which are defined on slide 19. Underlying metrics exclude one off items including restructuring and integration costs, goodwill impairment and contingent consideration adjustment.  Underlying NPATA and 
+EPS are adjusted for tax considerations on amortisation and one off costs.
+15
+FY22 FY23 FY24 FY25 FY26
+8.4
+11.8
+15.7
+16.8
+9.8
+FY22 FY23 FY24 FY25 FY26
+5.5
+7.5
+9.6 9.9
+5.2
+4.01
+5.09 5.24
+4.78
+1.83
+FY22 FY23 FY24 FY25 FY26
+FY performance was below expectations, with lower revenue and EBITDA due to softening demand from the 
+resources sector and the loss of some key customers
+For personal use onlyA P P E N D IC E S
+For personal use onlyFY26 financials
+Balance sheet
+17
+Balance Sheet ($’000) 30-Jun-26 31-Dec-25 30-Jun-25 31-Dec-24 Movement 
+Jun YoY
+Cash 5,300 6,044 6,090 3,646 (790)
+Other Current assets 26,694 25,620 26,321 28,692 372
+Current Assets 31,994 31,664 32,411 32,337 (417)
+Goodwill 69,016 75,516 80,063 86,588 (11,047)
+Other non-current assets 18,487 19,730 20,799 18,453 (2,312)
+Total Assets 119,497 126,910 133,273 137,378 (13,776)
+Trade payables, deferred revenue and other 
+current liabilities 20,596 20,084 18,784 18,767 1,813
+Bank Loans 1,475 2,950 2,950 2,950 (1,475)
+Current liabilities 22,071 23,034 21,734 21,717 338
+Bank Loans (NC) 21,812 21,462 22,937 23,666 (1,125)
+Other liabilities 5,697 8,103 11,706 16,990 (6,008)
+Total Liabilities 49,581 52,600 56,377 62,373 (6,796)
+Net Assets 69,916 74,310 76,897 75,005 (6,981)
+For personal use onlyFY26 financials
+Significant items
+18
+Key Comments:
+• Acquisition costs of $497k were incurred in H1 FY25 in 
+connection with the Toustone transaction, undertaken to 
+accelerate the Group’s AI and advanced analytics capabilities 
+and strengthen its position as a data-led asset management 
+services provider.  Restructuring costs of $513k were incurred in H2 
+FY25.
+• Restructuring costs of $1,222k were incurred in FY26 as part 
+of a targeted rightsizing of the cost base, including headcount 
+reductions and the associated costs.
+• Toustone’s original $6.5 million deferred consideration, linked 
+to CY25 and CY26 earnings hurdles, was renegotiated to a 
+fixed $2.0 million payment in February 2027 subject to performance 
+conditions. This resulted in a $4.5 million gain on deferred 
+consideration taken up in H1 FY26, offset by a corresponding 
+goodwill impairment, with no net impact on profit or cash.
+• Goodwill was assessed as at 30 June 2026 with an impairment 
+recognised for AU Consulting of $2.5m and AMS $4.0m.
+($’000) FY26 FY25
+Acquisition Costs - 497
+Restructuring costs 1,222 513
+Gain on Deferred Consideration - Toustone (4,500) -
+Goodwill Impairment 11,000 -
+Total Significant Items 7,722 1,010
+For personal use onlyUnderlying to statutory reconciliation
+Definitions and calculations of presentation
+($’000) FY26 FY25 YoY YoY %
+Underlying EBITDA 1 9,767 16,795 (7,028) (41.8%)
+Acquisition Costs 0 497 (497) (100.0%)
+Restructuring Costs 1,222 513 710 138.5%
+EBITDA 8,544 15,785 (7,240) (45.9%)
+($’000) FY26 FY25 YoY YoY %
+Underlying NPATA 2 5,236 9,933 (4,697) (47.3%)
+Acquisition Costs (After tax) 0 348 (348) (100.0%)
+Restructuring Costs (After tax) 856 359 497 138.5%
+Amortisation Intangibles (After tax) 1,902 1,332 570 42.8%
+Goodwill Impairment / Gain on 
+deferred consideration
+6,500 0 497 -
+Profit after income tax expense 
+for the year attributable 
+to the owners of COSOL Limited
+(4,021) 7,894 (11,916) (150.9%)
+1. Underlying EBITDA is statutory earnings before interest, tax, depreciation 
+and amortisation, as well as business acquisition and integration costs. 
+2. Underlying NPATA is statutory net profit after tax (NPAT) before integration 
+and restructuring costs, amortisation of acquired intellectual property, 
+business acquisition, goodwill impairment and gain on deferred consideration.
+($ Cents) FY26 FY25 YoY YoY %
+Underlying EPS 3 1.83 4.78 (2.95) (61.7%)
+Acquisition Costs (After tax) 0.00 0.19 (0.19) (100.0%)
+Restructuring Costs (After tax) 0.47 0.20 0.27 135.9%
+Goodwill Impairment / Gain on 
+deferred consideration
+3.57 0.00 3.57 -
+Basic EPS (2.21) 4.39 (6.59) (150.4%)
+3. Underlying NPAT is statutory net profit after tax (NPAT) before business 
+acquisition costs and restructuring costs, goodwill impairment and gain on 
+deferred consideration.
+4. Underlying EPS is underlying NPAT divided by weighted average shares 
+on issue. 
+($’000) FY26 FY25 YoY YoY %
+Underlying NPAT 3 3,334 8,601 (5,267) (61.2%)
+Acquisition Costs (After tax) 0 348 (348) (100.0%)
+Restructuring Costs (After tax) 856 359 497 138.5%
+Goodwill Impairment / Gain on 
+deferred consideration
+6,500 0 570 -
+Profit after income tax expense 
+for the year attributable 
+to the owners of COSOL Limited
+(4,021) 7,894 (5,986) (75.8%)
+19
+For personal use onlyEND
+www.cosol.global
+For personal use only
