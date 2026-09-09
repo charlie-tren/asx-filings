@@ -155,3 +155,38 @@ def test_ledgers_hold_no_duplicate_keys():
         keys = [json.loads(l)[key]
                 for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
         assert len(keys) == len(set(keys)), f"{name} has duplicate {key} rows"
+
+
+# --------------------------------------------------------------------------
+# the gold set
+# --------------------------------------------------------------------------
+
+def test_gold_labels_are_complete_and_valid():
+    """build_labels.py asserts every document is labelled and every label matched
+    a document. This asserts the vocabulary, so a typo in a class name cannot
+    quietly create a sixth category nobody scores against."""
+    import json
+    g = json.loads((ROOT / "gold" / "labels.json").read_text(encoding="utf-8"))
+    docs = g["documents"]
+    assert len(docs) == g["n"] >= 30, "the gold set is meant to be 30+"
+    for d in docs:
+        assert d["next_period_guide"] in {"full", "relational", "segment", "none", "deferred"}
+        assert d["stance"] in {"positive", "negative", "mixed", "neutral"}
+        assert d["horizon"] in {"next_year", "split", "medium_term", "current_trading_only"}
+        assert d["period"] in {"FY26", "1H26"}
+        assert d["quote"].strip(), f"{d['ticker']} has no load-bearing quote"
+
+
+def test_gold_set_is_honest_about_its_class_imbalance():
+    """25 of 33 documents are positive and one is negative, so a model that
+    answers "positive" every time scores 76%. Any future session reading
+    labels.json must meet that warning before it quotes an accuracy figure."""
+    import json
+    from collections import Counter
+    docs = json.loads((ROOT / "gold" / "labels.json").read_text(encoding="utf-8"))["documents"]
+    counts = Counter(d["stance"] for d in docs)
+    majority = counts.most_common(1)[0][1] / len(docs)
+    readme = (ROOT / "gold" / "README.md").read_text(encoding="utf-8")
+    if majority > 0.6:
+        assert "unusable as a benchmark" in readme, \
+            "stance is still imbalanced but the README no longer says so"

@@ -1,0 +1,477 @@
+Full Year 
+Results 2026. 
+26 August 2026
+Authorised for release by the Board of Directors of Macquarie Technology Group Limited
+For personal use onlyKey Financial Metrics. 
+2026 vs 2025
+Revenue
+$390.0m
++6%
+EBITDA
+$115.9m
++2%
+EPS
+124.6 cents ps
+-8%
+2
+● Twelve consecutive years of EBITDA growth for the 
+Group. 
+● EBITDA CAGR of 4.0% over the last 3 years.
+● Operating cash flow of $94.6 million in FY26. 
+Continued healthy cash conversion of 108%.
+● 95% of revenue has come from contracted 
+monthly recurring revenue.
+● Investments in data centres result in increased 
+financing and depreciation costs which impacts 
+EPS.
+● IC3 SuperWest construction remains on track and 
+on budget.
+● Secured the Commonwealth Government as new 
+investor into MAQ through the National 
+Reconstruction Fund Corporation (‘NRFC’). 
+● Strong balance sheet with undrawn debt facility of 
+$496.5 million and $100m Hybrid Securities Series 2 
+available to fund further investment.
+For personal use onlyFor personal use onlyBusiness Highlights Summary.
+Leader in mission-critical 
+infrastructure, cloud and security 
+for mid-market and corporate 
+customers.
+Australia’s largest managed 
+sovereign private cloud provider, 
+with 7 zones across Sydney, 
+Canberra and Perth.
+Leading Microsoft partner: Azure 
+Expert MSP, #1 Azure Partner (SMB 
+& Corporate), and Microsoft 
+Support Services designated.
+Investing in platform-based 
+services that reduce customer 
+cost and risk amid supply chain 
+and geopolitical uncertainty.
+Advanced hybrid cloud solutions 
+with Microsoft and Dell, delivering 
+sovereignty and cost efficiency.
+Expanding capabilities and 
+opportunities in Data & AI.
+42% of Australian Government 
+agencies are customers and we 
+continue to uplift & transform their 
+cyber security posture.
+Successfully delivered on largest 
+Security Service Edge (SSE) 
+deployment for the Australian 
+Taxation Office.
+Focused on delivering the 
+Australian Government's Essential 
+8 policy mandate.
+We monitor over 600 billion events 
+per month.
+We remain the only company to 
+have both our cloud and data 
+centre services certified to 
+‘strategic’ level by the 
+Department of Home Affairs.
+Identifying, evaluating and 
+pursuing emerging opportunities in 
+AI and cyber security products.
+Construction of IC3 SuperWest 
+core and shell is complete, with 
+the mechanical and electrical fit 
+out progressing on time and on 
+budget. 
+In August 2026, we completed the 
+purchase of a ~34,200sqm site in 
+Macquarie Park for $240 million 
+plus transaction costs, providing 
+~200MW towards a continuous 
+pipeline of capacity for our 
+customers.
+2 out of 3 major hyperscalers are 
+our customers.
+Extended leadership in SD-WAN 
+networks in Australia by expanding 
+proposition through a multi-vendor 
+strategy to capture growth in 
+SASE, SSE and Zero Trust.
+Disciplined investment into 
+growth, while maintaining a 
+continued focus on cost 
+optimisation, EBITDA margin and 
+operating efficiency.
+Continued differentiation through 
+world-class customer experience 
+and managed services.
+Revenue continues to reflect 
+structural NBN pricing and mix 
+changes, including the transition 
+from higher-margin voice services 
+toward lower-margin data 
+services.
+Macquarie
+Cloud Services
+Macquarie 
+Government
+Macquarie
+Data Centres
+Macquarie
+Telecom
+4
+For personal use onlyCompany Purpose Net Promoter Score (NPS)
+To make a 
+difference in 
+markets that are 
+underserved and 
+overcharged.
+5
++86
+NPS is the measure of customer 
+experience that is assessed on a 
+scale of -100 to +100, where a score
+of greater than +50 is excellent. 
+People Engagement
+Macquarie Technology Group
+Strengths-based 
+Culture Award 
+2026
+Gallup 
+Exceptional
+Workplace
+Macquarie Technology Group
+For personal use onlyDigital 
+Infrastructure
+For personal use onlyMacquarie Data Centres (MDC) is a proven developer and 
+operator of sovereign data centre infrastructure in Australia, 
+managing the full lifecycle from design and construction 
+through to operations and customer delivery. 
+MDC's highly certified, sovereign facilities are supported by 
+25 years strong operational and delivery track record and 
+are aligned with global cloud and AI architectures.
+MDC’s portfolio comprises of 21MW of installed capacity 
+across Macquarie Park, Canberra and Sydney CBD.
+Once completed, IC3 SuperWest, located in Macquarie 
+Park, will add an additional 47MW. 
+On 6 August 2026, MDC completed the acquisition of a 
+~34,200sqm site in Macquarie Park. The site underpins a 
+proposed ~200MW Macquarie Engineering & Technology 
+Campus (‘METC’).
+This brings MDC’s total capacity to an estimated ~268MW, 
+of which 265MW is located within Sydney’s Tier 1 Northern 
+Zone. 
+The Macquarie Data Centres Platform.
+7
+For personal use onlyMacquarie Park Data Centre Campus
+IC3 SuperWest.
+Placeholder image
+IC3 SuperWest will be delivered on time and on 
+budget in September 2026 with an initial 6MW of 
+commissioned capacity. 
+Long lead-time equipment has been secured to 
+support a further 13MW, providing visibility to 19MW 
+of deployed capacity ahead of customer contract.
+IC3SW has design capacity of 47MW, increasing 
+Macquarie Park Data Centre Campus’ capacity to 
+65MW (including IC2 and IC3 East). 
+All end-state power and water has been 
+commissioned, and the facility's flexible design 
+enables cloud, enterprise and AI deployments, 
+including a mix of direct-to-chip liquid and air 
+cooling. 
+Future capacity deployment will remain aligned to 
+customer demand. 
+8
+For personal use onlyDelivered through our Certified Strategic Data 
+Centres, our digital infrastructure and services 
+are built to meet the Government's PSPF and 
+Essential 8 frameworks.
+We are at scale and maturity to face the 
+growing cyber challenges impacting 
+Government.
+The growing sophistication of the threats means 
+Agencies increasingly look for Australian based 
+businesses to provide 24x7 specialised 
+operational support.
+Identifying, evaluating and pursuing emerging 
+opportunities in AI and cyber security products.
+9
+Macquarie Government
+Secures Government and Critical
+Infrastructure from Cyber Risks.
+For personal use onlyMacquarie Cloud Services 
+Reducing Risk and 
+Optimising IT Costs.
+Placeholder image
+Delivering a true hybrid offering to customers 
+focused on matching the right infrastructure to 
+each application in a customer environment. 
+Cloud solutions matched to unique compliance, 
+security, governance and cost requirements for 
+each customer. 
+Real time security and business continuity solutions 
+to protect against today’s ever changing, AI driven 
+cyber threats. Aligned to recovery outcomes to 
+keep  businesses running when they are attacked.
+Backed by 24x7, Australian based specialised 
+operational support.
+Identifying, evaluating and pursuing emerging 
+opportunities in AI and data-driven products.
+10
+10
+For personal use onlyNational Reconstruction Fund 
+Investment.
+The Australian Government invested $200 million into MAQ via the National 
+Reconstruction Fund Corporation (NRFC) - a sovereign investment fund to 
+support nationally significant technological innovation, digital infrastructure, 
+defence and national security.
+• Efficient, non-dilutive capital that significantly enhances the Group's 
+balance sheet flexibility and diversifies its funding sources.
+• $200 million of perpetual, callable, subordinated, unsecured and non -
+convertible securities, drawn in two series of $100 million (first issuance 
+completed on 1 June 2026, second by 1 March 2027).
+• Proceeds support the development of sovereign, secure digital 
+infrastructure and cyber security services, with strategic product 
+development initiatives.
+2 x $100m
+Tranches to Mar 2027
+Non-dilutive
+No equity dilution
+$200m
+Hybrid investment
+For personal use onlyFY26 
+Financials
+Find a new 
+background 
+picture
+For personal use onlyFinancial Results.
+Inter-segment revenue predominately relates to services provided by the Data Centre segment to the Cloud Services & Government s egment, eliminated on consolidation.
+All figures presented are subject to rounding.
+13
+$m FY24 FY25 FY26 FY25 v FY26 % Change
+Revenue
+Data Centres 70.0 79.9 87.0 7.1 8.9% 
+Cloud Services & Government 206.3 211.9 235.6 23.7 11.2% 
+Telecom 119.9 112.6 105.2 (7.4) (6.6%)
+Inter-segment (32.9) (34.8) (37.8) (3.0) 8.6% 
+Total Revenue 363.3 369.6 390.0 20.4 5.5% 
+EBITDA
+Data Centres 34.7 36.6 40.0 3.4 9.3% 
+Cloud Services & Government 50.8 53.0 55.9 2.9 5.5% 
+Telecom 23.6 24.0 20.0 (4.0) (16.7%)
+Total EBITDA 109.1 113.6 115.9 2.3 2.0% 
+Depreciation & Amortisation (58.0) (56.2) (57.7) (1.5) 2.7% 
+EBIT 51.1 57.4 58.2 0.8 1.4% 
+Interest (3.9) (6.7) (11.0) (4.3) 64.2% 
+NPBT 47.2 50.7 47.2 (3.5) (6.9%)
+Tax (14.2) (15.8) (15.1) 0.7 (4.5%)
+NPAT 33.0 34.9 32.1 (2.8) (8.0%)
+For personal use onlyGroup Financial Performance.
+Over the last 3 years:
+● Revenue CAGR of 4.2%
+● EBITDA CAGR of 4.0%
+EBITDA margin of 29.7% in FY26
+EBITDA is in line with guidance
+14All figures presented are subject to rounding.
+For personal use onlyOver the last 3 years:
+● Revenue CAGR of 7.1%
+● EBITDA CAGR of 3.9%
+EBITDA margin of 23.7% in FY26
+Cloud Services & Government Financial Performance.
+15All figures presented are subject to rounding. 15
+For personal use onlyOver the last 3 years:
+● Revenue CAGR of 10.5%
+● EBITDA CAGR of 6.5%
+EBITDA margin of 46.0% in FY26.
+EBITDA impacted by investing in data centre development activities costs (incl. technical specialists) associated with the 
+potential acquisition of a new data centre campus in Sydney. Excluding investment in data centre development activities 
+and increased consumption of power by hyperscalers, EBITDA margin remains flat. 
+Data Centres Financial Performance.
+16
+All figures presented are subject to rounding.
+16
+For personal use onlyOver the last 3 years:
+● Revenue CAGR of (3.8%)
+● EBITDA CAGR of (0.4%)
+EBITDA margin of 19.0% in FY26
+Telecom Financial Performance.
+17All figures presented are subject to rounding. 17
+For personal use onlyGrowth Capex Customer
+Growth Capex
+Maintenance
+Capex
+● Growth Capex is for the building of 
+new data centre capacity, 
+increased power supply, new 
+technology creation and 
+transformational investment.
+● In the Data Centres business, a 
+current example is capex for IC3 
+SuperWest.
+● Growth Capex was $193.3 million in 
+FY26, including $186.2 million for IC3 
+SuperWest and $7.1 million across 
+the rest of the company. 
+● Customer Growth Capex is for 
+additional cabling, racks, servers & 
+storage that enable us to provision 
+new customer orders.
+● In the Telecom business, a current 
+example is investment in SD WAN.
+● Customer Growth Capex was $21.6 
+million in FY26.
+● Most of the remaining Capex is 
+infrastructure refresh and internal 
+software development known as 
+Maintenance Capex.
+● Maintenance Capex was
+$15.6 million for FY26.
+18
+For personal use onlyBalance Sheet & Cash Flows.
+● The Group has cash and cash equivalents of $4.9 million 
+plus undrawn debt facility of $496.5 million and Hybrid 
+Securities Series 2 of $100 million for growth initiatives.
+● FY26 capital spend of $230.5 million,  
+o Growth Capex $193.3 million (including $186.2 million 
+for IC3 SuperWest)
+o Customer Growth Capex $21.6 million
+o Maintenance Capex $15.6 million
+● Operating cash flow of $94.6 million in FY26, includes an 
+income tax paid of $31.9 million. When comparing receipts 
+from customers, less payments to suppliers and employees of 
+$125.6 million to EBITDA $115.9 million this is a cash conversion 
+of 108%.
+● Cash flow used in investing activities $181.1 million includes 
+capex and a net reduction in investment accounts (deposits) 
+of $56.2 million (FY25 includes $28.8 million received from term 
+deposits).
+● Financing activities inflow of $85.2 million includes proceeds 
+from Hybrid Securities Series 1 net of transaction costs $97.4 
+million, net proceeds from borrowings $3.5 million, interest on 
+borrowings and financial liabilities and other lease costs.
+19
+$m FY25 FY26
+Assets
+Cash & cash equivalents 6.2 4.9 
+Other current assets 107.4 62.4 
+Non-current assets 616.2 791.1 
+Total assets 729.8 858.4 
+Liabilities
+Creditors 65.0 73.5 
+Other liabilities 177.8 164.9 
+Total liabilities 242.8 238.4 
+Total equity 487.0 620.0 
+$m FY25 FY26
+Cash flow
+Cash flows from operating activities 109.9 94.6 
+Cash flows used in investing activities (108.6) (181.1)
+Cash flows from / used in financing activities (25.1) 85.2 
+Net decrease in cash (23.8) (1.3)
+Opening cash & cash equivalents 30.0 6.2 
+Total cash & cash equivalents 6.2 4.9 
+For personal use onlyOutlook
+For personal use onlyThe Company’s EBITDA is expected to have modest growth 
+in FY27, assuming IC3 SuperWest Phase 1 revenue 
+commences in 2H FY27.
+We continue to invest in our people and capabilities to 
+support growth, with a disciplined approach to resourcing 
+and operational efficiency.
+We are strengthening the capabilities required to support 
+the next phase of growth across the MDC platform, 
+including the development of Macquarie Engineering & 
+Technology Campus (‘METC’). The holding costs of METC site 
+are approximately $1 million to $2 million p.a. (excluding 
+financing costs).
+We are investing in AI-ready infrastructure and customer 
+solutions, while deploying AI across the Group to enhance 
+productivity and operational performance.
+ 
+Outlook Group.
+21
+For personal use onlyOutlook Data Centres – IC3 SuperWest.
+Construction of IC3 SuperWest Phase 1 (6MW) will 
+be delivered on time and on budget and is 
+expected to be completed by September 2026. 
+Additional Phase 2 of 13MW has been expedited 
+and is expected to be delivered by June 2027. This 
+approach aligns with current market dynamics 
+which is seeing customer demand for larger 
+capacity and faster lead times. 
+AI is designed to live in purpose-built high-density AI 
+and cloud data centres like IC3 SuperWest. 
+Access to on-shore infrastructure housed in 
+sovereign facilities is essential for critical 
+infrastructure industries, such as health care and 
+finance. 
+IC3 SuperWest has attracted significant demand by 
+multiple customers over the last months.
+Negotiations with an anchor customer are well 
+progressed. 
+22
+For personal use onlyOutlook Macquarie Engineering & Technology Campus.
+Macquarie recently completed the acquisition of a ~34,200sqm light industrial zoned development site 
+located between Talavera Road and the M2 motorway in Macquarie Park for a purchase price of $240 
+million.
+The Company intends to construct an engineering and technology campus co -located within a ~200MW 
+data centre campus in Macquarie Park. Designs remain subject to planning and other approvals and will 
+continue to be refined based on customer requirements, power approvals, construction staging and 
+funding.
+The proposed facility is intended to incorporate advanced air -cooling technology with limited water usage 
+and continue Macquarie's successful campus-style approach. Initial construction is estimated to be 
+completed in late calendar year 2029, subject to planning and other approvals.
+The new campus will build on Macquarie's partnership with Macquarie University and support research, 
+technology and learning opportunities. It is intended to provide practical, hands -on opportunities for 
+students and researchers to utilise latest data centre, cyber security, AI and cloud technologies, while also 
+delivering significant community benefits, including a proposed public park, community garden and 
+outdoor art gallery, subject to approvals.
+Building of new data centres on this campus is expected to be in a few years, in this period we will consider 
+a range of funding alternatives including project finance and new longer term infrastructure investors in our 
+data centres. 
+23
+For personal use onlyOutlook CS&G. Outlook Telecom.
+In FY27, CS&G revenue is expected to modestly grow with 
+FY26 margins likely to be maintained. 
+As cloud and AI adoption grows across our customer base, we 
+are investing in new products, AI platforms and infrastructure 
+over the coming years to help customers manage their token 
+and security economics.
+In an AI-embedded environment, customers will face 
+challenges similar to those in public cloud, particularly around 
+cost and security and we are well positioned to support them 
+through this transition.
+Macquarie Government continues to invest in Essential 8 
+security products. As attack surfaces expand and threats grow 
+more sophisticated, amplified by AI, organisations operating 
+critical infrastructure face heightened pressure to meet 
+stringent regulatory and compliance standards.
+CS&G will continue to focus on cloud, cyber and AI 
+requirements of our corporate and government customers.
+Telecom remains an important channel for securing CS&G 
+services.
+In FY27, Telecom’s EBITDA is expected to reduce by $2 million to 
+$3 million. Margins are anticipated to be mid to high-teens 
+levels after NBN pricing reduction has been passed to the 
+customers. 
+Traditional voice continues to decline in line with the industry.
+Telecom's next phase of growth is the extension of SDWAN 
+through multi-vendor growth in security.
+FY27 is expected to deliver modest growth. It is a year of strategic investment, establishing the foundations for the next 
+phase of growth in CS&G AI, cyber security and cloud, and Telecom secure networking solutions.
+24
+For personal use onlyDepreciation and amortisation for FY27 is expected to be $63 million to $67 million. Hosting depreciation 
+and amortisation is expected to be $52 million to $55 million and Telecom depreciation $11 million to $12 
+million in FY27.
+The Company plans to make further investments in growth and customer growth capex during FY27. Total 
+capex before IC3 SuperWest and METC is expected to be between $40 million to $48 million consisting of:
+● Customer Growth - $18 million to $22 million, 
+● Growth Capex - $4 million to $6 million,
+● Maintenance Capex - $18 million to $20 million. 
+IC3 SuperWest capex is expected to be between $180 million to $192 million to complete Phase 1 (6MW) in 
+September 2026 and build out of Phase 2 (13MW).
+Total costs of acquiring the land at METC is $254 million plus expected development capex spend 
+between $11 million and $12 million.
+In total, Group capex is expected to be $485 million to $506 million in FY27.
+Telecom capex is expected to be between $12 million and $14 million in FY27 (included in the above).
+Undrawn debt facilities of $496.5 million and Hybrid Securities Series 2 of $100m along with cash of $4.9 
+million as of 30 June 2026 are available to fund the above capital requirements of the Group. 
+Outlook Balance Sheet Financials.
+25
+For personal use only

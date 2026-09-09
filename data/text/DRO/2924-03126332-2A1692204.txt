@@ -1,0 +1,894 @@
+1H 2026 
+Interim Results
+26 August 2026
+1
+Leading the world in 
+intelligent 
+counter-drone technology
+For personal use only2
+Important Notices and Disclaimer
+This presentation has been prepared by DroneShield Limited ACN 608 915 859 ("DroneShield" or 
+"Company"). This presentation contains summary information about DroneShield and its 
+associated entities, and their activities current as at the date of this presentation. The information 
+contained in this presentation is for information purposes only and is provided as at the date of this 
+presentation (unless otherwise stated). It should be read in conjunction with DroneShield's most 
+recent financial report and other periodic and continuous disclosure announcements lodged with the 
+Australian Securities Exchange ("ASX"), which are available at www.asx.com.au under the 
+Company’s ticker code (ASX:DRO). 
+This presentation has been prepared without taking into account the investment objectives, financial 
+situation or needs of individuals. Before making an investment decision, prospective investors 
+should consider the appropriateness of the information having regard to their own investment 
+objectives, financial situation and needs and seek legal, taxation, business and/or financial advice 
+appropriate to their circumstances.
+Unless stated otherwise all references are to a financial year (“FY”) ended 31 December and all 
+currency amounts are in Australian dollars. Due to rounding, numbers may not add up precisely to 
+the totals provided and percentages may not precisely reflect the absolute figures.
+Forward-looking statements
+This presentation contains forward-looking statements. Forward-looking statements can generally 
+be identified by the use of words such as, “expect”, “anticipate”, “likely”, “intend”, “should”, “could”, 
+“may”, “predict”, “plan”, “propose”, “will”, “believe”, “forecast”, “estimate”, “target” and other similar 
+expressions. Indications of, and guidance or outlook on, plans, strategies, management objectives, 
+sales and financial performance are also forward-looking statements. Forward-looking statements 
+involve inherent risks and uncertainties, both general and specific, many of which are outside the 
+control of DroneShield which could cause actual results to be materially different from the relevant 
+statements. Factors that may affect forward-looking statements include legal and regulatory 
+change, industry competition, technological changes and economic and geopolitical factors, 
+including global market conditions.
+No representation is made or will be made that any forward-looking statements will be achieved or 
+will prove to be correct. As such, undue reliance should not be placed on any forward-looking 
+statement. Forward-looking statements are based on information available to DroneShield as at the 
+date of this presentation. Circumstances may change and DroneShield assumes no obligation to 
+update such statements, except as required by applicable laws or regulations.
+Past performance 
+Past performance information (including past share price performance of DroneShield and historical 
+financial information) included in this presentation is given for illustrative purposes only and is not a 
+guarantee of, and is not necessarily a guide to, future performance. 
+Non-IFRS financial information 
+Information in this presentation includes Non-IFRS measures as we believe they provide 
+useful information to assist in understanding the Company’s financial performance. Such 
+financial measures do not have a standardised meaning and should not be viewed in 
+isolation or considered as substitutes for measures reported in accordance with IFRS. 
+These measures have not been independently audited or reviewed.
+Third Party Information
+This presentation may contain statements that have been prepared by DroneShield on the 
+basis of information from publicly available sources, and other third-party sources, and this 
+information has not been verified by DroneShield. DroneShield does not make any 
+representation or warranty as to the currency, accuracy, reliability or completeness of such 
+information in this presentation.
+Disclaimer 
+No representation or warranty, express or implied, is made as to the accuracy, reliability, 
+completeness or fairness of the information, opinions and conclusions contained in this 
+presentation. DroneShield does not represent or warrant that this presentation is complete, 
+free from errors, omissions, or misrepresentations or that it contains all material information 
+about DroneShield or which a prospective investor or purchaser may require in evaluating 
+a possible investment in DroneShield or an acquisition or other dealing in shares. This 
+presentation may contain information from third parties believed to be reliable, but no 
+representations or warranties are made as to the accuracy or completeness of such 
+information.
+To the maximum extent permitted by law, DroneShield expressly disclaims any and all 
+liability, including, without limitation, any liability arising out of fault or negligence, for any 
+direct, indirect, consequential or contingent loss or damage arising from the use of 
+information contained in this presentation including representations or warranties or in 
+relation to the accuracy or completeness of the information, statements, opinions or 
+matters, express or implied, contained in, arising out of or derived from, or for omissions 
+from, this presentation including, without limitation, any financial information, any estimates 
+or projections and any other financial information derived therefrom. 
+Statements made in this presentation are made only at the date of the presentation. 
+DroneShield is under no obligation to update this presentation. The information in this 
+presentation remains subject to change by DroneShield without notice to you. 
+For personal use only3
+Contents
+1 H  2 0 2 6  I N T E R I M  R E S U L T S
+1
+Overview
+2
+1H 2026 Highlights
+3
+Growth Platform
+4
+Outlook
+5
+Appendix
+For personal use onlyLeading the world in 
+intelligent 
+counter-drone technology
+01
+Overview
+4
+For personal use only5
+1 H  2 0 2 6  O V E R V I E W
+$125.8M
+1H 2026 revenue
+Record half-year revenue
+Up 74% ($72.3M in 1H 2025)
+9.2%
+Recurring Revenue
+4,100 active software-enabled devices
+$11.5M, up 229% ($3.5M in 1H 2025)
+$240M
+FY2026 Committed Revenue1
+111% of FY2025 Revenue
+$176M at same point last year
+60%
+1H 2026 Gross Margin
+vs 65% PCP3
+Lower from product sales mix, ERP and 
+relocation-related inventory impairment
+$180M
+Cash and Term Deposits
+No debt
+Invested in long-lead time inventory
+$250-270M
+FY2026 Revenue Outlook2
+Reaffirmed range
+Underpinned by Committed Revenue
+A Record Half, Delivered as Planned
+1. Committed Revenue as at 21 August 2026. Committed Revenue is the value of hardware, services, warranties and subscriptions delivered and scheduled for delivery 
+within the period, based on confirmed purchase orders. 2. Refer to Important Notice and Disclaimers regarding future performance and outlook statements . 
+3. PCP refers to the Prior Corresponding Period ended 30 June 2025.
+For personal use only6
+Foundations for future execution
+Building diversification across revenue type, region and market segment.
+Next-generation products coming online. 
+A deliberate investment period
+New production facility, ERP implementation, long-lead time inventory, and disciplined headcount growth. 
+Preparing for the next chapter in growth. 
+A record half, delivered
+Revenue of $125.8M (up 74% on PCP). Recurring revenue of 9.2%, over 3x that of 1H 2025. 
+Hardware wins the deal, software compounds the value.
+C E O  P E R S P E C T I V E
+1
+2
+3
+Building the Company to Match the Opportunity
+For personal use only7
+Doctrine has 
+shifted
+C-UxS is not a static solution. Rapid 
+technological advances in drones 
+mean C-UxS solutions must evolve 
+with multi-layered deployment.
+There is no silver bullet
+The threat is 
+proven daily
+Increasing reports of incursions 
+at airports, prisons, critical 
+infrastructure, data centres, 
+public venues and other non-military 
+sites around the world.
+Beyond the battlefield
+Budgets are 
+structural
+C-UxS is now an embedded feature 
+of global budgets, moving from 
+urgent operational purchases to 
+programmatic, budgeted investment.
+Spending is permanent
+Counter-UxS Has Moved from Niche Capability 
+to Core Defence Spend
+M A R K E T  C O N T E X T
+For personal use onlyLeading the world in 
+intelligent 
+counter-drone technology
+8
+02
+1H 2026 Highlights
+For personal use only9
+1H 2026 Financial Highlights
+1. Recurring Revenue includes software, subscriptions and long-term services. 2. Underlying EBITDA is before Individually Significant Items of $15M (see Appendix for further 
+details). 3. Committed Revenue as at 21 August 2026, with comparison as at 27 August 2025. Committed Revenue is the value of hardware, services, warranties and 
+subscriptions delivered and scheduled for delivery within the period, based on confirmed purchase orders. 4. Cash & Term Deposits as at 31 December 2025.
+F I N A N C I A L  H I G H L I G H T S
+Delivered headline growth with continued investment in next generation product, people and processes
+1H 2026 1H 2025 PCP change Commentary
+Revenue $125.8M $72.3M  74%
+▪ Strong top line growth via expanding and repeating orders
+▪ Supports FY2026 outlook range of $250M-$270M
+Recurring Revenue1
+% of Revenue
+$11.5M
+9.2%
+$3.5M
+4.9%  229%
+▪ 4,100 active software-enabled devices in the field
+▪ More devices lead to compounding effect for the future
+Gross Profit
+Gross Margin
+$75.5M
+60.0%
+$47.3M
+65.3%  60%
+▪ 1H impact from inventory impairment and 3rd party product sales
+▪ Continue to benchmark business to a 65% blended gross margin
+Underlying EBITDA2 ($12.4M) $8.0M  256%
+▪ Lower gross margin and increased fixed base for scaled operations
+▪ Increased Employee, Sales & Marketing, Corporate and Systems costs
+Committed Revenue3 
+as at 1H reporting $240.4M $176.3M  36%
+▪ 111% of FY2025 Revenue, with 4+ months to run
+▪ $43M in Committed Revenue in FY2027 and beyond
+Cash & Term Deposits $180.0M $210.5M4  $30M
+▪ Investment in working capital, R&D and PP&E 
+▪ Remains debt free
+For personal use only10
+1H 2026 Revenue Contribution
+R E V E N U E  S O U R C E S
+Continued focus on geographic revenue diversification, with advances in recurring subscription 
+and non-military revenue sources
+By Region By Type By Segment
+Military
+85%
+Non-Military 
+Government and 
+Commercial
+15%
+Dismounted 
+Hardware
+57%
+Subscriptions
+9%
+On the Move & Fixed Site 
+Hardware
+30%
+Warranties 
+& Services
+4%
+▪ Deliberate strategy towards software-
+enabled devices gathers momentum
+▪ 4,100 software-enabled devices in the 
+field, with recurring revenue at 9.2% of 
+revenue, and up from 4.9% in PCP
+▪ From a low base, increasing exposure in 
+non-military and commercial markets
+▪ Major events (e.g. FIFA 2026) and 
+frequent drone incidents driving interest 
+from airports, critical infrastructure, public 
+safety locations and commercial assets
+Asia-Pacific
+9%
+United 
+States
+17%
+Europe & 
+UK
+52%
+LATAM, MENA 
+& Other
+22%
+▪ Continued reorder and scope expansions 
+particularly strong in UK and Europe from 
+existing end-users
+▪ Growing US momentum from inter-agency 
+procurement panels
+▪ Strong prospects rising in Asia-Pacific
+FY2025 By Region: 45% Europe & UK, 14% United States, 15% LATAM, MENA & Other, 26% Asia-Pacific
+FY2025 By Type: 56% Dismounted Hardware, 35% OTM & Fixed Site Hardware, 5% Subscriptions, 4% Warranties & Services
+For personal use only11
+On Track for FY2026 Revenue Outlook 
+C O M M I T T E D  R E V E N U E
+FY2026 Committed Revenue ($M) ▪ Committed Revenue is primary evidence to 
+demonstrate revenue outlook, with sales orders 
+converted progressively to revenue
+▪ Currently at $240M for FY2026:
+- 36% up on PCP
+- 111% of Total Revenue in FY2025
+- 89% to 96% of Revenue Outlook range
+- includes 9% in Recurring Revenue
+▪ Solid run-rate growth through repeat, reorder 
+and expansion orders from existing end-users
+▪ $250-270M FY2026 revenue outlook reaffirmed
+▪ 4+ months still to run, with orders later in year 
+gradually building into FY2027 and beyond
+▪ Committed Revenue for FY2027 and beyond 
+currently at $43M
+Committed Revenue of $240M, up 36% on PCP and 89% to 96% of FY2026 Revenue Outlook
+Committed Revenue is the value of hardware, services, warranties and subscriptions delivered and scheduled for delivery withi n the period, based on confirmed 
+purchase orders and prevailing exchange rates at the time of conversion. FY2026 Committed Revenue as at 21 August 2026, with PCP comparison of $176.3M as at 
+28 August 2025. Refer to Important Notice and Disclaimers regarding future performance and outlook statements.
+93
+104
+140
+155 161
+206
+240
+50
+100
+150
+200
+250
+1-Jan-26 31-Mar-26 26-May-26 21-Aug-26
+For personal use only12
+Continuous Revenue Growth
+FY2026 Committed Revenue as at 21 August 2026. Committed Revenue is the value of hardware, services, warranties and subscriptions delivered and scheduled fo r delivery within the 
+period, based on confirmed purchase orders and prevailing exchange rates at the time of conversion. PCP compares to FY2025 Co mmitted Revenue of $176.3M as at 27 August 2025. 
+Refer to Important Notice and Disclaimers regarding future performance and outlook statements.
+R E V E N U E  G R O W T H
+Historic 5 Year CAGR of 113% from a very low base during a “coming of age” awareness in counter-drone
+▪ DroneShield’s strategy is to have counter-drone 
+solutions that match the changing technology, 
+growing prevalence and increasing spending to 
+protect against the threat of drones
+▪ History demonstrates that periods of sizeable 
+R&D investment are in advance of revenue 
+step-changes
+▪ 5-year 113% historic CAGR (2021-2025)
+▪ Flagship next generation products have been 
+launched with more releases through to the end 
+of 2027. This is another major evolution in the 
+Company’s solutions
+▪ Reaffirming $250M-$270M outlook range, 
+15% to 25% growth on FY2025
+Revenue ($M)
++91% +61% +222% +6% +276% +15-25%
+YoY 
+Growth
+1H 26:
+126
+114
+10 17
+54
+58
+217
+2% 2%
+3%
+5%
+5%
+9%
+0%
+2%
+4%
+6%
+8%
+10%
+2021 2022 2023 2024 2025 2026
+FY Revenue
+Committed Revenue FY2026
+FY2026 Outlook Range
+Recurring Revenue %
+250-270
+For personal use only13
+21
+2H 
+2025
+6
+2H
+2025 8
+2H
+2025
+2
+2H 
+2025
+30
+56
+7
+13
+4
+16
+3
+8
+5
+4
+3
+0
+15
+30
+45
+60
+PCP 1H 2026 PCP 1H 2026 PCP 1H 2026 PCP 1H 2026
+Employee Benefits Sales & Marketing Corporate & Professional Business Systems
+Increased Expenses to Match Business Needs
+C O S T  B A S E
+In scaling, there has been an increase in key expense categories to support current and future growth
+Employee Benefits
+▪ 30 June 2026: 537 employees (vs 
+332 Jun-25, 482 Dec-25)
+▪ Focus on retaining key staff and 
+building out leadership
+▪ Flat to low net growth in H2 via 
+careful and considered hiring
+Sales & Marketing
+▪ Increased ahead of next-gen 
+launches and commercial 
+expansion. Moderating in 2H 
+▪ Focus now on targeted customer 
+acquisition and channel activation
+Corporate & Professional
+▪ Additions to corporate and 
+governance functions to support 
+scale
+▪ One-off disruption costs across 
+external legal and other specialist 
+providers
+Business Systems
+▪ Implemented ERP and sales 
+systems in January 2026
+▪ Process and operational benefits 
+already evident across sales, 
+procurement, production and 
+finance functions
+$M Observations
+▪ Employee Benefits are noticeably higher on PCP and 2H 2025, reflecting increased number of employees, 
+recruitment costs and senior hires. There is a more considered management of these going forward
+▪ When excluding Individually Significant Items, Sales & Marketing, Corporate & Professional and Business Systems 
+expenses are all broadly in line with 2H 2025
+1H 2025 (Prior Corresponding Period)  2H 2025 (Prior Half) Individually Significant Items  1H 2026
+        (See Appendix for further details)
+For personal use only14
+$40M$180M
+Cash and Term Deposits
+As at 30 June 2026
+No borrowings
+Research & Development
+Spend for 1H 2026
+Ongoing investment in tooling and workforce 
+capacity to deliver next-gen at a rapid pace
+R&D and Inventory are competitive advantages
+▪ DroneShield is a leader and R&D is critical to stay ahead of the game. End-users need this.
+▪ Holding long-lead time inventory allows us to rapidly deliver counter-UxS capability. End-users want this.
+▪ Efficient and deliberate design during R&D means critical items can be used across product lines. End-users know this.
+▪ It is a deliberate allocation of the balance sheet. End-users respect this.
+Investing Ahead of the Growth
+B A L A N C E  S H E E T
+Research & Development is for the Interim Period, across P&L and Intangible Assets in Balance Sheet
+$85M
+Inventory
+Raw materials $66M (up $13M in 6 months), 
+with deliberate growth in CPU, GPU and SDR 
+componentry. $19M in finished goods
+For personal use only15
+Uplifting
+Policies & Procedures
+Renewing
+Leadership & Board
+▪ CEO/MD succession: Seamless 
+transition to Angus Bean
+▪ Board strengthening: Hamish 
+McLennan (Chairman) and Retired 
+Rear Admiral Lee Goddard CSC 
+Investing
+in People & Systems
+▪ Employees: 537 (332 in PCP) with 
+growth in Sales, R&D and Corporate 
+Support
+▪ Systems: Implementation of 
+company-wide ERP and CRM 
+software for scaled operations
+▪ Governance policies: Major uplift, 
+education and adherence across the 
+business
+▪ Raising standards: Top-down 
+strengthening of talent with alignment 
+to high standards
+Maturing Governance and Structure for a Larger Company
+Head Office employees comprises Executive, Finance, Legal & HR. Engineering resides in both Tech and Operations.
+G O V E R N A N C E
+An important 6-month period in renewing, investing and uplifting ahead of the next phase of growth
+Technology 
+(65%)
+Sales (6%)
+Operations 
+(19%)
+Head Office 
+(10%)
+For personal use onlyLeading the world in 
+intelligent 
+counter-drone technology
+16
+03
+Growth Platform
+For personal use only17
+Multi-Layered Counter-UxS Ecosystem
+1.Small Drones, Big Problems: A First Principles Approach to Countering-UAS by Joint Interagency Task Force 401 (June 2026)
+C O U N T E R - D R O N E  L A Y E R S
+C-UxS is not a product. It's a system designed around the end-user, the area of operation, and the threat
+“There is no silver bullet to protect against drones”1
+LAYER 
+1
+RF Detect & Defeat
+DroneShield Flagship Sensors & Effectors
+DroneShield Solutions
+LAYER 
+2
+DroneSentry-C2 / C2 Enterprise
+DroneShield Software Ecosystem
+LAYER 
+3
+Core Extensions
+Radars / Optical Sensors / Specific Accessories & Kits
+LAYER 
+4
+Situational Extensions
+Cyber / Acoustic / Seismic / Passive Radar / 
+Kinetic Interceptor / Cellular / Satcomm / USV/UGV
+LAYER 
+5
+Soft Kill & Non-Kinetic Effectors
+High Power Microwave / Laser
+LAYER 
+6
+Hard Kill & Munitions Based
+Remote Weapons Stations / Explosive Interceptor / C-UAS Missile
+DroneShield & Partner SolutionsNot 
+Offered
+DroneShield uses 
+open-source 
+interoperable 
+architecture, so 
+end-users can 
+tailor solutions to 
+optimise to their 
+needs. There is 
+also an ability to 
+add technologies 
+as the ecosystem 
+and solution suite 
+expands
+For personal use only18
+Entering Phase 3 of Counter-Drone Evolution
+C O U N T E R - D R O N E  E V O L U T I O N
+Since its inception DroneShield has been at the forefront of innovation in counter-drone thematics, investing 
+ahead of the curve and leading the industry into the next phase. The future is no different
+2014 20262018 2022
+DRO 
+established 
+to address 
+‘potential’ 
+drone threat
+DRO ASX IPO 
+raises $7M on 
+$20M pre-IPO 
+valuation
+DRO predicts 
+portable defeat 
+with DroneGun 
+release
+DRO predicts portable 
+detection with 
+RfPatrol release
+DRO predicts 
+vehicle systems with 
+DroneSentry-X 
+release
+DRO scales 
+with major 
+global 
+recognition 
+for C-UxS 
+investment
+DRO pioneers the 
+use of AI/ML to 
+detect drones in 
+complex RF 
+environments
+DRO C-UAS 
+systems evaluated 
+in real-world 
+conflict zones, 
+leading to larger 
+procurements
+Phase 1 Phase 2
+PROLIFERATION
+Rising global tensions and frequent 
+civilian incursions increase UxS 
+funding and procurement
+THESIS
+▪ C-UxS is standard issue for militaries
+▪ Non-military segment unlocked via 
+regulatory changes and funding
+▪ Effective solutions require software-
+enabled hardware with AI intelligent 
+awareness
+▪ Multi-layered solutions provide best 
+flexibility for end-users needs
+▪ Drone technology is ever-rapid. Only 
+focused, proven, well-positioned 
+C-UxS players survive the next wave
+DRO 
+releases 
+next-gen
+solutions 
+RfAI-3 
+and 
+RfRecon
+Phase 3: Outlook to 2031
+PIONEER
+Gatwick Airport drone 
+incursion event receives 
+global coverage
+INNOVATION
+Russia invades Ukraine, 
+prolific use of UAS on both 
+sides highlights true 
+capability potential
+PRODUCTISATION
+C-UxS solutions become 
+mainstream defence and 
+security requirement
+SOFTWARE-DEFINED AUTONOMY
+For personal use only19
+Launch of RfAI-3 and RfRecon
+P R O D U C T  R O A D M A P
+The start of the next-generation in DroneShield’s solutions
+RfAI-3 Platform 
+Unveiled
+3rd generation RF 
+intelligence software 
+engine senses emerging 
+threats beyond catalogued 
+signature libraries
+RfRecon 
+Launched
+Flagship next-generation 
+hardware. Advanced 
+discussions with Tier 1 
+end-users met with 
+strong interest
+Production and 
+Revenue
+Scaled production 
+commences with 
+expectations of first 
+deliveries by end of 2026
+Full-Generation 
+Refresh
+Further hardware releases 
+through 2027. RfAI-3 
+recurring revenue builds 
+with the installed base
+July 2026 August 2026 H2 2026 2027
+For personal use only20
+Our Moat: Fielded Systems, Data and Sovereign Trust
+C O M P E T I T I V E  P O S I T I O N
+Hardware
+Thousands of systems deployed with 
+end-users. Fielded systems and 
+deployed solutions are the best 
+reference, leading to expanding and 
+repeat orders
+6,200+
+devices fielded globally
+AI-Driven Software
+Ten years of real-world counter-drone 
+experience and engagement data.
+A unique data flywheel competitors 
+cannot shortcut
+10+ years
+of proprietary threat data
+Trust
+Five Eyes and NATO-aligned export 
+approvals and security accreditations. 
+Deployed in 40+ countries, represented in 
+70+ countries. Trusted-supplier status is a 
+moat measured in years, not budgets
+40+ countries
+Aligned supply and accreditation
+Dismounted On-the-Move Fixed Site Command & Control
+For personal use only21
+Governments: Unlocking Funding and Regulations
+C - U x S  T H E M A T I C S
+Worldwide acknowledgement of the drone threat has been met with governments unlocking significant 
+funding and regulations
+Regions with DroneShield employees  Countries with DroneShield representation
+USA
+▪ 2027 budget request: 
+US$21B for munitions, 
+C-UAS and advanced 
+capabilities
+▪ JIATF401 C-UAS 
+Marketplace platform 
+with US$900M committed 
+for 2026. DroneShield 
+amongst first to have 
+product on platform
+▪ Safer Skies Act unlocks 
+17,500 local and state law 
+enforcement agencies, 
+with FIFA2026 acting as 
+beneficial case study
+Asia-Pacific
+▪ Asia: ASEAN-Australia Counter-Terrorism Practical Exchange conference. Drones seen 
+as leading threat to protect crowded spaces, vulnerable targets and critical infrastructure
+▪ Australia: Integrated Investment Program: Up to A$7B allocated over 10 years for C-UAS 
+and missile defence, with ~A$1.5B for C-UAS
+LATAM, MENA, Other
+▪ LATAM: Renewed & increasing political focus on 
+narco-cartels
+▪ MENA: Meaningful enquiries in response to conflict, 
+across both military & non-military arena
+Europe & UK
+▪ NATO commitment for US$40B in counter-drone capabilities over next 5 years
+▪ UK committed £790M to integrated air, drone and missile defence
+▪ Increasing inbound interest for non-military applications
+▪ Fastest growing region with opportunities across the continent
+European Opportunity
+▪ Remains largest program in 
+DroneShield’s sales pipeline
+▪ Competitive process with down-
+selection expected in 2H 2026
+▪ Going forward deliberate 
+reduction in commentary to 
+protect sovereign, commercial 
+and competitive sensitivities
+▪ In future referred to as COBBS-
+Anduril-Nokia consortium
+For personal use only22
+Commercial: The Imperative Beyond the Battlefield
+C - U x S  T H E M A T I C S
+Escalating and recurring incidents across public safety, critical infrastructure and commercial settings
+Commercial Drone 
+Threats
+100+
+Airport drone reports every 
+month in the U.S.
+3,000+
+Drone incidents near U.S. 
+airports
+1,712
+Prison drone incidents 
+in England & Wales in 
+2024/25 up 43% YoY
+27,000+
+Drones detected near the 
+U.S. southern border“if there is one threat that keeps me up at night, it is from drones” 
+Jessica Tisch, NYPD Police Commissioner (February 2026)
+Sources: Correctional Service Canada, Counter-UAS Sandbox (Nov 2024); Los Angeles Times, Jan 9, 2025; U.S. Department of Justice, June 16, 2026; Federal Aviation Administration, UAS 
+Sightings Report, Jun 2026; Reuters, Jul 22, 2025; UK Ministry of Justice/HMPPS Annual Digest 2024/25; FBI Statement to Senate Judiciary Committee, Jul 29, 2025; Japanese Joint-Use Airport 
+Latest to Face Drone-Related Disruptions December 2024 Report; Ministry of Land, Infrastructure and Transport (Korea), 2024; ACT Police Media Release, Sep 29, 2025
+For personal use onlyLeading the world in 
+intelligent 
+counter-drone technology
+23
+04
+Outlook
+For personal use only24
+Advance the commercial growth engine
+Build the recurring revenue base
+5
+4
+Ship first RfRecon
+Recover gross margin trajectory
+Deliver FY2026 guidance1
+3
+Growth from committed revenue, production 
+and deliveries in-line with $250M-270M outlook
+Growth in H2 margin, without one-off stock 
+impairments, and with more software
+Growth in end-user interest with 
+expectations of first deliveries by end of 2026
+Growth from more software-enabled 
+devices deployed
+Growth through programs, procurement 
+portals and partnerships
+Five Growth Priorities for 2H 2026
+2 H  2 0 2 6  P R I O R I T I E S
+2
+For personal use only25
+DroneShield Thesis
+W H Y  D R O N E S H I E L D
+Experienced Leadership
+Balance Sheet Strength
+Platform Transition
+Committed Revenue
+Structural Demand Counter-UxS is now core, multi-year funded 
+defence spend across NATO and allied markets
+$240M FY2026 Committed Revenue underpins 
+FY2026 revenue guidance of $250M-$270M
+RfAI-3 intelligence and RfRecon is the start of next 
+generation to support 2027 and beyond
+$180M cash, no debt. Working capital and 
+investment in systems to support future growth
+Experienced board and strengthened executives 
+with focus on long-term value for shareholders
+For personal use onlyAPPENDIX
+26
+Australia Registered Office 
+DroneShield Limited
+Level 5, 126 Phillip St
+Sydney NSW 2000
+U.S. Office
+DroneShield LLC 
+7140-B Farm Station Rd
+Warrenton, VA 20187, USA
+ European Office
+ DroneShield B.V.
+ Herengracht 420
+ 1017BZ Amsterdam, Netherlands
+For personal use only27
+Reconciliation of Statutory to Underlying Metrics
+1H 2026 Individually Significant Items
+▪ $3.7M Share-based payments: Non-cash accounting expense for 
+performance options under remuneration plans in current and prior 
+years
+▪ $8.7M Business disruption and continuity costs: Non-operational costs 
+relating to events of November 2025 with expenses across external 
+legal, governance and other specialist providers, and continuity costs 
+in maintaining workforce capability and operational effectiveness
+▪ $2.6M System implementation costs: Costs associated with the 
+completion of new enterprise-wide systems implementations
+A P P E N D I X :  E A R N I N G S  B R I D G E
+$000​ 1H2026 1H2025 FY2025​
+Statutory profit/(loss) after income tax (32,231) 2,123 3,521 
+Less: Income tax (benefit)/expense​ (1,005) 3,078 (2,270)​
+Less: Net interest income​ (3,313) (3,952) (7,333)​
+Add: Depreciation​ & Amortisation 9,152 3,999 10,579
+EBITDA (27,397) 5,248 4,497 
+Add: Share-based payment expense​ 3,673 2,719 23,511 ​
+Add: Business disruption and continuity costs 8,658 - -
+Add: System implementation costs 2,645 - -
+Add: Finished goods inventory impairment​ - - 8,500 ​
+Underlying EBITDA (12,421) 7,967 36,508 
+Statutory profit/(loss) after income tax (32,231) 2,123 3,521 
+Less: Income tax (benefit)/expense​ (1,005) 3,078 (2,270)​
+Statutory profit/(loss) before income tax (33,236) 5,201 1,251 
+Add: Share-based payment expense​ 3,673 2,719 23,511 ​
+Add: Business disruption and continuity costs 8,658 - -
+Add: System implementation costs 2,645 - -
+Add: Finished goods inventory impairment​ - - 8,500 ​
+Underlying Profit Before Tax (18,260) 7,920 33,262 
+-32.2 
+-3.3 -1.0 
+9.2 
+-27.4 
+3.7 
+8.7 
+2.6 
+-12.4 
+For personal use only28
+FIFA World Cup 2026TM – Kansas City
+A P P E N D I X :  C A S E  S T U D Y
+DroneShield’s mission: Support public safety and airspace security operations during the FIFA 
+World Cup 2026
+  in Kansas City
+▪ Seven multi-site drone detection deployments, providing persistent airspace awareness
+▪ Layered sensing architecture with RF detection, radars, command-and-control and 
+dismounted mitigation
+▪ High-profile locations with extensive media coverage 
+▪ Generated interest for local, state and commercial opportunities across North America
+▪ Discussions already in planning for FIFA World Cup 2030
+Kansas City at a Glance1
+Drones/unique serial 
+numbers detected across all 
+deployed sites
+Drones/unique serial 
+numbers detected at sites 
+nearest to World Cup stadium
+unauthorised drones seized48
+184
+82
+1. Results based on operations between 16 June and 11 July. Detection numbers are based on drones or unique serial numbers. D ata sourced from FBI Kansas City
+Combined stadium & FIFA 
+Fan Festival
+  attendance800k
+7
+6
+operational deployment 
+sites across Kansas City
+World Cup matches
+Image: DroneShield’s drone detections identified several hot spots, enabling law enforcement to have greater airspace awarene ss
+For personal use only29
+Multi-Layered Solutions in Effect
+I L L U S T R A T I V E  E X A M P L E
+We work with end-users to define their counter-drone requirements and deliver interoperable, 
+multi-layered solutions tailored to their environment
+Example configuration. Diagram not to scale.
+For personal use only30
+Glossary of Terms
+A P P E N D I X :  G L O S S A R Y
+Key acronyms used in drone and counter-drone ecosystem
+BVLOS Beyond Visual Line of Sight
+C2 Command-and-Control (software and interface)
+C-UAS Counter Unmanned Aerial Systems
+C-UxS Counter Unmanned Systems
+DECO Defence Export Control Office (Australia)
+EW Electronic Warfare
+FPV First Person View
+GNSS Global Navigation Satellite Systems
+ITAR International Traffic in Arms Regulations (U.S.)
+OTM On The Move
+RF Radio Frequency
+RfAI Radio Frequency Artificial Intelligence
+UAS Unmanned Aerial Systems
+UGVs Unmanned Ground Vehicles
+USVs Unmanned Surface Vehicles
+VLOS Visual Line of Sight
+For personal use only

@@ -3,6 +3,10 @@
  "updated": "2026-09-09",
  "tickers": [
   {
+   "code": "ABB",
+   "name": "Aussie Broadband"
+  },
+  {
    "code": "AD8",
    "name": "Audinate"
   },
@@ -51,6 +55,10 @@
    "name": "Corporate Travel"
   },
   {
+   "code": "DRO",
+   "name": "DroneShield"
+  },
+  {
    "code": "DTL",
    "name": "Data#3"
   },
@@ -71,6 +79,10 @@
    "name": "EVT Limited"
   },
   {
+   "code": "GDG",
+   "name": "Generation Development"
+  },
+  {
    "code": "GNP",
    "name": "Genus Plus"
   },
@@ -81,6 +93,10 @@
   {
    "code": "IEL",
    "name": "IDP Education"
+  },
+  {
+   "code": "IMD",
+   "name": "Imdex"
   },
   {
    "code": "JIN",
@@ -95,8 +111,20 @@
    "name": "Lovisa"
   },
   {
+   "code": "LYL",
+   "name": "Lycopodium"
+  },
+  {
    "code": "MAD",
    "name": "Mader Group"
+  },
+  {
+   "code": "MAH",
+   "name": "Macmahon"
+  },
+  {
+   "code": "MAQ",
+   "name": "Macquarie Technology"
   },
   {
    "code": "MHJ",
@@ -121,6 +149,10 @@
   {
    "code": "NCK",
    "name": "Nick Scali"
+  },
+  {
+   "code": "NWH",
+   "name": "NRW Holdings"
   },
   {
    "code": "NWL",
@@ -159,6 +191,10 @@
    "name": "Supply Network"
   },
   {
+   "code": "SRG",
+   "name": "SRG Global"
+  },
+  {
    "code": "STP",
    "name": "Step One"
   },
@@ -177,6 +213,10 @@
   {
    "code": "TPW",
    "name": "Temple & Webster"
+  },
+  {
+   "code": "TUA",
+   "name": "Tuas"
   },
   {
    "code": "UNI",

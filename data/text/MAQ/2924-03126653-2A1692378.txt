@@ -1,0 +1,139 @@
+  
+ 
+Macquarie Technology delivers twelve consecutive years of 
+EBITDA growth. 
+ 
+26 August 2026 
+ 
+Macquarie Technology Group Ltd (ASX: MAQ) (the Company) today announced its results for the 
+year ended 30 June 2026, which were in line with guidance. 
+Chair Lisa Brock said, “Macquarie Technology has now delivered twelve consecutive years of EBITDA 
+growth, reflecting the strength of our recurring revenue base and disciplined execution. By 
+accelerating the development of IC3 SuperWest and acquiring the Macquarie Engineering & 
+Technology Campus site, we are expediting investment in sovereign digital infrastructure and creating 
+additional capacity to support Australia's growing demand for cloud, AI and cyber security.” 
+Key Points 
+• Twelve consecutive years of EBITDA growth for the Group.  
+• Group Earnings before interest, tax, depreciation, and amortisation (EBITDA) of $115.9 million, an 
+increase of 2.0% on FY25 ($113.6 million). 
+• Operating cash flow of $94.6 million in FY26. Continued healthy cash conversion of 108%. 
+• 95% of revenue has come from contracted monthly recurring revenue. 
+• Investments in data centres result in increased financing and depreciation costs which impacts 
+EPS.  
+• IC3 SuperWest construction remains on track and on budget. 
+• The Australian Government invested $200 million into MAQ via the National Reconstruction Fund 
+Corporation (NRFC) – a sovereign investment fund to support nationally significant technological 
+innovation, digital infrastructure, defence and national security. The $200 million perpetual, 
+callable, subordinated, unsecured and non-convertible securities will be drawn in two series of 
+$100 million (first issuance completed on 1 June 2026, second by 1 March 2027). 
+• On 6 August 2026, MDC completed the acquisition of a ~34,200sqm site in Macquarie Park. The site 
+underpins a proposed ~200MW Macquarie Engineering & Technology Campus (‘METC’). This brings 
+MDC’s total capacity to an estimated ~268MW, of which 265MW is located within Sydney’s Tier 1 
+Northern Zone. 
+• Strong balance sheet with undrawn debt facility of $496.5 million and $100m Hybrid Securities Series 
+2 available to fund further investment. 
+• Capital expenditure was $230.5 million driven by Growth Capex of $193.3 million (including $186.2 
+million for IC3 SuperWest), Customer Growth Capex of $21.6 million and Maintenance Capex of 
+$15.6 million. 
+Chief Executive David Tudehope said, ”Our capital structure has become increasingly diversified 
+through the introduction of the Australian Government’s NRFC as a strategic investor. Combined with 
+our existing debt facilities, this long-term source of capital provides additional financial flexibility to 
+support the development of sovereign secure digital infrastructure, cyber security services and future 
+growth initiatives.” 
+Outlook 
+• The Company’s EBITDA is expected to have modest growth in FY27, assuming IC3 SuperWest Phase 
+1 revenue commences in 2H FY27.  
+• We continue to invest in our people and capabilities to support growth, with a disciplined 
+approach to resourcing and operational efficiency. 
+• We are strengthening the capabilities required to support the next phase of growth across the 
+MDC platform, including the development of METC. The holding costs of METC site are 
+approximately $1 million to $2 million p.a. (excluding financing costs). 
+For personal use only  
+ 
+• We are investing in AI-ready infrastructure and customer solutions, while deploying AI across the 
+Group to enhance productivity and operational performance. 
+• Construction of IC3 SuperWest Phase 1 (6MW) will be delivered on time and on budget and is 
+expected to be completed by September 2026. Additional Phase 2 of 13MW has been expedited 
+and is expected to be delivered by June 2027. This approach aligns with current market dynamics 
+which is seeing customer demand for larger capacity and faster lead times. 
+• IC3 SuperWest has attracted significant demand by multiple customers over the last months. 
+Negotiations with an anchor customer are well progressed.  
+• Macquarie recently completed the acquisition of a ~34,200sqm light industrial zoned development 
+site located between Talavera Road and the M2 motorway in Macquarie Park for a purchase 
+price of $240 million. 
+• The Company intends to construct an engineering and technology campus co-located within a 
+~200MW data centre campus in Macquarie Park. Designs remain subject to planning and other 
+approvals and will continue to be refined based on customer requirements, power approvals, 
+construction staging and funding. 
+• The proposed facility is intended to incorporate advanced air-cooling technology with limited 
+water usage and continue Macquarie's successful campus-style approach. Initial construction is 
+estimated to be completed in late calendar year 2029, subject to planning and other approvals. 
+• The new campus will build on Macquarie's partnership with Macquarie University and support 
+research, technology and learning opportunities. It is intended to provide practical, hands-on 
+opportunities for students and researchers to utilise latest data centre, cyber security, AI and cloud 
+technologies, while also delivering significant community benefits, including a proposed public 
+park, community garden and outdoor art gallery, subject to approvals. 
+• Building of new data centres on this campus is expected to be in a few years, in this period we will 
+consider a range of funding alternatives including project finance and new longer term 
+infrastructure investors in our data centres. 
+• FY27 is expected to deliver modest growth. It is a year of strategic investment, establishing the 
+foundations for the next phase of growth in CS&G AI, cyber security and cloud, and Telecom 
+secure networking solutions. 
+• In FY27, Cloud Services and Government (CS&G) revenue is expected to modestly grow with FY26 
+margins likely to be maintained.  
+• As cloud and AI adoption grows across our customer base, we are investing in new products, AI 
+platforms and infrastructure over the coming years to help customers manage their token and 
+security economics. 
+• In an AI-embedded environment, customers will face challenges similar to those in public cloud, 
+particularly around cost and security and we are well positioned to support them through this 
+transition. 
+• Macquarie Government continues to invest in Essential 8 security products. As attack surfaces 
+expand and threats grow more sophisticated, amplified by AI, organisations operating critical 
+infrastructure face heightened pressure to meet stringent regulatory and compliance standards. 
+• CS&G will continue to focus on cloud, cyber and AI requirements of our corporate and 
+government customers. 
+• Telecom remains an important channel for securing CS&G services. In FY27, Telecom’s EBITDA is 
+expected to reduce by $2 million to $3 million. Margins are anticipated to be mid to high-teens 
+levels after NBN pricing reduction has been passed to the customers. Traditional voice continues to 
+decline in line with the industry. Telecom's next phase of growth is the extension of SDWAN through 
+multi-vendor growth in security. 
+• Depreciation and amortisation for FY27 is expected to be $63 million to $67 million. Hosting 
+depreciation and amortisation is expected to be $52 million to $55 million and Telecom 
+depreciation $11 million to $12 million in FY27. 
+• The Company plans to make further investments in growth and customer growth capex during 
+FY27. Total capex before IC3 SuperWest and METC is expected to be between $40 million to $48 
+million consisting of: 
+For personal use only  
+ 
+• Customer Growth - $18 million to $22 million,  
+• Growth Capex - $4 million to $6 million, 
+• Maintenance Capex - $18 million to $20 million.  
+• IC3 SuperWest capex is expected to be between $180 million to $192 million to complete Phase 1 
+(6MW) in September 2026 and build out of Phase 2 (13MW). 
+• Total costs of acquiring the land at METC is $254 million plus expected development capex spend 
+between $11 million and $12 million. 
+• In total, Group capex is expected to be $485 million to $506 million in FY27. 
+• Telecom capex is expected to be between $12 million and $14 million in FY27 (included in the 
+above). 
+• Undrawn debt facilities of $496.5 million and Hybrid Securities Series 2 of $100m along with cash of 
+$4.9 million as of 30 June 2026 are available to fund the above capital requirements of the Group. 
+--ends-- 
+ 
+For more information, please contact:  
+David Tudehope – Chief Executive  
+(02) 8221 7090  
+ 
+Helen Cox – Chief Financial Officer 
+(02) 8221 7882 
+ 
+Investor@macquarietechnologygroup.com 
+ 
+Level 15, 2 Market Street, Sydney NSW 2000 
+ 
+About Macquarie Technology Group 
+We’re Australia’s data centre, cloud, cyber security and telecom company for mid to large business 
+and government customers. The way we do this is completely different from our competitors… we 
+provide the best customer service in Australia. 
+ 
+macquarietechnologygroup.com 
+For personal use only
