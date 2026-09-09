@@ -128,7 +128,7 @@ def test_a_parse_failure_is_not_recorded_as_settled():
     """It is an environment fault as often as a document fault, and there is no
     backfill: a document written off today cannot be fetched again once it
     leaves the five-item window."""
-    src = (ROOT / "tools" / "collect.py").read_text(encoding="utf-8")
+    src = code_only((ROOT / "tools" / "collect.py").read_text(encoding="utf-8"))
     body = src.split("PdfReader(path)", 1)[1].split("s = cfg[", 1)[0]
     assert "parse-failed" not in body, \
         "parse failures must stay retryable, not become a rejection row"
@@ -145,15 +145,18 @@ def test_the_collector_rebuilds_the_database_from_the_ledger():
 
 
 def test_ledgers_hold_no_duplicate_keys():
-    """Guards the repaired ledger against the bug coming back."""
-    import json
+    """Guards the repaired ledger against the bug coming back.
+
+    Reads through read_ledger rather than opening data/<name>.jsonl directly.
+    The direct version kept its "if not path.exists(): continue" line after
+    announcements were sharded into a directory, so it silently stopped checking
+    the largest table and stayed green - a test passing for the wrong reason,
+    which is worse than not having it."""
     for name, key in (("announcements", "document_key"), ("documents", "document_key"),
                       ("rejections", "document_key"), ("runs", "run_id")):
-        path = ROOT / "data" / f"{name}.jsonl"
-        if not path.exists():
-            continue
-        keys = [json.loads(l)[key]
-                for l in path.read_text(encoding="utf-8").splitlines() if l.strip()]
+        rows = common.read_ledger(name)
+        assert rows, f"{name} ledger is empty; this test would check nothing"
+        keys = [r[key] for r in rows]
         assert len(keys) == len(set(keys)), f"{name} has duplicate {key} rows"
 
 
@@ -225,3 +228,78 @@ def test_the_two_halves_of_the_gold_set_stay_separable():
     import json
     neg = json.loads((ROOT / "gold" / "labels_negative.json").read_text(encoding="utf-8"))
     assert all(d["source"] == "market_sweep" for d in neg["documents"])
+
+
+# --------------------------------------------------------------------------
+# the migration to the market-wide feed
+# --------------------------------------------------------------------------
+
+def code_only(src: str) -> str:
+    """Source with comments and docstrings stripped.
+
+    Second time this has been needed. test_workflow.py already learned it: a
+    test that greps whole source matches the COMMENT explaining why a thing is
+    banned, so the warning about the mistake trips the test for the mistake.
+    Either the comment gets deleted or the test does, and the comment is
+    load-bearing."""
+    import ast
+    tree = ast.parse(src)
+    for node in ast.walk(tree):
+        if isinstance(node, (ast.FunctionDef, ast.AsyncFunctionDef,
+                             ast.ClassDef, ast.Module)) and ast.get_docstring(node):
+            node.body = node.body[1:]
+    return ast.unparse(tree)
+
+
+def test_the_feed_uses_itemsPerPage_not_pageSize(cfg):
+    """pageSize is silently ignored on this endpoint and returns 25 rows, so a
+    sweep configured with it reaches a quarter of the market and looks fine."""
+    src = code_only((ROOT / "tools" / "collect.py").read_text(encoding="utf-8"))
+    feed = src.split("def feed_url", 1)[1].split("\ndef ", 1)[0]
+    assert "itemsPerPage" in feed, feed
+    assert "pageSize" not in feed, feed
+    assert cfg["feed_items_per_page"] == 100
+
+
+def test_a_short_sweep_fails_the_run(cfg):
+    """A sweep that stops early is indistinguishable from a quiet day, which is
+    the exact failure shape this project keeps hitting."""
+    src = (ROOT / "tools" / "collect.py").read_text(encoding="utf-8")
+    assert "feed_min_pages_ok" in src
+    assert 0 < cfg["feed_min_pages_ok"] < cfg["feed_max_pages"]
+
+
+def test_the_liveness_probe_survived_the_migration():
+    """The sweep cannot tell a delisted code from a company with nothing to
+    announce - absence from a market feed is the normal state. The per-ticker
+    loop is kept for that one job, and it is how IFM, JLG and RUL were found."""
+    src = (ROOT / "tools" / "collect.py").read_text(encoding="utf-8")
+    assert "def probe_universe" in src
+    probe = src.split("def probe_universe", 1)[1].split("\ndef ", 1)[0]
+    assert "doc_url" not in probe, "the probe must not download documents"
+
+
+def test_announcements_are_sharded_by_month():
+    """~145 rows a day into one file would re-diff ~53,000 rows a year on every
+    commit."""
+    import common as c
+    assert "announcements" in c.SHARDED
+    assert not (ROOT / "data" / "announcements.jsonl").exists(),         "the unsharded ledger is still there; read_ledger will not see it"
+    assert (ROOT / "data" / "announcements").is_dir()
+
+
+def test_a_shard_is_keyed_on_the_RECORD_date_not_today(tmp_path, monkeypatch):
+    """A backfill must land in the month it belongs to, or a re-run months later
+    files old announcements under the wrong shard."""
+    import common as c
+    monkeypatch.setattr(c, "LEDGERS", {"announcements": tmp_path / "ann"})
+    p = c.ledger_path("announcements", when="2026-03-14T00:00:00Z")
+    assert p.name == "2026-03.jsonl"
+
+
+def test_read_ledger_concatenates_every_shard(tmp_path, monkeypatch):
+    import common as c
+    monkeypatch.setattr(c, "LEDGERS", {"announcements": tmp_path / "ann"})
+    for month in ("2026-03-01", "2026-08-01", "2026-09-01"):
+        c.append("announcements", {"document_key": month, "ticker": "X"}, when=month)
+    assert len(c.read_ledger("announcements")) == 3

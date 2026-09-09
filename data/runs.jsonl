@@ -3,3 +3,5 @@
 {"finished_at": "2026-09-09T10:51:10+00:00", "new_announcements": 0, "new_documents": 0, "run_id": "bb857dc60776", "started_at": "2026-09-09T10:51:08+00:00", "tickers": 2, "tickers_ok": 2}
 {"finished_at": "2026-09-09T10:52:24+00:00", "new_announcements": 0, "new_documents": 1, "run_id": "5b0fa5a1deca", "started_at": "2026-09-09T10:51:48+00:00", "tickers": 47, "tickers_ok": 47}
 {"finished_at": "2026-09-09T11:16:12+00:00", "new_announcements": 49, "new_documents": 5, "run_id": "d95e7097e381", "started_at": "2026-09-09T11:13:32+00:00", "tickers": 10, "tickers_ok": 10}
+{"finished_at": "2026-09-09T12:39:43+00:00", "new_announcements": 54, "new_documents": 0, "run_id": "b3cd19534104", "started_at": "2026-09-09T12:39:37+00:00", "tickers": 67, "tickers_ok": 0}
+{"finished_at": "2026-09-09T12:51:37+00:00", "new_announcements": 2616, "new_documents": 44, "run_id": "fd055f66ab36", "started_at": "2026-09-09T12:40:12+00:00", "tickers": 67, "tickers_ok": 67}

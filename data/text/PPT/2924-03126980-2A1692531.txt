@@ -1,0 +1,1139 @@
+ 
+ 
+Page 1 
+ 
+          
+ 
+ 
+ 
+ 
+ 
+ 
+27 August 2026 
+ 
+ASX Limited 
+ASX Market Announcements Office 
+Level 27, 39 Martin Place 
+Sydney NSW 2000 
+ 
+ 
+ 
+ 
+Perpetual FY26 Financial Results 
+ 
+The following announcements to the market are provided: 
+ 
+ FY26 Appendix 4E 
+ FY26 ASX Announcement 
+ FY26 Full Year Statutory Accounts 
+✓ FY26 Results Presentation 
+ FY26 Operating and Financial Review  
+ Appendix 4G 
+ FY26 Corporate Governance Statement 
+ 
+Yours faithfully,  
+ 
+Sylvie Dimarco 
+Company Secretary 
+(Authorising Officer) 
+ 
+Perpetual Limited  
+ABN 86 000 431 827
+ 
+Angel Place  
+Level 14, 123 Pitt Street 
+Sydney NSW 2000 
+ Australia
+ 
+Phone +61 9229 9000 
+www.perpetual.com.au 
+ 
+For personal use onlyPerpetual Limited (ASX:PPT)
+FY26 Results Presentation
+For the full year ended 30 June 2026
+Presented by:
+Bernard Reilly, CEO and Managing Director
+Suzanne Evans, Chief Financial Officer
+For personal use onlyDisclaimer
+2
+Important information
+This presentation has been prepared by Perpetual Limited ABN 86 000 431 827 
+(Perpetual). It is in summary form and does not purport to be complete. It should 
+be read together with Perpetual’s consolidated financial statements and other 
+announcements lodged with the Australian Securities Exchange (ASX), which are 
+available at www.asx.com.au.
+The information in this presentation is general information only and does not 
+constitute financial product advice or take into account any person’s objectives, 
+financial situation or needs. Before acting on the information, a person should 
+consider its appropriateness having regard to those matters and, where 
+appropriate, obtain independent financial advice.
+References to ‘Perpetual’ are to Perpetual Limited, unless otherwise stated. 
+References to ‘Perpetual Group’ or ‘Group’ are to Perpetual Limited and its 
+subsidiaries and related bodies corporate. References to ‘Pendal’ or ‘Pendal 
+Group’ are to Pendal Group Limited ABN 28 126 385 822, unless otherwise 
+stated.
+This presentation contains forward-looking statements, including statements 
+regarding future performance, strategy, targets, ambitions, plans, objectives, 
+expected completion dates, financial outcomes and other future matters. 
+Forward-looking statements are based on Perpetual’s current expectations, 
+estimates, assumptions and projections as at the date of this presentation. They 
+involve known and unknown risks, uncertainties, assumptions and other factors, 
+many of which are outside Perpetual’s control, that may cause actual results, 
+performance or outcomes to differ materially from those expressed or implied. 
+Perpetual cautions against placing undue reliance on any forward-looking 
+statement.
+No representation or warranty, express or implied, is made as to the accuracy, 
+completeness, likelihood of achievement or reasonableness of any forward-
+looking statement or the assumptions on which it is based. To the maximum 
+extent permitted by law, neither Perpetual nor any member of the Perpetual 
+Group accepts responsibility or liability for any loss arising from reliance on this 
+presentation. Perpetual undertakes no obligation to update any forward-looking 
+statement to reflect events or circumstances after the date of this presentation, 
+except as required by law or the ASX Listing Rules.
+Past performance is not indicative of future performance. No company in the 
+Perpetual Group guarantees the performance of any fund, strategy or investment, 
+the repayment of capital or any particular rate of return.
+The Product Disclosure Statements (PDSs) for Perpetual Asset Management 
+Australia funds are issued by Perpetual Investment Management Limited ABN 18 
+000 866 535, AFSL 234426 (PIML). The applicable PDS and Target Market 
+Determination are available by calling 1800 022 033 or at perpetual.com.au.
+The PDSs for Pendal funds are issued by Pendal Fund Services Limited ABN 13 
+161 249 332, AFSL 431426 (PFSL). The applicable PDS and Target Market 
+Determination are available by calling 1300 346 821 or at pendalgroup.com.
+The applicable PDS should be considered before deciding whether to acquire or 
+hold units in a Perpetual or Pendal fund. The applicable offering document for a 
+strategy offered by Barrow Hanley, J O Hambro, Trillium Asset Management or 
+TSW should be considered before deciding whether to invest in that fund or 
+strategy. Those funds or strategies may not be available or offered in Australia. 
+Where a strategy is used by PIML or PFSL, refer to the applicable PDS for further 
+information.
+For personal use onlyFY26 highlights
+Bernard Reilly
+CEO and Managing Director half year ending 31 December 2021
+For personal use onlyPerpetual today 
+4
+1.The sale of Wealth Management remains track for expected completion in Q4 calendar year, subject to the satisfaction or waiver of the remaining conditions precedent and the receipt of required approvals. 2. Operating revenue is 
+presented net of distributions and expenses of the EMRF structured products. For statutory purposes, revenue, distributions and expenses are adjusted to reflect the gross revenue and expenses of these products. 3. Diluted EPS on 
+UPAT is calculated using the weighted average number of ordinary shares and potential ordinary shares of 116,674,625 for FY26 (FY25: 112,888,297). 4. Dividends payable as a proportion of UPAT on ordinary fully paid shares at the 
+end of each reporting period. Perpetual’s dividend policy is to pay dividends within a range of 60% to 90% of UPAT on an annualised basis and maximising returns to shareholders. 5. Underlying Profit Before Tax for the period ending 
+30 June 2026.
+• Earnings growth supported by Corporate Trust growth and improved Asset Management profitability
+• Disciplined cost management has led to Simplification Program exceeding original targets
+• Strong cash generation is strengthening the balance sheet and providing financial flexibility and capital management capacity
+• Sale of Wealth Management to Bain Capital Private Equity, LP (Bain Capital) remains on track1
+• Continued investment in growth capabilities, including Interfi Systems Pty Ltd (Interfi) acquisition
+FY26 key themes
+FY26 UPBT breakdown by division5
+55
+65 65
+53
+61
+54 59 63
+80% 76% 75%
+56%
+70%
+60% 60%
+70%
+40% 40% 35%
+50%
+0% 0% 0% 0%
+1H23 2H23 1H24 2H24 1H25 2H25 1H26 2H26
+Dividends (cps) Payout ratio Franking rate
+Dividends (cps)4, payout ratio and franking rateHeadline results
+FY26 FY25
+Revenue ($m)2 1,374.2 1,373.0
+Underlying Profit After 
+Tax (UPAT) ($m) 217.0 204.1
+Diluted EPS 
+on UPAT (cps)3 186.0 180.8
+Net profit/(loss) after 
+tax ($m) 88.9 (58.2)
+Dividends (cps)4 122.0 115.0
+59%
+13%
+28%
+Asset
+Management
+Wealth
+Management
+Corporate
+Trust
+For personal use only5
+FY26 progress
+Simplify Deliver operational excellence Invest for growth
+✓ Wealth Management sale on track1, with 
+Perpetual obtaining the required AFSL 
+variations from ASIC and Bain Capital 
+receiving ACCC approval 
+✓ Simplification Program delivered $72.6 
+million in annualised savings to date with 
+further savings to be realised in FY27
+✓ Continued evolution of business model to 
+drive end-to-end business accountability, but 
+with Group oversight
+✓ Disciplined cost and capital management 
+practices, resulting in a reduction in the 
+Group’s Cost-to-Income ratio
+✓ Executed succession planning across 
+boutiques through key leadership 
+appointments at J O Hambro, TSW and 
+Trillium
+✓ Organically strengthened the balance 
+sheet, reducing gross debt by 15%2
+✓ Corporate Trust completed acquisition of Interfi 
+and IAM’s term deposit broking business in 
+FY26
+✓ Creating new channels and accessing new 
+client segments through Active ETFs and 
+listed investment vehicles
+✓ Seeded four products across international and 
+thematic equity strategies in FY26 across our 
+boutiques
+Executing on our strategic priorities
+1. Refer to slide 4 for further information regarding the sale. 2. As at 30 June 2026.
+For personal use onlySale of Wealth Management
+6
+Regulatory approvals (FIRB)
+Perpetual has commenced court processes to facilitate the transfer of 
+certain assets, liabilities and undertakings relating to Wealth 
+Management, including schemes of arrangement under Part 5.1 of the 
+Corporations Act. 
+Steps to closing
+• Continue to make progress towards satisfying conditions precedent1, including Bain Capital receiving ACCC approval and Perpetual obtaining from ASIC 
+the required AFSL variations
+• Commenced the Court processes to facilitate the transfer of certain assets, liabilities and undertakings relating to the Wealth business, including by way 
+of Schemes of Arrangement
+• Sale remains a key strategic and management priority as part of Perpetual’s ongoing simplification
+Use of proceeds
+• Net proceeds2 will be used to repay debt (Facility D – Bridge)
+• Subject to completion and current assumptions regarding consideration, transaction and separation costs, tax and other completion adjustments, 
+Perpetual expects to be in a net cash position on a pro-forma basis following completion
+Consideration
+$500 million (with potential for an additional 
+$50 million at completion3, and $50 million two 
+years after completion4)
+Transaction and Separation costs5 $30 million (post-tax) remaining, over 12 – 18 
+months
+Estimated tax6 $25 - $30 million
+Stranded costs Expected to be immaterial
+Targeted completion date1 Q4 CY2026
+Key financial points
+1. Completion of the transaction is subject to the satisfaction or waiver of the remaining conditions precedent and certain termination rights, including for the non-satisfaction of the conditions or due to the occurrence of one or 
+more events that would, or be reasonably expected to, materially adversely impact FY26 or FY27 earnings of Wealth Management. 2. Relevant final amounts to be determined at completion. 3. Incremental business 
+performance and activity in the period to completion could potentially deliver additional upfront consideration of up to $50 million, with a mid-point of $25 million, relating to the performance of the advice business. 4. An earn-out 
+payment of up to $50 million relating to the performance of the Accounting and Wealth operations following completion, which will be tested and payable two years following completion. 5.Transaction and separation costs reflect 
+the costs not already incurred and expensed as at 31 December 2025 and are expected to be incurred over 12 – 18 months from 1 January 2026. 6. This estimate is based on expected consideration and other transaction-
+related assumptions.
+For personal use only• Annualised life-to-date savings of $72.6 million delivered as at 30 June 
+2026
+– $60.8 million of gross savings realised in FY26 results
+– Majority of savings delivered through operating model efficiencies
+– $12.8 million2 expense in FY26 in relation to the Simplification 
+Program
+• Key simplification focus areas for FY27 include closing out:
+– Finance systems transformation
+– Middle office simplification
+• FY27 target remains on track to achieve annualised savings at the upper 
+end of the range1
+• Total costs to achieve program unchanged at ~$55 million
+• Opportunity to unlock further simplification benefits post-sale of Wealth 
+Management
+Indicative phasing of program
+Simplification Program1
+1. The Simplification Program was announced in Full Year 2024 Results (August 2024) targeting a reduction in costs estimated between $25 - $35 million p.a. before tax, over two years. At Perpetual’s Half Year 2025 Results in 
+February 2025, the target was upgraded to $70 – $80 million in annualised cost savings (pre-tax) by the end of FY27. 2. Pre-tax.
+Already delivered $70+ million in annualised savings
+7
+Savings
+30 June 25 30 June 26 30 June 27
+$28 m
+Annualised 
+savings 
+achieved
+Year 3 
+target
+Scope for further 
+simplification post-sale 
+of Wealth Management
+$8m$44 m
+Annualised 
+savings 
+achieved
+For personal use only61 54 59 63
+70%
+60% 60%
+70%
+8
+18
+28
+38
+48
+58
+68
+78
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1H25 2H25 1H26 2H26
+Dividends (cps) Payout ratio (%)
+Gross debt1
+Enhanced financial flexibility and capital management capacity
+8
+Gross debt1 ($m)
+1. Gross debt excludes capitalised borrowing costs. 2. As at 30 June 2026.
+745.0
+685.5
+738.5
+629.3
+FY23 FY24 FY25 FY26
+15%
+on 30 June 2025
+Expect to move to a net cash (net 
+debt free) position post the sale of 
+the Wealth Management business
+Dividends (cps) and payout ratio (%)
+Execution to date
+✓ Organically reduced gross debt by $109 million over the year to $629 million as at 30 June 
+2026 through higher cash generation and disciplined capital management
+✓ Gearing ratio down to 28.8%1 at the end of FY26 
+✓ $199.9 million of surplus available liquid funds2 
+✓ Consistent dividend payout with final dividend of 63.0 cps declared, unfranked, to be paid on 
+2 October 2026
+✓ Expect a return to partial franking in FY27
+Future objectives
+Disciplined capital management to
+– Maintain financial flexibility and liquidity
+– Evaluate capital management initiatives 
+alongside dividends, and
+– Ensure efficient capital allocation to 
+maximise shareholder value over the 
+long-term
+For personal use onlyFY26 total net outflows of $25.1b
+Asset Management – key themes across boutiques for FY26
+FY26 gross and net flows by boutique3 ($b)
+1. 3 years to 30 June 2026. 2. Past performance is not indicative of future performance. Returns are presented gross of investment management fees and include the reinvestment of all income. Investment performance of the 
+strategies may differ once fees and costs are taken into account. Refer to Barrow Hanley's, J O Hambro's, Pendal's, Perpetual's, Trillium's and TSW's websites for further performance information. 3. Totals are subject to rounding.
+% of strategies outperforming2 by boutique (1, 3 and 5 years to 30 June 
+2026)
+78
+26
+35
+61
+13
+42
+73
+50 48
+55
+0
+42
+95
+43
+50
+75
+13
+55
+Barrow Hanley J O Hambro Pendal Perpetual Trillium TSW
+1 Year 3 Year 5 Year
+9
+8.0 
+4.6 
+23.0 
+4.3 
+0.8 1.7 
+(15.8)
+(11.9)
+(3.7) (2.2)
+(6.7)(7.8) (7.2)
+(4.0)
+0.6 (1.5) (5.1)
+Barrow
+Hanley
+J O Hambro Pendal Perpetual Trillium TSW
+Inflows Outflows Netflows Pendal Ex-Cash
+(9.1)
+7.1
+Trillium
+Barrow Hanley J O Hambro Pendal
+Perpetual TSW
+• Strong investment 
+performance1,2 and 
+growing AUM
+• US equity outflows 
+reflect broader trends 
+in active US strategies
+• Some inflows into 
+Global strategies.
+• Strong investment 
+performance1,2 in UK 
+and emerging markets 
+strategies
+• Mixed flows, with larger 
+outflows in Global and 
+International strategies
+• Global Emerging 
+Markets Opportunities 
+experienced inflows.
+• Solid investment 
+performance1,2 in 
+cash and fixed 
+income, and select 
+Australian equities 
+strategies
+• Inflows into select 
+equities and fixed 
+income strategies.
+• Resilient investment 
+performance1,2 across 
+fixed income and 
+select Australian 
+equities strategies
+• Positive net flows 
+supported by client 
+demand and 
+continued Active ETF 
+momentum.
+• International Equity 
+strategies continue to 
+outperform1,2 their 
+benchmarks on a 3-
+year time horizon 
+• Outflows were 
+concentrated in 
+International Equities 
+whilst Emerging 
+Markets saw net 
+inflows.
+• Benchmark 
+relative investment 
+performance1,2 
+reflects true-to-
+label thematic 
+positioning and 
+impact-focused 
+investment 
+approach
+• Flows impacted by 
+ESG strategy 
+sentiment in the 
+US.
+For personal use onlyLeveraging our global platform
+10
+UK and EuropeAsia Pacific
+• Expand existing ICAV1 structure to 
+broaden client access
+• Recent approval to launch the 
+JOHCM Emerging Market fund 
+within the ICAV umbrella
+• Perpetual Diversified Income Active 
+ETF launched in August 2025 (ASX: 
+DIFF)
+• Perpetual Global Active Income Fund 
+seeded in June 2026
+1. ICAV refers to an Irish Collective Asset-management Vehicle, an Irish-regulated collective investment vehicle.
+Americas
+• Active ETFs planned for the US 
+wholesale market, based on strong 
+client demand in the region
+• Barrow Hanley Diversified Global 
+Value fund seeded in November 
+2025
+For personal use onlyCURRENT POSITION
+• Differentiated equity specialist with 
+autonomous, active teams
+• Strong brand in home market and 
+established distribution platform
+• Challenging flow patterns in largest 
+strategies due to investment 
+performance, market sentiment and 
+structural change 
+Restoring JO Hambro to its heritage strength
+11
+FY26 TO FY27 ACTIONS
+• Expand into active ETF capabilities and 
+ICAV initiatives to broaden distribution 
+across UK and European markets
+• Continued outperformance across key 
+Emerging Markets and UK Equities 
+capabilities
+• Identified opportunities to unlock 
+operational efficiencies in FY27
+• Low correlated diversified solutions
+• Differentiated but scalable product 
+range
+• Strong appeal in core global markets 
+• Disciplined cost management 
+practices that support operating 
+leverage
+FY30 AMBITION
+1. As at 30 June 2026.
+$33 billion1 ~$55 billion to $60 billion
+Note: This page contains illustrative examples and forward-looking statements which involve known and unknown risks and uncertainties and may differ materially from actual outcome. It is not a forecast, guarantee or commitment as 
+to future performance, and should not be relied upon in making investment decisions
+AUM AUM ambition
+Our AUM ambition for J O Hambro 
+For personal use onlyCorporate Trust
+12
+• Strong momentum in FY26 as 
+the Australian securitisation 
+market grows at near record 
+pace3 supporting Debt Market 
+Services’ Funds Under 
+Administration (FUA)
+• Revenue growth of 10%4
+• Managed Funds Services FUA 
+growth continued to be driven 
+by Custody and Singapore, 
+with the latter successfully 
+being appointed as trustee of 
+3 new REIT listings on the 
+Singapore Exchange
+• Revenue growth of 8%4
+• Performance in the Digital and 
+Markets business driven in part 
+by the continued growth in 
+Perpetual Intelligence offerings, 
+contributing toward the 14% 
+uplift in Assets Under 
+Administration (AUA) compared 
+to FY25
+• Revenue growth of 2%4
+1. CAGR refers to the compound annual growth rate for the 5 years to 30 June 2026. 2. Public Market Securitisation FUA includes RMBS – bank, RMBS – non-bank, and ABS & CMBS FUA. 3. Source: Westpac, ‘Australian 
+Securitisation 1H 2026 Securitisation Update’, July 2026. 4. Compared to FY25. 5. Assets under Administration as at 30 June 2026. Digital and Markets AUA has been restated in FY25 to align with the updated calculation 
+methodology.
+188 192 221 251 272
+69
+77 78
+86
+95
+FY22 FY23 FY24 FY25 FY26
+Debt Market Services
+Public Market Securitisation FUA
+Total DMS revenue
+410 471 496 540 595
+70
+77
+84 88
+95
+FY22 FY23 FY24 FY25 FY26
+Managed Funds Services
+FUA Revenue
+Revenue CAGR – 6.7% p.a.1 Revenue CAGR – 6.2% p.a.1
+Revenue CAGR – 9.5% p.a.1
+2
+73 82 85 91 99
+FY22 FY23 FY24 FY25 FY26
+UPBT
+Corporate Trust
+UPBT CAGR – 6.4% p.a.1
+• Delivered consistent growth 
+across a 10-year period with a 
+CAGR of 10% for revenue 
+and 12% for profit
+• UPBT growth of 9%4
+626 455 545 559 639
+20
+23 26
+30 31
+FY22 FY23 FY24 FY25 FY26
+Digital and Markets
+AUA Revenue5
+For personal use onlyCorporate Trust
+13
+1. All Ordinaries Index, 2026. 2.Source: RBA, Growth in Selected Financial Aggregates – D1, 2026. 3. UPBT for FY21 onwards has been represented to align with the revised definition of UPAT.
+Annual equity market movements (All Ordinaries Index1) vs Australian credit growth2 vs 
+annual earnings (before tax) growth
+• Acquired majority interest in Interfi, expanding Corporate Trust's loan servicing and digital 
+capabilities while complementing its core Debt Market Services offering
+• Interfi’s platform supports the full loan lifecycle for non-bank lenders, with ~$55 billion in 
+assets under administration
+• Creates opportunities to align Interfi's servicing platform with the Perpetual Intelligence 
+platform to deliver enhanced end-to-end solutions.
+• Credit growth continues to underpin lending, 
+funding and securitisation activity
+• Growth has been driven by public securitisation, 
+particularly in the non-bank RMBS and ABS 
+segments
+• Bespoke solutions help our clients improve 
+efficiency, transparency and manage regulatory 
+outcomes
+Strengthening our capability with a majority interest acquisition in Interfi
+-40.0%
+-20.0%
+0.0%
+20.0%
+40.0%
+FY16 FY17 FY18 FY19 FY20 FY21 FY22 FY23 FY24 FY25 FY26
+ASX all ords CT UPBT Credit growth
+For personal use onlyWealth Management
+• Sale of Wealth Management remains on track for completion in the final quarter of the 2026 calendar year
+• Wealth Management focused on delivering client outcomes as the sale process continued 
+– Revenue moderated with softer non-market revenue across Accounting and Wealth operations
+– UPBT was $44.0 million, $7.5 million lower on FY25 reflecting lower non-market revenue and continued investment
+– FUA increased 3%, driven by continued institutional inflows and improved equity markets.
+14
+Record high Net Promoter Score
++42
++46 +48
++56 +57
+FY22 FY23 FY24 FY25 FY26
+FUA balances ($b)
+19.8
+21.5
+22.1
+FY24 FY25 FY26
+For personal use onlyFY26 Group financials
+Suzanne Evans
+Chief Financial Officer year ending 31 December 2021
+For personal use onlyFor the period
+FY26
+ $m
+FY25              
+$m
+FY26 v FY25 
+(%)
+Operating revenue 1,374.2 1,373.0 0
+Operating expenses (970.3) (973.0) 0
+EBITDA 403.9 400.1 1
+Depreciation and amortisation (42.6) (44.9) 5
+Equity remuneration expense (14.8) (14.4) (3)
+Interest expense (50.8) (61.5) 17
+Underlying profit before tax (UPBT) 295.8 279.2 6
+Tax expense (78.8) (75.0) (5)
+Underlying profit after tax (UPAT)1 217.0 204.1 6
+Significant items2 (128.1) (262.4) 51
+Net profit after tax (NPAT)3 88.9 (58.2) Large7
+Diluted earnings per share (EPS)4 on UPAT (cps) 186.0 180.8 3
+Diluted earnings per share (EPS)5 on NPAT (cps) 76.2 (52.1) Large7
+Dividends (cps)6 122.0 115.0 6
+FY26 financial results summary
+16
+Note that totals are subject to rounding. 
+Summary points
+• UPBT up 6% supported by growth in 
+Corporate Trust and improved earnings in 
+Asset Management
+• Cost discipline continued to improve earnings, 
+with lower expenses supported by 
+simplification benefits and project completions
+• Effective tax rate on UPBT was 26.6% (26.9% 
+in FY25)
+• NPAT benefited from a tax credit associated 
+with the proposed sale of Wealth 
+Management, recognised in significant items, 
+partially offset by a non-cash impairment 
+related to the TSW boutique
+• Final dividend of 63cps, unfranked, to be paid 
+on 2 October 2026 and representing a 70% 
+payout ratio on 2H26 UPAT
+1. Underlying profit after tax (UPAT) attributable to equity holders of Perpetual Limited. 2. Significant items breakdown is shown in Appendix A and B of the OFR. 3. Net profit after tax includes impairments of $134.6 million in FY25 
+and $63.5 million in FY26. 4. Diluted EPS on UPAT is calculated using the weighted average number of ordinary shares and potential ordinary shares on issue of 116,674,625 for FY26 (FY25: 112,888,297). 5. Diluted EPS on 
+NPAT is typically calculated using the weighted average number of ordinary shares and potential ordinary shares, except for FY25 which excluded potential ordinary shares on the basis that NPAT is in a loss-making position. The 
+weighted average number of shares used in diluted earnings per share calculation is 116,674,625 for FY26 (FY25: 111,624,771). 6. Dividends payable as a proportion of UPAT on ordinary fully paid shares at the end of each 
+reporting period. Perpetual’s dividend policy is to pay dividends within a range of 60% to 90% of UPAT on an annualised basis and maximising returns to shareholders. 7. Large is defined as a percentage change that exceeds +/- 
+200%.
+For personal use onlyAsset Management
+17
+For the period FY26
+ $m
+FY25
+ $m
+FY26 v FY25
+(%)
+Management fee revenue1 853.3 869.6 (2)
+Performance fee revenue 27.2 34.3 (21)
+Revenue 880.5 903.9 (3)
+Operating expenses (644.2) (672.5) 4
+EBITDA 236.3 231.4 2
+Depreciation and amortisation (16.6) (18.9) 12
+Equity remuneration (9.1) (9.2) 1
+Interest expense (3.1) (2.3) (39)
+Underlying profit before tax 207.5 200.9 3
+Average revenue margin (bps2) 39 40 (3)
+Note that totals are subject to rounding.
+1. Includes non-AUM related revenue of $0.4 million in FY26 and $1.0 million in FY25. 2. Basis points.
+• UPBT increased 3%, supported by higher average 
+AUM and ongoing cost discipline
+• Management fee revenue remained broadly stable, 
+reflecting higher average AUM partially offset by 
+currency movements, lower performance fees and 
+mix impacts
+• Performance fees remained a modest 
+contributor at 3% of total revenue
+• Operating expenses decreased 4%, benefiting from 
+continued Simplification Program savings and lower 
+variable remuneration
+• Improved efficiency drove the cost to income ratio 
+to 76% in FY26, compared to 78% in FY25
+For personal use onlyCorporate Trust
+18
+For the period FY26
+ $m
+FY25
+ $m
+FY26 v FY25
+(%)
+Debt Market Services (DMS) revenue 95.0 86.1 10
+Managed Funds Services (MFS) revenue 95.1 88.1 8
+Digital & Markets revenue 30.7 30.1 2
+Total revenue 220.8 204.2 8
+Operating expenses (106.2) (99.2) (7)
+EBITDA 114.6 105.0 9
+Depreciation and amortisation (11.7) (11.1) (5)
+Equity remuneration (2.2) (2.0) (10)
+Interest expense (2.0) (0.9) (120)
+Underlying profit before tax 98.8 90.9 9
+Note that totals are subject to rounding. 
+• UPBT increased 9%, with all three business lines 
+contributing to growth
+• Revenue increased 8%
+• Cost to income ratio remained stable at 55% while 
+continuing to invest for growth
+• Ongoing investment in capability, innovation and strategic 
+growth initiatives, including Interfi
+• FUA and AUA growth reflected strength across 
+securitisation, custody, Singapore and digital solutions
+For personal use onlyGroup Support Services
+19
+For the period FY26
+ $m
+FY25
+ $m
+FY26 v FY25
+(%)
+Interest income 10.5 9.7 8
+Other income 28.9 19.6 47
+Total revenue 39.4 29.3 34
+Operating expenses (45.3) (29.5) (54)
+EBITDA (5.9) (0.2) Large1
+Depreciation and amortisation (5.6) (6.3) 11
+Equity remuneration (0.4) (0.5) 20
+Interest expense (42.7) (57.2) 25
+Underlying loss before tax (54.5) (64.2) 15
+Note that totals are subject to rounding. 
+• Improved earnings contribution reflecting stronger 
+investment income and lower financing costs
+• Revenue up 34% from seed fund income and foreign 
+currency revaluations
+• Refinancing benefits and debt reduction lowered interest 
+expense
+• Continued investment in technology, AI and productivity 
+initiatives
+• Higher Barrow Hanley2 employee-owned unit distributions 
+reflected stronger boutique performance.
+1. Large is defined as a percentage change that exceeds +/- 200%. 2. Barrow Hanley is 77% owned by Perpetual with the remaining interest in the firm held by employees. Perpetual’s ownership fluctuates depending on 
+employee ownership within Barrow Hanley. 
+For personal use onlyFY26 
+UPAT
+Pendal Group Sale of Wealth 
+Management
+Simplification 
+Program
+Non-cash 
+amortisation of 
+acquired 
+intangibles
+Unrealised 
+gains on 
+financial assets
+Accrued incentive 
+compensation 
+liability
+Impairment 
+losses on non-
+financial assets
+FY26 NPAT
+(4.7)
+20.9
+(9.0)
+(60.2)
+3.5
+(15.1)
+(63.5)
+UPAT to NPAT reconciliation
+$128.1 million of significant items, predominantly driven by non-cash items
+2
+1. Totals are subject to rounding. 2. Relates to amortisation expense on customer contracts and non-compete agreements acquired through business combinations. 3. Relates to unrealised mark to market gains and losses 
+on EMRF, seed fund investments, financial assets held for regulatory purposes and derivative financial instruments. 4. This liability reflects the value of employee-owned units in Barrow Hanley. 
+3 4
+88.9
+217.0
+Non-cash itemsCash items
+Significant Items Review
+• Review undertaken of significant 
+items resulted in aged projects 
+completing or, where appropriate, 
+moving above the line
+• Unless material non-recurring 
+business occurs, significant items will 
+be primarily driven by non-cash items 
+on a go forward basis
+• Final Pendal Group costs closed out 
+in FY26, with the Simplification 
+Program due to complete by FY27
+• Costs associated with the sale of 
+Wealth Management are expected to 
+cease by the end of FY27 following 
+the expected completion of the 
+transaction with Bain Capital in Q4 of 
+CY26
+20
+150.9
+For personal use only8.8 5.4 11.2 4.5
+21.6
+(42.3)
+3.2
+(15.2) (12.6)
+FY25 
+Expenses
+Investment in growth 
+in Corporate Trust
+Wealth Management Variable 
+Remuneration
+Barrow Hanley 
+24% Distribution
+Inflation related 
+staff costs
+Simplification Program 
+benefits
+Other Total Expenses 
+before movement 
+in external 
+factors
+FX impact Interest 
+expense
+FY26
+Expenses
+Controllable cost growth
+Expense analysis
+FY26 expenses stable
+794.6
+% 
+change 
+1% -3% -1%
+Controllable cost growth2 in the range of 1 to 2%; FY27 cost-to-income ratio expected to be 78% 
+1. Totals are subject to rounding. 2. Based on current planning assumptions for continuing operations which excludes wealth, foreign currency and interest expense. Guidance may be impacted by market-related expense 
+movements within Asset Management and variable remuneration linked to performance fees.
+1,093.9
+1,078.5
+1,106.2
+21
+For personal use only30 Jun 
+2025
+Cash
+Net cash 
+receipts in 
+course of 
+operations
+Tax & 
+interest
+Lease 
+payments
+Capex Dividends Cash before 
+acquisitions 
+and seed 
+fund 
+investment
+Net 
+repayments 
+on 
+borrowings
+Net payment 
+for 
+acquisition of 
+a business
+Net 
+proceeds 
+from seed 
+funds
+FX impact 
+on cash 
+held
+30 Jun 
+2026
+Cash
+Free Cash Flow 
+$228.5m2
+Cashflow analysis
+1. Totals are subject to rounding. 2. Free Cash Flow includes net cash receipts in course of operations, less tax & interest, less lease financing costs less capex. Investing in product proceeds and payments have been included within 
+net cash receipts in course of operations. 
+22
+Key themes 
+• Free Cash Flow has 
+increased by $93m, 
+reflecting lower 
+transaction costs and 
+continued cost 
+discipline
+• Strong cash 
+generation supported 
+debt reduction, with 
+net repayments during 
+the year
+• Acquisition of 70% of 
+Interfi completed in 
+FY26
+• Proactively recycled 
+seed capital
+343.2 
+307.2 
+(37.9) (25.1) (15.9)
+(126.5)
+445.0 
+(100.0) (16.7)
+12.2 
+(8.7)
+331.8 
+For personal use onlyKey priorities
+Bernard Reilly
+CEO and Managing Director half year ending 31 December 2021
+For personal use onlyKey priorities over the next 12 months
+Deliver cost reduction commitments and continue building a leaner, more efficient structure 
+Retain market position in Corporate Trust and invest in expanding capability
+Targeted product innovation and selective investment in new capabilities across Asset Management
+24
+Complete the sale of Wealth Management, further deleverage the balance sheet and increase financial flexibility
+Invest in technology and productivity initiatives to support scalable growth
+For personal use onlyAppendices
+For personal use only26
+Group strategy
+Simplify Deliver operational excellence Invest for growth
+Simplify the Group and drive greater autonomy and 
+accountability
+Strong client engagement built on quality products 
+and services. 
+Disciplined cost, performance and capital 
+management  
+Improve performance and measured investment to 
+deliver earnings growth
+• Remove complexity and create a leaner, more efficient 
+structure 
+• Evolve business model to drive end-to-end business 
+accountability, but with Group oversight
+• Strengthen the balance sheet in the near term
+• Sale of Wealth Management
+• Deliver cost reduction commitments
+• Early success with offshore augmentation and 
+exploring further opportunities  
+• Align each business to appropriate financial targets 
+• Establish disciplined cost and capital management 
+practices
+• Ensure each business has strong, accountable and 
+aligned management
+• Deliver clear and true-to-label investment strategies
+• Retain leadership position in key markets through 
+client retention and service innovation
+• Cost discipline with investment to support revenue growth
+• Invest in digital and markets capabilities in Corporate 
+Trust to support long-term growth 
+• Measured investment in new products and capabilities to 
+diversify and grow revenue
+Our goal is for Perpetual to be a strong financial services group, with differentiated businesses, that operate with discipline, to deliver improved returns for our 
+shareholders over time
+Our strategy has three core focus areas
+For personal use onlyFY26 UPAT analysis
+275.3
+298.3
+760.9
+67.0
+98.2
+6.5 
+(7.5)
+7.8 9.7 
+(3.8)
+204.1 217.0
+FY25
+UPAT
+Asset Management
+UPBT
+Wealth Management
+UPBT
+Corporate Trust
+UPBT
+Group Support Services
+UPBT
+Tax Movement FY26 
+UPAT
+1.Totals are subject to rounding. 
+27
+For personal use onlyFor the period
+FY26
+ $m
+FY251                  
+$m
+FY26 v FY25   
+(%)
+Continuing Operations
+Operating revenue 1,140.7 1,137.4 0
+Operating expenses (795.7) (801.2) 1
+EBITDA 345.0 336.2 3
+Depreciation and amortisation (33.8) (36.4) 8
+Equity remuneration expense (11.7) (11.6) (0)
+Interest expense (47.8) (60.4) 21
+Underlying profit before tax (UPBT) 251.7 227.7 11
+Tax expense (65.4) (59.3) (10)
+Underlying profit after tax (UPAT)2 186.3 168.3 11
+Significant items3 (127.2) (260.6) 51
+Net profit after tax from continuing operations 59.1 (92.2) 164
+Discontinued Operations
+Profit from discontinued operations, net of tax 29.8 34.0 (12)
+Net profit after tax (NPAT)4 88.9 (58.2) Large5
+FY26 financial results re-presented due to discontinued operations
+28
+Note that totals are subject to rounding. 
+1. Comparative information has been re-presented due to a discontinued operation. 2. Underlying profit after tax (UPAT) attributable to equity holders of Perpetual Limited. 3. Significant items breakdown is shown in Appendix A 
+and B of the OFR. In FY26 significant items included a $63.5 million non-cash impairment charge relating to TSW. 5. Large is defined as a percentage change that exceeds +/- 200%.
+For personal use onlyAsset Management  
+Investment performance1,2 across key3 strategies
+1. Investment performance presented gross of fees and includes reinvestment of distributions. Returns are annualised for periods of more than one year. See further disclaimers on slide 31. 2. Past performance is not indicative of 
+future performance. See www.perpetual.com.au, www.barrowhanley.com, www.trilliuminvest.com, www.johcm.com, www.tswinvest.com, and www.pendalgroup.com for relevant performance. 3. Key strategies is defined as the 
+largest strategies by assets under management across the Group. 4. Performance figures are quoted in the base currency of the underlying fund manager. 
+Annualised gross performance (%)
+ 30 June 20261,4
+Excess returns above benchmark (% pa) 1,4
+ Period ending 30 June 2026
+29
+Outperformance Underperformance
+For personal use onlyAsset Management: AUM and flows
+AUM by asset class ($b)
+1. Other includes changes in market value of assets, income, reinvestments and distributions. 2. For AUM in the US region, a conversion rate of AUD:USD - 0.67 at 30 June 2026 was used, for EUKA AUM, a conversion rate of 
+AUD:GBP - 0.50 at 30 June 2026 was used. 
+Note that totals are subject to rounding. 
+For the period 30 Jun 2025
+($b) Flows Other1
+Foreign
+Exhange
+Impacts2
+30 Jun 2026
+($b)
+Equities
+Australia 34.9 (2.1) 0.2 - 32.9 
+Global/International 72.3 (10.5) 12.1 (3.4) 70.6 
+UK 6.2 (1.1) 1.0 (0.5) 5.7 
+US 56.5 (8.8) 10.1 (2.5) 55.2 
+Europe 0.8 (0.4) - (0.1) 0.4 
+Emerging Markets 10.5 (0.6) 4.6 (0.4) 14.0 
+Total Equities 181.2 (23.5) 28.0 (6.9) 178.9 
+Fixed Income
+Australia 11.3 1.2 (0.3) - 12.3 
+US 22.6 (0.1) 0.6 (0.5) 11.3 
+Total Fixed Income 34.9 1.1 0.4 (0.5) 23.6 
+Multi Asset 8.3 (0.4) 0.7 (0.2) 8.4 
+Other 0.8 (0.1) 0.1 - 0.8 
+Total Group ex Cash 213.0 (23.0) 29.2 (7.6) 211.6 
+Cash 13.8 (2.1) 1.0 - 12.7 
+Total Group 226.8 (25.1) 30.2 (7.6) 224.4 
+Base management fee (bps) – margin map as at 30 June 2026
+30 – 39 bps
+20 – 29 bps
+> 50 bps
+Australian equities UK equities
+Global/International equities European equities
+Multi-asset Emerging Markets equities
+US equities US Fixed Income
+Australian Fixed Income Cash
+40 - 50 bps
+< 10bps
+30
+For personal use onlyBarrow Hanley
+Material presented is based on the respective GIPS® compliant composite and not an individual account.
+Performance is expressed in USD currency. 
+J O Hambro
+Gross performance is the unit price returns grossed up by fees. For segregated accounts (Global Select ex US, Emerging Markets and European Concentrated Values 
+strategies), the time-weighted rate of return is calculated at a gross, end of day security level on a daily basis.
+Strategy performance shown is based on the relevant composite.
+Performance is expressed in GBP currency. Excess returns are calculated arithmetically.
+Pendal 
+The same Strategy representative Portfolio1 is used for all time periods. Within a Strategy, Portfolios1 may have different objectives, exclusions, benchmarks, tenures and 
+may move between strategies over time. This is not shown in the return of the representative Portfolio1. A Strategy may contain a mix of Funds (with or without PDS) and 
+Mandates.
+Performance is expressed in AUD currency. 
+Perpetual
+Gross performance for Australian and Global Equity strategies are time-weighed rates of return, sourced from investment book of records (IBOR). All other strategies are unit 
+price returns grossed up by fees, sourced from accounting book of records (ABOR).
+Strategy performance shown is based on a representative fund, not a composite. 
+Performance is expressed in AUD currency.
+TSW
+Strategy performance shown is based on the relevant GIPS composite.
+Performance is expressed in USD currency. Excess returns are calculated arithmetically.
+Asset Management  
+Disclaimer notes to Slide 9 and 29
+1. Portfolios refers to the underlying pool of investments as opposed to investment vehicle itself. Funds or Mandates are the investment vehicle/structure through which portfolios are implemented. Funds (e.g. unit trusts) are generally the 
+pooled (multi-investor) investment vehicles, while mandates are generally the institutional, single-client vehicles. Strategies are represented by a representative portfolio; however, the strategy itself may include multiple funds and 
+mandates implemented through underlying portfolios. 
+31
+For personal use onlyCorporate Trust
+FUA by segment ($b)
+For the period FY26
+($b)
+FY25
+($b)
+FY26 v FY25
+(%)
+Public Market Securitisation
+RMBS - bank (ADI) 60.5 66.3 (9)
+RMBS - non-bank 126.8 104.8 21
+ABS and CMBS 84.8 79.6 6
+Balance Sheet Securitisation
+RMBS - repos 359.8 362.1 (1)
+Covered bonds 107.0 108.7 (2)
+Debt Market Services - Securitisation1 739.0 721.6 2
+Corporate and Structured Finance 15.2 11.4 34
+Total Debt Market Services 754.2 732.9 3
+Custody 297.6 261.4 14
+Wholesale Trustee 144.0 138.1 4
+Responsible Entity 78.1 72.1 8
+Singapore 75.3 68.0 11
+Managed Funds Services 595.0 539.6 10
+Total FUA 1,349.3 1,272.6 6
+Digital2 619.8 541.8 14
+Markets3,4 18.8 17.4 8
+Digital and Markets (AUA) 638.6 559.2 14
+Note that totals are subject to rounding. 
+1. Includes warehouse and liquidity finance facilities. 2. Digital AUA comprises of Data Services and Perpetual Intelligence, excluding the Roundtables product. Note that the movement in AUA is one of a number of drivers of 
+revenue in the Digital segment, others of which include the number of clients and breadth of service provided. Revenue can also be generated via implementation fees, and/or platform fees charged as a percentage (%) on 
+assets/ trust structures under administration. 3. Markets AUA comprises of Treasury Direct Portfolio Management and Fixed Income Intelligence capabilities. Note that movements in AUA is one of a number of drivers of revenue, 
+others of which include the number of clients and breadth of service provided. Revenue can also be generated via one off fees , fixed fees, minimum fees, or a percentage (%) fee charged on brokerage and AUA. 4. Markets AUA 
+has been restated for FY25 to align with the updated calculation methodology. 
+32
+For personal use onlyWealth Management
+33
+Note that totals are subject to rounding. 
+For the period FY26
+ $m
+FY25
+ $m
+FY26 v FY25
+(%)
+Discontinued Operation
+Market related revenue 156.9 155.9 1
+Non-market related revenue 76.7 79.7 (4)
+Total revenue 233.5 235.6 (1)
+Operating expenses (174.6) (171.7) (2)
+EBITDA 58.9 63.9 (8)
+Depreciation & amortisation (8.8) (8.5) (3)
+Equity remuneration (3.2) (2.8) (14)
+Interest expense (3.0) (1.1) (173)
+Underlying profit before tax 44.0 51.5 (15)
+Note that totals are subject to rounding.
+For personal use onlyWealth Management FUA and AUM
+FUA by client segment and AUM
+FY26 FY25 FY26 v FY25 
+(%)      
+Select Portfolios 3.2 3.2 –
+Implemented Portfolios 5.3 5.3 –
+Growth Opportunities Funds 0.9 0.9 –
+Total AUM 9.3 9.4 (1)
+FY26 FY25 FY26 v FY25     
+(%)
+Community and Social Investments (CSI) 7.5 7.3 3
+High Net Worth 12.4 12.5 (1)
+Other 2.2 1.7 29
+Total FUA 22.1 21.5 3
+AUM ($b) FUA ($b) (Inclusive of AUM)
+Note that totals are subject to rounding.
+34
+For personal use only

@@ -1,0 +1,1567 @@
+30 June 2026
+For personal use onlyMarket Release
+Release date: 27 August 2026
+27 August 2026
+ASX Market Announcements Office
+ASX Limited
+39 Martin Place
+Sydney NSW Australia 2000
+Smartgroup Corporation Ltd - Results for announcement to the market
+In accordance with the ASX Listing Rules, Smartgroup Corporation Ltd (ASX: SIQ) encloses for release to the market:
+1. Appendix 4D, and
+2. Smartgroup Interim Financial Report for the period ended 30 June 2026.
+Smartgroup Corporation Ltd will conduct a briefing on the results at 9:00 am (Sydney time) on 27 August 2026.
+Jason King
+Chief Financial Officer
+1300 665 855
+Sophie MacIntosh
+Group Executive: Legal, Risk and Corporate Affairs
+1300 665 855
+This announcement was authorised for release to the ASX by the Board of Directors of Smartgroup.
+Smartgroup — — — —  Interim Financial Report 2026
+For personal use onlyTable of Contents
+Page
+Appendix 4D 1
+Directors' Report 2
+Review of operations 2
+Lead Auditor’s Independence Declaration 5
+Consolidated Statement of Profit or Loss and Other 
+Comprehensive Income
+6
+Consolidated Statement of Financial Position 7
+Consolidated Statement of Changes in Equity 8
+Consolidated Statement of Cash Flows 9
+Basis of preparation 10
+Results for the period 11
+Note 1. Revenue 11
+Note 2. Operating segments 12
+Note 3. Earnings per share 15
+Note 4. Dividends 15
+Note 5. Events occurring after the reporting period 16
+Operating assets and liabilities 16
+Note 6. Intangible assets 16
+Note 7. Property and equipment 18
+Note 8. Trade and other receivables 19
+Note 9. Restricted cash and associated liabilities 21
+Note 10. Non-current assets held for sale 21
+Capital structure and financial risk management 22
+Note 11. Borrowings 22
+Note 12. Fair value measurement of financial instruments 23
+Note 13. Issued capital 24
+Note 14. Adoption of new and amended accounting 
+standards
+26
+Directors’ Declaration 27
+Independent Auditor's Review Report 28
+Corporate Directory 30
+Smartgroup — — — —  Interim Financial Report 2026
+For personal use onlyAppendix 4D
+For the half year ended 30 June 2026
+1. Company details
+Name of entity: Smartgroup Corporation Ltd
+ABN: 48 126 266 831
+Reporting period: For the half year ended 30 June 2026
+Previous corresponding period: For the half year ended 30 June 2025
+2. Results for announcement to the market
+$'000 $'000
+Revenues from ordinary activities up 20,357  12.8% to 179,485 
+Profit from ordinary activities after tax attributable to the owners of
+Smartgroup Corporation Ltd up 4,272  11.2% to 42,355 
+Profit for the period attributable to the owners of Smartgroup Corporation Ltd up 4,272  11.2% to 42,355 
+Dividends
+Amount per 
+security
+Franked amount
+per security Record date Payment date
+Final 2025 ordinary dividend 21.5 21.5 6 March 2026 20 March 2026
+Special 2025 dividend 12.0 12.0 6 March 2026 20 March 2026
+Interim 2026 dividend determined 21.5 21.5 9 September 2026 23 September 2026
+The interim dividend had not been declared at the reporting date and therefore is not reflected in the consolidated financial 
+statements. There is no dividend reinvestment plan in place.
+3. Net tangible assets
+30 June 2026 31 December 2025
+Net tangible assets per ordinary security (34.44) cents (37.37) cents
+Net tangible assets per ordinary security is total net assets, excluding intangible assets, deferred tax assets, and right-of-use 
+assets, divided by the number of ordinary shares on issue.
+Independent auditor's review
+This report is based on the Smartgroup Interim Financial Report 2026 which has been reviewed by KPMG.
+The remainder of information requiring disclosure to comply with ASX Listing Rule 4.3A is contained in the Smartgroup Interim 
+Financial Report 2026.
+Smartgroup — — — —  Interim Financial Report 20261
+For personal use onlyDirectors' Report
+Review of operations
+For the half year ended 30 June 2026
+$'000  30 June 2026  30 June 2025 Movement
+Revenue  179,485  159,128  13% 
+Product costs  (5,084)  (6,000)  (15%) 
+Net revenue  174,401  153,128  14% 
+Expenses
+Employee benefits expense  (70,887)  (64,339)  10% 
+Administration and corporate expenses  (21,918)  (17,845)  23% 
+Occupancy expenses  (1,091)  (994)  10% 
+Advertising and marketing expenses  (5,893)  (5,444)  8% 
+Other expenses  (801)  (867)  (8%) 
+Operating EBITDA1  73,811  63,639  16% 
+One-off costs  –  – n/a
+Segment EBITDA2  73,811  63,639  16% 
+Finance income  1,122  1,308  (14%) 
+Finance costs  (2,810)  (2,915)  (4%) 
+Depreciation expense  (4,596)  (3,680)  25% 
+Amortisation of contract rights and internally developed intangibles  (6,322)  (2,965)  113% 
+Profit before income tax for the half year  61,205  55,387  11% 
+Income tax expense  (18,850)  (17,304)  9% 
+Net profit after income tax for the half year  42,355  38,083  11% 
+Addback: cash tax benefit on deductible amortisation  26  26  –% 
+NPATA3  42,381  38,109  11% 
+EBITDA margin  41%  40% +1ppt
+NPATA margin  24%  24% 0ppt
+Net operating cash inflow4  50,761  52,470  (3%) 
+Net operating cash inflow as a percentage of NPATA  120%  138% -18ppt
+Cents Cents Movement
+NPATA per share5  30.7  28.1  9% 
+Dividends declared per share5  21.5  19.5  10% 
+1. Operating EBITDA is the earnings before interest, tax, depreciation and amortisation adjusted for significant non-operating items.
+2. Segment EBITDA is the earnings before interest, tax, depreciation and amortisation.
+3. NPATA is the net profit after tax, adjusted to exclude the non-cash tax-effected amortisation of acquired intangibles, and significant non-operating items.
+4. Net cash inflow from operating activities has been adjusted to exclude receipts and payments related to customer salary packaging bank accounts.
+5. NPATA per share and dividends declared per share at 30 June 2026 are based on  138,151,642 shares (30 June 2025: 135,694,446 shares), which includes the 
+8,173,659 shares held by the Company under the Loan Funded Share Plan (LFSP) (30 June 2025: 5,842,809 shares).
+Smartgroup — — — —  Interim Financial Report 2026 2
+For personal use onlyFinancial performance
+The 2026 Interim Financial Report for Smartgroup 
+Corporation Ltd and its controlled entities ('Smartgroup' 
+or 'the Group') reflects the positive momentum that the 
+Group has experienced, driven by continued growth in 
+novated leasing and salary packaging, disciplined 
+execution and the increasing scalability of our platform. 
+These developments are translating into solid revenue 
+and earnings growth.  
+Revenue increased to $179.5 million, 13% higher than 
+the prior corresponding period (pcp) and 5% higher than 
+the six months to 31 December 2025, driven by strong 
+novated leasing demand.  
+The Group continues to invest for growth and the 
+execution of its Strategic Priorities. As a result, total 
+operating expenses increased 12% compared to pcp and 
+8% compared to the six months ended 31 December 
+2025. This increase reflects targeted investment in 
+growth initiatives, marketing and digital capability to 
+support strong leasing demand and capitalise on 
+favourable market conditions, while delivering 
+transformation initiatives and strategic projects.
+Smartgroup reported Operating EBITDA (Earnings Before 
+Interest, Tax, Depreciation, and Amortisation adjusted for 
+significant non-operating items) of $73.8 million, up 16% 
+compared to pcp, and a 3% increase on the six months to 
+31 December 2025. EBITDA margin for the six months to 
+30 June 2026 was 41%. The Group continues to enhance 
+operating leverage by improving productivity and 
+increasing the scalability of its platform, while executing 
+its Strategic Priorities. Investments in digital capability, 
+process simplification, automation and AI are enabling 
+the Group to support growth in customer volumes while 
+driving operational efficiency.
+Interim 2026 statutory Net Profit After Tax (NPAT) was 
+$42.4 million, an increase of 11% over pcp and 2% 
+increase compared to the six months to 31 December 
+2025. Interim Net Profit After Tax Adjusted (NPATA) was 
+also $42.4 million. 
+Salary packaging
+Smartgroup has continued to increase the penetration of 
+salary packaging in its target markets. The Group is the 
+market leader in salary packaging, with a strong 
+competitive position supported by recurring revenues and 
+long-standing client relationships.
+The number of active salary packaging customers 
+increased by 7% compared to 30 June 2025 to 518,000 
+at the end of June 2026, driven by the onboarding of new 
+clients and organic package growth from existing clients. 
+In the first half of 2026, Smartgroup continued to enhance 
+its digital customer experience, including the rollout of the 
+new Smart App. The app provides customers with a 
+simpler and more convenient way to manage their salary 
+packaging and novated leasing benefits, supporting 
+stronger engagement, improved self-service capability 
+and a more scalable operating model.
+Novated leasing
+Novated leasing is a particular area of focus for 
+Smartgroup as we are experiencing higher demand 
+driven by favourable market dynamics, including elevated 
+fuel prices, broader range of electric vehicles (EV) and 
+supportive government policy settings. 
+In the six months to 30 June 2026, new vehicle orders 
+increased 34% compared to pcp. Total novated leasing 
+settlements, which include purchases and refinances, 
+increased 17% when compared to pcp. 
+Novated leases under management grew by 15% year-
+on-year to 91,600 at the end of June 2026, driven by 
+strong leasing demand, particularly for battery-electric 
+vehicles (BEV). 
+In May 2026, the Australian Government reaffirmed its 
+commitment to the Electric Car Discount policy, providing 
+greater certainty for consumers and industry participants. 
+The policy has supported broader access to EVs by 
+improving affordability and reducing the cost of ownership 
+for eligible Australians. 
+Uptake of BEVs continued to increase during the period, 
+supported by a broader range of vehicle models, 
+improvements in charging infrastructure, and growing 
+consumer awareness of the cost benefits available 
+through novated leasing. Elevated fuel prices and 
+volatility in global energy markets further enhanced the 
+relative attractiveness of EVs. As a result, in the six 
+months to June 2026, BEVs accounted for 68% of all new 
+novated leasing orders, while plug-in-hybrid EVs (PHEV) 
+and internal combustion engine vehicles (ICE) 
+represented 5% and 27%, respectively.
+Fleet 
+Fleet vehicles under management grew by 12% 
+compared to 30 June 2025 to 36,200 vehicles. 
+Smartgroup continues to invest in fleet capabilities, 
+including expanding its funding solutions through the 
+onboarding of a third-party funding provider. This initiative 
+broadens the Group’s fleet proposition, supports a wider 
+range of client requirements and provides an additional 
+platform for growth in vehicles under management.
+In 2025, the Group established a fleet funding partnership 
+with Volkswagen Financial Services Australia and 
+subsequently, in May 2026, agreed to sell the majority of 
+its self-funded fleet portfolio. This transaction reinforces 
+Smartgroup's capital-light operating model, improves 
+capital efficiency and further strengthens the funding 
+capabilities available to our fleet clients.
+Investment
+For the six months to 30 June 2026, $6.9 million in IT 
+development costs were capitalised as part of delivering 
+our Strategic Priorities. 
+Cash flow and net debt
+Net operating cash flow from operations for the six 
+months to 30 June 2026 was 120% of NPATA, compared 
+to 138% for the six months to 30 June 2025. 
+The Group's net debt position at 30 June 2026 was $35.4 
+million, compared to $38.1 million on 31 December 2025. 
+Leverage, measured as net corporate debt / last 12 
+months EBITDA, was 0.2x, compared to 0.3x at 31 
+December 2025.
+Smartgroup — — — —  Interim Financial Report 2026 3
+For personal use onlyThe Directors present their report, together with the Interim Financial Report, on the consolidated entity (the 'Group') 
+consisting of Smartgroup Corporation Ltd (the 'Company' or 'parent entity’) and the entities it controlled at the end of, or 
+during, the half year ended 30 June 2026.
+Directors
+The Directors of the Company at any time during or since the end of the half year (collectively referred to as the Directors) 
+were:
+John Prendiville
+Carolyn Colley
+Deborah Homewood
+Anne McDonald
+Mark Rigotti
+Ian Watt
+Paul Rogan (appointed 2 March 2026)
+Scott Wharton
+Principal activities
+During the reporting period, the principal activities of the Group consisted of outsourced employee benefits and 
+administration services, being primarily salary packaging, novated leasing and fleet management.
+Dividends
+Dividends paid during the half year ended 30 June 2026 were as follows:  
+30 June 2026 30 June 2025
+$'000 $'000
+Final ordinary dividend for the year ended 31 December 2025 of 21.5 cents 
+(2024: 20.0 cents) per ordinary share  29,182  26,671 
+Special dividend for the year ended 31 December 2025 of 12.0 cents 
+(2024: 11.0 cents) per ordinary share  16,288  14,670 
+On 26 August 2026, the Directors declared a fully franked dividend of 21.5 cents per ordinary share. The record date is 
+9 September 2026 and the dividend will be paid on 23 September 2026. This dividend has not been included as a liability in 
+these half year financial statements. The total estimated dividend to be paid is $29,703,000 and represents 70% of half year 
+NPATA, in line with the Group's stated policy.
+Review of operations 
+The profit after tax for the Group is $42,355,000 (30 June 2025: $38,083,000). Refer to the Review of Operations for further 
+commentary on the results.
+Environmental regulation
+The Group is not affected by any significant environmental regulation under Australian Commonwealth or State law in 
+respect of its operations.
+Auditor's independence declaration
+A copy of the Auditor's Independence Declaration as required under section 307C of the Corporations Act 2001 is set out on 
+page 5.
+Rounding of amounts
+The Company is of a kind referred to in ASIC Corporations (Rounding in Financial/Directors’ Reports) Instrument 2026/183, 
+and in accordance with that instrument, amounts in the Directors' Report and the Interim Financial Report have been 
+rounded to the nearest thousand dollars, unless otherwise stated.
+This report is made in accordance with a resolution of Directors.
+On behalf of the Directors
+John Prendiville
+Chairman
+26 August 2026
+Sydney
+Smartgroup — — — —  Interim Financial Report 2026 4
+For personal use onlySmartgroup — — — —  Interim Financial Report 2026 5
+Lead Auditor’s Independence 
+Declaration
+For personal use only30  June 2026 30 June 2025
+Consolidated Note $'000 $'000
+Revenue  1  179,485  159,128 
+Expenses
+Product costs  (5,084)  (6,000) 
+Employee benefits expense  (70,887)  (64,339) 
+Administration and corporate expenses  (21,918)  (17,845) 
+Occupancy expenses  (1,091)  (994) 
+Advertising and marketing expenses  (5,893)  (5,444) 
+Depreciation expense    (4,596)  (3,680) 
+Amortisation of contract rights and internally developed intangibles    (6,322)  (2,965) 
+Other expenses  (801)  (867) 
+Operating profit  62,893  56,994 
+Finance income    1,122  1,308 
+Finance costs    (2,810)  (2,915) 
+Profit before income tax expense  61,205  55,387 
+Income tax expense    (18,850)  (17,304) 
+Profit after income tax expense attributed to the ordinary equity holders  42,355  38,083 
+Other comprehensive income
+Items that may be subsequently reclassified to profit or loss
+Net change in fair value of cash flow hedges taken to equity, net of tax  105  (125) 
+Other comprehensive income, net of tax attributed to the ordinary equity 
+holders  105  (125) 
+Total comprehensive income attributed to the ordinary equity holders  42,460  37,958 
+Cents Cents
+Basic earnings per share 3 32.6 29.3
+Diluted earnings per share 3 32.3 29.3
+The above Consolidated Statement of Profit or Loss and Other Comprehensive Income should be read in conjunction with the 
+accompanying notes.
+Smartgroup — — — —  Interim Financial Report 2026 6
+Consolidated Statement of Profit or Loss 
+and Other Comprehensive Income
+For the half year ended 30 June 2026
+For personal use only30 June 31 December 
+2026 2025
+Consolidated Note $'000 $'000
+ASSETS
+Current assets
+Cash and cash equivalents    46,077  43,382 
+Restricted cash and cash equivalents  9  247,303  269,320 
+Trade and other receivables  8  38,821  32,815 
+Other assets    6,569  7,241 
+Non-current assets held for sale  10  12,822  – 
+Total current assets  351,592  352,758 
+Non–current assets
+Deferred tax assets    16,760  14,233 
+Intangible assets  6  303,764  303,165 
+Property and equipment  7  12,799  27,269 
+Right–of–use assets    9,172  10,342 
+Derivative financial instruments  12  844  682 
+Total non–current assets  343,339  355,691 
+Total assets  694,931  708,449 
+LIABILITIES
+Current liabilities
+Trade and other payables    40,582  37,387 
+Customer salary packaging liability  9  247,303  269,320 
+Provisions    17,405  17,296 
+Contract liabilities    6,461  7,004 
+Income tax payable    8,802  7,451 
+Lease liabilities    2,694  2,711 
+Other liabilities    1,778  1,745 
+Total current liabilities  325,025  342,914 
+Non–current liabilities
+Provisions    1,871  1,752 
+Contract liabilities    –  6 
+Lease liabilities    5,126  5,989 
+Borrowings  11  80,786  80,723 
+Total non–current liabilities  87,783  88,470 
+Total liabilities  412,808  431,384 
+Net assets  282,123  277,065 
+EQUITY
+Issued capital  13  266,004  264,869 
+Reserves  45,944  31,406 
+Accumulated losses  (29,825)  (19,210) 
+Equity attributable to the owners of Smartgroup Corporation Ltd  282,123  277,065 
+Total equity  282,123  277,065 
+The above Consolidated Statement of Financial Position should be read in conjunction with the accompanying notes.
+Smartgroup — — — —  Interim Financial Report 2026 7
+Consolidated Statement 
+of Financial Position
+As at 30 June 2026
+For personal use onlyReserves
+Issued 
+capital
+Share based 
+payments
+Cash flow 
+hedges Other
+Retained 
+earnings/ 
+(accumulated 
+losses) Total equity
+Consolidated $'000 $'000 $'000 $'000 $'000 $'000
+Balance at 1 January 2025  264,106  16,170  (106)  1,294  (23,181)  258,283 
+Profit for the period  –  –  –  –  38,083  38,083 
+Other comprehensive income, net of 
+tax  –  –  (125)  –  –  (125) 
+Total comprehensive income for 
+the period  –  –  (125)  –  38,083  37,958 
+Transactions with owners in their 
+capacity as owners:
+Dividends provided for or paid  –  –  –  –  (41,341)  (41,341) 
+Share–based payments expense  –  3,365  –  –  –  3,365 
+Securities vested under share plan  763  (763)  –  –  –  – 
+Transfer to profits reserve  –  –  –  7,700  (7,700)  – 
+Balance at 30 June 2025  264,869  18,772  (231)  8,994  (34,139)  258,265 
+Reserves
+Issued 
+capital
+Share based 
+payments
+Cash flow 
+hedges Other
+Retained 
+earnings/ 
+(accumulated 
+losses) Total equity
+Consolidated $'000 $'000 $'000 $'000 $'000 $'000
+Balance at 1 January 2026  264,869  22,084  328  8,994  (19,210)  277,065 
+Profit for the period  –  –  –  –  42,355  42,355 
+Other comprehensive income, net of 
+tax  –  –  105  –  –  105 
+Total comprehensive income for 
+the period  –  –  105  –  42,355  42,460 
+Transactions with owners in their 
+capacity as owners:
+Dividends provided for or paid  –  –  –  –  (45,470)  (45,470) 
+Share–based payments expense  –  8,068  –  –  –  8,068 
+Securities vested under share plan  1,135  (1,135)  –  –  –  – 
+Transfer to profits reserve  –  –  –  7,500  (7,500)  – 
+Balance at 30 June 2026  266,004  29,017  433  16,494  (29,825)  282,123 
+The above Consolidated Statement of Changes in Equity should be read in conjunction with the accompanying notes.
+Smartgroup — — — —  Interim Financial Report 2026 8
+Consolidated Statement 
+of Changes in Equity
+For the half year ended 30 June 2026
+For personal use only30 June 2026 30 June 2025
+Consolidated Note $'000 $'000
+Cash flows from operating activities
+Receipts from customers (including GST)  210,531  192,928 
+Payments to suppliers and employees (including GST)  (141,637)  (124,653) 
+Interest received from restricted cash  4,560  3,645 
+Interest and transaction costs paid on borrowings  (2,250)  (2,586) 
+Interest paid on lease liabilities    (371)  (133) 
+Income taxes paid  (20,072)  (16,731) 
+Net cash inflow from operating activities    50,761  52,470 
+Net cash outflow in restricted cash from salary packaging receipts and 
+payments  (22,017)  (38,844) 
+Cash flows from investing activities
+Proceeds from disposal of property and equipment  1,533  – 
+Payments for internally developed software and websites 6  (6,921)  (4,486) 
+Payments for property and equipment 7  (2,414)  (2,969) 
+Interest received  1,122  996 
+Net cash outflow from investing activities  (6,680)  (6,459) 
+Cash flows from financing activities
+Proceeds from borrowings 11  –  16,500 
+Dividends paid 4  (45,470)  (41,341) 
+Proceeds from long term incentive plan  5,501  1,118 
+Principal repayments on lease liabilities    (1,417)  (2,033) 
+Net cash outflow from financing activities  (41,386)  (25,756) 
+Net increase in cash and cash equivalents  2,695  20,255 
+Cash and cash equivalents at the beginning of the period  43,382  34,648 
+Cash and cash equivalents at the end of the period  46,077  54,903 
+Restricted cash and cash equivalents at the beginning of the period  269,320  245,067 
+Net decrease in restricted cash and cash equivalents  (22,017)  (38,844) 
+Restricted cash and cash equivalents at the end of the period  247,303  206,223 
+The above Consolidated Statement of Cash Flows should be read in conjunction with the accompanying notes.
+Smartgroup — — — —  Interim Financial Report 2026 9
+Consolidated Statement 
+of Cash Flows
+For the half year ended 30 June 2026
+For personal use only.
+Basis of preparation
+General information
+The consolidated financial statements cover Smartgroup 
+Corporation Ltd (referred to as the ‘Company’ or ‘parent 
+entity’) and its subsidiaries (collectively referred to as the 
+‘Group’). The consolidated financial statements are 
+presented in Australian dollars, which is Smartgroup 
+Corporation Ltd’s functional and presentation currency.
+Smartgroup Corporation Ltd is a listed public company 
+limited by shares, incorporated and domiciled in Australia. 
+Its registered office and principal place of business is:
+Level 15, Darling Park Tower 2, 201 Sussex Street, Sydney, 
+Australia, 2000.
+A description of the nature of the Group’s operations and its 
+principal activities is included in the Directors’ Report, which 
+is not part of the financial statements.
+The consolidated financial statements were authorised for 
+issue, in accordance with a resolution of Directors, on 
+26 August 2026. The Directors have the power to amend 
+and reissue the consolidated financial statements.
+Statement of compliance
+These general purpose consolidated financial statements 
+have been prepared in accordance with Australian 
+Accounting Standard AASB 134 Interim Financial Reporting 
+and the Corporations Act 2001. These consolidated financial 
+statements also comply with International Financial 
+Reporting Standards (IFRS) as issued by the International 
+Accounting Standards Board (IASB). Smartgroup 
+Corporation Ltd is a for-profit entity for the purpose of 
+preparing the consolidated financial statements.
+Where relevant, certain comparative figures may be 
+restated to conform with the current period financial 
+statement presentation.
+Historical cost convention
+The financial statements have been prepared on the basis 
+of historical cost, except for the revaluation of financial 
+instruments. Cost is based on the fair values of the 
+consideration given in exchange for assets.
+Going concern basis of preparation
+As at 30 June 2026, the Group had net current assets of 
+$26,567,000 (31 December 2025: $9,844,000).
+The Group has prepared projected cash flows for the 12 
+months from the date of the Directors’ Declaration. These 
+forecasts indicate that the Group is expected to generate 
+sufficient levels of operating cash flows to enable it to pay its 
+debts as when they fall due.
+Further, the Group currently has undrawn debt facilities of 
+$38,500,000 (31 December 2025: $38,500,000) that may be 
+drawn for operational liquidity purposes, with these facilities 
+maturing on 28 September 2028. These factors support the 
+Group’s ability to continue as a going concern.
+Rounding 
+These consolidated financial statements are presented in 
+Australian dollars which is the Company’s functional 
+currency. The Group is of a kind referred to in ASIC 
+Corporations (Rounding in Financial/Directors’ Reports) 
+Instrument 2026/183 and in accordance with that 
+instrument, amounts in the consolidated financial 
+statements and directors’ report have been rounded off to 
+the nearest thousand dollars, unless otherwise stated.
+Significant accounting estimates and judgements 
+The preparation of consolidated financial statements 
+requires management to make judgements, estimates and 
+assumptions that affect the reported amounts in the 
+financial statements. Management continually evaluates its 
+judgements and estimates in relation to assets, liabilities, 
+revenue and expenses.
+Management bases its judgements, estimates and 
+assumptions on historical experience and on other factors 
+that management believes to be reasonable under the 
+circumstances, including expectations of future events. The 
+resulting accounting judgements and estimates will seldom 
+equal the eventual actual results. The judgements, 
+estimates and assumptions that have a significant risk of 
+causing a material adjustment to the carrying amounts of 
+assets and liabilities within the next financial year, except for 
+the adoption of new and amended standards described in 
+note 14, are discussed below.
+Goodwill and other intangible assets
+Goodwill and other intangible assets that have an indefinite 
+useful life are not subject to amortisation and are tested 
+annually for impairment, or more frequently if events or 
+changes in circumstances indicate that they might be 
+impaired, in accordance with the accounting policy stated in 
+note 6. The recoverable amounts of cash-generating units 
+have been determined based on value-in-use calculations.
+These calculations require the use of assumptions, 
+including estimated discount rates based on the current cost 
+of capital and growth rates of the estimated future cash 
+flows.
+Expected credit loss
+Inputs used in assessing expected credit losses relating to 
+trade receivables and other receivables are subject to 
+uncertainty. Using the Group’s own direct experience/
+knowledge as well as forward looking information, obtained 
+by reviewing external analyst reports and public forecasts, 
+the inputs to these estimates were stress-tested, with the 
+carrying values re-evaluated.
+For more detailed information about key assumptions used 
+in estimating expected credit losses, see note 8.
+Operations provision
+The Group exercises judgement in measuring and 
+recognising provisions relating to its operations, including 
+potential customer and supplier disputes. Judgement is 
+necessary in assessing the likelihood that a claim will arise, 
+and to quantify the possible range of financial settlements. 
+Because of the inherent uncertainty in this evaluation 
+process, actual losses may be different from the originally 
+estimated provision.
+Smartgroup — — — —  Interim Financial Report 2026 10
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyResults for the period
+Note 1. Revenue
+30 June 2026 30 June 2025
+Consolidated $'000 $'000
+Sales revenue
+Products and services 
+commissions  120,782  107,241 
+Administration and 
+management fees  43,531  39,174 
+Performance fees and 
+rebates  10,653  8,226 
+Revenue from contracts 
+with customers  174,966  154,641 
+Leased fleet revenue1  4,161  3,350 
+Other income2  358  1,137 
+Statutory revenue  179,485  159,128 
+Timing of revenue 
+recognition:
+At a point in time  126,857  110,918 
+Over time  52,628  48,210 
+Statutory revenue  179,485  159,128 
+1 Fleet revenue includes motor vehicle rental income which meets the 
+definition of a lease arrangement. Therefore, they fall outside the scope of 
+AASB 15 and are accounted for in accordance with AASB 16 Leases.
+2 Gain on sale of Fleet leased motor vehicles.
+Accounting policy for revenue recognition
+The Group recognises revenue when it transfers control 
+over a product or a service to a customer. Revenue is 
+measured based on the consideration specified in a 
+contract with a customer and excludes amounts collected 
+on behalf of third parties. Amounts disclosed as revenue 
+are net of returns, trade allowances, rebates and amounts 
+collected on behalf of third parties.
+Nature of goods and services
+The following is a description of the principal activities from 
+which the Group generates its revenue.
+For more detailed information about reportable segments, 
+see note 2.
+Products and services commissions
+The Group earns upfront commissions from suppliers 
+relating to the financing and sourcing of vehicles, and the 
+sale of certain insurance products and auxiliary products. 
+The revenue recognised for the performance of services is 
+the agreed fee for the services, with revenue recognised 
+upon delivery of the product or service to the customer. For 
+revenue recognised at a point in time, such as vehicle 
+sourcing services for customers, revenue is recognised 
+when the customer gains control over the asset or product. 
+The customer is deemed to have control over the asset or 
+product where the Group has a present right to payment 
+for sourcing the asset or product, where the customer is 
+exposed to the risks and rewards of ownership of the asset 
+or product, and where the customer is deemed to have 
+accepted the asset or product.
+Administration and management fees
+The Group generates revenue from arranging and 
+administering outsourced salary packaging and fleet 
+management services on behalf of employers. 
+Administration fees for salary packaging are paid by the 
+employers through amounts deducted from their 
+employees’ pre-tax salary. Revenue is recognised over the 
+contracted period of administration and includes interest 
+earned from restricted cash.
+Fleet management fees are paid by employers in respect 
+of fleet management services and revenue is recognised 
+over the contracted period of administration.
+The revenue recognised for the performance of services is 
+the agreed fee for the services. For revenue recognised 
+over time, such as salary packaging administration fees, 
+the Group recognises revenue based on completion of the 
+contracted term, with revenue recognised as the Group 
+performs each obligation over time. There may be timing 
+differences between the recognition of revenue and the 
+receipt of cash. Where cash is received in advance of the 
+revenue being recognised, a contract liability is recognised. 
+Where revenue is recognised in advance of the receipt of 
+cash, a contract asset is recognised within other 
+receivables.
+Performance fees and rebates
+The Group earns performance fees and rebates from 
+various suppliers relating to the maintenance of a vehicle 
+finance book, the arrangement of certain insurance 
+products, and the arrangement or provision of ancillary 
+vehicle consumables. The Group also acts as a distributor 
+of salary packaging debit cards for a major financial 
+institution.
+The revenue recognised for the performance of services is 
+the agreed fee or rebate for the services. Performance 
+revenue is recognised in accordance with AASB 15 
+Revenue from Contracts with Customers, either at the 
+point in time at which services are performed, or over time 
+where the related services are performed over time. The 
+total consideration under the contracts is allocated to each 
+unique performance obligation, with revenue recognised as 
+the Group performs each obligation either at a point in time 
+or over time.
+Smartgroup — — — —  Interim Financial Report 2026 11
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyNote 1. Revenue (continued)
+Contract balances
+Contract assets primarily relate to the Group’s rights to 
+consideration for products and services provided and not 
+billed at the reporting date. Incremental costs and directly 
+attributable costs to fulfil a contract, which are recoverable, 
+are capitalised in accordance with AASB 15, and included 
+within contract rights in note 6. Receivable and contract 
+asset balances at the reporting date are disclosed in note 8 
+as trade receivables and contract assets, respectively.
+Contract liabilities primarily relate to consideration received 
+in advance from customer contracts for which revenue is 
+recognised on satisfaction of outstanding performance 
+obligations.
+Significant changes in contract assets and liabilities during 
+the period result from satisfaction of performance 
+obligations.
+Transaction price allocated to the remaining 
+performance obligations
+The Group applies the practical expedients available in 
+AASB 15 and does not disclose information about its 
+remaining performance obligations, the amount of the 
+transaction price allocated to the remaining performance 
+obligations, or an explanation of when the Group expects 
+to recognise that amount as revenue.
+Note 2. Operating segments
+Identification of reportable operating segments
+The Group has identified its segments based on the internal reports that are reviewed and used by the Chief Executive Officer 
+and Chief Financial Officer, who are identified as the Chief Operating Decision Makers (CODM), in assessing performance and 
+in determining the allocation of resources. There is no aggregation of operating segments.
+The CODM reviews EBITDA (Earnings Before Interest, Tax, Depreciation and Amortisation). The accounting policies adopted for 
+internal reporting to the CODM are consistent with those adopted in the interim financial statements.
+Types of products and services
+The principal products and services of each of these operating segments are as follows:
+Employee benefits (EB)1 This part of the business provides outsourced salary packaging and novated leasing 
+services.
+Vehicle services (VS) This part of the business provides end-to-end fleet management services.
+1 In prior periods, this operating segment was referred to as "outsourced administration." The Group updated the name of this operating segment to "employee benefits" 
+in its internal reports during the current period to better reflect the purpose of the operating segment.
+Intersegment transactions
+Intersegment transactions were made at market rates. Intersegment transactions are eliminated on consolidation.
+Intersegment receivables, payables and loans
+Intersegment loans are initially recognised at the consideration received. Intersegment loans receivable and loans payable that 
+earn or incur non-market interest rates are not adjusted to fair value based on market interest rates. Intersegment loans are 
+eliminated on consolidation.
+Smartgroup — — — —  Interim Financial Report 2026 12
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyNote 2. Operating segments (continued)
+Operating segment information
+Consolidated - half year ended 30 June 2026
+EB
+$'000
+VS
+$'000
+Corporate
+$'000
+Intersegment
+eliminations
+Total
+$'000
+Revenue
+Products and services commissions  120,782  –  –  –  120,782 
+Administration and management fees  39,212  8,838  –  –  48,050 
+Performance fees and rebates  8,593  2,060  –  –  10,653 
+Intersegment sales  –  2,275  –  (2,275)  – 
+Total revenue  168,587  13,173  –  (2,275)  179,485 
+Total expenses  (77,828)  (3,981)  (23,865)  –  (105,674) 
+Segment results (EBITDA)  90,759  9,192  (23,865)  (2,275)  73,811 
+Depreciation  (4,596) 
+Amortisation  (6,322) 
+Finance income  1,122 
+Finance costs  (2,810) 
+Profit before income tax expense  61,205 
+Income tax expense  (18,850) 
+Profit after income tax expense  42,355 
+Total assets  554,897  52,238  87,796  –  694,931 
+Total liabilities  349,215  11,702  51,891  –  412,808 
+Revenues of approximately $27.4 million (30 June 2025: $25.9 million) are derived from a single customer. These revenues are 
+attributable to the Employee Benefits segment.
+Smartgroup — — — —  Interim Financial Report 2026 13
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyNote 2. Operating segments (continued)
+Operating segment information (continued)
+Consolidated - half year ended 30 June 2025
+EB
+$'000
+VS
+$'000
+Corporate
+$'000
+Intersegment
+eliminations
+Total
+$'000
+Revenue
+Products and services commissions  107,241  –  –  –  107,241 
+Administration and management fees  35,260  8,401  –  –  43,661 
+Performance fees and rebates  6,587  1,639  –  –  8,226 
+Intersegment sales  –  2,156  –  (2,156)  – 
+Total revenue  149,088  12,196  –  (2,156)  159,128 
+Total expenses  (73,049)  (3,327)  (19,113)  –  (95,489) 
+Segment results (EBITDA)  76,039  8,869  (19,113)  (2,156)  63,639 
+Depreciation  (3,680) 
+Amortisation  (2,965) 
+Finance income  1,308 
+Finance costs  (2,915) 
+Profit before income tax expense  55,387 
+Income tax expense  (17,304) 
+Profit after income tax expense  38,083 
+Total assets1  516,254  51,880  72,123  –  640,257 
+Total liabilities1  319,087  12,709  50,196  –  381,992 
+Accounting policy for operating segments
+Operating segments are presented using the ‘management approach’, where the information presented is on the same basis as 
+the internal reports provided to the CODM. The CODM is responsible for the allocation of resources to operating segments and 
+assessing their performance.
+Smartgroup — — — —  Interim Financial Report 2026 14
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+1 The prior period comparative balances have been adjusted to be consistent with the presentation adopted in the prior year. In the prior year, the Group refined its 
+methodology for presenting segment assets and liabilities to eliminate the impact of intercompany investments and loans within the EB and Corporate segments. This 
+change ensures that segment asset and liability disclosures more accurately reflect the underlying operating performance of each segment. As a result, the 2025 
+comparative information has been restated on the same basis.
+For personal use onlyNote 3. Earnings per share
+30 June 2026 30 June 2025
+Consolidated $'000 $'000
+Profit after income tax attributable to the owners of Smartgroup Corporation Ltd  42,355  38,083 
+Consolidated Number Number
+Weighted average ordinary shares used in calculating basic earnings per share  129,934,704  129,822,318 
+Basic earnings per share (cents)  32.6  29.3 
+Adjustments for calculation of diluted earnings per share:
+Effect of rights and shares granted under incentive and share plans  1,241,153  204,121 
+Weighted average number of ordinary and potential ordinary shares used as the denominator 
+in calculating diluted earnings per share  131,175,857  130,026,439 
+Diluted earnings per share (cents)  32.3  29.3 
+Accounting policy for earnings per share
+(i) Basic earnings per share
+Basic earnings per share is calculated by dividing the profit attributable to the owners of Smartgroup Corporation Ltd, excluding 
+any costs of servicing equity other than ordinary shares, by the weighted average number of ordinary shares outstanding, 
+excluding shares issued under the LFSP, during the financial period.
+(ii) Diluted earnings per share
+Diluted earnings per share adjusts the figures used in the determination of basic earnings per share to take into account the 
+after income tax effect of interest and other financing costs associated with dilutive potential ordinary shares and the weighted 
+average number of shares, including unvested restricted shares issued under the LFSP, that could be converted into ordinary 
+shares. These unvested shares issued under LFSP are only included where the average market price of ordinary shares during 
+the period exceeds the exercise price of the LFSP shares.
+Note 4. Dividends
+Dividends paid during the financial period were as follows:
+30 June 2026 30 June 2025
+$'000 $'000
+Final ordinary dividend for the year ended 31 December 2025 of 21.5 cents 
+(2024: 20.0 cents) per ordinary share  29,182  26,671 
+Special dividend for the year ended 31 December 2025 of 12.0 cents 
+(2024: 11.0 cents) per ordinary share  16,288  14,670 
+ 45,470  41,341 
+On 26 August 2026, the Directors declared a fully franked interim dividend of 21.5 cents per ordinary share. The interim dividend 
+will be paid on 23 September 2026 to shareholders registered on 9 September 2026 with an expected total distribution of 
+$29,703,000.
+The interim ordinary dividend had not been declared at the reporting date and therefore is not reflected in the consolidated 
+financial statements.
+Dividends are paid out from the parent entity which has retained earnings as at 30 June 2026 of $34,216,000.
+As at 30 June 2026, the Group has accumulated losses of $29,825,000. The difference in retained earnings is primarily due to 
+the amortisation of intangible assets recognised in the consolidated financial statements arising from historic business 
+combinations.
+Accounting policy for dividends
+Dividends are recognised as a liability in the period in which they are declared.
+Smartgroup — — — —  Interim Financial Report 2026 15
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyNote 5. Events occurring after the reporting period
+O n  3 1  J u l y  2 0 2 6 ,  t h e  G r o u p  c o m p l e t e d  t h e  s a l e  o f  t h e  m a j o r i t y  o f  i t s  s e l f - f u n d e d  f l e e t  p o r t f o l i o  t o  V o l k s w a g e n  F i n a n c i a l  S e r v i c e s  
+Australia for approximately $14.5 million. The gain on sale of these assets net of selling costs was $1.4 million. At 30 June 2026, 
+the carrying value or fair value less costs of sale, whichever is lower, of the leased motor vehicles that are subject to this sale, is 
+recognised in non-current assets held for sale (refer to note 10).
+On 7 August 2026, Elizabeth Minogue was appointed to the Board, effective 1 September 2026.
+Other than disclosed in this note or elsewhere in this report, no transaction or event of a material or unusual nature has arisen in 
+the interval between the end of the current reporting period and the date of this report, that in the opinion of the Directors, is 
+highly probable to significantly affect the operations, the results of operations, or the state of affairs of the Group in future 
+periods.
+Operating assets and liabilities
+Note 6. Intangible assets
+Goodwill
+Customer 
+contracts
+Contract 
+rights
+Brand 
+names and 
+logos
+Internally 
+developed 
+software 
+and 
+websites Total
+Consolidated $'000 $'000 $'000 $'000 $'000 $'000
+Year ended 31 December 2025
+Opening net book amount  272,664  –  3,907  1,304  20,248  298,123 
+Additions1  –  –  –  –  12,560  12,560 
+Amortisation expense  –  –  (996)  –  (6,522)  (7,518) 
+Closing net book amount  272,664  –  2,911  1,304  26,286  303,165 
+As at 31 December 2025
+At cost  272,664  63,609  10,028  1,304  37,443  385,048 
+Accumulated amortisation  –  (63,609)  (7,117)  –  (11,157)  (81,883) 
+Net book amount  272,664  –  2,911  1,304  26,286  303,165 
+Half year ended 30 June 2026
+Opening net book amount  272,664  –  2,911  1,304  26,286  303,165 
+Additions1  –  –  –  –  6,921  6,921 
+Amortisation expense  –  –  (493)  –  (5,829)  (6,322) 
+Closing net book amount  272,664  –  2,418  1,304  27,378  303,764 
+As at 30 June 2026
+At cost  272,664  63,609  10,028  1,304  44,364  391,969 
+Accumulated amortisation  –  (63,609)  (7,610)  –  (16,986)  (88,205) 
+Net book amount  272,664  –  2,418  1,304  27,378  303,764 
+1. $3,436,000 of research and development (as defined in AASB 138 Intangible Assets) was completed on internally developed software and websites and expensed 
+in the half-year to 30 June 2026 (year to 31 December 2025: $4,073,000).
+Smartgroup — — — —  Interim Financial Report 2026 16
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyNote 6. Intangible assets (continued)
+Goodwill
+Goodwill arises on the acquisition of a business, and is 
+carried at cost less accumulated impairment losses.
+Goodwill is not amortised. Instead, goodwill is tested 
+annually for impairment, or more frequently if events or 
+changes in circumstances indicate that it might be 
+impaired, and is carried at cost less accumulated 
+impairment losses. Impairment losses on goodwill are 
+taken to profit or loss and are not subsequently reversed.
+Customer contracts
+Customer contracts acquired in a business combination are 
+amortised on a straight-line basis over the period of their 
+expected benefit, being 5 to 6 years.
+Contract rights
+Contract rights consist of exclusive rights to distribute 
+services to certain customers in accordance with AASB 
+138 Intangible Assets, as well as capitalised incremental 
+costs and fulfilment costs arising from contractual 
+obligations, which are recoverable, and generate revenue 
+in accordance with AASB 15 Revenue from Contracts with 
+Customers. Amortisation is on a straight-line basis over the 
+period of their expected benefit, being the life of the 
+contract, which is up to 5 years.
+Brand names and logos
+Brand names and logos acquired in a business 
+combination are recognised separately to goodwill and 
+included in other intangible assets. They have been 
+assessed as having an indefinite useful life on the basis 
+that the asset is allocated to businesses that are expected 
+to continue into perpetuity.
+Internally developed software and websites
+Research costs are expensed in the period in which they 
+are incurred. Development costs are capitalised when they 
+meet the definition of intangible assets and it is probable 
+that the project will be a success considering its 
+commercial and technical feasibility and ability to provide 
+future economic benefit. Amortisation commences when 
+the asset is available for use, that is, when it is in the 
+location and condition necessary for it to be capable of 
+operating in the manner intended by management. The 
+software costs are amortised on a straight-line basis over 
+the period of their expected benefit, being 2 to 5 years.
+Accounting policy for intangible assets
+Intangible assets acquired as part of a business 
+combination, other than goodwill, are initially measured at 
+their fair value at the date of the acquisition. Intangible 
+assets acquired separately are initially recognised at cost. 
+Indefinite life intangible assets are not amortised and are 
+subsequently measured at cost less any impairment. Finite 
+life intangible assets are subsequently measured at cost 
+less amortisation and any impairment. The gains or losses 
+recognised in the Consolidated Statement of Profit or Loss 
+and Other Comprehensive Income arising from the 
+derecognition of intangible assets are measured as the 
+difference between net disposal proceeds and the carrying 
+amount of the intangible asset. The method and useful 
+lives of finite life intangible assets are reviewed annually. 
+Changes in the expected pattern of consumption or useful 
+life are accounted for prospectively by changing the 
+amortisation method or period. Internally generated 
+intangible assets, excluding capitalised development costs, 
+are not capitalised and expenditure is recognised in the 
+Consolidated Statement of Profit or Loss and Other 
+Comprehensive Income in the period in which the 
+expenditure is incurred.
+Smartgroup — — — —  Interim Financial Report 2026 17
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyNote 7. Property and equipment
+Computer 
+equipment
+Furniture, 
+fittings and 
+equipment
+Office 
+equipment
+Leasehold 
+improvements
+Leased motor 
+vehicles Total
+Consolidated $'000 $'000 $'000 $'000 $'000 $'000
+Year ended 31 December 2025
+Opening net book amount  1,863  196  325  316  18,387  21,087 
+Additions  632  67  327  1,956  10,614  13,596 
+Disposals  (8)  (47)  (76)  (153)  (1,861)  (2,145) 
+Depreciation expense  (626)  (52)  (108)  (199)  (4,284)  (5,269) 
+Closing net book amount  1,861  164  468  1,920  22,856  27,269 
+As at 31 December 2025
+At cost  5,449  403  1,351  3,129  31,861  42,193 
+Accumulated depreciation  (3,588)  (239)  (883)  (1,209)  (9,005)  (14,924) 
+Net book amount  1,861  164  468  1,920  22,856  27,269 
+Half year ended 30 June 2026
+Opening net book amount  1,861  164  468  1,920  22,856  27,269 
+Additions  114  –  1  –  2,299  2,414 
+Disposals  –  –  –  –  (1,175)  (1,175) 
+Transfer to assets held for sale  –  –  –  –  (12,822)  (12,822) 
+Depreciation expense  (355)  (26)  (73)  (221)  (2,212)  (2,887) 
+Closing net book amount  1,620  138  396  1,699  8,946  12,799 
+As at 30 June 2026
+At cost  5,563  403  1,352  3,129  15,355  25,802 
+Accumulated depreciation  (3,943)  (265)  (956)  (1,430)  (6,409)  (13,003) 
+Net book amount  1,620  138  396  1,699  8,946  12,799 
+Accounting policy for property and equipment
+Property and equipment is stated at historical cost less accumulated depreciation and impairment. Historical cost includes 
+expenditure that is directly attributable to the acquisition of the items.
+Depreciation is calculated using the straight-line method to allocate their cost or revalued amounts, net of their residual values, 
+over their estimated useful lives or lease term as follows:
+• Computer equipment  2 – 5 years
+• Furniture, fittings and equipment  3 – 7 years
+• Office equipment  3 – 6 years
+• Leasehold improvements  Period of lease
+• Leased motor vehicles  Period of lease
+The residual values, useful lives and depreciation methods are reviewed annually and adjusted if appropriate.
+Property and equipment under lease are depreciated over the unexpired period of the lease or the estimated useful life of the 
+assets, whichever is shorter.
+An item of property and equipment is derecognised upon disposal or when there is no future economic benefit to the Group. 
+Gains and losses between the carrying amount and the disposal proceeds are taken to profit or loss.
+Smartgroup — — — —  Interim Financial Report 2026 18
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyNote 8. Trade and other receivables
+30 June 31 December 
+2026 2025
+Consolidated $'000 $'000
+Trade receivables  10,144  8,532 
+Less: allowance for expected credit losses  (443)  (241) 
+Total trade receivables  9,701  8,291 
+Contract assets  16,972  10,935 
+Other receivables  12,148  13,589 
+Total other receivables  29,120  24,524 
+Total trade and other receivables  38,821  32,815 
+30 June 31 December 
+2026 2025
+Age $'000 $'000
+Current  5,169  5,569 
+0 – 30 days  2,044  1,849 
+31 – 60 days  2,089  840 
+61 – 90 days  174  30 
+90+ days  668  244 
+Total  10,144  8,532 
+Accounting policy for trade and other receivables
+Trade receivables are initially recognised at fair value and 
+subsequently measured at amortised cost using the effective 
+interest method, less any allowance for expected credit 
+losses. Trade receivables are generally due for settlement 
+between 14 and 30 days.
+Collectability of trade receivables is reviewed on an ongoing 
+basis. Debts which are known to be uncollectible are written 
+off by reducing the carrying amount directly. Trade 
+receivables have been grouped based on shared credit risk 
+characteristics and the days past due. Contract assets 
+predominantly consist of revenue recognised in advance of 
+the receipt of cash. These are unbilled transactions for 
+commission-based revenue, with no associated credit loss as 
+funds are held within the restricted cash accounts with a 
+corresponding customer salary packaging liability balance.
+Other receivables are recognised at amortised cost, less any 
+allowance for expected credit losses. Other receivables 
+relate to floats for client salary packaging payments, and 
+have been assessed as similar in nature to financier and 
+supply chain partners risk.
+Expected credit loss assessment for customers
+The Group applies the simplified approach to the expected 
+credit loss (ECL) calculation used for trade receivables, 
+and measures the ECL allowance at an amount equal to 
+lifetime ECL.
+The Group allocates each exposure to a credit risk grade 
+based on data that is determined to be predictive of the risk 
+of loss and applying experienced credit judgement. Credit 
+risk grades are defined using qualitative and quantitative 
+factors that are indicative of the risk of default. Exposures 
+within each credit risk grade are generally based on actual 
+historical credit loss experience.
+ECL rates are adjusted to reflect current and forward-
+looking information on macroeconomic factors that may 
+affect the ability of the customers to settle the receivables, 
+such as GDP rates. They are also adjusted to reflect 
+historical and current debtor-based information impacting 
+the probability that certain debtors will enter bankruptcy or 
+financial reorganisation, or default on payments (more than 
+60 days overdue). Smartgroup obtains the updated credit 
+scores from external sources to determine the average 
+expected credit loss rate by customer group, and applies 
+these rates to the receivables balances by customer group 
+to calculate the ECL allowance. In addition, specific 
+provisions totalling $442,000 (31 December 2025: 
+$240,000) were raised for at-risk customer groups.
+Smartgroup — — — —  Interim Financial Report 2026 19
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyNote 8. Trade and other receivables (continued)
+The Group has identified motor vehicle dealers, and small to medium corporates as the groups most at-risk of credit loss. The 
+credit loss rates are based on a 3-year rolling average between 0.0% - 0.03% (31 December 2025: 0.0% - 0.03%) and derived 
+using counterparty-specific information and historical data from previous recessions and economic projections.
+The Group has additionally provided $216,000 (31 December 2025: $224,000) in relation to counterparty arrangements with 
+motor vehicle dealerships. This provision is reflected in Operations Provision within Current Provisions in the Consolidated 
+Statement of Financial Position.
+The following table provides information about the exposure to credit risk and ECL for trade receivables as at 30 June 2026.
+Gross carrying 
+amount
+Expected credit 
+loss allowance
+Specific
+loss allowance
+Total loss 
+allowance
+Weighted- 
+average loss 
+rate
+30 June 2026 $'000 $'000 $'000 $'000 %
+Financiers and supply chain partners  1,722  –  (21)  (21)  1.22% 
+Employer/Corporate  6,074  –  (100)  (100)  1.65% 
+Dealers  2,348  (1)  (321)  (322)  13.71% 
+Total expected credit loss exposure  10,144  (1)  (442)  (443) 
+Gross carrying 
+amount
+Expected credit 
+loss allowance
+Specific
+loss allowance
+Total loss 
+allowance
+Weighted- 
+average loss 
+rate
+31 December 2025 $'000 $'000 $'000 $'000 %
+Financiers and supply chain partners  603  –  (89)  (89)  14.76% 
+Employer/Corporate  7,086  –  (91)  (91)  1.28% 
+Dealers  843  (1)  (60)  (61)  7.24% 
+Total expected credit loss exposure  8,532  (1)  (240)  (241) 
+The amount of the loss allowance is the difference between the asset’s carrying amount and the present value of management’s 
+estimate of future cash flows, discounted at the original effective interest rate. Cash flows relating to short-term receivables are 
+not discounted if the effect of discounting is immaterial.
+The loss allowance for trade receivables as at 30 June 2026 reconciles to the opening loss allowance as follows:
+30 June 31 December 
+2026 2025
+Consolidated 30 June 2026 $'000 $'000
+Movements:
+Opening balance  (241)  (351) 
+Bad debts written off  55  13 
+Additional provision (recognised)/derecognised  (257)  97 
+Closing balance  (443)  (241) 
+Smartgroup — — — —  Interim Financial Report 2026 20
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyNote 9. Restricted cash and associated liabilities
+The Group administers restricted cash and this can take one of two forms:
+• Restricted cash (pooled customer funds in Smartgroup’s name)
+• Cash held on behalf of customers, in segregated bank accounts in Smartgroup’s name.
+Cash held on behalf of customers recognised in the statement of financial position:
+30 June 31 December 
+2026 2025
+Consolidated $'000 $'000
+Restricted cash and cash equivalents  247,303  269,320 
+Customer salary packaging liability  (247,303)  (269,320) 
+The restricted cash in the Consolidated Statement of Financial Position and Consolidated Statement of Cash Flows represents 
+funds held by the Group on behalf of certain customers. The use of these funds is restricted to the making of salary packaging 
+payments on behalf of those customers only and therefore not available for general use. The Group recognises a liability for all 
+restricted cash balances to reflect the amounts owing to its customers.
+The restricted cash accounts are held with Australia’s major financial institutions. Depending on commercial arrangements, the 
+Group may earn finance income from these accounts. For the half year ended 30 June 2026, the Group has recognised within 
+revenue, finance income of $4,560,000 (30 June 2025: $3,645,000) from restricted cash.
+Cash held on behalf of customers not recognised in the statement of financial position:
+30 June 2026 31 December 2025
+Weighted 
+average 
+interest rate
+Balance
+$'000
+Weighted 
+average 
+interest rate
+Balance
+$'000
+Accounts established by customers directly  4.15%  66,776  3.72%  78,755 
+Cash held on behalf of salary packaging customers is deposited by customers into segregated bank accounts, owned and 
+controlled by customers, to be used only to settle their employees’ salary packaging obligations to suppliers. The Group cannot 
+use these funds for any other purpose than as directed by its customers. Customers are liable to ensure adequate funds are 
+kept in the segregated bank accounts for salary packaging payments. The Group has assessed that these assets are held in a 
+fiduciary capacity rather than being assets of the Group and as such, have excluded them from the Consolidated Statement of 
+Financial Position.
+The segregated bank accounts used for cash held on behalf of customers are with Australia’s major financial institutions.
+Note 10. Non-current assets held for sale
+30 June 31 December 
+2026 2025
+Consolidated $'000 $'000
+Leased motor vehicles  12,822  – 
+Non-current assets held for sale  12,822  – 
+In line with the Group's strategy to fund Fleet leased motor vehicles from external sources, the above vehicles were held for sale 
+at 30 June 2026. Volkswagen Financial Services Australia has agreed to purchase the majority of the Group's self-funded Fleet 
+portfolio under a fleet-funding partnership that was established during the period.
+Property and equipment are classified as held for sale if their carrying amounts will be recovered principally through a sale 
+transaction rather than through continuing use. This condition is met only when the sale is highly probable and the asset is 
+available for immediate sale in its present condition. Management must be committed to the sale, which should be expected to 
+qualify for recognition as a completed sale within one year from the date of classification.
+Leased motor vehicles held for sale are measured at the lower of carrying value and fair value less costs of sale.
+The transaction completed on 31 July 2026 (refer to note 5).
+Smartgroup — — — —  Interim Financial Report 2026 21
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyCapital structure and financial risk management
+Note 11. Borrowings
+30 June 31 December 
+2026 2025
+Consolidated $'000 $'000
+Bank loan  81,500  81,500 
+Borrowing costs and interest at amortised cost  (714)  (777) 
+Borrowings  80,786  80,723 
+Accounting policy for borrowings
+Loans and borrowings are initially recognised at fair value less attributable transaction costs, and are subsequently measured at 
+amortised cost using the effective interest method. Fees paid on the establishment of loan facilities are recognised as 
+transaction costs of the loan to the extent that it is probable that some or all of the facility will be drawn down. In this case, the 
+fee is deferred until the draw down occurs. If there is no evidence of a probable drawn down, the fee is capitalised as a 
+prepayment for liquidity services and amortised over the terms of the facility to which it relates.
+Financing arrangements
+Unrestricted access was available at the reporting date to the following lines of credit:
+30 June 31 December 
+2026 2025
+Consolidated $'000 $'000
+Total facilities
+Bank loan  120,000  120,000 
+Letter of credit facility  15,000  15,000 
+ 135,000  135,000 
+Used at the reporting date
+Bank loan  81,500  81,500 
+Letter of credit facility  10,952  10,952 
+ 92,452  92,452 
+Unused at the reporting date
+Bank loan  38,500  38,500 
+Letter of credit facility  4,048  4,048 
+ 42,548  42,548 
+In addition to the above, ancillary facilities of $1,000,000 (31 December 2025: $1,000,000) were also available to the Group at 
+30 June 2026.
+The banking facilities are guaranteed and secured by the Company and certain of the Company’s subsidiaries. The facilities are 
+subject to a variable interest rate, which is based on the 3-month BBSY (Bank Bill Swap Bid Rate) plus a margin. The fair value 
+of borrowings is approximate to carrying value as the debt is at BBSY margin.
+Gross debt drawn down at 30 June 2026 is $81,500,000. The banking facilities mature on 28 September 2028.
+The Group is subject to certain financing covenants and meeting these is given priority in all capital risk management decisions. 
+These covenants include leverage and interest cover ratios with reference to adjusted earnings before interest, tax, depreciation 
+and amortisation, and with distribution restrictions on dividends. These covenants relate to the revolving facility and the letter of 
+credit facility. The carrying value of the revolving facility at 30 June 2026 is $80,786,000 (31 December 2025: $80,723,000). The 
+Group is required to comply with the loan covenant requirements on a semi-annual basis, with the next compliance period in 
+September 2026. There have been no events of default on the financing arrangement during the period (31 December 2025: 
+nil).
+Smartgroup — — — —  Interim Financial Report 2026 22
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyNote 12. Fair value measurement of financial instruments
+Level 1 Level 2 Level 3 Total
+Consolidated $'000 $'000 $'000 $'000
+30 June 2026
+Financial assets
+Interest rate swap contracts – cash flow hedges  –  844  –  844 
+Total financial assets  –  844  –  844 
+31 December 2025
+Financial assets
+Interest rate swap contracts – cash flow hedges  –  682  –  682 
+Total financial assets  –  682  –  682 
+Accounting policy for fair value measurement
+Assets and liabilities measured at fair value are classified 
+into three levels, using a fair value hierarchy that reflects 
+the significance of the inputs used in making the 
+measurements. Classifications are reviewed at each 
+reporting date and transfers between levels are determined 
+based on a reassessment of the lowest level of input that is 
+significant to the fair value measurement.
+Fair value is measured using the assumptions that market 
+participants would use when pricing the asset, or liability, 
+assuming they act in their economic best interests. 
+Valuation techniques that are appropriate in the 
+circumstances, and for which sufficient data is available 
+are used to measure fair value, maximising the use of 
+relevant observable inputs and minimising the use of 
+unobservable inputs.
+When an asset or liability, financial or non-financial, is 
+measured at fair value for recognition or disclosure 
+purposes, the fair value is based on the price that would be 
+received to sell an asset or paid to transfer a liability in an 
+orderly transaction between market participants at the 
+measurement date and assumes that the transaction will 
+take place either in the principal market or, in the absence 
+of a principal market, in the most advantageous market.
+For recurring and non-recurring fair value measurements, 
+external valuers may be used either when internal 
+expertise is not available or when the valuation is deemed 
+to be significant. External valuers are selected based on 
+market knowledge and reputation. Where there is a 
+significant change in fair value of an asset or liability from 
+one period to another, an analysis is undertaken, which 
+includes a verification of the major inputs applied in the 
+latest valuation and a comparison, where applicable, with 
+external sources of data.
+Fair value hierarchy
+The table above details the Group’s assets and liabilities 
+that are measured at fair value using the three-level fair 
+value hierarchy, which are different valuation methods 
+based on the inputs used:
+Level 1: quoted prices (unadjusted) in active markets for 
+identical assets or liabilities that the entity can 
+access at the measurement date.
+Level 2: inputs other than quoted prices included within 
+Level 1 that are observable for the asset or 
+liability, either directly or indirectly.
+Level 3: unobservable inputs for the asset or liability.
+There were no transfers between levels during the financial 
+period.
+The carrying amounts of trade and other receivables and 
+trade and other payables approximate their fair values due 
+to their short-term nature. The fair value of financial 
+liabilities is estimated by discounting the remaining 
+contractual maturities at the current market interest rate 
+that is available for similar financial liabilities.
+Valuation techniques for fair value measurements 
+categorised within Level 2 and Level 3 
+Derivatives - interest rate swap contracts
+Derivative financial instruments have been valued at the 
+present value of cash flows using quoted market interest 
+rates. This valuation technique maximises the use of 
+observable market data where it is available and relies as 
+little as possible on entity specific estimates.
+Smartgroup — — — —  Interim Financial Report 2026 23
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyNote 13. Issued capital
+30 June 31 December 30 June 31 December 
+2026 2025 2026 2025
+Shares Shares $'000 $'000
+Ordinary shares — issued and fully paid 138,151,642 135,605,546 333,968 311,309 
+Other equity shares: treasury shares associated with the loan 
+funded share plan (LFSP) (8,173,659) (5,753,909) (67,964) (46,440) 
+129,977,983 129,851,637 266,004 264,869 
+Accounting policy for issued capital
+Ordinary shares are classified as equity. Issued capital represents the amount of consideration received for shares issued by the 
+Company. Transaction costs of an equity transaction are accounted for as a deduction from equity, net of any related income tax 
+benefit.
+13A. Movements in ordinary share capital
+Details Number of shares
+Total
+$'000
+Opening balance at 1 January 2025 133,878,152 297,149 
+Exercise of performance rights during the year 91,497 763 
+Shares issued for LFSP during the year 2,392,757 18,952 
+Cancellation of forfeited LFSP shares (756,860) (5,555) 
+Balance at 31 December 2025 135,605,546 311,309 
+Exercise of performance rights during the period 126,346 1,135 
+Shares issued for LFSP during the period 2,419,750 21,524 
+Balance at 30 June 2026 138,151,642 333,968 
+Ordinary shares
+Ordinary shares entitle the holder to participate in dividends and the proceeds on the winding up of the Company in proportion to 
+the number of and amounts paid on the shares held. The fully paid ordinary shares have no par value and the Company does 
+not have a limited amount of authorised capital.
+On a show of hands, every member present at a meeting in person or by proxy shall have one vote; and upon a poll, each share 
+shall have one vote.
+Share buy-back
+In May 2026, the Company announced it was targeting an on-market share buyback of up to $20 million of ordinary shares.  The 
+Company may, at its discretion, vary the size of the buyback, including by purchasing a lesser value of shares than $20 million 
+or no shares at all.  There is no current on-market share buyback of the Company’s shares as at the date of this report.
+Capital risk management
+The Group’s objectives when managing capital are to safeguard its ability to continue as a going concern, so that it can provide 
+returns for shareholders and benefits for other stakeholders and to maintain an optimum capital structure to reduce the cost of 
+capital. The Group’s debt and capital includes ordinary share capital and financial liabilities, supported by financial assets.
+Capital is regarded as total equity, as recognised in the statement of financial position, plus net debt. Net debt is calculated as 
+total borrowings excluding prepaid borrowing costs less cash and cash equivalents, and excludes restricted cash and cash 
+equivalents.
+In order to maintain or adjust the capital structure, the Group may adjust the amount of dividends paid to shareholders, return 
+capital to shareholders, issue new shares or sell assets to reduce debt. The Group would look to raise capital when an 
+opportunity to invest in a business or company was seen as value adding relative to the current Company’s share price at the 
+time of the investment or to reduce debt.
+Smartgroup — — — —  Interim Financial Report 202624
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026For personal use onlyNote 13. Issued capital (continued)
+13B. Share-based payments
+Loan funded share plan (LFSP)
+Shares granted as part of the LFSP are eligible for dividends and are held by the participant until they vest or are forfeited. 
+Should the Company pay dividends or make capital distributions in the future, any dividends paid, or distributions made to the 
+participant will be applied to repay the loan and to meet the tax liability on those dividends or distributions.The vesting of the 
+shares is subject to two performance hurdles, being an earnings growth hurdle and a total shareholder return hurdle, and a 
+continuous employment condition. The shares can only be exercised after the participant has repaid the loan.
+The issue price is calculated based on the 20-day volume weighted average price of shares trading on the ASX up to and 
+including grant date. Shares vest over a 3-year period subject to two vesting conditions, the “EPS Performance Hurdle” and the 
+“TSR Performance Hurdle”.
+Shares issued under the LFSP are accounted for as options. The unvested shares have been treated as contingently issuable 
+as the vesting conditions have not been satisfied at balance date and are therefore excluded from basic earnings per share.
+Performance Rights (PR)
+Performance rights have a nil exercise price and the number of shares are determined based on the 10-day volume weighted 
+average price of shares traded on the ASX up to and including the grant date. PR vest over a 1-year period, being 1 January to 
+31 December.
+PR granted do not include voting rights nor attract dividends, and are subject to vesting conditions, being performance hurdles 
+relating to the annual Key Performance Indicators (KPIs). PR cannot be transferred and are not quoted on the ASX.
+Employee share plan
+Smartgroup full-time employees are eligible to participate in an employee share scheme. Under the scheme, eligible employees 
+may acquire Smartgroup shares through a Salary Sacrifice Offer and receive additional shares under a Matching Offer.  
+Employees who accept the offer purchase $500 worth of Smartgroup shares using pre-tax salary, and Smartgroup provides up 
+to $500 worth of matching shares at no cost, resulting in a combined allocation of approximately $1,000 worth of shares. Salary 
+sacrifice deductions are made over two months following acceptance of the offer.  
+Shares allocated under both the Salary Sacrifice Offer and the Matching Offer are subject to a 3-year holding lock, during which 
+they cannot be sold or transferred (except in limited circumstances such as cessation of employment). Participants receive 
+dividends and voting rights equivalent to other shareholders.
+Smartgroup — — — —  Interim Financial Report 2026 25
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyNote 14. Adoption of new and amended 
+accounting standards
+The principal accounting policies adopted in the 
+preparation of the financial statements are set out below 
+and in the respective notes. These policies have been 
+consistently applied to all the periods presented, unless 
+otherwise stated.
+New or amended Accounting Standards and 
+Interpretations adopted
+The Group has adopted all of the new or amended 
+Accounting Standards and Interpretations issued by the 
+Australian Accounting Standards Board (AASB) that are 
+mandatory for the current reporting period with the 
+following standards and amendments applied for the 
+annual reporting period commencing 1 January 2026:
+• AASB 2024-2 Amendments to Australian Accounting 
+Standards – Classification and Measurement of 
+Financial Instruments
+• AASB 2024-3 Amendments to Australian Accounting 
+Standards – Annual Improvements Volume 11
+• AASB 2026-1 Amendments to Australian Accounting 
+Standards – Disclosures about Uncertainties in the 
+Financial Statements
+The adoption of these Accounting Standards and 
+Interpretations did not have any material impact on the 
+financial performance or position of the Group.
+New standards and interpretations not yet adopted
+The following accounting standards have been issued but 
+are not yet in effect for the current reporting period. The 
+Group has not elected to early adopt any accounting 
+standards during the period.
+AASB 18 Presentation and Disclosure in Financial 
+Statements
+AASB 18 Presentation and Disclosure in Financial 
+Statements replaces AASB 101 Presentation of Financial 
+Statements. AASB 18 requires changes to the presentation 
+of the statement of profit or loss to classify income and 
+expenses into operating, investing and financing 
+categories, with the introduction of defined subtotals, 
+operating profit and profit before financing and income 
+taxes. AASB 18 also enhances guidance around 
+aggregation principles within the primary financial 
+statements and information disclosed in the notes, and 
+requires management-defined performance measures 
+used in public communications that are subtotals of income 
+and expense to be reconciled to the subtotals required by 
+AASBs. The standard is effective for annual periods 
+beginning on or after 1 January 2027. The Group expects 
+AASB 18 to lead to changes in the way information is 
+presented in the primary financial statements in the 
+financial report for the year ended 31 December 2027, 
+however at this time does not anticipate any other impacts.
+There are no other standards that are not yet effective and 
+that would be expected to have a material impact on the 
+entity in the current or future reporting years and on 
+foreseeable future transactions.
+AASB S2 Climate-related disclosures
+AASB S2 Climate-related Disclosures requires the 
+reporting of climate-related risks and opportunities that 
+could reasonably be expected to affect the Group's cash 
+flows, its access to finance or cost of capital over the short, 
+medium or long term. The standard is effective for annual 
+periods beginning on or after 1 January 2026. The Group 
+expects the primary impacts of the standards to be:  
+• An increase to climate-related risk and opportunity 
+disclosures and their potential financial impact, and
+• A requirement to disclose forward-looking financial 
+sensitivities based on climate scenarios and the 
+Group's response to those scenarios. 
+As a Group 2 entity, Smartgroup will adopt AASB S2 as 
+required in FY27.
+Smartgroup — — — —  Interim Financial Report 2026 26
+Notes to the Consolidated
+Financial Statements
+For the half year ended 30 June 2026
+For personal use onlyDirectors’ Declaration
+For the half year ended 30 June 2026
+In the Directors’ opinion:
+(a) The attached financial statements and notes set out on pages 6 to 26 are in accordance with the Corporations Act 2001
+(Cth), including:
+(i) complying with Accounting Standard AASB 134 Interim Financial Reporting, the Corporations Regulations 2001 and
+other mandatory professional reporting requirements, and
+(ii) giving a true and fair view of the consolidated entity’s financial position as at 30 June 2026 and of its performance for
+the financial half year ended on that date.
+(b) There are reasonable grounds to believe that the Company will be able to pay its debts as and when they become due and
+payable.
+Signed in accordance with a resolution of Directors.
+On behalf of the Directors
+John Prendiville
+Chairman
+26 August 2026
+Sydney
+Smartgroup — — — —  Interim Financial Report 202627
+For personal use onlySmartgroup — — — —  Interim Financial Report 2026 28
+Independent Auditor's Review Report
+For personal use onlySmartgroup — — — —  Interim Financial Report 2026 29
+For personal use onlyCorporate Directory
+Directors
+John Prendiville 
+Carolyn Colley 
+Deborah Homewood 
+Anne McDonald 
+Mark Rigotti
+Paul Rogan
+Ian Watt
+Scott Wharton
+Company secretaries 
+Sophie MacIntosh 
+Jonathan Swain
+Registered office and principal 
+place of business
+Smartgroup Corporation Ltd
+Level 15, Darling Park Tower 2 
+201 Sussex Street  
+Sydney NSW Australia 2000 
+Tel: 1300 665 855
+Share register
+MUFG Corporate Markets
+(AU) Limited
+Level 41, 161 Castlereagh Street 
+Sydney NSW Australia 2000 
+Tel: 1300 554 474
+Auditor
+KPMG
+Level 38, Tower 3
+300 Barangaroo Avenue
+Sydney NSW Australia 2000
+Bankers 
+Westpac Group
+275 Kent Street
+Sydney NSW Australia 2000
+Australia and New Zealand Banking 
+Group Limited
+242 Pitt Street
+Sydney NSW Australia 2000
+Securities Exchange listing
+Smartgroup Corporation Ltd shares 
+are listed on the Australian Securities 
+Exchange (ASX code: SIQ)
+Website
+smartgroup.com.au
+Smartgroup — — — —  Interim Financial Report 2026 30
+For personal use onlyBuilding a
+Smarter Tomorrow
+smartgroup.com.au
+Smartgroup Corporation Ltd 
+National Head Office
+Level 15, Darling Park Tower 2, 201 Sussex Street 
+Sydney NSW 2000For personal use only

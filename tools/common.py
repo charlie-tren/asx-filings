@@ -40,8 +40,14 @@ TEXT_DIR = ROOT / "data" / "text"
 # The ledgers below are append-only JSONL, which git stores as small deltas and
 # a human can read, diff and grep. rebuild_db() reconstructs the database from
 # them, so losing corpus.db costs nothing.
+# announcements is SHARDED BY MONTH. The market-wide sweep records roughly 145
+# rows a day against the ticker loop's handful, so a single file would reach
+# ~53,000 rows a year and every commit would re-diff the whole thing. One file
+# per month keeps each day's diff to the lines actually added.
+SHARDED = {"announcements"}
+
 LEDGERS = {
-    "announcements": ROOT / "data" / "announcements.jsonl",
+    "announcements": ROOT / "data" / "announcements",
     "documents": ROOT / "data" / "documents.jsonl",
     "rejections": ROOT / "data" / "rejections.jsonl",
     "fetches": ROOT / "data" / "fetches.jsonl",
@@ -195,14 +201,25 @@ def connect() -> sqlite3.Connection:
     return con
 
 
-def append(table: str, row: dict) -> None:
+def ledger_path(table: str, when: str | None = None) -> Path:
+    """Where a record goes. Sharded tables get one file per month, keyed on the
+    record's own date rather than today's, so a backfill lands in the month it
+    belongs to."""
+    base = LEDGERS[table]
+    if table not in SHARDED:
+        return base
+    month = (when or now_iso())[:7]
+    return base / f"{month}.jsonl"
+
+
+def append(table: str, row: dict, when: str | None = None) -> None:
     """Append one record to the committed ledger.
 
     Written with flush + fsync because the point of this file is to survive a
     runner that dies mid-run. A record that reached the OS buffer and not the
-    disk is a document the five-item window will have eaten by tomorrow.
+    disk is a document the window will have eaten by tomorrow.
     """
-    path = LEDGERS[table]
+    path = ledger_path(table, when)
     path.parent.mkdir(parents=True, exist_ok=True)
     with open(path, "a", encoding="utf-8") as fh:
         fh.write(json.dumps(row, ensure_ascii=False, sort_keys=True) + "\n")
@@ -211,9 +228,19 @@ def append(table: str, row: dict) -> None:
 
 
 def read_ledger(table: str) -> list[dict]:
-    path = LEDGERS[table]
-    if not path.exists():
-        return []
+    """Every record in a table, concatenating month shards in order."""
+    base = LEDGERS[table]
+    if table in SHARDED:
+        paths = sorted(base.glob("*.jsonl")) if base.exists() else []
+    else:
+        paths = [base] if base.exists() else []
+    rows = []
+    for path in paths:
+        rows.extend(_read_one(path))
+    return rows
+
+
+def _read_one(path: Path) -> list[dict]:
     rows = []
     for n, line in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
         line = line.strip()

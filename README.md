@@ -1,20 +1,20 @@
 # ASX Outlook Watch
 
-A daily collector for ASX results announcements. It reads each ticker's
-announcement index, records everything it saw, and stores the extracted text of
-anything results-shaped.
+A daily collector for ASX results announcements. It sweeps the market-wide
+announcement feed, records what it saw, and stores the extracted text of
+anything results-shaped from the companies in `universe.json`.
 
 It exists to build a corpus that cannot be built later.
 
 ## Why it runs every day
 
-The free ASX announcement index returns **the last five announcements per
-ticker and will not paginate.** Tested on 09/09/2026 with `pageSize`, `count`,
-`page`, `pageIndex`, `dateFrom`/`dateTo` and `years`, against both hosts: every
-one returns the same five items.
+Ingestion pages back about **20 days** before the feed's 100-page cap. That is
+more slack than the per-ticker index, which returns **the last five
+announcements and will not paginate** under any parameter tried, but it is still
+a window with a hard edge.
 
-There is no backfill and no archive. When a sixth announcement lands, the oldest
-is gone.
+There is no archive behind it. Once an announcement falls past the cap it cannot
+be fetched again.
 
 Of 20 tickers probed on 9 September, **eight had already lost their August FY26
 results**: NCK, TPW, JIN, SDR, NAN, CTD, IEL and BAP. Those documents were three
@@ -38,36 +38,66 @@ per document does.
 | `announcements` | every announcement ever seen, keyed by `documentKey` |
 | `documents` | the ones whose text was extracted and kept |
 | `rejections` | why a seen document was not kept, so a rejected document and an unexamined one are distinguishable |
-| `fetches` | one row per ticker per run, recording whether the index read itself worked |
+| `fetches` | one row per sweep PAGE and one per universe ticker, per run, recording whether each read worked |
 | `runs` | one row per run |
 
-`fetches` is the load-bearing one. **A ticker whose index fails every night looks
-exactly like a ticker with nothing to announce** unless the fetch outcome is
-recorded, and by the time anyone notices, the window has moved on.
+`fetches` is the load-bearing one, and it holds two kinds of row. `page:N` rows
+say whether the sweep finished, because **a sweep that stopped at page 12 looks
+exactly like a quiet market**. Ticker rows say whether a code still exists,
+because **a ticker whose index fails every night looks exactly like a ticker
+with nothing to announce**. Neither question can be answered by the other's
+rows.
 
-## There is a market-wide feed, and it is better than per-ticker polling
+## Ingestion is the market-wide feed
 
-Found 09/09/2026 while hunting for downgrades. `/markets/announcements` on the
-same host returns announcements for **every listed company**, and unlike the
-per-ticker index it **pages**:
+`/markets/announcements` returns announcements for **every listed company** and,
+unlike the per-ticker index, it **pages**:
 
     /markets/announcements?itemsPerPage=100&page=N
 
-Hard cap at 100 pages of 100 items. Measured: **9,899 announcements reaching
-back 20 days**, against five items per ticker with no paging. `itemsPerPage`
-works and `pageSize` does not; `startDate`, `date` and `days` are all ignored.
+`itemsPerPage` is the parameter that works. `pageSize` is silently ignored and
+returns 25. `startDate`, `endDate`, `date` and `days` are ignored too. Hard cap
+at 100 pages of 100 items: measured **9,900 announcements over 20 calendar
+days**, about 550 a day across 1,845 tickers.
 
-This is a better collection mechanism than the ticker loop below it, on three
-counts: it covers companies not in `universe.json`, it needs about 100 requests
-a day instead of one per ticker, and a missed day costs 20 days of slack rather
-than five announcements.
+**Coverage was checked before migrating, not assumed.** Against the per-ticker
+index for all 67 universe tickers, the feed carried **227 announcements the
+five-item index could not see**, and missed 23. Every one of the 23 was a
+substantial-holding notice or an index rebalance - the S&P DJI rebalance is
+filed under MIN rather than under each affected company, and shareholding
+notices are filed under the HOLDER's symbol (NXL, AFG) rather than the company
+held. Two were absent outright. **Not one was a results, outlook, guidance or
+trading document.**
 
-**The collector does not use it yet.** It was found after the ticker loop was
-built and verified, and swapping the ingestion path is not a change to make in
-the same breath as discovering the endpoint. `gold/find_negatives.py` is a
-working sweep over it. What has NOT been established: whether the 20-day depth
-is stable or a function of current volume, and whether it drops announcement
-types the per-ticker index carries. Check both before migrating.
+The first migrated run took the corpus from 33 documents across 17 tickers to
+**77 across 45**, because the feed still held results the per-ticker windows had
+already dropped.
+
+### The per-ticker loop survives as a liveness probe
+
+It does not download anything and it costs about a minute. It is kept because
+**the sweep cannot tell a delisted code from a company with nothing to say** -
+absence from a market-wide feed is the normal state. Only asking a ticker's own
+index returns `400 Symbol not found`, which is how IFM, JLG and RUL were found.
+
+### What is recorded
+
+Announcement metadata for universe tickers (all types) plus **everything the ASX
+flagged price-sensitive, market-wide**. The remaining 74% is director-interest
+notices, quotation applications and substantial holdings for 1,800 companies
+this project does not follow, and it will never be read. Documents are
+downloaded only for universe tickers.
+
+`data/announcements/` is **sharded by month**, keyed on the announcement's own
+date so a backfill lands in the month it belongs to. At ~145 recorded rows a day
+a single file would reach ~53,000 rows a year and re-diff itself on every
+commit.
+
+### The new failure mode
+
+A sweep that stops early looks exactly like a quiet market. Every page outcome
+is recorded as a `page:N` row in `fetches`, and both the collector and the health
+check fail the run below 80 of 100 pages.
 
 ## Two hosts, and they are not interchangeable
 
@@ -106,8 +136,9 @@ the text has to exclude it explicitly.
 ```bash
 pip install -r requirements.txt
 python tools/collect.py                 # the daily job
-python tools/collect.py --only GNP,ADH  # one or two names
-python tools/collect.py --dry-run       # read indexes, download nothing
+python tools/collect.py --pages 3       # short sweep, for testing
+python tools/collect.py --no-probe      # skip the per-ticker liveness probe
+python tools/collect.py --dry-run       # sweep and record, download nothing
 python tools/health.py                  # is it running, and is it keeping things
 python -m pytest tests -q
 ```
@@ -127,9 +158,15 @@ GitHub's scheduler on this account has been measured 3 to 7 hours late with no
 open incident, and a job whose whole purpose is not missing a day cannot depend
 on it.
 
-**Not yet registered in the heartbeat Worker.** Adding it means an entry in
-`TARGETS` in `site-stats/heartbeat/src/` alongside the `repository_dispatch`
-trigger already in the workflow here. One without the other is silent.
+**Registered and deployed 09/09/2026.** `TARGETS` in
+`site-stats/heartbeat/src/index.js`, content slot, verified against the Worker's
+own status endpoint rather than assumed:
+
+    curl -s https://heartbeat.charlie-rochfordgroup.workers.dev | python -m json.tool
+
+**This repo must stay PUBLIC.** That Worker's token is scoped `public_repo`, so
+a private target 404s on every dispatch and the only symptom is a job that never
+runs.
 
 ## What this is not
 

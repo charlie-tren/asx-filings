@@ -98,3 +98,11 @@ def test_it_has_a_second_daily_cron(wf):
     assert len(crons) >= 2
     # Off the hour on purpose: on-the-hour slots are the congested ones.
     assert all(not c.startswith("0 ") for c in crons), crons
+
+
+def test_it_stages_the_sharded_announcements_directory(script):
+    """announcements moved from data/announcements.jsonl to a directory of month
+    shards. `data/*.jsonl` stopped matching it, and a glob that matches nothing
+    stages nothing and fails nothing - the whole largest table would have gone
+    uncommitted with the job still green. Same shape as the corpus.db bug."""
+    assert "data/announcements" in script

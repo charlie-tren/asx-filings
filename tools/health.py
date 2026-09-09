@@ -44,6 +44,10 @@ DELISTED_MARKER = "symbol not found"
 # a broken collector.
 REPORTING_MONTHS = {2, 8}
 
+# Measured sweeps reach 99-100 of the server's 100-page cap. Anything well under
+# that is the sweep failing, not the market being quiet.
+MIN_PAGES_OK = 80
+
 
 def hours_since(iso: str) -> float:
     then = datetime.fromisoformat(iso)
@@ -81,11 +85,31 @@ def main() -> int:
     else:
         print(f"OK   last run read {reached}/{total} indexes")
 
-    # ---- 3. per-ticker: broken, or genuinely quiet ------------------------
-    # A ticker that 400s every night and a ticker with nothing to announce are
-    # the same row unless the fetch outcome is recorded. It is.
+    # ---- 3. did the SWEEP finish -----------------------------------------
+    # Ingestion is the market-wide feed, and the fetches table now holds one
+    # "page:N" row per page alongside the per-ticker liveness rows. A sweep that
+    # stopped at page 12 looks exactly like a quiet market from the outside.
+    last_run = last["run_id"]
+    pages = con.execute(
+        "SELECT COUNT(*) n, SUM(ok) ok FROM fetches "
+        "WHERE run_id=? AND ticker LIKE 'page:%'", (last_run,)).fetchone()
+    if pages["n"]:
+        got = pages["ok"] or 0
+        if got < MIN_PAGES_OK:
+            fails.append(f"sweep reached only {got} pages (minimum {MIN_PAGES_OK})")
+        else:
+            print(f"OK   sweep read {got}/{pages['n']} pages")
+    else:
+        fails.append("last run recorded no sweep pages at all")
+
+    # ---- 4. per-ticker liveness: broken, or genuinely quiet ---------------
+    # The sweep cannot answer this. Absence from a market-wide feed is the normal
+    # state for a company with nothing to announce, so the only way to tell a
+    # DELISTED code from a quiet one is to ask its index directly. That is what
+    # the liveness probe is for, and it is how IFM, JLG and RUL were found.
     broken, delisted = [], []
-    for row in con.execute("SELECT DISTINCT ticker FROM fetches"):
+    for row in con.execute(
+            "SELECT DISTINCT ticker FROM fetches WHERE ticker NOT LIKE 'page:%'"):
         t = row["ticker"]
         recent = con.execute(
             "SELECT ok, error FROM fetches WHERE ticker=? "
@@ -104,7 +128,7 @@ def main() -> int:
         warns.append(f"{len(delisted)} codes no longer exist, drop them from "
                      f"universe.json: {', '.join(sorted(delisted))}")
 
-    # ---- 4. running is not the same as kept -------------------------------
+    # ---- 5. running is not the same as kept -------------------------------
     seen = con.execute("SELECT COUNT(*) c FROM announcements").fetchone()["c"]
     kept = con.execute("SELECT COUNT(*) c FROM documents").fetchone()["c"]
     print(f"OK   corpus: {kept} documents kept, {seen} announcements seen")
@@ -119,7 +143,7 @@ def main() -> int:
         else:
             print(f"OK   reporting season: {recent_docs} documents stored in 14 days")
 
-    # ---- 5. rejections worth a human look ---------------------------------
+    # ---- 6. rejections worth a human look ---------------------------------
     # "thin" is expected and fine. "parse-failed" is a document we were entitled
     # to and lost, which is the one rejection reason that costs corpus.
     lost = con.execute(

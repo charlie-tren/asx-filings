@@ -1,0 +1,1454 @@
+DroneShield Limited 
+Appendix 4D 
+Half-year report 
+ 
+  
+  
+1. Company details 
+  
+Name of entity:  DroneShield Limited 
+ABN:  26 608 915 859 
+Reporting period:  For the half-year ended 30 June 2026 
+Previous period:  For the half-year ended 30 June 2025 
+  
+ 
+2. Results for announcement to the market 
+  
+          $'000 $'000
+        
+Revenues from ordinary activities  up  74%   to  125,767 
+         
+Loss from ordinary activities after tax attributable to the owners of 
+DroneShield Limited 
+ 
+down 
+ 
+34,354  
+ 
+to 
+ 
+(32,231) 
+         
+Loss for the half-year attributable to the owners of DroneShield Limited  down  34,354  to  (32,231) 
+  
+Comments 
+The loss for the Group after providing for income tax amounted to ($32,231,000) (30 June 2025: profit of $2,123,000). 
+  
+ 
+3. Net tangible assets 
+  
+  30 June 2026 31 December 2025
+  $$
+  
+Net tangible assets per ordinary security  0.28 0.33 
+  
+ 
+4. Control gained over entities 
+  
+Not applicable. 
+  
+ 
+5. Loss of control over entities 
+  
+Not applicable. 
+  
+ 
+6. Dividends 
+  
+Current period 
+There were no dividends paid, recommended or declared during the current financial period. 
+  
+Previous period 
+There were no dividends paid, recommended or declared during the previous financial period. 
+  
+ For personal use onlyDroneShield Limited 
+Appendix 4D 
+Half-year report 
+ 
+  
+  
+7. Dividend reinvestment plans 
+  
+Not applicable. 
+  
+ 
+8. Details of associates and joint venture entities 
+  
+Not applicable. 
+  
+ 
+9. Foreign entities 
+  
+Details of origin of accounting standards used in compiling the report: 
+  
+International Financial Reporting Standards. 
+  
+ 
+10. Audit qualification or review 
+  
+Details of audit/review dispute or qualification (if any): 
+  
+The financial statements were subject to a review by the auditors and the review report is attached as part of the Interim 
+Report. 
+  
+ 
+11. Attachments 
+  
+Details of attachments (if any): 
+  
+The Interim Report of DroneShield Limited for the half-year ended 30 June 2026 is attached. 
+  
+ 
+12. Signed 
+  
+    
+    
+    
+Signed ___________________________  Date: 26 August 2026 
+     
+Hamish McLennan   
+Independent Non-Executive Chairman   
+Sydney NSW   
+ 
+ 
+For personal use onlyDroneShield Limited (ASX:DRO)  
+ASX Release
+ABN 26 608 915 859 
+Half-Year Report
+For the half-year ended
+30 June 2026
+Image: RfRecon – DroneShield’s Flagship Next-Generation SolutionFor personal use onlyDroneShield Limited 
+Contents 
+30 June 2026 
+ 
+1 
+Directors' report 2 
+Auditor's independence declaration 6 
+Consolidated statement of profit or loss and other comprehensive income 7 
+Consolidated statement of financial position 8 
+Consolidated statement of changes in equity 9 
+Consolidated statement of cash flows 10 
+Notes to the consolidated financial statements 11 
+Directors' declaration 24 
+Independent auditor's review report to the members of DroneShield Limited 25 
+For personal use onlyDroneShield Limited 
+Directors' report 
+30 June 2026 
+ 
+  
+  
+2 
+The Directors present their report, together with the financial statements, for the consolidated entity (referred to hereafter as 
+the 'Group') consisting of DroneShield Limited (referred to hereafter as the 'Company' or 'parent entity' or 'DroneShield') and  
+the entities it controlled at the end of, or during, the half-year ended 30 June 2026 (‘Interim Period’). 
+ 
+Directors 
+The following persons were Directors of DroneShield Limited during the Interim Period and up to the date of this report, unless 
+otherwise stated: 
+ 
+Angus Bean  CEO and Managing Director (from 8 April 2026) 
+Hamish McLennan  Independent Non-Executive Chairman (Director from 1 May 2026, Chairman from 28 May 2026) 
+Jethro Marks  Independent Non-Executive Director 
+Richard Joffe  Independent Non-Executive Director 
+Simone Haslinger  Independent Non-Executive Director 
+Lee Goddard CSC  Independent Non-Executive Director (from 1 July 2026) 
+Oleg Vornik  CEO and Managing Director (until 8 April 2026) 
+Peter James  Independent Non-Executive Chairman (until 28 May 2026) 
+ 
+Principal activities 
+The principal activity of the Company is the development, commercialisation and sale of counter-drone hardware and 
+software technology. 
+ 
+Dividends 
+There were no dividends paid, recommended or declared during the current or previous financial half-year. 
+ 
+Review of operations and financial results 
+For the half-year ended 30 June 2026 the Group achieved record revenue of $125.8 million, up 74% on the prior 
+corresponding period, and reported a statutory loss after tax of $32.2 million compared to a profit of $2.1m in the prior 
+corresponding period. Further details of the Group’s results for the half-year ended 30 June 2026 are provided in the 
+Operational & Financial Review on pages 3 to 5 of the half-year report.  
+ 
+Significant changes in the state of affairs 
+There were no significant changes in the state of affairs of the Group during the Interim Period. 
+ 
+Matters subsequent to the end of the financial half-year 
+No matter or circumstance has arisen since 30 June 2026 that has significantly affected, or may significantly affect the Group's 
+operations, the results of those operations, or the Group's state of affairs in future financial years. 
+ 
+Rounding of amounts 
+The Company is of a kind referred to in Corporations Instrument 2026/183, issued by the Australian Securities and Investments 
+Commission, relating to 'rounding-off'. Amounts in this report have been rounded off in accordance with that Corporations 
+Instrument to the nearest thousand dollars, or in certain cases, the nearest dollar. 
+ 
+Auditor's independence declaration 
+A copy of the auditor's independence declaration as required under section 307C of the Corporations Act 2001 is set out 
+immediately after this Directors' report. 
+ 
+This report is made in accordance with a resolution of Directors, pursuant to section 306(3)(a) of the Corporations Act 2001. 
+  
+On behalf of the Directors
+ 
+ 
+ 
+___________________________ 
+Hamish McLennan 
+Independent Non-Executive Chairman 
+ 
+26 Au
+gust 2026 
+Sydney NSW 
+ 
+For personal use onlyDroneShield Limited 
+Operational & Financial Review 
+30 June 2026 
+ 
+  
+  
+3 
+Industry Overview 
+2026 has seen the continuation of the conflict in Ukraine, multiple conflict points across the Middle East, major public events  
+such as the 2026 FIFA World Cup in the United States, and an increasing frequency of reported drone-related incidents 
+globally. These developments have reinforced awareness of the need for counter-drone solutions across military, government 
+and commercial markets. In response, budget allocations,  confirmed spending programmes and regulatory changes have 
+increased across multiple geographies and market segments, supporting broader adoption of counter-drone solutions. Against 
+this backdrop, DroneShield continues to develop and commercialise multi-layered hardware and software counter-drone 
+solutions for these markets. 
+ 
+Financial and Operational Highlights 
+The Interim Period recorded strong top-line revenue growth of 74% on the prior corresponding period, supported by strong 
+growth in recurring revenue as the Company increased its focus on software-enabled hardware sales with longer-term 
+subscription and service revenue from systems upgrades and ongoing services.  
+ 
+Gross margin reduced as a result of changes in product mix between DroneShield solutions and third-party hardware, currency 
+movements, and the impairment of raw materials identified during the relocation to the new production facility and during the 
+implementation of a new ERP system. 
+ 
+The Company continued to invest in support of its growth strategy, including preparations for the planned launch of 
+DroneShield’s next generation of hardware and software solutions. There was also an expansion of administrative and 
+corporate functions associated with the growth and scale of the Company. The increase in employee numbers across 
+technology, research and development and corporate functions contributed to higher underlying operating expenses. 
+ 
+The combination of lower gross margin, increased employee numbers and higher operating costs resulted in an underlying 
+EBITDA loss of $12.4 million,  reflecting the investment being made to support production scale, product development and 
+global operating capability. 
+ 
+Metric  1H 2026  1H 2025  Change 
+Revenue  $125.8m  $72.3m  Increase of 74% 
+Recurring Revenue  $11.5m  $3.5m  Increase of 229% 
+Gross Margin  60.0%  65.3%  Decrease by 5.3 percentage 
+points 
+Underlying EBITDA  ($12.4m)  $8.0m  Decrease of $20.4m 
+Statutory (Loss)/Profit After 
+Tax 
+ ($32.2m)  $2.1m  Decrease of $34.3m 
+Net Operating Cash Outflow  ($10.3m)  ($8.7m)  Increase of $1.6m 
+Cash and Term Deposits  $180.0m  $203.8m  Decrease of $23.8m 
+Employees as at 30 June  535  363  Increase of 172 emplo yees 
+ 
+Revenue Diversification 
+During the Interim Period, DroneShield continued to broaden its revenue base across geographies, products and end-user 
+segments: 
+ 
+ 
+Geographic Highlights 
+• Across regions, the Company received regular and repeat 
+orders from Tier 1 military and government end-users, reflecting 
+expanded use-cases and increased awareness of drone-related 
+threats. 
+• Reorders and scope expansions are particularly strong among 
+existing end-users in Europe and the UK.  
+• In the United States, the Co mpany continued to benefit from 
+increased utilisation of centralised inter-agency procurement 
+panels, with DroneShield becoming an approved supplier on 
+such portals. 
+• Material contracts announced in the Interim Period comprised 
+those for a Western military end-customer in February 2026 and 
+US Department of War’s Joint Interagency Task Force 401 in 
+June 2026. 
+Asia-Pacific
+9%
+United 
+States
+17%
+Europe & 
+UK
+52%
+LATAM, MENA & 
+Other
+22%
+1H 2026 Revenue by Region
+For personal use onlyDroneShield Limited 
+Operational & Financial Review 
+30 June 2026 
+ 
+  
+  
+4 
+Product Highlights 
+• For the Interim Period, hardware revenue was 87% of the 
+Group’s revenue compared to 90% in the prior corresponding 
+period.  
+• The Company continued its strategy to increase the sale of 
+software-enabled units. For the Interim Period, DroneGuns were 
+17% of hardware revenue, compared to 23% in 1H 2025, and 
+47% in FY2024. 
+• An increasing number of active software-enabled units in the 
+field (currently over 4,000) has resulted in recurring revenue 
+increasing by 229%, representing 9.2% of revenue compared to 
+4.9% in the prior corresponding period.  
+• Subscription revenue is anticipated to continue to increase in 
+contribution through the launch of DroneShield’s next 
+generation AI-enabled solutions, as well as additional 
+subscription-based services. 
+Segment Highlights 
+• Revenue remains weighted to wards military end-users, who 
+recognise the high urgency for counter-drone solutions. 
+Procurement is predominantly via federal or central government 
+funding, and can have longer, larger and complex tender 
+processes. 
+• Non-military and commercial markets, including transportation 
+hubs, public safety locations, cr itical infrastructure, commercial 
+assets and specialist applications, are developing from a lower 
+base and typically involve smaller and more frequent order 
+cycles. 
+ 
+Earnings Reconciliation 
+The following chart sets out a reconciliation from Statutory NPAT to Underlying EBITDA for the Interim Period: 
+ 
+ 
+These items reconcile Statutory EBITDA to Underlying EBITDA and are separately identified because they are not considered 
+reflective of underlying earnings performance: 
+• Share-based payment expense: This item includes the non-cash accounting expense for performance options issued 
+for remuneration plans in current and prior years. Current performance options have been structured to include 
+-32.2 
+-3.3 -1.0 
+9.2 
+-27.4 
+3.7 
+8.7 
+2.6 
+-12.4 
+Dismounted 
+Hardware
+57%
+Subscriptions
+9%
+On the Move & Fixed Site 
+Hardware
+30%
+Warranties & 
+Services
+4%
+1H 2026 Revenue by Type
+Military
+85%
+Non-Military 
+Government and 
+Commercial
+15%
+1H 2026 Revenue by Market Segment
+For personal use onlyDroneShield Limited 
+Operational & Financial Review 
+30 June 2026 
+ 
+  
+  
+5 
+staggered performance targets, each with a two-stage vesting schedule over longer timeframes. The expense will be 
+recognised over the expected vesting period.  
+• Business disruption and continuity costs: Following events which took place in November 2025, the Company 
+undertook a Governance Review, the findings of which were publicly shared in February 2026. In response to those 
+events, a continuity plan was introduc ed to maintain workforce capability and operational effectiveness and mitigate 
+the impact of business disruption. In May 2026, the Company received notice from ASIC requiring it to provide 
+assistance in connection with an investigation under the Corporations Act. The business disruption of such non-
+operational matters has resulted in expenses across external legal, governance and other specialist providers.  
+• System implementation costs: During the Interim Period  the Company introduced and upgraded software systems to 
+provide enterprise-wide support and collaboration across sales, procurement, production, logistics, finance and 
+administration functions. These systems represent a necessary investment to support future growth, although their 
+implementation costs are considered non-recurring in nature. 
+ 
+Cash Flow and Liquidity 
+As at 30 June 2026, cash and term deposits totalled $180.0 million. The Company remains debt-free. Net operating cash 
+outflow for the Interim Period was ($10.3) million compared to ($8.7) million in 1H 2025, reflecting higher inventory investment 
+ahead of next-generation product launches, and continued investment in research and development, manufacturing capacity 
+and facilities.  
+ 
+The Company has a tiered payment structure to optimise cash flow and manage credit risk. Tier 1 customers (which mostly 
+relate to militaries or governments, or partners or resellers to creditworthy sovereign nations), recognised for their strategi c 
+importance and strong credit profiles, are generally granted standard 30 to 45 day payment terms from the date of delivery. 
+For non-Tier 1 customers, payment terms are tailored to individual agreements and may include partial or full upfront 
+payments, depending on factors such as risk assessment, order volume, and historical payment behaviour. 
+  
+Inventory Readiness and Production Scale 
+As at 30 June 2026, inventory was $85 million, including $19 million of finished goods. The increase in raw materials, 
+particularly key componentry with a longer procurement lead time, reflects deliberate planning for next-generation product 
+launches in the second half of 2026 and through 2027. 
+ 
+The Interim Period delivered key milestones in advancing the Company's growth strategy and expanding its global operational 
+footprint. In January 2026, the Company completed the transition to a new 3,000 square metre production facility in Sydney 
+and implemented a new Enterprise Resource Planning (‘ERP’) system. The ERP implementation has supported greater 
+collaboration across the business, including improved commonality across key inventory items and reducing wastage.  
+ 
+DroneShield initiated its European production capability with the first in-region goods delivered in June 2026 which 
+demonstrates the Company’s commitment to continued strong growth from the region.  
+ 
+Strategic Partnerships 
+During the Interim Period, DroneShield continued to expand  its strategic partnerships, announcing seven memoranda of 
+understanding or collaborations. These comprised arrangements with Intelic (Netherlands), Origin Robotics (Latvia), Overland 
+AI (United States), Terma (Denmark), Airspace Link (United States), Parsons (United States) and Defenture (Netherlands) 
+supporting an expanded offering across the multi-layered counter-drone ecosystem. 
+ 
+Leadership Changes and Governance Uplift 
+On 8 April 2026, DroneShield announced that Oleg Vornik had stepped down as CEO and Managing Director, with Angus 
+Bean appointed to the role. Mr Bean has been with the Company for 10 years and previously held senior executive roles 
+including Chief Product Officer and Chief Technology Officer. The Company also announced the appointment of Hamish 
+McLennan as a Director and, subsequently, as Chairman on 28 May 2026, following Peter James’ retirement from the Board 
+at the conclusion of the Annual General Meeting. Lee Goddard was announced as an additional Non-Executive Director, 
+joining the Board effective 1 July 2026. The Board continues to assess its skills matrix, experience and future capability 
+requirements.  
+ 
+Following its entry into the S&P/ASX200 in September 2025, the Company undertook a major review of its governance policies 
+and processes. This resulted in the February 2026 announcement of a revised Trading Policy and Disclosure Policy, as well 
+as the introduction of a Minimum Shareholding Policy for the Board and Key Management Personnel.For personal use only 
+Auditor’s Independence Declaration 
+ 
+To the directors of DroneShield Limited: 
+ 
+As lead auditor for the review of the financial report of DroneShield Limited for the half-year ended 30 June 
+2026, I declare that, to the best of my knowledge and belief, there have been no contraventions of: 
+ 
+(a) the auditor independence requirements of the Corporations Act 2001 in relation to the review; and 
+ 
+(b) any applicable code of professional conduct in relation to the review. 
+ 
+This declaration is in respect of DroneShield Limited and the entities it controlled during the period. 
+ 
+ 
+ 
+ 
+ 
+Sydney, NSW      A G Smith 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6 
+26 August 2026      Director 
+For personal use onlyDroneShield Limited 
+Consolidated statement of profit or loss and other comprehensive income 
+For the half-year ended 30 June 2026 
+ 
+  
+           Consolidated 
+  Note  30 June 2026 30 June 2025
+    $'000 $'000
+       
+The above consolidated statement of profit or loss and other comprehensive income should be read in conjunction with the 
+accompanying notes 
+ 
+7 
+ 
+ 
+Revenue       
+Revenue from Contracts with Customers   4   125,767   72,324  
+Other Income    -                    237 
+Interest Income       3,786       4,243 
+       
+Expenses  5     
+Cost of Goods Sold    (50,265)             (25,071) 
+Employee Benefits    (56,082)  (21,126) 
+Corporate and Professional Expenses    (15,506)  (7,827) 
+Sales and Marketing Costs    (12,767)  (5,959) 
+Business Systems    (8,190)  (2,457) 
+Occupancy Costs    (1,140)  (599) 
+Research and Development Expenses    (1,859)  (1,580) 
+Depreciation and Amortisation    (9,152)  (3,999) 
+Share-Based Payment Expense  17  (3,673)  (2,719) 
+Net Foreign Exchange (Losses)/Gain    (3,683)  24 
+Finance Cost    (472)  (290) 
+       
+(Loss)/profit before income tax    (33,236)  5,201 
+Income tax benefit/(expense) 
+    1,005  (3,078) 
+(Loss)/profit after income tax benefit/(expense) for the half-
+year attributable to the owners of DroneShield Limited    (32,231)  2,123 
+         
+Other comprehensive income/(loss)       
+       
+Items that may be reclassified subsequently to profit or loss 
+Foreign currency translation 
+    
+(312) 
+  
+(2,182) 
+       
+Total comprehensive loss for the half-year attributable to the 
+owners of DroneShield Limited 
+   (32,543)  (59) 
+ 
+    
+ 
+ 
+     
+ 
+ 
+   
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+    $$
+  Basic (loss)/earnings per share  6  (0.035) 0.002
+  Diluted (loss)/earnings per share   6   (0.035) 0.002
+ For personal use onlyDroneShield Limited 
+Consolidated statement of financial position 
+As at 30 June 2026 
+ 
+  
+ 
+ 
+ 
+      
+Consolidated 
+ Note   30 June 2026 31 December 2025
+    $'000 $'000
+       
+The above consolidated statement of financial position should be read in conjunction with the accompanying notes 
+ 
+8 
+Current Assets       
+Cash and Cash Equivalents  7  145,977  103,388 
+Term and Other Deposits     32,504  106,102 
+Trade and Other Receivables     63,359  44,275 
+Inventories  8  85,038  78,944 
+Income Tax Receivable     1,736  2,177 
+Total Current Assets     328,614  334,886 
+        
+Non-Current Assets        
+Property, Plant and Equipment     32,996  29,209 
+Right-Of-Use Assets     13,861  10,770 
+Intangible Assets   9  31,945  20,146 
+Deferred Tax Asset     16,831  16,107 
+Term and Other Deposits     1,515  1,067 
+Total Non-Current Assets     97,148  77,299 
+       
+Total Assets     425,762  412,185 
+        
+Current Liabilities        
+Trade and Other Payables     47,698  27,486 
+Contract Liabilities  10  20,092  23,583 
+Lease Liabilities     1,928  3,260 
+Income Tax Payable     -  400 
+Provisions     6,660  3,224 
+Total Current Liabilities     76,378  57,953 
+        
+Non-Current Liabilities        
+Contract Liabilities  10  23,217  4,083 
+Lease Liabilities     14,723  10,995 
+Provisions     3,328  2,538 
+Total Non-Current Liabilities     41,268  17,616 
+        
+Total Liabilities     117,646  75,569 
+        
+Net Assets     308,116  336,616 
+        
+Equity        
+Issued Capital  11  314,117  313,747 
+Reserves  12  1,614  11,610 
+Accumulated (Losses)/Earnings    (7,615)  11,259 
+       
+Total Equity    308,116  336,616 
+ For personal use onlyDroneShield Limited 
+Consolidated statement of changes in equity 
+For the half-year ended 30 June 2026 
+ 
+  
+The above consolidated statement of changes in equity should be read in conjunction with the accompanying notes 
+ 
+9 
+        
+Total equity  
+ 
+Issued 
+capital Reserves
+Accumulated 
+(losses)/
+earnings
+Consolidated  $'000 $'000 $'000 $'000 
+         
+Balance at 1 January 2025  313,149  10,088  (11,650) 311,587 
+         
+Profit after income tax expense for the half-year  -  -  2,123 2,123 
+Other comprehensive income for the half-year, net of tax  -  (2,182)  -  (2,182) 
+         
+Total comprehensive income/(loss) for the half-year  -  (2,182)  2,123 (59). 
+         
+Transactions with owners in their capacity as owners:         
+Shares issued from options exercised  238  -  -  238 
+Share-based payments (note 17)  -  2,719  -  2,719 
+Transfer from share-based payments reserve to accumulated 
+losses 
+ 
+- 
+ 
+(349).
+ 
+349 
+ 
+- 
+         
+Balance at 30 June 2025  313,387  10,276  (9,178) 314,485 
+ 
+        
+Total equity  
+ 
+Issued 
+capital Reserves
+Accumulated 
+(losses)/
+earnings
+Consolidated  $'000 $'000 $'000 $'000 
+         
+Balance at 1 January 2026  313,747  11,610  11,259 336,616 
+         
+Loss after income tax benefit for the half-year  -  -  (32,231) (32,231) 
+Other comprehensive loss for the half-year, net of tax  -  (312)  -  (312)  
+         
+Total comprehensive (loss)/income for the half-year  -  (312)  (32,231) (32,543) 
+         
+Transactions with owners in their capacity as owners:         
+Repayment of limited recourse loan (note 11)  370  -  -  370 
+Share-based payments (note 17)  -  3,673  -  3,673 
+Transfer from share-based payments reserve to accumulated 
+losses 
+ 
+- 
+ 
+(13,357)
+ 
+13,357 
+ 
+- 
+         
+Balance at 30 June 2026  314,117  1,614  (7,615) 308,116 
+ 
+ 
+ 
+ 
+ 
+ For personal use onlyDroneShield Limited 
+Consolidated statement of cash flows 
+For the half-year ended 30 June 2026 
+ 
+Consolidated 
+Note 30 June 2026 30 June 2025
+$'000 $'000
+Th
+e above consolidated statement of cash flows should be read in conjunction with the accompanying notes 
+10 
+Cash flows from operating activities 
+Re
+ceipts from customers 133,626 60,714
+Payments to suppliers and employees (143,951) (69,137)
+Grants and other incentives received - 165
+Income taxes paid (13) (478)
+Net cash used in operating activities (10,338) (8,736)
+Cash flows from investing activities 
+Payments for property, plant and equipment (7,496) (5,188)
+Payments for intangible assets  (13,815) (6,804)
+Payments for term deposits (29,087) (36,879)
+Proceeds from maturity of term deposits 102,660 156,965
+Interest received on cash deposits 4,338 4,706
+Net cash from investing activities 56,600 112,800
+Cash flows from financing activities 
+Pr
+oceeds from options exercised 370 239
+Interest on lease liabilities and other finance costs paid (451) (257)
+Repayments of lease liabilities, net of lease incentive (971) 637
+Net cash (used in)/from financing activities (1,052)  619
+Net increase in cash and cash equivalents 45,210 104,683
+Cash and cash equivalents at the beginning of the financial half-year 103,388 62,619
+Effects of exchange rate changes on cash and cash equivalents (2,621) (1,532)
+Cash and cash equivalents at the end of the financial half-year 7 145,977 165,770
+For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+11 
+Note 1. General information 12 
+Note 2. Material accounting policy information 12 
+Note 3. Operating segments 13 
+Note 4. Revenue 14 
+Note 5. Expenses 15 
+Note 6. Earnings per share 16 
+Note 7. Cash and cash equivalents 16 
+Note 8. Inventories 17 
+Note 9. Intangible assets 17 
+Note 10. Contract liabilities 19 
+Note 11. Issued capital 19 
+Note 12. Reserves 20 
+Note 13. Dividends 21 
+Note 14. Contingent liabilities 21 
+Note 15. Commitments 21 
+Note 16. Related party transactions 21 
+Note 17. Share-based payments 22 
+Note 18. Events after the reporting period 23 
+For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+  
+  
+12 
+Note 1. General information 
+  
+The financial statements cover DroneShield Limited as a Group consisting of DroneShield Limited and the entities it 
+controlled at the end of, or during, the half-year (the ‘Group’). The financial statements are presented in Australian dollars, 
+which is DroneShield Limited's functional and presentation currency. 
+  
+DroneShield Limited is a listed public company limited by sh ares, incorporated and domiciled in Australia. Its registered 
+office is: 
+  
+Level 5   
+126 Phillip Street   
+Sydney NSW 2000   
+  
+A description of the nature of the Group's operations and its pr incipal activities is included in the Directors' report, which 
+is not part of the financial statements. 
+  
+The financial statements were authorised for issue, in accordance with a resolution of Directors, on 26 August 2026. 
+ 
+Note 2. Material accounting policy information 
+  
+These general purpose financial statements for the half-year reporting period ended 30 June 2026 have been prepared 
+in accordance with Australian Accounting Standard AASB 134 'Interim Financial Reporting' and the Corporations Act 
+2001, as appropriate for for-profit oriented entities. Comp liance with AASB 134 ensures compliance with International 
+Financial Reporting Standard IAS 34 'Interim Financial Reporting'. 
+  
+These general purpose financial statements do not include all the notes of the type normally included in annual financial 
+statements. Accordingly, these financial statements are to be read in conjunction with the annual report for the year ended 
+31 December 2025 and any public announcements made by the Company during the half-year reporting period in 
+accordance with the continuous disclosure requirements of the Corporations Act 2001. 
+  
+The accounting policies adopted are consistent with those of the previous financial year and corresponding half-year 
+reporting period, unless otherwise stated. 
+  
+New or amended Accounting Standards and Interpretations adopted 
+The Group has adopted all of the new or amended Accounting Standards and Interpretations issued by the Australian 
+Accounting Standards Board that are mandatory for the current reporting period. The adoption of these Accounting 
+Standards and Interpretations did not have any significant impac t on the financial performance or position of the Group 
+for the half-year ended 30 June 2026 and are not expected to have a significant impact for the full financial year ending 
+31 December 2026. 
+  
+Any new or amended Accounting Standards or Interpretations that are not yet mandatory have not been early adopted. 
+ 
+Change in the presentation of Statement of Profit or Loss and Other Comprehensive Income 
+During the current period, the Group changed its presentation of operating expenses in the statement of profit or loss from 
+a function-based method to a nature-based method. In recent years, the Group has experienced significant growth and 
+expansion in the scale, complexity, and structure of its operations, and management expects this evolution to continue. 
+As a result, management considers that a nature-based presentation provides more relevant, reliable, and meaningful 
+information regarding the Group's financial performance and will enhance comparability between reporting periods as the 
+business continues to develop. 
+ 
+The change has no impact on the Group's reported revenue, net pr ofit after tax, total assets, liabilities, or equity for any 
+of the periods presented. In accordance with applicable accounting standards, comparative amounts have been 
+reclassified from a function-based presentation to a nature-based presentation to align with the current period presentation 
+and improve comparability across periods. 
+ 
+The change also positions the Group for its future adoption of AASB 18 Presentation and Disclosure in Financial 
+Statements (effective for annual reporting periods beginning on or after 1 January 2027). 
+For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+  
+ 
+ 
+  
+  
+13 
+Note 3. Operating segments 
+  
+Operating segments are presented using the 'management approach', where the information presented is on the same 
+basis as the internal reports provided to the Chief Operating Decision Makers ('CODM'). The CODM is responsible for the 
+allocation of resources to operating segments and assessing their performance. 
+  
+Identification of reportable operating segments 
+The Group operates in one operating segment, being the development and commercialisation of hardware and software 
+technology for drone detection and security. 
+  
+The CODM reviews the operating results. The accounting policies adopted for internal reporting to the CODM are 
+consistent with those adopted in the financial statements. 
+  
+The information reported to the CODM is on a monthly basis. 
+  
+Intersegment transactions 
+Intersegment transactions are eliminated on consolidation. 
+  
+Intersegment receivables, payables and loans 
+Intersegment loans are initially recognised at the consideration received. Intersegment loans receivable and loans payable 
+that earn or incur non-market interest are not adjusted to fair value based on market interest rates. Intersegment loans 
+are eliminated on consolidation. 
+  For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+  
+ 
+ 
+  
+  
+14 
+Disaggregation of operating segment by geography 
+  
+Segment performance 
+ 
+USA 
+ Australia and 
+Rest of World
+ 
+Elimination
+ 
+Total 
+30 June 2026  $'000   $'000   $'000   $'000  
+         
+Hardware and shipping   19,729  95,266  (5,550) 109,445 
+Warranty   848  578  -  1,426 
+Subscription   896  10,626  -  11,522 
+Services  409  2,965                      -  3,374 
+Total revenue from customers  21,882  109,435  (5,550) 125,767 
+         
+ 
+Non-current assets 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Segment assets  2,212  79,332  (1,227) 80,317 
+ 
+Segment performance 
+ 
+USA
+Australia and 
+Rest of 
+World Elimination Total 
+30 June 2025  $'000  $'000   $'000   $'000  
+   
+Hardware and shipping   11,799 56,633 (3,006) 65,426 
+Warranty   879 203 - 1,082 
+Subscription   1,570 1,975 - 3,545 
+Services  60 2,211 - 2,271 
+Total revenue from customers  14,308 61,022 (3,006) 72,324 
+   
+ 
+Non-current assets 
+ 
+ 
+Segment assets  1,707 32,943 (1,139) 33,510 
+      
+  
+ 
+Note 4. Revenue 
+ 
+ Consolidated 
+ 30 June 2026 30 June 2025 
+ $'000 $'000 
+   
+Revenue from contracts with customers   
+Hardware and shipping 109,445 65,426 
+Warranty 1,426 1,082 
+Subscription 11,522 3,545 
+Services 3,374 2,271 
+ 125,767 72,324 
+ 
+ 
+ 
+ 
+ 
+ For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+  
+Note 4. Revenue (continued) 
+ 
+  
+  
+15 
+Disaggregation of revenue 
+The disaggregation of revenue from contracts with customers is as follows: 
+ 
+ Consolidated 
+ 30 June 2026 30 June 2025 
+ $'000 $'000 
+Customer type   
+Direct sales 14,261  11,677 
+Distributors  111,506 60,647 
+ 125,767 72,324 
+     
+Timing of revenue recognition   
+Revenue generated at a point in time 110,172 67,697 
+Revenue generated over time 15,595 4,627 
+ 125,767 72,324 
+ 
+ 
+Note 5. Expenses 
+  
+  Consolidated 
+  30 June 2026 30 June 2025
+  $'000 $'000
+(Loss)/profit before income tax includes the following specific expenses:     
+     
+Depreciation and amortisation     
+Property, plant and equipment  5,477   2,355  
+Right-of-use assets  1,621   909  
+Intangible assets  2,054   735  
+Total depreciation and amortisation expense  9,152   3,999  
+     
+     
+Superannuation expense     
+Defined contribution and superannuation expense  3,187  1,720  
+     
+Employee benefits expense excluding superannuation     
+Employee benefits expense excluding superannuation  52,895  19,406 
+ For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+  
+  
+16 
+Note 6. Earnings per share 
+  
+  Consolidated 
+  30 June 2026 30 June 2025
+  $'000 $'000
+     
+(Loss)/profit after income tax attributable to the owners of DroneShield Limited  (32,231)   2,123
+  
+  Number Number
+     
+Weighted average number of ordinary shares used in calculating basic earnings 
+per share 
+ 
+920,928,687 
+ 
+872,238,058 
+Adjustments for calculation of diluted earnings per share:     
+Shares issuable in relation to equity settled share-based payment options (a)  -  50,058,509 
+     
+Weighted average number of ordinary shares used in calculating diluted earnings 
+per share 
+ 
+920,928,687 
+ 
+922,296,567 
+  
+(a)  As at 30 June 2026, 13,294,933 weighted average unlisted options on issue were considered anti-dilutive for the period
+presented and are excluded in the diluted earnings per share calculation. 
+  
+  $$
+  
+Basic (loss)/earnings per share  (0.035)  0.002
+Diluted (loss)/earnings per share  (0.035)  0.002
+ 
+Note 7. Cash and cash equivalents 
+  
+  Consolidated 
+  30 June 2026 31 December 2025
+  $'000 $'000
+Current assets     
+Cash at bank and on hand  55,977   53,250 
+Short-term deposits  90,000   50,138 
+     
+  145,977   103,388 
+  
+In addition to the current cash and short-term deposits, the Group also has $34,019,000 (31 Dec 2025: $107,169,000) in 
+longer-term cash deposits, bringing the total cash reserves to $179,996,000 (31 Dec 2025: $210,557,000). These amounts 
+are classified as “Term and Other Deposits” in the consolidated statement of financial position. 
+ For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+  
+  
+17 
+Note 8. Inventories 
+  
+  Consolidated 
+  30 June 2026 31 December 2025
+  $'000 $'000
+     
+Current assets     
+Raw materials  66,241   53,314  
+Finished goods  18,797   25,630  
+     
+  85,038   78,944  
+  
+Inventories recognised as expenses during the half-year amounted to $50,265,000 (30 June 2025: $25,071,000). The cost of 
+goods sold includes inventory impairment recognised of $2,844,000 (30 June 2025: $49,000 Impairment reversal). The 
+inventory balances reconciled in the above table are net of impairment provisions. 
+ 
+ 
+Note 9. Intangible assets 
+  
+  Consolidated 
+  30 June 2026 31 December 2025
+  $'000 $'000
+     
+Non-current assets     
+Purchased software - at cost  51   51  
+Less: Accumulated amortisation  (36). (33).
+  15   18  
+     
+Internally generated software - at cost  15,678   10,494  
+Less: Accumulated amortisation  (3,277). (1,730).
+  12,401   8,764  
+     
+Prototypes and product designs - at cost  4,708   4,708  
+Less: Accumulated amortisation  (1,285). (782).
+  3,423   3,926  
+     
+Ongoing development costs (WIP) - at cost  16,106   7,438  
+     
+Total Intangible Assets  31,945   20,146  
+  For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+  
+Note 9. Intangible assets (continued) 
+ 
+  
+  
+18 
+Reconciliations 
+Reconciliations of the written down values at the beginning an d end of the current financial half-year and previous financial 
+year are set out below: 
+  
+ 
+ 
+Purchased
+software
+Internally 
+generated 
+software 
+Prototypes 
+and product 
+designs
+Ongoing 
+development 
+costs (WIP) Total
+Consolidated  $'000 $'000 $'000 $'000 $'000
+           
+Balance at 1 January 2025  25 2,584  1,903 1,907 6,419
+Additions  5 -  -  15,994 15,999
+Transfers from WIP  -  7,706  2,757  (10,463) - 
+Amortisation expense  (12) (1,526)  (734) -  (2,272)
+         
+Balance at 31 December 2025  18 8,764  3,926 7,438 20,146
+Additions  -  -  -  13,853 13,853
+Transfers from WIP  -  5,185  -  (5,185) - 
+Amortisation expense  (3) (1,548)  (503) -  (2,054)
+           
+Balance at 30 June 2026  15 12,401  3,423 16,106 31,945
+ For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+  
+  
+19 
+Note 10. Contract liabilities 
+ 
+Contract liabilities by type of deferred revenue are as follows: 
+  
+  Consolidated 
+  30 June 2026 31 December 2025
+  $'000 $'000
+Current liabilities     
+Customer Deposits   8,980   4,769  
+Subscription   9,349   12,867  
+Services  530   3,350  
+Warranty  1,233   2,597  
+  20,092   23,583 
+     
+Non-current liabilities     
+Subscription  19,151   2,875  
+Warranty  4,066   1,208  
+  23,217   4,083  
+     
+Total Contract Liabilities  43,309   27,666  
+     
+     
+Reconciliation of the written down values at the beginning and end of the current financial half-year and previous financial 
+year are set out below: 
+ 
+   $'000 
+Balance at 1 January 2025     26,722  
+Transfer to revenue - included in the opening balance    (22,779)
+Disposals    -  
+Payments received in advance for new contracts    23,723  
+     
+Balance at 31 December 2025    27,666  
+Transfer to revenue - included in the opening balance    (19,067) 
+Disposals    (374) 
+Payments received in advance for new contracts    35,084 
+     
+Balance at 30 June 2026    43,309  
+ 
+Note 11. Issued capital 
+  
+  Consolidated 
+  30 June 2026 31 December 2025 30 June 2026 31 December 2025
+  Shares Shares $'000 $'000
+         
+Ordinary shares - fully paid  924,090,778  913,417,667  314,117   313,747  
+  For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+  
+Note 11. Issued capital (continued) 
+ 
+  
+  
+20 
+Movements in ordinary share capital 
+  
+Details                Shares $'000
+                
+Balance as at 1 January 2025                872,115,159   313,149 
+Issue of ordinary shares - options exercise                40,327,960   249 
+Issue of ordinary shares - cashless exercise                339,548   - 
+Issue of ordinary shares - loan funded                635,000   - 
+Repayment of limited recourse loan                -   349 
+                    
+Balance as at 31 December 2025                913,417,667   313,747 
+Issue of ordinary shares – options exercised                10,673,111   - 
+Repayment of limited recourse loan                -   370 
+                    
+Balance as at 30 June 2026                924,090,778   314,117 
+  
+Ordinary shares entitle the holder to participate in any divi dends declared and any proceeds attributable to shareholders 
+should the Company be wound up, in proportions that consider both the number of shares held and the extent to which those 
+shares are paid up. The fully paid ordinary shares have no par value and the Company  does not have a limited amount of 
+authorised capital. 
+  
+On a show of hands every member present at a meeting in person or by proxy shall have one vote and upon a poll each share 
+shall have one vote. 
+  
+Share buy-back 
+There is no current on-market share buy-back. 
+ 
+Note 12. Reserves 
+  
+  Consolidated 
+  30 June 2026 31 December 2025
+  $'000 $'000
+     
+Foreign currency reserve  (654)   (342)  
+Share-based payments reserve  2,268   11,952  
+     
+  1,614   11,610  
+  
+Foreign currency reserve 
+The foreign currency reserve is used to recognise exchange differences arising from the translation of the financial statements 
+of foreign operations to Australian dollars.  
+  
+Share-based payments reserve 
+The share-based payments reserve is used to recognise the value of equity benefits provided to employees and Directors as 
+part of their remuneration, and other parties as part of their compensation for services. 
+  For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+  
+Note 12. Reserves (continued) 
+ 
+  
+  
+21 
+Movements in reserves 
+Movements in each class of reserve during the current financial half-year are set out below: 
+  
+ 
+ Foreign 
+currency
+Share-based 
+payments Total 
+Consolidated  $'000 $'000 $'000 
+       
+Balance as at 1 January 2025  2,259  7,829  10,088 
+Foreign currency translation  (2,601)  -  (2,601) 
+Share-based payments  -  23,511  23,511 
+Transfer from share-based payments reserve to accumulated losses  -  (19,388)  (19,388) 
+       
+Balance at 31 December 2025  (342)  11,952  11,610 
+Foreign currency translation  (312)- -  (312). 
+Share-based payments  -  3,673  3,673 
+Transfer from share-based payments reserve to accumulated losses  -  (13,357).  (13,357). 
+       
+Balance at 30 June 2026  (654)  2,268  1,614 
+ 
+Note 13. Dividends 
+  
+There were no dividends paid, recommended or declared during the current or previous financial half-year. 
+ 
+Note 14. Contingent liabilities 
+  
+DroneShield Ltd (ASX:DRO) is providing assistance to Australian Securities and Investments Commission (‘ASIC’) in 
+connection with an investigation under the Corporations Ac t. DroneShield will cooperate fully with the investigation 
+regarding announcements and information provided to the Australian Securities Exchange between 1 and 20 November 
+2025, and trading in DroneShield shares between 6 and 12 November 2025 (inclusive). It is not clear what action, if any, 
+may result from ASIC's investigation. Accordingly, the Group is unable to determine whether any obligation exists or to 
+reliably estimate any potential financial effect arising from the investigation. 
+ 
+Note 15. Commitments 
+  
+At 30 June 2026, contractual agreements existed to pay suppliers $44,277,000 (31 December 2025: $39,375,000). This 
+predominantly relates to purchases of inventory. 
+ 
+Note 16. Related party transactions 
+  
+Parent entity 
+DroneShield Limited is the parent entity. 
+ 
+Key Management Personnel 
+Remuneration arrangements of key management personnel, including Directors, will be disclosed in the Group's annual 
+financial report. 
+ 
+Key Management Personnel – Other Transactions 
+During the period, the Company entered into a confidential settlement with a member of Key Management Personnel. An 
+expense of $3,000,000 has been recognised in profit or loss within Corporate and Professional Expenses. This payment 
+did not comprise remuneration and is therefore excluded from Key Management Personnel compensation disclosures 
+prepared in accordance with AASB 124 Related Party Disclosures . No amounts were outstanding at reporting date in 
+relation to this settlement.
+ 
+ For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+  
+Note 16. Related party transactions (continued) 
+ 
+  
+  
+22 
+Transactions with related parties 
+Macquarie Technology Operations Pty Ltd provides data and hosting solutions. The company was a related party until 31 
+March 2026. Total transactions during the current half-year were $96,107 (30 June 2025: $0).  
+ 
+Receivable from and payable to related parties outside the Group 
+There were no trade receivables from or trade payables to related parties outside the Group at the current and previous 
+reporting date. 
+  
+Loans to/from related parties outside the Group 
+There were no loans to or from related parties outside the Group at the current or previous reporting date.  
+ 
+Note 17. Share-based payments 
+  
+The Group provides benefits to employees in the form of equity-settled share-based payment options via an Employee 
+Incentive Option Plan. The value of the share-based payment options is determined by the fair value of the instruments 
+granted. The value is recognised as an expense over the vesting period based on management's assumptions including 
+the timing of vesting and expected lapse rate. 
+ 
+Incentive Option Plan 
+ Performance 
+Options Options  Total 
+       
+Outstanding at 1 January 2025  46,405,000 2,829,000  49,234,000 
+Granted during the period  11,504,361 -  11,504,361 
+Forfeited during the period  (1,490,000) (629,325)  (2,119,325) 
+Exercised during the period  (39,371,833) (1,930,675)  (41,302,508) 
+      
+Outstanding at 31 December 2025  17,047,528 269,000  17,316,528 
+Granted during the period  8,112,117 -  8,112,117 
+Forfeited during the period  (753,672) -  (753,672) 
+Exercised during the period  (10,673,111) -  (10,673,111) 
+      
+Outstanding at 30 June 2026  13,732,862 269,000  14,001,862 
+ 
+8,112,117 performance options were issued during 2026. The options will vest and become exercisable into ordinary shares 
+once the relevant vesting conditions are satisfied, or earlier if a change of control event occurs. 
+ 
+The vesting conditions are based on the Company achieving revenue or cash receipts milestones of $300 million, $400 
+million and $500 million. For each milestone, 50% of the relevant options vest when the milestone is achieved, and the 
+remaining 50% vest 12 months later. Any options that have not vested or been exercised will lapse on the applicable expiry 
+date. 
+ 
+For the options granted during the financial half-year, the valu ation model inputs used to determine the fair value at the 
+grant date, are as follows: 
+  
+30 June 2026              
+Class Grant Date Expiry Date  
+Exercise 
+Price  
+Expected 
+Volatility  
+Dividend 
+Yield  
+Risk Free 
+Interest 
+Rate  
+Average 
+Grant Date 
+Fair Value 
+      $  %  %  %  $ 
+Performance 
+2026
+26/03/2026
+-
+29/05/2026
+30/06/2029 
+- 
+30/06/2030 
+ -  -  -  -  3.8736 
+  For personal use onlyDroneShield Limited 
+Notes to the consolidated financial statements 
+30 June 2026 
+ 
+  
+Note 17. Share-based payments (continued) 
+ 
+  
+  
+23 
+ 
+ 
+ 
+30 June 2026 30 June 2025
+Share-Based Payment Expenses  $'000 $'000
+       
+Performance options expense  3,673  2,719 
+ 
+Note 18. Events after the reporting period 
+  
+No matter or circumstance has arisen since 30 June 2026 that has significantly affected, or may significantly affect the 
+Group's operations, the results of those operations, or the Group's state of affairs in future financial years. 
+ For personal use onlyDroneShield Limited 
+Directors' declaration 
+30 June 2026 
+ 
+  
+  
+24 
+In the Directors' opinion: 
+  
+●  the attached financial statements and notes comply with the Corporations Act 2001, Australian Accounting Standard
+AASB 134 'Interim Financial Reporting', the Corporations Regulations 2001 and other mandatory professional reporting
+requirements; 
+  
+●  the attached financial statements and notes give a true and fair view of the Group's financial position as at 30 June 2026
+and of its performance for the financial half-year ended on that date; and 
+  
+●  there are reasonable grounds to believe that the Company will be able to pay its debts as and when they become due
+and payable. 
+  
+Signed in accordance with a resolution of Directors made pursuant to section 303(5)(a) of the Corporations Act 2001. 
+  
+On behalf of the Directors 
+ 
+ 
+ ___________________________ 
+Hamish McLennan 
+Independent Non-Executive Chairman 
+  
+26 Au
+gust 2026 
+Sydney NSW 
+ 
+For personal use only 
+Independent Auditor’s Review Report to the Members of DroneShield Limited  
+ 
+Report on the Half-Year Financial Report 
+ 
+Conclusion  
+ 
+We have reviewed the half-year financial report of DroneShield Limited (“the Company”), which comprises 
+the consolidated statement of financial position as at 30 June 2026, the consolidated statement of profit or 
+loss and other comprehensive income, the consolidated statement of changes in equity and the 
+consolidated statement of cash flows for the half-year ended on that date, including material accounting 
+policy information and other explanatory information, and the directors’ declaration, for the consolidated 
+entity comprising the Company and the entities it controlled at the half-year end or from time to time during 
+the half-year.  
+ 
+Based on our review, which is not an audit, we have not become aware of any matter that makes us 
+believe that the accompanying half-year financial report of Droneshield Limited does not comply with the 
+Corporations Act 2001 including:  
+ 
+(a) giving a true and fair view of the consolidated entity’s financial position as at 30 June 2026 and of its 
+performance for the half-year ended on that date; and   
+(b) complying with Accounting Standard AASB 134 Interim Financial Reporting and the Corporations 
+Regulations 2001.  
+ 
+Basis for Conclusion  
+ 
+We conducted our review in accordance with ASRE 2410 Review of a Financial Report Performed by the 
+Independent Auditor of the Entity. Our responsibilities are further described in the Auditor’s 
+Responsibilities for the Review of the Financial Report section of our report. We are independent of the 
+Company in accordance with the auditor independence requirements of the Corporations Act 2001 and the 
+ethical requirements of the Accounting Professional and Ethical Standards Board’s APES 110 Code of 
+Ethics for Professional Accountants (including Independence Standards) (the Code) that are relevant to 
+our audit of the annual financial report in Australia. We have also fulfilled our other ethical responsibilities 
+in accordance with the Code.  
+ 
+Responsibility of the Directors for the Financial Report  
+ 
+The directors of the Company are responsible for the preparation of the half-year financial report that gives 
+a true and fair view in accordance with Australian Accounting Standards and the Corporations Act 2001 
+and for such internal control as the directors determine is necessary to enable the preparation of the half-
+year financial report that gives a true and fair view and is free from material misstatement, whether due to 
+fraud or error.    
+ 
+Auditor’s Responsibility for the Review of the Financial Report  
+ 
+Our responsibility is to express a conclusion on the half-year financial report based on our review. ASRE 
+2410 requires us to conclude whether we have become aware of any matter that makes us believe that the 
+half-year financial report is not in accordance with the Corporations Act 2001 including giving a true and 
+fair view of the consolidated entity’s financial position as at 30 June 2026 and its performance for the half-
+year ended on that date, and complying with Accounting Standard AASB 134 Interim Financial Reporting 
+and the Corporations Regulations 2001.   
+ 
+ 
+ 
+ 
+ 
+   
+25 
+For personal use only 
+A review of a half-year financial report consists of making enquiries, primarily of persons responsible for 
+financial and accounting matters, and applying analytical and other review procedures. A review is 
+substantially less in scope than an audit conducted in accordance with Australian Auditing Standards and 
+consequently does not enable us to obtain assurance that we would become aware of all significant 
+matters that might be identified in an audit. Accordingly, we do not express an audit opinion.    
+ 
+ 
+ 
+ 
+ 
+ 
+HLB Mann Judd Assurance (NSW) Pty Ltd   A G Smith 
+ 
+Sydney, NSW 
+ 
+Chartered Accountants     Director 
+  
+26 
+26 August 2026 
+For personal use only

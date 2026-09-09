@@ -40,13 +40,19 @@ def db(tmp_path, monkeypatch):
     con.close()
 
 
-def healthy(con, run_age_hours: float = 2.0, tickers: int = 50, ok: int = 50):
+def healthy(con, run_age_hours: float = 2.0, tickers: int = 50, ok: int = 50,
+            pages_ok: int = 100):
     con.execute("INSERT INTO runs VALUES(?,?,?,?,?,?,?)",
                 ("r1", iso(run_age_hours + 0.1), iso(run_age_hours),
                  tickers, ok, 12, 3))
     for i in range(ok):
         con.execute("INSERT INTO fetches VALUES(?,?,?,?,?,?)",
                     ("r1", f"T{i:02d}", 1, 5, None, iso(run_age_hours)))
+    # Ingestion is the market sweep: one row per page, alongside the per-ticker
+    # liveness rows above.
+    for n in range(1, pages_ok + 1):
+        con.execute("INSERT INTO fetches VALUES(?,?,?,?,?,?)",
+                    ("r1", f"page:{n}", 1, 100, None, iso(run_age_hours)))
     con.commit()
 
 
@@ -161,3 +167,34 @@ def test_season_check_passes_when_documents_are_arriving(db, monkeypatch):
                 "data/text/GNP/k1.txt", iso(2)))
     db.commit()
     assert health.main() == 0
+
+
+def test_fails_when_the_sweep_stopped_early(db, capsys):
+    """The new failure mode. Ingestion is a 100-page sweep; one that stops at
+    page 12 returns a plausible number of announcements and looks exactly like a
+    quiet market."""
+    healthy(db, pages_ok=12)
+    assert health.main() == 1
+    assert "sweep reached only 12" in capsys.readouterr().err
+
+
+def test_fails_when_there_was_no_sweep_at_all(db, capsys):
+    """A run that did the liveness probe and never swept. Every per-ticker row
+    is green, so nothing else on the page would notice."""
+    healthy(db, pages_ok=0)
+    assert health.main() == 1
+    assert "no sweep pages" in capsys.readouterr().err
+
+
+def test_page_rows_are_not_mistaken_for_delisted_tickers(db, capsys):
+    """page:N rows live in the same table as tickers. If a few pages fail three
+    runs running, that is a sweep problem and must not be reported as tickers
+    that no longer exist."""
+    healthy(db)
+    for n in range(health.TICKER_FAIL_STREAK):
+        db.execute("INSERT OR REPLACE INTO fetches VALUES(?,?,?,?,?,?)",
+                   (f"r{n}", "page:57", 0, None, "timeout", iso(n * 24 + 1)))
+    db.commit()
+    health.main()
+    out = capsys.readouterr()
+    assert "page:57" not in out.out + out.err

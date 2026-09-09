@@ -1,0 +1,2315 @@
+ TerraCom Limited  Level 6, 307 Queen Street  Contact:  
+ ABN 35 143 533 537  Brisbane QLD 4000  investors@terracom. au  
+  Australia  terracom. au 
+ 
+pg. 1 
+31 Aug  2026 
+ 
+ASX Announcement  
+FY2026 Appendix 4E and Preliminary Financial Report  
+ 
+ 
+TerraCom Limited (ASX: TER) ( TerraCom  or Company ) is pleased to provide a copy of the  
+Appendix 4E and Preliminary Financial Report in respect of the result for the twelve months  
+ended 30 June 202 6.  
+ 
+The results are in the process of being audited.  The Group is also finalising its impairment 
+assessment, which remains subject to completion of the audit process and Board approval. Any 
+resulting adjustments will be reflected in the audited Financial Report.  
+ 
+For the purposes of ASX Listing Rule 15.5, this announcement was authorised for lodgement by 
+the Board.  
+ 
+ 
+ 
+ 
+For further enquiries please contact:  
+ 
+Richard Clarke   Gareth Quinn  
+Chief Financial Officer  and Company Secretary  Investor and Media Relations  
+E: investors@terracom.au  E: gareth@republicir.com.au  
+P: +61 7 4983 2038                                                     M: +61 417 711 108  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+About TerraCom Limited   
+TerraCom Limited (ASX:  TER) is an Australian based mining resources company with a global footprint, comprising 
+a large portfolio of operating assets in Australia and South Africa within the coal sectors. We are a renowned low -
+cost producer focused on delivering exceptional outc omes from our high yielding diversified asset portfolio for its 
+investors. To learn more about TerraCom visit terracom. au. 
+For personal use onlyTerraCom Limited Annual Report FY 2026                                                                                                                            1 
+ 
+ 
+    
+ASX: TER | terracom.au 
+Financial Report 
+Appendix 4E and Preliminary Financial Report 
+For the year ended 30 June 2026 
+FY2026 
+Authorised for release by the Board of TerraCom Limited 
+ABN 35 143 533 537 
+Level 6, 307 Queen Street 
+Brisbane City Queensland, Australia 4000 
+For personal use only2 
+ 
+ 
+Contents 
+ 
+  
+Corporate Directory          02 
+Appendix 4E                                                                         3 
+Review of Operations          04 
+Preliminary Consolidated Financial Statements          12 
+Consolidated statement of profit or loss 
+and other comprehensive income        14 
+Consolidated statement of financial position       15 
+ 
+Consolidated statement of changes in equity       17       
+Consolidated statement of cash flows              18  
+Notes to the financial statements        19      
+       
+Corporate Directory  
+Board of Directors  
+Andrew Coles (Non-Executive Chairman) 
+Glenn Splatt (Non-Executive Director) 
+Stephen Barber (Non-Executive Director) 
+ 
+Executive Management 
+Chris Bourke (Interim Chief Executive Officer) 
+Richard Clarke (Chief Financial Officer & Company 
+Secretary) 
+ 
+Registered Office and Principal Business Office  
+Level 6, 307 Queen Street 
+Brisbane City Queensland, Australia 4000 
+ 
+Postal Address 
+PO Box 131  
+Clermont Queensland, Australia 4721 
+ 
+Telephone 
++61 7 4983 2038 
+ 
+Website 
+terracom.au 
+ 
+Email 
+admin@terracom.au 
+ 
+Share Registry  
+MUFG Corporate Markets (AU) Limited 
+Liberty Place, Level 41, 161 Castlereagh St, 
+Sydney, NSW, Australia, 2000 
+Telephone: +61 1300 554 474 
+Email: support@cm.mpms.mufg.com 
+ 
+Auditor 
+BDO Audit Pty Limited 
+Level 18, 360 Queen Street  
+Brisbane, Queensland, 4000, Australia 
+ 
+Securities Exchange Listing 
+Australian Securities Exchange Ltd 
+ASX Code: TER 
+ 
+ABN 
+35 143 533 537 
+For personal use only3 
+ 
+ 
+Appendix 4E and Preliminary Annual Financial Report 
+ 
+Name of Entity: TerraCom Limited 
+ABN: 35 143 533 537 
+Reporting Period: For the year ended 30 June 2026 
+Previous Period: For the year ended 30 June 2025 
+ 
+Results for announcement to the market for the year ended 30 June 2026 
+ 
+Revenue from ordinary activities 
+           
+                                     A$’000  
+FY2026  A$178,918 Down 21.1% 
+FY2025  A$226,671 
+ 
+ 
+Loss from ordinary activities for the year after income tax 
+ 
+                                     A$’000 
+FY2026  (A$45,630) Down 5.1% 
+FY2025  (A$43,418) 
+ 
+ 
+Loss for the year after income tax attributable to the owners of TerraCom Limited 
+ 
+                                A$’000 
+FY2026  (A$45,501) Down 6.5% 
+FY2025  (A$42,724) 
+ 
+ 
+Net tangible assets per ordinary security 
+ 
+FY2026    7.35c  Down 50.8% 
+FY2025  14.94c 
+ 
+ 
+Dividends 
+No dividends were paid to shareholders during the year ended 30 June 2026 (2025: A$8.010 million) 
+ 
+Declared after end of year: Nil 
+ 
+Control gained or lost over entities 
+ 
+There has been no change in control gained or lost over entities since the Previous Period.  
+ 
+Audit qualification or review 
+ 
+The Preliminary Financial Report is based on statutory financial statements that are in the process of being audited.  
+ 
+Attachments and additional information 
+ 
+Additional information can be obtained from the attached Preliminary Financial Report.  
+ 
+2026 Annual General Meeting 
+The proposed date for the 2026 Annual General Meeting is 26 November 2026. Based on proposed timing, the closing 
+date for Director Nominations is no later than 8 October 2026. 
+For personal use only4 
+ 
+ 
+  
+Review of 
+Operations 
+For personal use only5 
+ 
+ 
+Blair Athol Project 
+Queensland, Australia 
+ 
+ 
+ 
+ 
+Located in Clermont within the Bowen Basin, Queensland, TerraCom’s flagship Blair Athol Coal Mine is an 
+open-pit operation producing high -quality, low-impurity thermal coal for export primarily to Japan and 
+South Korea for their power generation markets and to India’s sponge iron market.  
+ 
+At current production rates, the mine has an estimated life of six to seven years. The adjacent Moorlands 
+development project remains at an early stage. If developed, Blair Athol is intended to serve as the processing and 
+infrastructure hub for that production. 
+ 
+ 
+ 
+Figure 1. Blair Athol Project is located in Queensland’s Bowen Basin and delivers coal to export markets via the 
+Dalrymple Bay Coal Terminal near Mackay. 
+  
+For personal use only6 
+ 
+ 
+Blair Athol Mine 
+ 
+The Blair Athol Mine remained TerraCom’s  principal operating asset during 
+FY2026. The operating environment was challenging throughout the year, with 
+lower international thermal coal prices, adverse weather in Central 
+Queensland and intermittent supply chain disruptions. Production and sales 
+both finished below the prior year, and sales finished below the guidance 
+maintained during the year. 
+ 
+Throughout the year, management remained focused on preserving margins 
+through mine planning, cost control and operational efficiency .  Blair Athol 
+continued to  supply high -quality thermal coal to long -standing customers 
+across Asia. 
+ 
+The financial year commenced in line with the mine plan, with continued work 
+on product quality and coal recovery. During the September 2025 quarter the 
+Company announced an updated JORC Resource and Reserve Statement, 
+extending the mine life to 2033. 
+ 
+During the December 2025 quarter, production moderated as mine 
+sequencing progressed through planned lower -yield areas and seasonal 
+weather affected mining and logistics. FY2026 sales guidance of 
+approximately 1.6 million tonnes was maintained at that time  on the 
+expectation of a stronger second half. That guidance was not achieved. 
+ 
+Conditions deteriorated further during the March 2026 quarter as significant 
+rainfall across Central Queensland disrupted mining and rail logistics. Coal 
+sales fell to 253,000 tonnes, the lowest quarter of the year. The Company 
+completed an A$60 million entitlement offer during the year, which supported 
+the balance sheet through the period of cyclical weakness in thermal coal 
+markets. 
+ 
+Sales volumes recovered in the June 2026 quarter to 390,000 tonnes, 
+although the operation continued to be affected by equipment availability and 
+workforce availability. Blair Athol finished FY2026 with coal sales of 
+approximately 1.45 million tonnes, belo w the 1.6 million tonne guidance 
+maintained during the year. The shortfall reflected the cumulative effect of 
+weather, mine sequencing and equipment and workforce availability across 
+the second half. 
+ 
+  
+Total ROM Coal Mined 
+FY2026 
+1.94 Mt 
+ 
+Total Coal Sales1 
+FY2026 
+1.45 Mt 
+ 
+Coal Sales Outlook 
+FY2027 
+2-2.2 Mt 
+ 
+Blair Athol Mine 
+Snapshot 
+Life of Mine 
+~6-7 years 
+ 
+For personal use only7 
+ 
+ 
+Production snapshot 
+ 
+Blair Athol (tonnes) Q1 Sept 25 Q2 Dec 25 Q3 Mar 26 Q4 Jun 26 FY2026 FY2025 
+Run of Mine coal mined  653 429 410 446 1,938 2,047 
+Saleable production 463 373 302 336 1,474 1,505 
+Coal sales 440 369 253 390 1,452 1,537 
+Inventory 95 63 134 69 69 46 
+ 
+ 
+Safety remained a core operational priority throughout the year, with continued work on safety systems, workforce 
+engagement and operational discipline across the Blair Athol operation. 
+ 
+The Company is planning for FY2027 coal sales in the range of 2.0 to 2.2 million tonnes. Equipment to support that 
+volume is already in place: a third 350-tonne excavator is on site and operating in a dedicated pit, where it is completing 
+the pre-strip needed to expose further coal. 
+ 
+Moorlands Development Project 
+ 
+The Moorlands Development Project continued to advance during FY2026 as TerraCom progressed key technical, 
+commercial and regulatory workstreams in partnership with Wintime Energy Group Co. Ltd.  
+ 
+The project is intended to use the established processing and infrastructure base at Blair Athol. Under the current 
+development strategy, Blair Athol would become the central processing precinct for coal produced from Moorlands, 
+reducing the capital required to develop the project. No development decision has been made. 
+ 
+Throughout the financial year, the joint venture continued to progress environmental approvals, project planning and 
+commercial negotiations necessary to support future development. Work remained focused on advancing the project 
+through the approvals process and refining development plans. 
+ 
+The Board regards Moorlands as a potential source of production beyond the current Blair Athol mine life. Progress 
+remains dependent on regulatory approvals, market conditions and commercial agreement. 
+ 
+  
+For personal use only8 
+ 
+ 
+South African Operations 
+Mpumalanga, South Africa 
+ 
+ 
+ 
+ 
+TerraCom, via its 100% ownership of Universal Coal Limited (Universal), holds an interest in a 
+portfolio of producing, development and exploration assets located across South Africa’s major 
+coalfields. These operations provide high-quality coal to South Africa’s government-owned power 
+utility Eskom, as well as international customers via the Richards Bay Port.  
+ 
+TerraCom’s South African portfolio comprises two operating coal mines , North Block Complex and New Clydesdale 
+Colliery, the non-operating Ubuntu coal mine, and  the Kangala/Eloff development project, which remains subject to 
+finalisation of a commercially viable Coal Sales Agreement with Eskom. 
+ 
+TerraCom’s South African operations produced 6.07 million tonnes of run -of-mine coal and sold 4.45 million tonnes 
+during FY2026, in each case below the prior year. The operating environment was affected by softer international coal 
+prices, domestic logistical constraints and ongoing cost inflation across the South African mining sector. 
+ 
+The Company’s producing South African assets, the New Clydesdale Colliery and North Block Complex in 
+Mpumalanga Province, operated throughout the financial year, with continued focus on mine planning, cost 
+management, safety, plant reliability and coal quality. 
+ 
+ 
+ 
+Figure 2. TerraCom holds an interest in a portfolio of producing, development and exploration assets located across 
+South Africa’s major coalfields.   
+For personal use only9 
+ 
+ 
+During FY2026, mining activities focused on the extraction sequence and 
+utilisation of mining equipment and processing infrastructure. Production 
+was supported by the Company’s contract mining model and coal handling 
+and preparation plant, which delivered saleable product meeting customer 
+specifications for both domestic and export markets. 
+ 
+Sales during the year reflected demand from domestic industrial customers 
+together with export sales where market conditions supported realised 
+pricing. International thermal coal prices moderated from the highs of 
+previous years. The Company continued to balance domestic and export 
+sales. 
+ 
+Operational priorities throughout FY2026 centred on preserving operating 
+margins through productivity improvements, management of mining costs 
+and plant performance, against continuing industry -wide cost inflation 
+affecting labour, fuel, explosives and consumables. 
+ 
+Safety remained a core operational priority. Management continued to 
+reinforce safety culture through workforce engagement, training and risk 
+management programs, with emphasis on critical risk controls across mining, 
+processing and mobile equipment operat ions. Rehabilitation activities 
+progressed alongside mining operations in accordance with approved mine 
+plans. 
+ 
+Throughout the financial year, TerraCom  continued to assess mining 
+schedules, operating efficiencies and capital allocation across its South 
+African asset base. 
+ 
+The South African operations continue to provide geographic diversification 
+to TerraCom’s production profile, complementing the Company’s Australian 
+assets while providing exposure to both domestic South African energy 
+demand and international export markets. 
+ 
+For FY2027, management is focused on maintaining production, preserving 
+margins through operational improvement and using established 
+infrastructure. Global thermal coal markets remain volatile and realised 
+pricing will continue to influence the contributi on of the South African 
+business. 
+  
+Total ROM Coal Mined 
+FY2026 
+6.07 Mt 
+ 
+Total Coal Sales1 
+FY2026 
+4.45 Mt 
+ 
+South Africa Operations 
+Snapshot 
+For personal use only10 
+ 
+ 
+Production snapshot 
+ 
+South Africa (tonnes) Q1 Sept 25 Q2 Dec 25 Q3 Mar 26 Q4 Jun 26 FY2026 FY2025 
+Run of Mine coal mined  1,582 1,507 1,355 1,622 6,066 7,689 
+Saleable production 1,347 1,005 863 1,203 4,418 4,836 
+Coal sales 1,385 996 985 1,085 4,451 5,065 
+Inventory 222 434 405 284 284 413 
+ 
+ 
+New Clydesdale Colliery | 49% Equity Interest 
+ 
+The New Clydesdale Colliery (NCC), located in the Kriel district of Mpumalanga Province, approximately 149km from  
+Johannesburg, comprises the Roodekop and Diepspruit West operations.  
+ 
+NCC incorporates both open -cut and underground mining and produces a range of coal products for domestic 
+consumption and export markets. The colliery is located near Eskom’s Kriel Power Station.  
+ 
+  
+For personal use only11 
+ 
+ 
+Production 
+ 
+During the financial year, NCC delivered 2. 42 million tonnes of run -of-mine (ROM) coal (FY202 5: 2.73 million tonnes), 
+and achieved total coal sales of 1. 87 million tonnes (FY2025: 1.89 million tonnes). Logistics constraints continued to 
+limit export volumes, which affected financial results for NCC. Domestic demand supported the balance of production. 
+ 
+ 
+NCC (tonnes) Q1 Sept 25 Q2 Dec 25 Q3 Mar 26 Q4 Jun 26 FY2026 FY2025 
+Run of Mine coal mined  582 501 603 733 2,419 2,733 
+Saleable production 448 344 421 456 1,669 1,726 
+Coal sales 532 387 528 418 1,865 1,889 
+Inventory 126 218 65 118 118 202 
+ 
+ 
+North Block Complex | 49% Equity Interest 
+ 
+The North Block Complex (NBC) is located in Belfast in the Mpumalanga Province, approximately 200km north -east of 
+Johannesburg. Open-cut mining is currently undertaken in the Paardeplaats section, which was developed in FY2020.  
+ 
+NBC is a multi-product open-cut operation and a long-standing supplier of coal to Eskom, the country’s primary power 
+utility. It also supports the local economy through employment and procurement. 
+ 
+During the financial year, NBC delivered 3.65 million tonnes of run -of-mine (ROM) coal (FY2025: 4.96 million tonnes), 
+and achieved total coal sales of 2.58 million tonnes (FY2025: 3.18 million tonnes). The colliery met its offtake 
+commitments to Eskom, with domestic coal sales of 2.34 million tonnes for the year. Export sales totalled 0.24 million 
+tonnes, constrained by logistics. 
+ 
+NBC (tonnes) Q1 Sept 25 Q2 Dec 25 Q3 Mar 26 Q4 Jun 26 FY2026 FY2025 
+Run of Mine coal mined  1,001 1,006 752 889 3,648 4,956 
+Saleable production 899 661 442 747 2,749 3,110 
+Coal sales 853 609 457 667 2,586 3,176 
+Inventory 96 216 340 166 166 211 
+ 
+ 
+Ubuntu Colliery | 48.9% Equity Interest 
+ 
+Ubuntu has remained on care and maintenance since February 2023, following the conclusion of the Eskom Coal Supply 
+Agreement in December 2022. Management continues to evaluate alternative domestic coal sales opportunities with 
+the objective of returning the colliery to an operational state, while also pursuing potential divestment opportunities as 
+part of the Group’s broader portfolio strategy. 
+ 
+ 
+  
+For personal use only12 
+ 
+ 
+CONSOLIDATED FINANCIAL STATEMENTS COVER 
+  
+Preliminary  
+Consolidated  
+Financial Statements 
+For the year ended 30 June 2026 
+For personal use only13 
+ 
+ 
+GENERAL INFORMATION 
+ 
+ 
+The preliminary financial statements are presented in Australian dollars (AUD), which is the presentation currency of 
+TerraCom Limited. 
+ 
+The functional currency of TerraCom Limited, its Australian exploration subsidiaries and United Kingdom subsidiaries 
+is Australian dollars (AUD), the South African subsidiaries and associates functional currency is South African Rand 
+(ZAR). 
+ 
+TerraCom Limited is a listed public company limited by shares, incorporated and domiciled in Australia. Its registered 
+office and principal place of business is at Level 6, 307 Queen Street, Brisbane City, QLD 4000. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+For personal use onlyTERRACOM LIMITED
+14
+30-Jun-26 30-Jun-25
+Note $‘000 $‘000
+Revenue 3 178,918                   226,671              
+Cost of goods sold 4 (202,895)                 (222,290)            
+Gross profit (23,977)                   4,381                  
+Other income                           786                             - 
+Other operating and administration expenses 5                    (19,303)                (26,855)
+Share of profit of associates and joint ventures 39                           141                  (3,412)
+Foreign exchange gain / (loss)                        1,212                     (122)
+Finance income                        3,280                    3,215 
+Finance expenses 6                      (8,680)                  (6,667)
+Depreciation and amortisation expense                         (573)                     (300)
+Impairment of assets 7                                 -                (22,131)
+Profit / (loss) before taxation                    (47,114)                (51,891)
+Income tax (expense) / benefit 28                        1,484                    8,473 
+Profit / (loss) after taxation                    (45,630)                (43,418)
+Profit / (loss) attributable to:
+Owners of TerraCom Limited                    (45,501)                (42,724)
+Non-controlling interest                         (129)                     (694)
+                   (45,630)                (43,418)
+Other comprehensive income:
+Items that may be reclassified to profit or loss:
+Exchange differences on translating foreign operations 2,482                       2,690                  
+Total comprehensive income / (loss)                    (43,148)                (40,728)
+Total comprehensive income / (loss) attributable to:
+Owners of TerraCom Limited (42,847)                    (40,065)               
+Non-controlling interest (301)                         (663)                    
+Total comprehensive income / (loss)                    (43,148)                (40,728)
+Earnings per share for profit/ (loss) attributable to the owners of TerraCom Limited
+Basic earnings per share (cents) 9                        (3.69) (5.33)                    
+Diluted earnings per share (cents) 9                        (3.69) (5.33)                    
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+The above consolidated statement of profit or loss and other comprehensive income should be read in conjunction with the accompanying notes.
+Consolidated statement of profit or loss and other comprehensive income for the year ended 30 June 2026
+For personal use onlyTERRACOM LIMITED
+15
+30-Jun-26 30-Jun-25
+Note(s) $‘000 $‘000
+ASSETS
+Current Assets
+Cash and cash equivalents 10 8,381 13,382
+Trade and other receivables 11 16,467 24,025
+Inventories 12 13,918 9,499
+Current tax asset 577 2,549
+39,343 49,455
+Non-Current Assets
+Trade and other receivables 11 2,381 2,211
+Restricted cash 13 54,441 58,221
+Investments accounted for using the equity method 39 80,556 77,723
+Other financial assets 14 3,537 3,019
+Property, plant and equipment 15 63,469 82,049
+Deferred tax asset 29                               -   1,224
+Other non-current assets 17 8,978 12,171
+213,362 236,618
+Total Assets 252,705 286,073
+LIABILITIES
+Current Liabilities
+Trade and other payables 18 35,898 49,879
+Provisions 22 6,017 6,544
+Borrowings 19                               -   747
+Deferred revenue 20 16,378 19,499
+Lease liabilities 21 2,329 1,933
+60,622 78,602
+Non-Current Liabilities
+Lease liabilities 21 7,608 8,316
+Provisions 22 50,600 59,724
+Deferred revenue 20                               -   19,804
+58,208 87,844
+Total Liabilities 118,830 166,446
+Net Assets 133,875 119,627
+Consolidated statement of financial position as at 30 June 2026
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+For personal use onlyTERRACOM LIMITED
+16
+30-Jun-26 30-Jun-25
+Note(s) $ ‘000 $ ‘000
+EQUITY
+Issued capital 23                    433,407                376,011 
+Reserves 25                      27,246                  24,592 
+Accumulated losses 26                  (325,919)              (280,418)
+Equity Attributable to equity holders of parent                   134,734               120,185 
+Non-controlling interest 27                         (859)                     (558)
+Total equity                   133,875               119,627 
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+Consolidated statement of financial position as at 30 June 2026
+The above consolidated statement of financial position should be read in conjunction with the accompanying notes
+For personal use onlyTERRACOM LIMITED
+17
+Consolidated statement of changes in equity for the year ended 30 June 2026
+$ ‘000 $ ‘000 $ ‘000 $ ‘000 $ ‘000 $ ‘000
+Balance at 1 July 2024 376,011       21,933              (229,684)                 168,260              (412)                          167,848                              
+Profit for the year after income tax -                -                      (42,724)                    (42,724)               (694)                         (43,418)                               
+Other comprehensive income -                2,659                -                             2,659                  31                              2,690                                  
+Total comprehensive income for the year -                2,659                (42,724)                    (40,065)               (663)                         (40,728)                               
+Dividends paid to shareholders of TerraCom Limited -                -                      (8,010)                      (8,010)                 -                             (8,010)                                 
+Deconsolidation of deregistered entities -                -                      -                            -                       517                           517                                      
+Balance at 30 June 2025 376,011       24,592             (280,418)                 120,185             (558)                          119,627                             
+Balance at 1 July 2025 376,011       24,592             (280,418)                 120,185             (558)                          119,627                             
+Profit for the year after income tax -                -                      (45,501)                    (45,501)               (129)                         (45,630)                               
+Other comprehensive income -                2,654                -                             2,654                  (172)                         2,482                                  
+Total comprehensive income for the year -               2,654                (45,501)                   (42,847)              (301)                         (43,148)                              
+-                -                      -                            -                       -                            -                                       
+Shares issued – capital raising (net of transaction costs)57,396          -                      -                            57,396                -                             57,396                                
+Balance at 30 June 2026 433,407       27,246             (325,919)                 134,734             (859)                          133,875                             
+The above consolidated statement of changes in equity should be read in conjunction with the notes to the consolidated ﬁnancial statements.   
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+Dividends paid to shareholders of TerraCom Limited
+Non- controlling 
+interest
+Total equityIssued 
+capital
+Foreign 
+currency 
+translation 
+reserve
+Accumulated 
+losses
+Total Equity 
+Attributable to 
+the owners of 
+TerraCom 
+Limited
+For personal use onlyTERRACOM LIMITED
+18
+30-Jun-26 30-Jun-25
+Notes $ ‘000 $ ‘000
+Cash receipts from customers (including GST/VAT)                    160,068                266,035 
+Cash paid to suppliers and employees (including GST/VAT)                  (223,946)              (207,060)
+                   (63,878)                  58,975 
+Interest received                        2,812                    4,168 
+Interest paid                      (4,902)                  (4,153)
+Tax refunds/(payments)                        5,102                (40,806)
+Net cash (used in) / from operating activities 31                    (60,866)                  18,184 
+Investing
+Payments for property, plant and equipment                      (5,173)                  (4,730)
+Proceeds from sale of property, plant and equipment                                 -                       193 
+Other asset investments                                 -                     (255)
+Proceeds from secured deposits                        3,193                       954 
+Loan to associates and joint ventures                                 -                        (51)
+Repayment of loans by associates                           760                    2,973 
+Release of restricted cash                        3,749                             - 
+Net cash from / (used in) investing activities                         2,529                     (916)
+Financing
+Repayment of borrowings                         (760)                  (3,274)
+Repayment of principal component of lease liabilities 21                      (3,154)                  (1,355)
+Dividends paid to shareholders of TerraCom Limited 32                                 -                  (8,010)
+Proceeds from issue of shares                      57,396                             - 
+                     53,482                (12,639)
+Movement in cash                      (4,855)                    4,629 
+Opening cash at bank                      13,382                    8,351 
+Effects of foreign exchange impacting cash                         (146)                       402 
+Total cash and cash equivalents at end of the year                        8,381                  13,382 
+Net cash from / (used in) financing activities  
+FOR THE YEAR ENDED 30 JUNE 2026
+Consolidated statement of cashflows for the year ended 30 June 2026
+PRELIMINARY FINANCIAL REPORT
+Operating
+The consolidated statement of cash flows is to be read in conjunction with the notes to the consolidated financial statements. 
+For personal use onlyTERRACOM LIMITED
+19
+Notes to the Consolidated Financial Statements
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+1.3 Investments and other financial assets
+Investments and other financial assets are initially measured at fair value. Such assets are subsequently measured at either amortised cost or fair value depending on their 
+classification. Classification is determined based on both the business model within which such assets are held and the contractual cash flow characteristics of the financial 
+asset unless an accounting mismatch is being avoided.
+Impairment of financial assets
+The consolidated entity recognises a loss allowance for expected credit losses on financial assets which are either measured at amortised cost or fair value through other 
+comprehensive income. The measurement of the loss allowance depends upon the consolidated entity's assessment at the end of each reporting period as to whether the 
+financial instrument's credit risk has increased significantly since initial recognition, based on reasonable and supportable information that is available, without undue cost or 
+effort to obtain.
+1. Material accounting policies
+The accounting policies adopted in the preparation of the consolidated financial statements are consistent with those applied in the previous year, unless otherwise stated.
+The financial statements cover TerraCom Limited as a consolidated entity consisting of TerraCom Limited and the entities it controlled at the end of, or during the year. 
+TerraCom Limited, the Company or the Parent entity, and its subsidiaries together are referred to in these financial statements as the 'Group'.
+1.1 New or amended Accounting Standards and Interpretations adopted
+The Group has adopted all the new or amended Accounting Standards and Interpretations issued by the Australian Accounting Standards Board (AASB) that are mandatory for 
+the current reporting period.  The adoption of these new or amended Accounting Standards and Interpretations did not have a material impact on the consolidated financial 
+statements.
+Any new or amended Accounting Standards or Interpretations that are not yet mandatory have not been early adopted. In June 2024, the AASB issued AASB 18 Presentation 
+and Disclosure in Financial Statements to improve how entities communicate in their financial statements, specifically introducing new categories and subtotals in the 
+statement of comprehensive income, disclosure of management-defined performance measures and new requirements for the location, aggregation and disaggregation of 
+financial information. The standard replaces AASB 101 Presentation of Financial Statements and is effective from annual reporting periods beginning on or after 1 January 
+2027. The Group is currently in the process of assessing the impact of the new standard
+1.2 Basis of preparation
+These general purpose consolidated financial statements have been prepared in accordance with Australian Accounting Standards and Interpretations issued by the AASB and 
+the Corporations Act 2001 (Cth), as appropriate for for-profit oriented entities. These consolidated financial statements also comply with International Financial Reporting 
+Standards as issued by the International Accounting Standards Board.
+The consolidated financial statements have been prepared on an accrual basis and are based on historical costs.
+Going Concern
+The consolidated financial statements have been prepared on the going concern basis, which contemplates the continuity of normal business activities and the realisation of 
+assets and the settlement of liabilities in the ordinary course of business.
+ 
+As at 30 June 2026 the Group had a net current asset deficiency of $21.279 million (30 June 2025: $29.147 million). During the period the Group generated a loss after tax of 
+$45.630 million and cash outflows from operating activities of $60.866 million. The coal prepayment arrangement entered into in April 2025 has since been fully repaid and 
+the Group is currently debt free.
+ 
+The Group has prepared a cash flow forecast, based on a cost base aligned to FY2027 forecast coal sales of 2.0-2.2MtMt, which indicates it will be able to meet its liabilities 
+as and when they fall due, subject to the assumptions below.
+ 
+Production at Blair Athol has been below plan during the early part of FY2027, deferring some coal deliveries and reducing sales volumes in the period. The forecast assumes 
+production returns to planned rates and that the Group secures additional working capital funding to bridge the timing impact of those lower near-term volumes. The Company 
+is progressing a number of initiatives to that end, including potential coal prepayment arrangements, further cost reductions and other capital management measures. No 
+binding coal prepayment agreement had been entered into as at the date of this report, however active discussions continue to secure such an agreement with term sheets 
+expected imminently.  Based on those discussions, and noting that future outcomes cannot be assured, the directors presently expect that the Company will be able to secure 
+a suitable arrangement on acceptable terms. The Group will need to explore additional funding solutions to supplement any prepayment arrangement that may be entered into 
+in order to strengthen its balance sheet and reduce liquidity risks
+ 
+The directors have concluded that it remains appropriate to prepare the financial statements on the going concern basis, having regard to the initiatives described above and 
+the Group's debt free position (excluding lease commitments). The financial statements do not include any adjustments relating to the recoverability or classification of 
+recorded asset amounts, or to the amounts or classification of liabilities, that might be necessary should the Group not continue as a going concern.
+ 
+The assessment remains subject to completion of the audit process and Board consideration. Any resulting changes will be reflected in the audited Financial Report.
+For personal use onlyTERRACOM LIMITED
+20
+Notes to the Consolidated Financial Statements
+1. Material accounting policies  (Continued)
+1.3 Investments and other financial assets (Continued)
+2. Critical accounting judgements, estimates and assumptions 
+The amount of the provision relating to rehabilitation of mine infrastructure and dismantling obligations is recognised at the commencement of the mining project and/or 
+construction of the assets where a legal or constructive obligation exists at that time. The provision is recognised as a liability with a corresponding asset included in mine 
+development assets.
+At each reporting date, the rehabilitation liability is re-measured in line with changes in discount rates, and timing or amount of the costs to be incurred. Changes in the liability 
+relating to rehabilitation of mine infrastructure and dismantling obligations are added to or deducted from the related asset, other than the unwinding of the discount which is 
+recognised as a finance expense in the consolidated statement of profit or loss as it occurs.
+For closed mines, changes to estimated costs are recognised immediately in the consolidated statement of profit or loss.
+The amount of the provision relating to rehabilitation of environmental disturbance caused by on-going production and extraction activities is recognised in the consolidated 
+statement of profit or loss as incurred.
+1.7 Rounding
+The Company is of a kind referred to in Corporations Instrument 2016/183, issued by the Australian Securities and Investments Commission, relating to 'rounding off'. 
+Amounts in this report have been rounded off in accordance with that Corporations Instrument to the nearest thousand dollars, or in certain cases, the nearest dollar. 
+Leasehold improvements are depreciated over the unexpired period of the lease or the estimated useful life of the assets, whichever is shorter.
+The Group's right-of-use assets are depreciated on a straight-line basis over the shorter of the lease term and the estimated useful lives of the assets. If the Group is 
+reasonably certain to exercise a purchase option, the right-of-use asset is depreciated over the underlying asset’s useful life.
+1.5 Exploration and evaluation assets
+Exploration and evaluation expenditure in relation to separate areas of interest for which rights of tenure are current is carried forward as an asset in the consolidated 
+statement of financial position where it is expected that the expenditure will be recovered through the successful development and exploitation of an area of interest, or by its 
+sale; or exploration activities are continuing in an area and activities have not reached a stage which permits a reasonable estimate of the existence or otherwise of 
+economically recoverable reserves. Where a project or an area of interest has been abandoned, the expenditure incurred thereon is written off in the year in which the decision 
+is made.
+1.6 Restoration and rehabilitation
+Provisions are made for the estimated cost of rehabilitation relating to areas disturbed during the mine’s operation up to the reporting date but not yet rehabilitated. Provision 
+has been made in full for all disturbed areas at the reporting date based on current estimates of costs to rehabilitate such areas, discounted to their present value based on 
+expected future cashflows. The estimated costs of rehabilitation include the current cost of re-contouring, topsoiling and revegetation based on legislative requirements. 
+Changes in estimates are dealt with on a prospective basis as they arise.
+Where there has not been a significant increase in exposure to credit risk since initial recognition, a 12-month expected credit loss allowance is estimated. This represents a 
+portion of the asset's lifetime expected credit losses that is attributable to a default event that is possible within the next 12 months. Where a financial asset has become 
+credit impaired or where it is determined that credit risk has increased significantly, the loss allowance is based on the asset's lifetime expected credit losses. The amount of 
+expected credit loss recognised is measured on the basis of the probability weighted present value of anticipated cash shortfalls over the life of the instrument discounted at 
+the original effective interest rate.
+For financial assets mandatorily measured at fair value through other comprehensive income, the loss allowance is recognised in other comprehensive income with a 
+corresponding expense through profit or loss. In all other cases, the loss allowance reduces the asset's carrying value with a corresponding expense through profit or loss.
+Freehold land Not depreciated N/A
+Plant and machinery Straight line and units of 1-10 years
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+Mine development Units of production
+Right of Use of assets Straight line Duration of lease
+1.4 Property, plant and equipment
+Plant and equipment are stated at historical cost less accumulated depreciation and impairment. Depreciation is calculated on a straight-line basis with expected useful lives 
+as follows:
+Item Depreciation method Average Useful Life 
+The preparation of the consolidated financial statements requires management to make judgements, estimates and assumptions that affect the reported amounts in the 
+consolidated financial statements. Management continually evaluates its judgements and estimates in relation to assets, liabilities, contingent liabilities, revenue and 
+expenses. Management bases its judgements, estimates and assumptions on historical experience and on other various factors, including expectations of future events, 
+management believes to be reasonable under the circumstances. The resulting accounting judgements and estimates will seldom equal the related actual results. The 
+judgements, estimates and assumptions that have a significant risk of causing a material adjustment to the carrying amounts of assets and liabilities (refer to the respective 
+notes) within the next financial year are discussed below.
+For personal use onlyTERRACOM LIMITED
+21
+Notes to the Consolidated Financial Statements
+2. Critical accounting judgements, estimates and assumptions (Continued)
+Carrying value of mining assets
+The Group assesses at the end of each reporting period whether there is any indication that a mining asset may be impaired. If any such indication exists, the Group estimates 
+the recoverable amount of the mining assets. The recoverable amount of an individual asset, or cash generating unit is determined based on the higher of fair value less cost 
+of disposal (FVLCD) or value in use (VIU). These calculations require the use of estimations and assumptions. Refer to Note 15 for further information.
+Estimated future cash flows used to determine FVLCD are inherently uncertain and could materially change over time. They are significantly affected by several factors 
+including reserves and production estimates, together with economic factors including future coal prices, discount rates, foreign exchange rates, future costs of production, 
+stripping ratios, and future capital expenditure. These assumptions are likely to change over time, which may then impact the estimated life of mine, and the associated fair 
+value less cost of disposal (FVLCD).
+Carrying value of investments accounted for using equity method
+The Group assesses at the end of each reporting period whether there is any indication that carrying amount of an investment might not be recoverable. If any such indication 
+exists, the Group estimates the recoverable amount of the investment. The recoverable amount of investment is determined based on the higher of fair value, less cost of 
+disposal (FVLCD) or value in use (VIU).  These calculations require the use of estimations and assumptions. Refer to Note 39 for further information.
+Carrying value of exploration and evaluation assets
+Exploration and evaluation costs have been capitalised on the basis that the Group will commence commercial production in the future, from which time the costs will be 
+amortised in proportion to the depletion of the mineral resources. Key judgements are applied in considering costs to be capitalised which includes determining expenditures 
+directly related to these activities and allocating overheads between those that are expensed and capitalised. In addition, costs are only capitalised that are expected to be 
+recovered either through successful development or sale of the relevant mining interest. Factors that could impact the future commercial production at the mine include the 
+level of reserves and resources, future technological changes, which could impact on the cost of mining, future legal changes and changes in commodity prices. To the extent 
+that capitalised costs are determined not to be recoverable in the future, they will be written off in the period in which this determination is made. Refer to Note 16 for further 
+information.
+Mineral reserves and resources
+The estimated quantities of economically recoverable Reserves and Resources are based upon interpretations of geological and geophysical models and require assumptions 
+to be made requiring factors such as estimates of future operating performance, future capital requirements, and coal prices. The Group is required to determine and report 
+Reserves and Resources under the Australian Code for Reporting Mineral Resources and Ore Reserves December 2012 (JORC code). The JORC code requires the use of 
+reasonable investment assumptions to calculate reserves and resources. Changes in reported reserves and resources can impact the life of mine, which impacts the carrying 
+value of mine development asset, rehabilitation provisioning and amortisation and depreciation. 
+Rehabilitation provision
+A provision has been made for the present value of anticipated costs for future rehabilitation of land explored or mined. The Group's mining and exploration activities are 
+subject to various laws and regulations governing the protection of the environment. The Group recognises management's best estimate for assets retirement obligations and 
+site rehabilitation in the period in which they are incurred. Actual costs incurred in the future periods could differ materially from the estimates. Additionally, future changes to 
+environmental laws and regulations, life of mine estimates and discount rates could affect the carrying amount of this provision. Refer to Note 22 for further information.
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+Estimated future cash flows used to determine FVLCD are inherently uncertain and could materially change over time. They are significantly affected by several factors 
+including reserves and production estimates, together with economic factors including future coal prices, discount rates, foreign exchange rates, future costs of production, 
+stripping ratios, and future capital expenditure. These assumptions are likely to change over time, which may then impact the estimated life of mine, and the associated fair 
+value less cost of disposal (FVLCD).
+Income tax
+The Group is subject to income taxes in the jurisdictions in which it operates. Significant judgement is required in determining the provision for income tax. There are 
+transactions and calculations undertaken during the ordinary course of business for which the ultimate tax determination is uncertain. The Group recognises liabilities for 
+anticipated tax audit issues based on the Group's current understanding of the tax law. Where the final tax outcome of these matters is different from the carrying amounts, 
+such differences will impact the current and deferred tax provisions in the period in which such determination is made. 
+To the extent assumptions regarding future profitability change, there can be an increase or decrease in the amounts recognised in respect of deferred tax assets as well as in 
+the amounts recognised in income in the period in which the change occurs. The most significant assumptions as part of the future probability estimate include; future 
+production profiles, future commodity prices, expected operating costs, future development costs necessary to produce the reserves and value attributable to additional 
+resource. 
+All available evidence is considered when determined by forecast assumptions, including approved budgets, forecasts and business plans, impact of climate change policy 
+(enacted and future) and, in certain cases, analysis of historical operating results. 
+For personal use onlyTERRACOM LIMITED
+22
+Notes to the Consolidated Financial Statements
+3
+Identification of reportable operating segments
+Types of products and services
+Accounting policies adopted
+Operating segment information 
+2026 Australia South Africa Unallocated Total
+Consolidated - Year ended 30 June 2026 $ ‘000 $ ‘000 $ ‘000 $ ‘000
+Revenue - sales to external customers                    178,918                                -                                 -                178,918 
+Cost of goods sold                  (202,895)                               -                                 -              (202,895)
+Gross Profit / (loss)                    (23,977)                               -                                -                (23,977)
+Other income                                - 786                        -                               786                     
+Other operating and administration expenses                      (5,698)                     (1,810)                    (11,795)                (19,303)
+Share of profit / (loss) of associate                                 -                          141                                 -                       141 
+Foreign exchange gain / (loss)                        1,316                                -                         (104)                    1,212 
+Net finance income / (expense)                      (5,154)                        (529)                           283                  (5,400)
+Depreciation and amortisation expense                                 -                        (220)                         (353)                     (573)
+Profit / (loss) before taxation                    (33,513)                     (1,632)                    (11,969)                (47,114)
+Profit / (loss) before taxation                (47,114)
+Income tax benefit                    1,484 
+Profit / (loss) after taxation                (45,630)
+Consolidated - 30 June 2026
+Assets
+Segment assets                    158,792                     85,403                        8,510                252,705 
+Total assets                   158,792                    85,403                        8,510               252,705 
+Total assets include additions and acquisitions of non-current assets
+Property, plant and equipment                      62,039                          402                        1,028                  63,469 
+                     62,039                          402                        1,028                  63,469 
+Liabilities 
+Segment liabilities                      97,545                     13,834                        7,451                118,830 
+Total liabilities                      97,545                    13,834                        7,451               118,830 
+FOR THE YEAR ENDED 30 JUNE 2026
+The Group has identified its operating segments based on the internal reports that are reviewed and used by the Board of Directors (Chief Operating Decision Makers, or 
+CODM) in assessing performance and determining the allocation of resources.
+Reportable segments disclosed are based on aggregating operating segments where the segments are considered to have similar economic characteristics and are also 
+similar with respect to the following:
+• the products sold and/or services provided by the segment;
+• the geographical location of the segment; and
+• any external regulatory requirements.
+The CODM reviews gross profit/loss (a measured of earnings before interest, tax, depreciation and amortization of non-operating assets, impairment of exploration assets, 
+profit/loss and impairment of associates). The accounting policies adopted for internal reporting to the CODM are consistent with those adopted in the consolidated financial 
+statements.
+The information reported to the CODM is on a monthly basis.
+Operating segments 
+PRELIMINARY FINANCIAL REPORT
+The reporting segments are organised according to the nature of the activities undertaken and geographically local of the activities as outlined below:
+Australia - Coal exploration and extraction activities within Australia
+South Africa - Coal exploration and extraction activities in South Africa
+Unallocated - Various business development and corporate support activities that are not allocated to operating segments.
+All amounts reported to the Board of Directors, being the CODM with respect to operating segments, are determined in accordance with accounting policies that are consistent 
+to those adopted in the annual consolidated financial statements of the Group.
+Several inter-segment transactions, receivables, payables, or loans occurred during the period, or existed at reporting date. In addition, corporate re charges were allocated to 
+the reporting segments.
+For personal use onlyTERRACOM LIMITED
+23
+Notes to the Consolidated Financial Statements
+3
+Operating segment information (continued)
+South Unallocated Total
+2025 Australia Africa
+Consolidated - Year ended 30 June 2025 $ ‘000 $ ‘000 $ ‘000 $ ‘000
+Revenue - sales to external customers                    226,671                                -                                 -                226,671 
+Cost of goods sold                  (221,592)                     (1,304)                                 -              (222,896)
+Gross Profit / (loss)                        5,079                     (1,304)                                -                    3,775 
+Other operating and administration expenses                      (6,713)                        (173)                    (19,260)                (26,146)
+Share of profit / (loss) of associate                                 -                     (3,412)                                 -                  (3,412)
+Foreign exchange gain / (loss)                           788                        (522)                         (388)                     (122)
+Net finance income / (expense)                      (3,000)                        (452)                                 -                  (3,452)
+Depreciation and amortisation expense                            (63)                          (17)                         (237)                     (317)
+Impairment of assets                                 -                   (20,416)                      (1,800)                (22,216)
+Profit / (loss) before taxation                      (3,909)                   (26,296)                    (21,685)                (51,890)
+Profit before taxation                (51,890)
+Income tax expense                    8,473 
+Profit / (loss) after taxation                (43,417)
+Consolidated - 30 June 2025
+Assets
+Segment assets                    204,592                     81,481                                 -                286,073 
+Total assets                   204,592                    81,481                                -               286,073 
+Total assets include additions and acquisitions of non-current assets
+Property, plant and equipment                      15,491                                -                                 -                  15,491 
+                     15,491                               -                                -                  15,491 
+Liabilities 
+Segment liabilities                    154,035                     12,411                                 -                166,446 
+Total liabilities                   154,035                    12,411                                -               166,446 
+Major customers
+$ ‘000 % $'000 %
+Major customers
+Customer A * 84,155 47% 28,730 13%
+Customer B * 55,923 31% 138,284 61%
+Customer C * 35,412 20% 59,067 26%
+Other customers 3,428 2% 590 0%
+178,918 100% 226,671 100%
+* Customers have not been identified for commercial and contractual reasons. 
+Geographic information
+Sales to external 
+customers
+Non-current 
+assets
+Sales to external 
+customers
+Non-current 
+assets
+Australia 178,918                   129,269                 226,671                  155,627              
+South Africa -                            84,093                   -                            80,991                 
+178,918                 213,362                226,671                 236,618             
+30-Jun-25
+$ ‘000 $ ‘000
+Year ended
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+30-Jun-26
+Year ended
+30-Jun-25
+Operating segments (continued)
+30-Jun-26
+For personal use onlyTERRACOM LIMITED
+24
+Notes to the Consolidated Financial Statements
+4 Cost of goods sold 30-Jun-26 30-Jun-25
+$ ‘000 $ ‘000
+Mining and processing                    116,793                121,972 
+Selling and marketing                      68,344                  75,421 
+Other operating expenses                        4,226                    5,659 
+Depreciation and amortization- PPE and mining assets                      13,532                  19,238 
+                  202,895               222,290 
+5 Other operating and administration expenses
+30-Jun-26 30-Jun-25
+$ ‘000 $ ‘000
+Other operating and administration expenses                        9,096                    5,783 
+Consultant and professional fees                        5,993                    5,845 
+ASIC settlement fee                               -                      8,500 
+Employee benefits excluding superannuation expense                        3,908                    6,408 
+Superannuation expense                           306                       319 
+                     19,303                  26,855 
+6 Finance expenses
+30-Jun-26 30-Jun-25
+$ ‘000 $ ‘000
+Interest expense on interest bearing loans                             21                       309 
+Other interest and finance expenses *                        8,659                    6,358 
+                       8,680                    6,667 
+* The increase in other interest and finance expenses is primarily attributable to interest incurred on the coal prepayment facilities.
+7 Impairment
+Note 30-Jun-26 30-Jun-25
+$ ‘000 $ ‘000
+Exploration and evaluation impairment  16                               -   13,524
+Investment in associates and joint ventures impairment 39                               -   8,607
+                             -   22,131
+Below is a breakdown of investment in associates and joint ventures impairment
+30-Jun-26 30-Jun-25
+$ ‘000 $ ‘000
+Australian Operation(1)                               -   1,800
+South Africa Operation                               -   6,807
+                             -   8,607
+As at the date of this preliminary report, the impairment assessment has not been finalised and no final impairment adjustment has been recognised for the year ended 30 
+June 2026. Any resulting adjustment will be reflected in the audited Financial Report.
+(1)     During the previous year there was a 100% impairment to investment previously held as fair value through profit & loss (FVTPL).
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+For personal use onlyTERRACOM LIMITED
+25
+Notes to the Consolidated Financial Statements
+8 Remuneration of auditors
+30-Jun-26 30-Jun-25
+Audit or review of the consolidated financial statements 869,124 848,735
+Other services 
+17,279 33,150
+886,403 881,885
+Audit and other services
+BDO (Australia) 886,403 779,420
+BDO (South Africa)                               -   102,465
+886,403 881,885
+9 Earnings per share
+Basic earnings / (loss) per share
+30-Jun-26 30-Jun-25
+Basic earnings / (loss) per share (cents per share)                        (3.69)                    (5.33)
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Reconciliation of profit / (loss) for the year to basic earnings
+Profit / (loss) for the year attributable to equity holders of the parent                    (45,501)                (42,724)
+                   (45,501)                (42,724)
+Diluted earnings / (loss) per share
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Diluted earnings / (loss) per share (cents per share) (3.69)                        (5.33)                   
+No dilutive instruments were present at the year end 2026 (2025: none).
+10 Cash and cash equivalents
+Cash and cash equivalents consist of:
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Cash at bank                        8,381 13,382
+Diluted earnings / (loss) per share was based on loss of $45.501 million (2025: loss of $42.724 million) and a weighted average number of ordinary shares of 1,233,351,491 
+(2025: 800,966,235).
+The following fees were paid or payable for services provided by BDO Audit Pty Ltd (TerraCom Limited Auditor) and BDO South Africa Incorporated (UCEHSA Group auditor), 
+the auditors of the Group:
+Fees for auditing the statutory financial report of the parent covering the group and auditing the statutory financial 
+reports of any controlled entities
+FOR THE YEAR ENDED 30 JUNE 2026
+Basic earnings per share were based on loss of $45.501 million (2025: loss of $42.724 million) and a weighted average number of ordinary shares of 1,233,351,491 (2025: 
+800,966,235).
+Fees for other assurance and agreed-upon-procedures services under other legislation or contractual arrangements 
+where there is discretion as to whether the service is provided by the auditor or another firm
+Basic earnings per share are determined by dividing profit (loss) attributable to the ordinary equity holders of the 
+parent by the weighted average number of ordinary shares outstanding during the year.
+PRELIMINARY FINANCIAL REPORT
+For personal use onlyTERRACOM LIMITED
+26                        
+Notes to the Consolidated Financial Statements
+11 Trade and other receivables 30-Jun-26 30-Jun-25
+Split between current and non-current portions: $ ‘000 $ ‘000
+Current
+Trade receivables                      12,448                  16,500 
+Loan receivables – related parties                               -                         747 
+Prepayment                        2,690                    5,927 
+Other receivables                        1,329                       851 
+Total trade and other receivables - current                      16,467                  24,025 
+Non-Current
+Long service leave and other receivables                        2,381                    2,211 
+Total trade and other receivables – non-current                        2,381                    2,211 
+Total trade and other receivables                      18,848                  26,236 
+12 Inventories 30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Coal Stock 8,025                    2,432 
+Consumables and stores 5,893                    7,067 
+13,918                    9,499 
+Basis of measurement
+Cost Composition and Costing Method
+Consumables and Stores
+13 Restricted Cash 30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Bank deposit                               -                           30 
+Security deposit                      54,441                  58,191 
+                     54,441                  58,221 
+The secured deposit relates to the cash pledged as security for the issuance of an insurance bond to satisfy the financial assurance requirements with the Queensland 
+Government Department of Environment and Science for the Blair Athol Coal Mine Environmental Authority. The security deposit is held by Westpac, which at reporting date 
+was bearing an interest rate of 4.92% per annum.
+A portion of the security deposit was refunded during the year following the Queensland Government’s revised ERC decision for Blair Athol. The updated assessment reduced 
+the required financial assurance, which in turn lowered the surety obligation held with Westpac. The reduction in restricted cash reflects this adjustment to the underlying 
+surety bond requirement.
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+At 30 June 2026, the coal stockpile inventory was measured at net realisable value, as the cost per tonne exceeded net realisable value. This resulted in a write‑down of 
+$0.706 million, which has been recognised in profit or loss for the period.
+Inventories are measured and stated at the lower of cost and net realisable value. Net realisable value is the estimated selling price in the ordinary course of business, less 
+estimated costs of completion and the estimated costs necessary to make the sale.
+Coal Stock: Cost is determined using the weighted average cost method. Cost comprises direct materials, direct labor, extraction and processing costs, and an appropriate 
+proportion of fixed and variable overhead expenses directly incurred in bringing the coal stock to its present location and condition.
+Measured at purchase cost. Cost comprises the invoice purchase price, freight, handling, and other direct costs incurred in bringing each item to its present location and 
+condition, net of trade discounts and rebates.
+The trade receivables balance relates to an outstanding amount with a long-standing customer. Given the well-established history with the customer, there is no credit loss 
+expected.
+The loan receivables - related parties balance related to funds drawn against the loan with The Standard Bank of South Africa. As disclosed in Note 19, UCEHSA was the main 
+borrower, on behalf of the South African entities and this has been settled during the year.
+The other receivables balance includes refundable Goods and Services Tax (GST), Diesel Rebate and Value Added Tax (VAT) receivable (applicable to South African entities 
+only). Due to the short-term nature of these receivables, their carrying value is assumed to be approximate to their fair value. The Group does not hold any financial assets with 
+terms that have been renegotiated, but which would otherwise be past due or impaired.
+For personal use onlyTERRACOM LIMITED
+27                        
+Notes to the Consolidated Financial Statements
+14 Other financial assets 30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Mining rehabilitation guarantees                        3,537                    3,019 
+                       3,537                    3,019 
+15 Property, plant and equipment 30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Property, plant and equipment 63,469                      82,049                 
+ Consolidated Carrying value
+$ ‘000
+Land and buildings                  6,330                      -                          6,330                       6,330                               -                      6,330 
+Plant and machinery                68,853           (46,435)                      22,418                     63,811                    (37,938)                  25,873 
+Mine development             156,373         (135,107)                      21,266                  167,832                  (130,960)                  36,872 
+               16,885             (6,187)                      10,698                     15,062                      (4,396)                  10,666 
+Capital – work in progress                  2,757                      -                          2,757                       2,308                               -                      2,308 
+Total             251,198         (187,729)                      63,469                  255,343                  (173,294)                  82,049 
+Reconciliation of property, plant and equipment 30 June 2026
+Opening 
+balance
+$ ‘000
+Additions
+$ ‘000
+Disposals
+$ ‘000
+Transfers
+$ ‘000
+Derecognit-
+ion
+$ ‘000
+Change in 
+estimate
+$ ‘000
+Exchange 
+differences
+$ ‘000
+Depreciation
+$ ‘000
+Closing balance
+$ ‘000
+Land and buildings            6,330                     -                        -                           -                        -                                 -                                -                                 -                    6,330 
+Plant and equipment          25,873                557                        -                  4,507                   (29)                                 -                              7                      (8,497)                  22,418 
+Mine development          36,872                     -                        -                           -                        -                    (11,459)                                -                      (4,147)                  21,266 
+Right-of-use assets – 
+plant & equipment
+         10,666             1,823                        -                           -                        -                                 -                                -                      (1,791)                  10,698 
+Capital – work in 
+progress
+           2,308             5,174                        -                (4,507)                (218)                                 -                                -                                 -                    2,757 
+        82,049             7,554                       -                          -                (247)                   (11,459)                             7                    (14,435)                 63,469 
+Reconciliation of property, plant and equipment 30 June 2025
+Opening 
+balance
+$ ‘000
+Additions
+$ ‘000
+Disposals
+$ ‘000
+Transfers
+$ ‘000
+Derecognit-
+ion
+$ ‘000
+Change in 
+estimate
+$ ‘000
+Exchange 
+differences
+$ ‘000
+Depreciation
+$ ‘000
+Closing balance
+$ ‘000
+Land and buildings           6,330                     -                        -                           -                        -                                 -                                -                                 -                    6,330 
+Plant and equipment          28,142                     -                        -                  6,813                   (55)                                 -                             (5)                      (9,022)                  25,873 
+Mine development          46,479                     -                        -                           -                        -                                 -                      (9,607)                 36,872 
+Right-of-use assets – 
+plant & equipment
+              535          11,041                        -                           -                        -                                 -                         (910)                  10,666 
+Capital – work in 
+progress
+           4,666             4,450                        -                (6,813)                        -                                 -                              5                                 -                    2,308 
+        86,152          15,491                       -                          -                   (55)                               -                               -                    (19,539)                 82,049 
+30-Jun-26
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+Cost
+$ ‘000
+Cost
+$ ‘000
+Accumulated 
+depreciation
+$ ‘000
+ Right-of-use assets – plant and 
+equipment 
+Accumulated 
+depreciation
+$ ‘000
+Carrying
+Value
+$ ‘000
+Right-of-use assets
+Right-of-use assets consist of mining plant and equipment and an office lease
+30-Jun-25
+Legislation stipulates that all mining operations within South Africa are required to make a provision for environmental rehabilitation during the life of mine and at closure. In 
+line with this requirement, the Group has entered into policies with a reputable insurance broker to set aside funds for aforementioned purposes. On the back of these policies, 
+the insurance broker provides the required mining rehabilitation guarantees which are accepted by the Department of Mineral Resources and Energy in South Africa. The Group 
+makes annual premium payments towards structured products that will allow the matching of the environmental rehabilitation liability against the Group assets over a period 
+of time.
+This financial asset comprises the premium paid to the insurer, plus interest, less charges and claims paid by the insurer to the Group and is measured at amortised cost, as 
+the formula includes the effect of the time value of money.
+For personal use onlyTERRACOM LIMITED
+28                        
+Notes to the Consolidated Financial Statements
+15 Property, plant and equipment (Continued)
+Impairment 
+16 Exploration and evaluation assets
+ Consolidated 
+                    -                        -   -                13,524                    (13,524)                                - 
+*Exploration and evaluation assets were fully written off in the prior year
+Exploration and evaluation
+As at the date of this preliminary report, the impairment assessment of property, plant and equipment has not been finalised and no final impairment adjustment has been 
+recognised for the year ended 30 June 2026 (30 June 2025: NIL). Any resulting adjustment will be reflected in the audited Financial Report.
+30-Jun-26
+ Cost
+$ ‘000 
+ Impairment
+$ ‘000 
+ Carrying
+value
+$ ‘000 
+The value‑in‑use calculation incorporated the following key assumptions:
+- Commodity prices: Based on forecast thermal coal price indices and contracted domestic and export sales volumes.
+- Production volumes: Based on Board‑approved mine plans and reserve estimates.
+- Operating costs: Based on current budgets and mine plans, reflecting expected cost profiles over the life‑of‑mine.
+- Discount rate: A post tax nominal discount rate derived using the Group’s weighted average cost of capital methodology, adjusted for risks not already reflected in the 
+underlying cash flows.
+- Life‑of‑mine: Based on approved mine plans and estimated economically recoverable reserves.
+For the Australian CGU, management identified impairment indicators during the year ended 30 June 2026. These indicators included:
+- lower thermal coal prices compared to prior periods
+- supply chain disruptions affecting production and sales timing
+As a result, the Group performed an impairment assessment of the carrying amount of the CGU.
+The recoverable amount was determined using the value‑in‑use method, based on the present value of estimated future cash flows expected to be generated from the CGU 
+over its remaining life‑of‑mine.
+FOR THE YEAR ENDED 30 JUNE 2026
+PRELIMINARY FINANCIAL REPORT
+In the event that impairment testing is required for mining assets, the expected future cash flows are based on several factors, variables and assumptions. In most cases, the
+present value of future cash flows is most sensitive to estimates of future commodity prices, foreign exchange rates and discount rates. For the BA impairment assessment,
+the recoverable amount was determined using a value‑in‑use methodology, consistent with the requirements of AASB 136. The value‑in‑use calculation is based on estimates
+of economically recoverable coal reserves, forecast production profiles, commodity price assumptions, operating costs, future development capital required to access the
+reserves, and value attributable to additional resource and exploration opportunities based on the mine plan.
+Future commodity prices are based on the Group’s best estimate of future market prices with reference to external market analysts’ forecasts, current spot prices and forward
+curves. The Group’s coal price forecasts include the expected impact of climate change and potential policy responses as one of the many factors that can affect long term
+scenarios. The Group’s independent research into forecast coal consumption suggests that the global demand for the Group’s products will continue over the life of the
+respective assets. Future commodity prices are reviewed at least annually. Where volumes are contracted, future prices are based on the contracted price.
+30-Jun-25
+ Cost
+$ ‘000 
+ Carrying
+value
+$ ‘000 
+ Impairment
+$ ‘000 
+The recoverability of the carrying amounts of the exploration and evaluation assets is dependent on successful development and commercial exploitation, or alternatively, sale 
+of the respective areas of interest. 
+During the year ending 30 June 2025, it was determined to impair $13.524 million relating to an undeveloped project area at Universal Coal Development I Pty Ltd.  This area 
+was reported as an exploration and evaluation asset on acquisition of Universal Coal Plc back in FY2021 and after thorough assessment of current prospects, management 
+has determined that the area is no longer economical to pursue.
+ Exploration and evaluation 
+For personal use onlyTERRACOM LIMITED
+29                        
+Notes to the Consolidated Financial Statements
+16 Exploration and evaluation assets (Continued)
+Location 2026 2025
+EPC 1260 Northern Galilee (Clyde Park) Charters 
+Towers, 
+64% 64%
+EPC 1300 Northern Galilee (Hughenden) Charters 
+Towers, 
+100% 100%
+EPC 1394 Northern Galilee (Hughenden) Charters 
+Towers, 
+100% 100%
+EPC 1477 Northern Galilee (Hughenden) Charters 
+Towers, 
+100% 100%
+EPC 1478 Northern Galilee (Hughenden) Charters 
+Towers, 
+100% 100%
+EPC 2049 Northern Galilee (Hughenden) Charters 
+Towers, 
+100% 100%
+EPC 1890 Northern Galilee (Pentland) Rockhampton, 
+Queensland, 
+100% 100%
+EPC 1892 Northern Galilee (Pentland) Rockhampton, 
+Queensland, 
+100% 100%
+EPC 1893 Northern Galilee (Pentland) Rockhampton, 
+Queensland, 
+100% 100%
+EPC 1964 Northern Galilee (Pentland) Rockhampton, 
+Queensland, 
+100% 100%
+EPC 1674 Springsure (Springsure) 90% 90%
+MDL 3002 Springsure (Springsure) 90% 90%
+EPC 1103 Springsure (Fernlee) 100% 100%
+ML 1804 Blair Athol 100% 100%
+MP30/5/1/2/2/429M
+R
+Kangala Colliery 70.50% 70.50%
+LP30/5/1/2/3/2/1 
+(10131) MR 
+Berenice Project (1) 50% 50%
+MP30/5/1/2/2/10027
+MR
+Ubuntu Colliery (1) 49% 49%
+MP30/5/1/2/2/10169
+MR
+Eloff Project (1) 49% 49%
+MP30/5/1/2/1/326M
+R
+49% 49%
+MP30/5/1/2/2/10090
+MR
+49% 49%
+LP 
+30/5/1/2/2/10169MR
+Cygnus Project (1) 50% 50%
+(1) held through equity accounted investment 
+17 Other non-current assets
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Other deposits 8,978                        12,171                 
+18 Trade and other payables
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Trade creditors 19,672                      20,944                 
+ASIC settlement fee -                            8,500                   
+Final legal award relating to Kangala- South Africa -                            1,133                   
+Royalties 3,508                        4,025                   
+Accrued expenses 12,718                      15,277                 
+35,898                   49,879               
+Fair value of trade and other payables
+Due to the short-term nature, the current trade and other payables have a carrying value which approximates their fair value.
+Emerald, Queensland, 
+AustraliaEmerald, Queensland, 
+Australia
+All Days (Waterpoort), 
+Limpopo Province, South 
+Africa
+Location 2026
+Delmas, Mpumalanga 
+Province, South Africa
+Waterpoort, Limpopo Province, 
+South Africa
+Delmas, Mpumalanga 
+Province, South Africa
+Delmas, Mpumalanga 
+Province, South Africa
+2025
+Emerald, Queensland, 
+AustraliaBlair Athol, Queensland, 
+Australia
+Other deposits comprise mainly of refundable security deposits paid to Dalrymple Bay Coal Terminal and Aurizon Network for port and below rail contract security for the Blair 
+Athol supply chain. The established history with these parties indicates an expected loss will be immaterial (less than 1%).
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+Tenement No. Operation/Project
+Tenement No. Operation/Project
+North Block Complex 
+(Glisa) (1)
+Belfast, Mpumalanga Province, 
+South Africa
+Belfast, Mpumalanga Province, 
+South Africa
+North Block Complex 
+(Paardeplaats) (1)
+For personal use onlyTERRACOM LIMITED
+30                        
+Notes to the Consolidated Financial Statements
+19 Borrowings
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Current borrowings
+Standard Bank of South Africa facilities -                            747                      
+Standard Bank of South Africa facilities
+20 Deferred Revenue 
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Current deferred revenue 16,378                      19,499                 
+Non-current deferred revenue -                            19,804                 
+16,378                   39,303               
+21 Lease liabilities
+30-Jun-26 30-Jun-25
+$ ‘000 $ ‘000
+As at 1 July 10,249                      563                      
+Additions 1,943                        10,761                 
+Accretion of interest 898                           280                      
+Payments                      (3,153)                  (1,355)
+Closing as at 30 June 9,937                        10,249                 
+Current liabilities 2,329                        1,933                   
+Non-current liabilities 7,608                        8,316                   
+9,937                       10,249                 
+The following are the amounts recognised in profit or loss
+Depreciation expense 1,791                        910                      
+Interest expenses on lease liabilities 898                           280                      
+2,689                       1,190                   
+On 10 September 2020, UCEHSA entered into a financing agreement with The Standard Bank of South Africa (SBSA), wherein UCEHSA and its operating partners would have 
+access to a financing facility of up to ZAR 600 million.
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+Drawn funds from the facility bear interest at three-month JIBAR plus 3.9% per annum and following drawdown this is serviced quarterly.  Repayments of capital commenced 
+on 30 September 2021 and are scheduled to occur on a quarterly basis over 16 equal payments, ending 30 September 2025.
+The Group fully repaid the facility on 30 September 2025. As at 30 June 2026, no balance is outstanding and the security arrangements have been released.
+Security for the debt facilities includes first-ranking security over assets such as bonds on movable and immovable property, mining and surface rights in South Africa. 
+Additionally, the equity holders of the operating subsidiaries have pledged their shares in the operating subsidiaries to SBSA as security. The facility requires the Group to 
+comply with leverage, debt service cover ratio, and interest coverage financial covenants. The Group met all these covenants during the financial year.
+During the previous year, the Group entered into coal prepayment contracts with two major customers, under which it received advance consideration totalling USD $40.00 
+million, to be satisfied through the future delivery of coal shipments.
+As of 30 June 2026, the remaining obligation still to be delivered is equivalent to AUD $16.378 million and has been recognised as deferred revenue in the statement of 
+financial position. This has been settled in July 2026 as disclosed in Note 37 - Events after reporting date.
+For personal use onlyTERRACOM LIMITED
+31                        
+Notes to the Consolidated Financial Statements
+22 Provisions 
+ $ ‘000  $ ‘000  $ ‘000  $ ‘000  $ ‘000  $ ‘000 
+Mine rehabilitation and closure
+Blair Athol                54,204           (11,458)                        1,491                        (158)                               -                    44,079 
+Australian exploration assets                     864                      -                                 -                                -                                 -                         864 
+Kangala 4,656                  271                 482                          -                          248                          5,657                   
+59,724                       (11,187) 1,973                                             (158) 248                         50,600               
+ $ ‘000  $ ‘000  $ ‘000  $ ‘000  $ ‘000  $ ‘000 
+Mine rehabilitation and closure
+Blair Athol                54,315                (541)                        2,037                     (1,607)                               -                    54,204 
+Australian exploration assets                     864                      -                                 -                                -                                 -                         864 
+Kangala 4,035                  -                            -                          621                          4,656                   
+59,214                            (541) 2,037                                          (1,607) 621                         59,724               
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Current Provision
+Annual leave 3,678 4,333
+Long service leave 2,339 2,211
+6,017 6,544
+Non-current 
+ProvisionRehabilitation 50,600 59,724
+50,600 59,724
+23 Issued Capital
+30-Jun-26 30-Jun-25 30-Jun-26 30-Jun-25
+Issued Shares Shares $ ‘000 $ ‘000
+Ordinary shares - fully paid 1,822,523,150 800,966,235 433,407 376,011
+Movements in ordinary share capital Issue
+price
+2026
+Opening balance 01-July-2025 800,966,235 - 376,011
+Issue of shares* 27-January-2026 1,002,271,609 0.06 56,312
+Issue of shares* 24-February-2026 19,285,306 0.06 1,084
+Closing balance 30-June-2026 1,822,523,150 433,407
+*During the year, the Company issued 1,021,556,915 ordinary shares at $0.06 per share, raising $57.4 million, net of transaction costs in new equity.
+2025
+Opening balance 01-July-2024 800,966,235 - 376,011
+Closing balance 30-June-2025 800,966,235 - 376,011
+Rehabilitation
+The rehabilitation provision represents the present value of rehabilitation costs relating to mine sites, which are expected to be incurred over the life of the estimated life of the 
+mine (up to 25 years), which is when the producing mine properties are expected to cease operations. These provisions have been calculated based on the Group’s internal 
+estimates. Assumptions based on the current economic environment have been made, which management believes are a reasonable basis upon which to estimate the future 
+liability. These estimates are reviewed regularly to consider any material changes to the assumptions. However, actual rehabilitation costs will ultimately depend upon future 
+market prices for the necessary rehabilitation work required that will reflect market conditions at the relevant time. Furthermore, the timing of rehabilitation is likely to depend 
+on when the mines cease to produce at economically viable rates.
+Date $ ‘000
+PRELIMINARY FINANCIAL REPORT
+The movement in the rehabilitation provision reflects updated macro‑economic assumptions for the Blair Athol rehabilitation obligation, specifically changes in the inflation 
+and discount rate inputs. In addition, the Progressive Rehabilitation and Closure Plan (PRCP) was formally approved this year, resulting in revised trimming and updated cost 
+estimates incorporated into the provision.
+Exchange 
+differences
+Change in 
+estimate
+Unwinding of 
+discount
+Rehabilitation Exchange 
+differences
+1-Jul-24
+1-Jul-25 Change in 
+estimate
+Unwinding of 
+discount
+FOR THE YEAR ENDED 30 JUNE 2026
+30-Jun-25
+30-Jun-26
+Shares
+For personal use onlyTERRACOM LIMITED
+32                        
+Notes to the Consolidated Financial Statements
+23 Issued Capital (Continued)
+Ordinary shares
+On a show of hands every member present at a meeting in person or by proxy shall have one vote and upon a poll each share shall have one vote.
+Share buy-back
+There is no current on-market share buy-back.
+Capital risk management
+The capital risk management policy remains unchanged from the 2025 Annual Report.
+24 Share-based payments
+Directors and Executive KMP
+There were no share-based payments during the year (2025: nil) and no performance rights were granted during the year (2025: nil).
+25 Foreign currency translation reserve
+Movements in the Foreign currency translation reserve during the current and previous financial year are set out below:
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+At the beginning of the financial year 24,592                      21,933                 
+Foreign currency translation through other comprehensive income 2,654                        2,659                   
+27,246                   24,592               
+26 Accumulated losses
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Accumulated losses at the beginning of the financial year                  (280,418)              (229,684)
+Profit / (Loss) after income tax for the year                    (45,501)                (42,724)
+Dividends paid                                 -                  (8,010)
+Accumulated losses at the end of the financial year                  (325,919)              (280,418)
+27 Other non-controlling interest
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Non-controlling interest                         (859)                     (558)
+Opening balance                         (558)                     (412)
+Loss attributable to non-controlling interest                         (129)                     (694)
+NCI attributed to deconsolidation of deregistered entities                                 -                       517 
+Other comprehensive income/(loss)                         (172)                         31 
+                        (859)                     (558)
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+The Group would look to raise capital when an opportunity to invest in a business or Company was seen as value adding relative to the current Company's share price at the 
+time of the investment.
+Ordinary shares entitle the holder to participate in dividends and the proceeds on the winding up of the Company in proportion to the number of and amounts paid on the 
+shares held. The fully paid ordinary shares have no par value and the Company does not have a limited amount of authorised capital.
+The Group's objectives when managing capital is to safeguard its ability to continue as a going concern, so it can provide returns for shareholders and benefits for other 
+stakeholders and to maintain an optimum capital structure to reduce the cost of capital.
+Capital is regarded as total equity, as recognised in the consolidated statement of financial position, plus net debt. Net debt is calculated as total borrowings, less cash and 
+cash equivalents.
+To maintain or adjust the capital structure, the Group may adjust the amount of dividends paid to shareholders, return capital to shareholders, issue new shares or sell assets 
+to reduce debt.
+The Group is subject to certain financing arrangements and covenants as noted in Note 19 and meeting these is given priority in all capital risk management decisions. There 
+have been no events of default on the financing arrangements during the financial year (2025: no default).
+The reserve is used to recognise exchange differences arising from the translation of the consolidated financial statements of foreign operations to Australian dollars.
+For personal use onlyTERRACOM LIMITED
+33                        
+Notes to the Consolidated Financial Statements
+28 Taxation
+Reconciliation of the tax (benefit) / expense 30-Jun-26 30-Jun-25
+$ ‘000 $ ‘000
+Current tax expense                                 -                       120 
+Deferred tax expense / (benefit)                          (610)                  (8,411)
+Prior period under / (over) provision                          (874)                     (182)
+                     (1,484)                  (8,473)
+Reconciliation of the tax (benefit) / expense
+Reconciliation between accounting profit and tax (benefit) / expense.
+Profit/(loss) before income tax (benefit) / expense                    (47,114)                (51,891)
+Tax at the applicable tax rate of 30% (2025: 30%)                    (14,134)                (15,568)
+Tax effect amounts which are not deductible/(taxable) in calculating taxable income
+Non-taxable items                            (42)                    4,104 
+Adjustments in respect of current income tax of previous years                           543                       441 
+Foreign Exchange                           311                    2,550 
+Tax losses / temporary differences not recognised as deferred tax assets                      11,838                             - 
+                     (1,484)                  (8,473)
+Difference in overseas tax rates                                 -  - 
+Income tax (benefit) / expense                      (1,484)                  (8,473)
+30-Jun-26 30-Jun-25
+Deferred Deferred
+income tax income tax
+Opening balance                        1,224                  (7,005)
+Charged to income – corporate tax                           610                    8,411 
+Adjustment for prior periods                      (1,834)                     (182)
+Closing balance                               -                      1,224 
+30-Jun-26 30-Jun-25
+$’000 $’000
+Tax losses relating to entities outside the tax consolidated group 4,914 4,233
+29 Deferred Tax
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Deferred tax assets comprise temporary differences attributable to: 
+Provision                      14,438                  19,880 
+Leases                        2,695                    3,075 
+Other                        1,910                    1,211 
+Tax losses                      15,545                             - 
+Deferred tax assets not brought to account as realisation is not probable                    (11,838)                            - 
+                     22,750                  24,166 
+Offset of deferred tax liability                    (22,750)                (22,942)
+                              -                      1,224 
+Amounts recognised in equity
+Transaction costs on share issue                                 -  - 
+Deferred tax asset – net                                 -                    1,224 
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+For personal use onlyTERRACOM LIMITED
+34                        
+Notes to the Consolidated Financial Statements
+29 Deferred Tax (Continued)
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+ Deferred tax liability comprises temporary differences attributable to:
+Property, plant and equipment                      (2,186)                  (9,397)
+Secured deposits                    (16,905)                  (9,972)
+Consumables                                 -   -    
+Leases                      (3,174)                  (3,459)
+Other                          (485)                     (114)
+                   (22,750)                (22,942)
+Offset of deferred tax asset                      22,750                  22,942 
+Deferred tax asset (liability) – net                                 -  -  
+30 Key management personnel disclosures
+30-Jun-26 30-Jun-25
+Compensation to Executive KMP and Non-Executive Directors of the Group $ $
+Short-term employee benefits* 2,316,634                4,102,134           
+Contributions to superannuation plans 175,348                   125,101              
+Termination benefit 926,923                   -                        
+Long-term employee benefits 3,542                        102,011              
+Total compensation 3,422,447              4,329,246          
+TerraCom Limited and its wholly owned Australian controlled entities are part of a tax-consolidated group under Australian taxation law. The head entity, TerraCom Limited 
+and the controlled entities in the tax consolidated group continue to account for their own current and deferred tax amounts. The Group has applied the Group allocation 
+approach in determining the appropriate amount of current taxes and deferred taxes to allocate to members of the tax consolidated group. In addition to its own current and 
+deferred tax amounts, TerraCom Limited also recognises the current tax liabilities (or assets) and the deferred tax assets arising from unused tax losses and unused tax 
+credits assumed from controlled entities in the tax consolidated group. 
+Unrecognised deferred tax assets
+As at 30 June 2026, no net deferred tax asset has been recognised in respect of temporary differences and tax losses, pending completion of the Group’s assessment under 
+AASB 112 Income Taxes. Any resulting adjustment will be reflected in the audited Financial Report.
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+*Short‑term benefits for the previous year includes the FY24 LTI award, which was cash‑settled within 12 months. No LTI was awarded for FY25. The FY24 award vested in 
+FY25 and was paid in FY26.
+For personal use onlyTERRACOM LIMITED
+35                        
+Notes to the Consolidated Financial Statements
+31 Cash flow information 30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Profit / (loss) after income tax for the year                    (45,630)                (43,418)
+Adjustments for non-cash items:
+Depreciation and amortisation                      14,435                  19,539 
+Write off of assets                           247                             - 
+Impairment expense                                 -                  22,131 
+Foreign exchange differences                        1,212                       122 
+Share of loss/(profit) of investments accounted for using the equity method                         (141)                    3,412 
+Profit / (loss) on disposal of fixed assets                                 -                     (188)
+Profit / (loss) on deregistration / deconsolidation                            (16)                       206 
+Changes in assets and liabilities: 
+Movement in tax balances                        3,196                (49,130)
+(Increase) / decrease in inventories                      (4,419)                     (399)
+(Increase) / decrease in trade and other receivables                        6,661                  11,229 
+(Increase) / decrease in other assets                                 -                  (3,984)
+Increase / (decrease) in trade and other payables                    (15,293)                  17,538 
+Increase / (decrease) in deferred revenue                    (22,925)                  39,303 
+Increase / (decrease) in provisions                        1,807                    1,823 
+Net Cash (used in) / from operating activities                    (60,866)                  18,184 
+Non cash financing activities
+Share issue cost netted off from share raising capital proceeds 3,897                        -                        
+Changes in liabilities arising from financing activities
+2026
+Interest bearing loans and borrowings (excluding items listed below)                           747                        (760)                             13                             - 
+Lease liabilities                      10,249                     (3,154)                        2,842                    9,937 
+                     10,996                     (3,914)                        2,855                    9,937 
+2025
+Interest bearing loans and borrowings (excluding items listed below)                        3,613                     (3,274)                           408                       747 
+Lease liabilities                           563                     (1,355)                      11,041                  10,249 
+                       4,176                     (4,629)                      11,449                  10,996 
+32 Dividends paid
+$0.01 $0.01 6 December 2024
+No dividends were declared or paid to shareholders for the financial year ended 30 June 2026. Dividends totalling $8.010 million were declared in respect of the financial year 
+ended 30 June 2025.
+Franking Account Balance
+Franking account balance as at 30 June 2026 was $72.232 million (2025: $76.026 million).
+30 September 2024 31 October 2024
+ Amount
+(cents per share) 
+ Franked Amount (cents per share)  Consolidated  Declaration Date  Date of Payment 
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+ Closing
+$ ‘000 
+ Opening
+$ ‘000 
+ Cash flows
+$ ‘000 
+ FX and other 
+movements
+$ ‘000 
+ Closing
+$ ‘000 
+ Cash flows
+$ ‘000 
+ FX and other 
+movements
+$ ‘000 
+ Opening
+$ ‘000 
+For personal use onlyTERRACOM LIMITED
+36                        
+Notes to the Consolidated Financial Statements
+33 Financial Instruments
+Categories of financial assets and fair value information
+11 16,158 16,158
+10 8,381 8,381
+13 54,441 54,441
+14 3,537 3,537
+17 8,978 8,978
+91,495 91,495
+11 20,309 20,309
+10 13,382 13,382
+13 58,221 58,221
+14 3,019 3,019
+17 12,171 12,171
+107,102 107,102
+18 35,898 35,898
+21 9,937 9,937
+45,835 45,835
+18 49,879 49,879
+19 747 747
+21 10,249 10,249
+60,875 60,875
+Trade and other receivables 
+Cash and cash equivalents
+Restricted cash
+Other financial asset
+Lease liabilities 
+Other non-current asset (deposit)
+Trade and other payables
+ Fair value
+$ ‘000 
+Trade and other receivables 
+Cash and cash equivalents
+Restricted cash
+Other financial asset
+Other non-current asset (deposit)
+30-Jun-25
+30-Jun-26
+ Note  Carrying value at 
+amortised cost
+$ ‘000 
+ Note  Carrying value at 
+amortised cost
+$ ‘000 
+ Fair value
+$ ‘000 
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+ Note  Carrying value at 
+amortised cost
+$ ‘000 
+ Fair value
+$ ‘000 
+30-Jun-26
+Trade and other payables
+Borrowings
+Lease liabilities 
+Financial risk management objectives 
+The Group’s activities expose it to a variety of financial risks: market risk (including foreign currency risk, price risk and interest rate risk), credit risk and liquidity risk. The 
+Group’s overall risk management program focuses on the unpredictability of financial markets and seeks to minimise potential adverse effects on the financial performance of 
+the Group.
+Risk management is carried out by senior finance executives (Finance) under policies approved by the Board of Directors (the Board). These policies include identification and 
+analysis of the risk exposure of the Group and appropriate procedures, controls and risk limits. Finance identifies, evaluates and hedges financial risks within the Group’s 
+operating units. Finance reports to the Board on a monthly basis.
+Market risk
+The Group’s plans for any revenue are to be derived mainly from the sale of coal and/or coal products. Consequently, the Group’s financial position, operating results and 
+future growth will closely depend on the market price of each of these commodities. Market prices of coal products are subject to large fluctuations in response to changes in 
+demand and/or supply and various other factors. 
+These changes can be the result of uncertainty or several industry and macroeconomic factors beyond the control of the Group, including political instability, governmental 
+regulation, forward selling by producers, climate, inflation, interest rates and currency exchange rates. If market prices of the commodities sold by the Group were to fall below 
+production costs for these products and remain at that level for a sustained period of time, the Group would be likely to experience losses, having a material adverse effect on 
+the Group. The Group does not currently hedge against coal price and foreign exchange.
+30-Jun-25  Note  Carrying value at 
+amortised cost
+$ ‘000 
+ Fair value
+$ ‘000 
+For personal use onlyTERRACOM LIMITED
+                        37 
+Notes to the Consolidated Financial Statements
+33 Financial Instruments (Continued)
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Trade and other receivables 16,158                      20,309                 
+Cash and cash equivalents 8,381                        13,382                 
+Restricted cash 54,441                      58,221                 
+Other financial asset 3,537                        3,019                   
+Other non-current asset (deposit) 8,978                        12,171                 
+91,495                   107,102             
+30-Jun-26
+Non-interest bearing 
+Non-interest bearing trade payables 0% 35,898                              -                                 -   35,898
+Interest bearing – variable 
+Lease liabilities 4.50% 2,329 7,608                               -   9,937
+38,227 7,608                              -   45,835
+Credit risk
+Credit risk refers to the risk that a counterparty will default on its contractual obligations resulting in financial loss to the Group. The Group has a strict code of credit, including 
+obtaining agency credit information, confirming references and setting appropriate credit limits. The Group obtains guarantees where appropriate to mitigate credit risk. The 
+maximum exposure to credit risk at the reporting date to recognised financial assets is the carrying amount, net of any provisions for impairment of those assets, as disclosed 
+in the consolidated statement of financial position and notes to the consolidated financial statements. The Group does not hold any collateral.
+The Group has adopted a lifetime expected loss allowance in estimating expected credit losses to trade receivables through the use of a provisions matrix using fixed rates of 
+credit loss provisioning. These provisions are considered representative across all customers of the Group based on recent sales experience, historical collection rates and 
+forward-looking information that is available.
+Generally, trade receivables are written off when there is no reasonable expectation of recovery. Indicators of this include the failure of a debtor to engage in a repayment plan, 
+no active enforcement activity and a failure to make contractual payments for a period greater than 1 year.  In addition, receivable balances are monitored on an ongoing 
+basis. 
+The Group does not hold any credit derivatives to offset its credit exposure.  The Group trades only with recognised, creditworthy third parties, and as such collateral is not 
+requested. It is the Group’s policy that all customers who wish to trade on credit terms are subject to credit verification procedures including an assessment of their 
+independent credit rating, financial position, past experience and industry reputation. Risk limits are set for each individual customer in accordance with parameters set by the 
+board. These risk limits are regularly monitored.
+Credit risk is managed on a group basis.  For banks and financial institutions, only independently rated parties with a minimum rating of ‘A’ are accepted.
+The Group’s maximum exposure is equal to the carrying amount of the financial assets, as outlined below:
+FOR THE YEAR ENDED 30 JUNE 2026
+Liquidity risk
+Vigilant liquidity risk management requires the Group to maintain sufficient liquid assets (mainly cash and cash equivalents) and available borrowing facilities to be able to 
+pay debts as and when they become due and payable.
+The Group manages liquidity risk by maintaining adequate cash reserves and available borrowing facilities by continuously monitoring actual and forecast cash flows and 
+matching the maturity profiles of financial assets and liabilities.
+Remaining contractual maturities
+The following tables detail the Group’s remaining contractual maturity for its financial instrument liabilities. The tables have been drawn up based on the undiscounted cash 
+flows of financial liabilities based on the earliest date on which the financial liabilities are required to be paid. The tables include principal cash flows disclosed as remaining 
+contractual maturities and therefore these totals may differ from their carrying amount in the statement of financial position.
+The maturity profile of contractual cash flows of non-derivative financial liabilities are presented in the following table. The cash flows are undiscounted 
+contractual amounts.
+Interest 
+Rates
+ Less than
+ 1 year
+ $'000 
+ 1 to 5 years 
+$ ‘000 
+ Over 5 years
+ $'000 
+ Remaining 
+contractual 
+maturities
+$ ‘000 
+PRELIMINARY FINANCIAL REPORT
+For personal use onlyTERRACOM LIMITED
+38                        
+Notes to the Consolidated Financial Statements
+33 Financial Instruments (Continued)
+30-Jun-25
+Non-interest bearing 
+Non-interest bearing trade payables 0% 49,879 - - 49,879
+Interest bearing – variable 
+Borrowings (excluding lease liabilities) 11.19%                           768                              -                                 -   768
+Lease liabilities 4.50% 2,764 9,973 - 12,737
+53,411 9,973 - 63,384
+Foreign currency sensitivity analysis 30-Jun-26 30-Jun-26 30-Jun-25 30-Jun-25
+Increase or decrease in rate
+Impact on profit or loss before tax:
+Cash and cash equivalents                             25                          (25)                             85                        (87)
+Trade debtors                           125                        (128)                           108                     (110)
+Accounts payable                             81                          (82)   -      -    
+                          231                        (235)                          193                     (197)
+Impact on equity:
+Cash and cash equivalents                             25                          (25)                             85                        (87)
+Trade debtors                           125                        (128)                           108                     (110)
+Accounts payable                             81                          (82)   -      -    
+                          231                        (235)                           193                     (197)
+Increase or decrease in rate
+Consolidated
+Standard Bank of South Africa 11.36% 11.19%                               -   747
+Net exposure to cash flow interest rate risk                              -   747
+Interest 
+Rates
+ Less than
+ 1 year
+ $'000 
+ 1 to 5 years 
+$ ‘000 
+ Over 5 years
+ $'000 
+ Remaining 
+contractual 
+maturities
+$ ‘000 
+The table above reflects current contractual obligations however, the Group may settle these borrowings under a different repayment profile to that as disclosed in the above 
+table.
+Foreign currency risk
+The Group undertakes certain transactions denominated in foreign currency and is exposed to foreign currency risk through foreign exchange rate fluctuations. Foreign 
+exchange risk arises from future commercial transactions and recognised financial assets and financial liabilities denominated in a currency that is not the entity’s functional 
+currency. The risk is measured using sensitivity analysis and cashflow forecasting.
+The functional currency of the parent entity, its Australian exploration subsidiaries and United Kingdom subsidiaries is Australian dollars (AUD), the South African subsidiaries 
+and associates functional currency is South African Rand (ZAR). As a result, currency exposure exists arising from the transaction and balances in currencies other than AUD 
+and ZAR (Australian Dollars and South African Rand).  The Group closely monitors its foreign exchange risk in Australia and South Africa to ensure it is at an acceptable level 
+of risk.
+Exposure to foreign exchange risk may result in the fair value or future cash flows of a financial instrument fluctuating due to movement in the foreign exchange rates of 
+currencies in which the Group holds financial instruments.
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+AUD 
+strengthened 1% 
+$'000
+AUD 
+weakened 1%
+$'000
+Interest rate risk
+The Group’s main interest rate risk arises from long-term borrowings. Borrowings obtained at variable rates expose the Group to interest rate risk. Borrowings obtained at fixed 
+rates expose the Group to fair value interest rate risk.
+Interest rate profile
+As at the reporting date, the Group had the following variable rate borrowings outstanding:
+AUD 
+weakened 1% 
+$'000
+2026
+%
+2025
+%
+30 Jun 2026
+$'000
+30 Jun 2025
+$'000
+An analysis by remaining contractual maturities is shown in ‘liquidity and interest rate risk management’ above.
+Price risk
+Commodity price risk refers to the possibility that the fair value or future cash flows of a financial instrument may fluctuate due to changes in market prices, largely driven by 
+supply and demand factors.The Group continues to monitor its exposure to this risk. As at the reporting date, the Group has chosen not to implement strategies to mitigate 
+potential downside price movements. Once commodity prices stabilise and market uncertainty eases, the Group may consider adopting risk management strategies.
+Average interest rate Carrying amount
+AUD 
+strengthened 1% 
+$'000
+For personal use onlyTERRACOM LIMITED
+                        39 
+Notes to the Consolidated Financial Statements
+34 Capital and leasing commitments
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Committed at the reporting date but not recognised as liabilities, payable:
+Within one year                           976 1,532
+One to five years                        4,392 3,551
+                       5,368 5,083
+35 Contingent liabilities
+36 Related parties
+ Relationships 
+Associates and Joint Ventures
+Related party balances 30-Jun-26 30-Jun-25
+ $  $ 
+Receivables 
+North Block Complex (Pty) Ltd loan payable to UCEHSA                               -                  174,039 
+Universal Coal Development IV (Pty) Ltd loan payable to UCEHSA                               -                  572,827 
+Universal Coal Development VII (Pty) Ltd loan payable to UCEHSA                               -                             -   
+Payables
+Lewis Mining Consulting – Glen Lewis (director fees)                               -                    14,667 
+Services from Insignia Mining Pty Ltd - Glenn Splatt                        3,718                           -   
+Related party transactions
+Minority shareholder related parties in South Africa
+Interest earned from North Block Complex (Pty) Ltd                        4,943                  71,940 
+Interest earned from Universal Coal Development IV (Pty) Ltd                      16,269                236,781 
+Directors with TerraCom or controlled subsidiaries of the Group
+Services from Lewis Mining Consulting (director fees) - Glen Lewis                    122,310                167,500 
+Services from Insignia Mining Pty Ltd - Glenn Splatt                        3,718                           -   
+Lewis Mining Consulting (Lewis Mining)
+Terms and conditions 
+37 Events after reporting period 
+In July 2026, the Group fully settled outstanding customer prepayments totalling AUD 16.378 million (USD 11.25 million).
+Parent entity TerraCom Limited is the parent entity
+Subsidiaries Interests in subsidiaries are set out in Note 39 
+All transactions were made on normal commercial terms and conditions and at market rates.
+The Group has no contingent liabilities as at 30 June 2026.
+Loan Receivable
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+Interests in associates and joint ventures include Universal Coal Development VI (Pty) Ltd, Universal Coal 
+Development VII (Pty) Ltd and Universal Coal Logistics (Pty) Ltd
+In the interval between the end of the financial year and the date of this report there has not arisen any item, transaction or event of a material and unusual nature likely, in the 
+opinion of the Directors of the Company, to significantly affect the operations of the Group, the results of those operations, or the state of affairs of the Group, in future 
+financial years, other than the following:
+The loan receivable amounts owing from NBC and NCC consist of an amount relating to the Standard Bank borrowings in the name of UCEHSA, which has been on-lent to the 
+associates. The facility is secured against the assets of the associates. These on‑lent amounts were fully settled during the current year (refer to Note 11). 
+Loan receivable from Universal Coal Development VII (Pty) Ltd as at 30 June 2026 is $2,077,734, this has been fully impaired in books. 
+The payments made by the Company to Lewis Mining are for the services of Mr. Glen Lewis acting as Non-Executive Director (appointed 23 December 2019 and resigned 12 
+March 2026) and for additional advisory services. The amount payable to Lewis Mining on 30 June 2026 is NIL (30 June 2025: $14,667).
+For personal use onlyTERRACOM LIMITED
+                        40 
+Notes to the Consolidated Financial Statements
+38 Interest in subsidiaries
+Australia 100.00% 100.00%
+Australia 100.00% 100.00%
+Australia 100.00% 100.00%
+Australia 100.00% 100.00%
+Australia 64.40% 64.40%
+Australia 100.00% 100.00%
+Australia 100.00% 100.00%
+Australia 90.07% 90.07%
+Australia 90.07% 90.07%
+Singapore 100.00% 100.00%
+United Kingdom 100.00% 100.00%
+South Africa 100.00% 100.00%
+South Africa 70.50% 70.50%
+South Africa 74.00% 74.00%
+United Arab 
+Emirates
+100.00% 100.00%
+Clyde Park Coal Pty Ltd Australia Exploration 64.40% 64.40% 35.60% 35.60%
+Springsure Mining Pty Ltd Australia Exploration 90.07% 90.07% 9.93% 9.93%
+Springsure Centre of Excellence Pty Ltd Australia Holding 
+Company
+90.07% 90.07% 9.93% 9.93%
+Universal Coal Development I (Pty) Ltd South Africa Care & 
+Maintenance
+70.50% 70.50% 29.50% 29.50%
+Twin Cities Trading 374 (Pty) Ltd(1) South Africa Holding 
+Company
+- 74.00% - 26.00%
+Episolve (Pty) Ltd(1) South Africa Holding 
+Company
+- 74.00% - 26.00%
+Epsimax (Pty) Ltd South Africa Company 
+Holding
+74.00% 74.00% 26.00% 26.00%
+Bold Moves 1765 (Pty) Ltd(1) South Africa Holding 
+Company
+- 74.00% - 26.00%
+Universal Coal Logistics (Pty) Ltd(1) South Africa Holding 
+Company
+- 49.00% - 51.00%
+ Principal place 
+of business/
+Country of 
+incorporation 
+Parent
+PRELIMINARY FINANCIAL REPORT
+Clermont Logistics Pty Ltd (1) 
+Sierra Coal Pty Ltd
+The consolidated financial statements incorporate the assets, liabilities and results of a number of subsidiaries. 
+The Group’s remaining interest in subsidiaries remains unchanged from the consolidated annual financial report for the year ended 30 June with the exception of some 
+dormant entities deregistered during the year. 
+As noted elsewhere in this report, there has been no economic or equity interest change for the equity holders of the Company. 
+ % 
+holding 2026 
+ % 
+holding 2025 
+FOR THE YEAR ENDED 30 JUNE 2026
+ Name  Principal place of 
+business / 
+Country of 
+ Ownership 
+interest
+2025
+% 
+(1) These subsidiaries entered into a Class Instrument 2016/785 dated 27 June 2023 and related deed of cross guarantee with TerraCom Limited
+(2)Twin Cities Trading 374 (Pty) Ltd and Episolve (Pty) Ltd were deregistered effective 30 June 2025. Bold Moves 1765 (Pty) Ltd and Universal Coal Development VI (Pty) Ltd were 
+deregistered effective 04 February 2025, Universal Coal Power Generation (Pty) Ltd was deregistered effective 08 February 2025, and Universal Coal Logistics (Pty) Ltd was 
+deregistered effective 10 February 2025. These entities were dormant and had no material impact to the group on deregistration.
+(3) TerraCom Resources DMCC was deregistered on 18 July 2026, subsequent to year end, with no material impact on the Group.
+Clyde Park Coal Pty Ltd 
+Guildford Infrastructure Pty Ltd
+Terra Mining Services Pty Ltd (1)
+Springsure Mining Pty Ltd 
+Springsure Centre of Excellence Pty Ltd 
+TCIG Resources Pte Limited
+FTB (QLD) Pty Ltd
+Orion Mining Pty Ltd (1)
+Non-controlling interest
+(1) Twin Cities Trading 374 (Pty) Ltd and Episolve (Pty) Ltd were deregistered effective 30 June 2025. Bold Moves 1765 (Pty) Ltd and Universal Coal Development VI (Pty) Ltd were 
+deregistered effective 04 February 2025, Universal Coal Power Generation (Pty) Ltd was deregistered effective 08 February 2025, and Universal Coal Logistics (Pty) Ltd was 
+deregistered effective 10 February 2025.
+Universal Coal Limited
+Universal Coal and Energy Holdings South Africa (Pty) Ltd
+Universal Coal Development I (Pty) Ltd
+Epsimax (Pty) Ltd
+Set out below is summarised financial information for each subsidiary that has non-controlling interests that are material to the Group. The amounts disclosed for each 
+subsidiary are before inter-company eliminations.
+ Principal 
+activities 
+TerraCom Resources DMCC (3)
+ Ownership 
+interest
+2026
+% 
+ Ownership 
+interest
+2026
+% 
+ Ownership 
+interest
+2025
+% 
+For personal use onlyTERRACOM LIMITED
+                        41 
+Notes to the Consolidated Financial Statements
+38 Interest in subsidiaries (Continued)
+Summarised statement of financial position
+Current assets                       197 
+Non-current assets                    3,939 
+Current liabilities                  (4,864)
+Non-current liabilities                (17,375)
+Summarised statement of profit or loss and other comprehensive income
+Revenue   -    
+Profit / (Loss)                     (431)
+Summarised statement of financial position
+Current assets                       232 
+Non-current assets                    3,236 
+Current liabilities                  (5,960)
+Non-current liabilities                (14,605)
+Summarised statement of profit or loss and other comprehensive income
+Revenue   -    
+Profit / (Loss)                  (2,336)
+39 Investment in associates and joint ventures 
+ Consolidated 30-Jun-26 30-Jun-25
+Non-current assets  $ ‘000  $ ‘000 
+Investment in associates and joint ventures 80,556                      77,723                 
+30-Jun-26 30-Jun-25
+ $ ‘000  $ ‘000 
+Carrying amount at beginning of financial year 77,723                      85,011                 
+Share of profit/(loss) 141                                            (3,412)
+Effect of foreign exchange 2,692                        2,931                   
+Impairment -                                             (6,807)
+Closing carrying amount 80,556                                     77,723 
+Summarised statement of financial position as at 30 June 2026 for South African operations (1)
+UCD VII NBC Berenice Cygnus Eloff & NCC Ubuntu (2) UCD8 Total
+ $'000  $'000  $'000  $'000  $'000  $'000  $'000  $'001 
+Current assets
+Cash and cash equivalents -                4,012              -                      -                   1,377                       -                           6                              5,395                   
+Other current assets 1,104            27,672            20                       -                  15,746                     15,232                   31                             59,805                 
+Total current assets 1,104           31,684          20                      -                 17,123                   15,232                  37                            65,200               
+Non-current assets -               76,893          4,665               880                103,632                 9,378                    106                         195,554             
+Current liabilities
+Financial liabilities 
+(excluding trade 
+payables)
+-                -                   -                      -                   -                            -                          -                           -                       
+Other current liabilities 6                    19,493            21                       7                     18,769                     15,922                   31                             54,249                 
+Total current liabilities 6                   19,493          21                      7                     18,769                   15,922                  31                            54,249               
+Non-current liabilities
+Other non-current liabilities 2,078           30,830            -                      -                   62,227                     48,372                   -                            143,507              
+Total non-current liabilities 2,078          30,830          -                    -                  62,227                   48,372                  -                           143,507             
+Net assets (980)              58,254          4,664               873                39,759                   (39,684)                 112                          62,998               
+Group interest % 50% 49% 50% 50% 49% 49% 49% 49%
+Group interest $ -                     28,545           2,332                437                19,482                    -                               55                            50,851                
+Goodwill -                     2,430             2,742                609                30,958                    -                               -                               36,739                
+Impairment (Refer note 7) -                   -                      -                        -                      (7,034)                     -                             -                               (7,034)                 
+Carrying amount -                    30,975           5,074                1,046             43,406                    -                              55                            80,556                
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+ 30 June 
+2026 
+ 30 June 
+2026 
+The tables below provide summarised financial information for those associates and joint ventures that are material to the Group. The information disclosed reflects the 
+amounts presented in the financial statements of the relevant associates and joint ventures and not the Group’s share of those amounts. They have been amended to reflect 
+adjustments made by the Group when using the equity method, including fair value adjustments and modifications for differences in accounting policy.
+ 30 June 
+2026 
+ Universal Coal Development I 
+(Pty) Ltd 
+$'000 
+30 June 2026
+30 June 2025
+Reconciliation of the carrying amounts at the beginning and end of the current 
+and previous financial year are set out below:
+ 30 June 
+2026 
+ 30 June 
+2026 
+ 30 June 
+2026 
+ 30 June 
+2026 
+ 30 June 
+2026 
+For personal use onlyTERRACOM LIMITED
+42                        
+Notes to the Consolidated Financial Statements
+39 Investment in associates and joint ventures (Continued)
+UCD VII NBC Berenice Cygnus Eloff & NCC Ubuntu (2) UCD8 Total
+ $'000  $'000  $'000  $'000  $'000  $'000  $'000  $'000 
+Revenue -                     186,226         -                          -                      152,729                  77                           -                               339,032              
+Cost of goods sold -                     (171,030)       -                          -                      (140,064)                (25)                          -                               (311,119)            
+-                    (9,715)            -                          -                      (11,708)                   (222)                       -                                (21,645)               
+-                   5,481             -                         -                      957                         (170)                       -                                6,268                  
+-                    (93)                 -                          -                      (51)                          (19)                         -                               (163)                    
+Net finance expenses -                     (1,321)            -                          -                      (3,839)                     (2,079)                    -                                (7,239)                 
+-                   4,067             -                         -                      (2,933)                     (2,268)                   -                                (1,134)                 
+Income tax expense -                     (1,078)            -                          -                      231                         (19)                         -                               (866)                    
+-                   2,989             -                         -                      (2,702)                     (2,287)                   -                                (2,000)                 
+-                    2,989             -                          -                      (2,702)                     (2,287)                    -                                (2,000)                 
+-                   2,989             -                         -                      (2,702)                     (2,287)                   -                                (2,000)                 
+Group interest % 50% 49% 50% 50% 49% 49% 49%
+Group interest $ -                 1,464             -                          -                      (1,323)                     -                               -                               141                     
+-                - - - - - - -
+Summarised statement of financial position as at 30 June 2025 for South African operations (1)
+NBC Berenice Cygnus Eloff & NCC Ubuntu (2) UCD8 Total
+ $'000  $'000  $'000  $'000  $'000  $'000  $'001 
+Current assets
+Cash and cash equivalents 23,940             -    -   7,129                       83                           6                              31,158                
+Other current assets 28,922            20                       - 14,912                     14,753                   30                             58,637                
+Total current assets 52,862            20                       -   22,041                     14,836                   36                             89,795                
+Non-current assets 76,638            4,515                852                101,756                  9,035                     103                         192,899              
+Current liabilities
+174                 -    -   573                           -    -   747                       
+Other current liabilities 46,236            150                    83                   26,546                    15,679                   30                             88,724                
+Total current liabilities 46,410            150                    83                   27,119                    15,679                   30                             89,471                
+Non-current liabilities
+Other non-current liabilities 29,646             -    -   55,547                     44,354                    -   129,547               
+Total non-current liabilities 29,646             -    -   55,547                     44,354                    -   129,547               
+Net assets 53,444            4,385                769                41,131                    (36,162)                 109                          63,676                
+Group interest % 49% 50% 50% 49% 49% 49% 49%
+Group interest $ 26,188            2,193                384                20,155                     -   53                             48,973                
+Goodwill 2,352              2,653                590                29,962                     -  - 35,557                 
+Impairment (Refer note 7) - - - (6,807)                     - - (6,807)                 
+Carrying amount 28,540            4,846                974                43,310                     -   53                             77,723                
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+(1) Income statement amounts are converted from ZAR to AUD using the average rate prevailing for the relevant period.
+(2) Losses recorded for Ubuntu are nil as the losses exceed the Company’s interest and therefore there is no legal or constructive obligations to make payments on the associates’ 
+behalf.
+(3)  During FY2026, management reassessed the accounting classification of UCD VII and determined that the entity was jointly controlled under the contractual arrangements that 
+were already in place in the prior reporting period. The FY2025 comparative information has therefore been corrected to account for UCD VII as a joint venture rather than a 
+subsidiary. The impact of the correction is immaterial to the Group.
+Profit before income tax expense
+Depreciation and amortisation 
+expense
+Net profit before income tax 
+Profit after income tax expense
+Statutory and underlying result for 
+the year
+Statutory total comprehensive 
+Dividends received from 
+associates & joint ventures
+ 30 June 
+2025 
+ 30 June 
+2025 
+ 30 June 
+2025 
+ 30 June 
+2025 
+ 30 June 
+2025 
+ 30 June 
+2025 
+ 30 June 
+2025 
+(1) Statement of ﬁnancial position amounts are converted from ZAR to AUD using the spot rate as at the reporting date.
+(2) Losses recorded for Ubuntu are nil as the losses exceed the Company’s interest and there is no legal or constructive obligation to make payments on the associates and joint 
+ventures behalf.
+ 30 June 
+2026 
+ 30 June 
+2026 
+ 30 June 
+2026 
+ 30 June 
+2026 
+ 30 June 
+2026 
+ 30 June 
+2026 
+ 30 June 
+2026 
+Other operating and administrative 
+expense
+ 30 June 
+2026 
+Summarised statement of profit or loss and other comprehensive income for the year ended 30 June 2026 for South African operations (1)
+Financial liabilities (excluding trade 
+payables)
+For personal use onlyTERRACOM LIMITED
+43                        
+Notes to the Consolidated Financial Statements
+39 Investment in associates and joint ventures (Continued)
+NBC Berenice Cygnus Eloff & NCC Ubuntu (2) UCD8 Total
+ $'000  $'000  $'000  $'000  $'000  $'000  $'000 
+Revenue 224,925           -    -   132,914                   74                            -   357,913               
+Cost of goods sold (200,363)         -    -   (134,754)                 (81)                           -   (335,198)             
+Other operating and 
+administrative 
+expense
+(10,519)          (9)                       (6)                    (14,881)                   441                         (2)                             (24,976)               
+Profit before income 
+tax expense
+14,043           (9)                       (6)                    (16,721)                  434                         (2)                             (2,261)                 
+Depreciation and 
+amortisation expense
+(155)                -    -   (15)                           (23)                          -   (193)                     
+Net finance expenses (2,829)              -    -   (3,957)                      (2,097)                     -   (8,883)                  
+Net profit before 
+income tax expense
+11,059           (9)                       (6)                    (20,693)                  (1,686)                   (2)                              (11,337)              
+Income tax expense (2,901)              -    -   5,588                       (10)                          -   2,677                   
+Profit after income 
+tax expense
+8,158             (9)                       (6)                    (15,105)                  (1,696)                   (2)                              (8,660)                 
+Statutory and 
+underlying result for 
+the year
+8,158             (9)                       (6)                    (15,105)                   (1,696)                    (2)                              (8,660)                 
+Statutory total 
+comprehensive 
+income
+8,158             (9)                       (6)                    (15,105)                  (1,696)                   (2)                              (8,660)                 
+ -    -    -    -    -    -    -   
+Group interest % 49% 50% 50% 49% 49% 49%
+Group interest $ 3,998              (5)                       (3)                    (7,401)                      -   (1)                              (3,412)                 
+Dividends received 
+from associates & 
+joint ventures
+- - - - - - -
+As at the date of this preliminary report, the impairment assessment of investments in associates and joint ventures has not been finalised and no final impairment 
+adjustment has been recognised for the year ended 30 June 2026 (30 June 2025: $6.807 million). Any resulting adjustment will be reflected in the audited Financial Report.
+PRELIMINARY FINANCIAL REPORT
+FOR THE YEAR ENDED 30 JUNE 2026
+ 30 June 
+2025 
+ 30 June 
+2025 
+ 30 June 
+2025 
+ 30 June 
+2025 
+ 30 June 
+2025 
+ 30 June 
+2025 
+ 30 June 
+2025 
+(1) Statement of ﬁnancial position amounts are converted from ZAR to AUD using the spot rate as at the reporting date.
+(2) Losses recorded for Ubuntu are nil as the losses exceed the Company’s interest and there is no legal or constructive obligation to make payments on the associates and joint 
+ventures behalf.
+For personal use only

@@ -1,14 +1,28 @@
-"""Daily collector. Reads every ticker's announcement index, records what it
-saw, and stores the text of anything results-shaped.
+"""Daily collector.
 
-THE POINT OF RUNNING DAILY: the free index returns the last five announcements
-per ticker and will not paginate, so a document that falls out of the window is
-gone with no way to fetch it again. Of 20 tickers probed on 09/09/2026, eight
-had already lost their August FY26 results. A missed week in reporting season
-is a permanent hole in the corpus.
+INGESTION IS THE MARKET-WIDE FEED. `/markets/announcements` returns
+announcements for every listed company and pages back to a hard cap of 100
+pages of 100 items: measured 9,900 announcements over 20 calendar days, about
+550 a day across 1,845 tickers. The per-ticker index keeps five items and will
+not page at all, under any parameter tried.
 
-The PDF is transport, not corpus. Text is extracted here and committed; the PDF
-is discarded, because 200 names of 3MB decks a year does not belong in git.
+Migrated 09/09/2026 after checking coverage rather than assuming it. Against
+the per-ticker index for all 67 universe tickers, the feed carried 227
+announcements the five-item index could not see, and missed 23. Every one of
+the 23 was a substantial-holding notice or an index rebalance: the S&P DJI
+rebalance is filed under MIN rather than under each affected company, and
+shareholding notices are filed under the HOLDER's symbol (NXL, AFG) rather than
+the company held. Two were absent entirely. **Not one was a results, outlook,
+guidance or trading document**, which is the only class this project reads.
+
+So the per-ticker loop survives as a LIVENESS PROBE, not as ingestion. It costs
+67 index calls and about a minute - the ninety minutes in the old version was
+document downloads, not indexing - and it is the only thing that can tell a
+delisted code (400 Symbol not found) from a company with nothing to say. The
+sweep cannot: absence from a market feed is the normal state.
+
+The PDF is transport. Text is extracted here and committed; the PDF is
+discarded.
 """
 
 from __future__ import annotations
@@ -25,6 +39,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import common
 from pypdf import PdfReader
+
+FEED = "/markets/announcements"
+
+
+def feed_url(cfg: dict, page: int) -> str:
+    # itemsPerPage works; pageSize is silently ignored and returns 25.
+    return (f"{cfg['index_host']}{FEED}?itemsPerPage={cfg['feed_items_per_page']}"
+            f"&page={page}&access_token={cfg['access_token']}")
 
 
 def index_url(cfg: dict, ticker: str) -> str:
@@ -59,38 +81,89 @@ def forward_markers(text: str, cfg: dict) -> int:
     return sum(low.count(m) for m in cfg["substance"]["forward_markers"])
 
 
-def record(con, table: str, row: dict) -> None:
-    """Write one record to the committed ledger AND the derived database.
-
-    Ledger first, and fsynced, because it is the artifact that survives. The
-    database is an index over it and is rebuilt by `common.rebuild_db()`.
-    """
-    common.append(table, row)
+def record(con, table: str, row: dict, when: str | None = None) -> None:
+    """Write one record to the committed ledger AND the derived database."""
+    common.append(table, row, when=when)
     cols = common.COLUMNS[table]
     con.execute(f"INSERT OR REPLACE INTO {table} "
                 f"VALUES({','.join('?' * len(cols))})",
                 [row.get(c) for c in cols])
 
 
+def sweep_market(cfg, con, run_id) -> tuple[list[dict], int, int]:
+    """Page the market-wide feed. Returns (items, pages_ok, pages_attempted).
+
+    Every page outcome is recorded. A partial sweep is the new failure mode:
+    the old one was a ticker whose index would not answer, this one is a sweep
+    that stopped early and looks exactly like a quiet day.
+    """
+    items, seen = [], set()
+    pages_ok = pages = 0
+    for page in range(1, cfg["feed_max_pages"] + 1):
+        pages += 1
+        try:
+            got = json.loads(common.fetch(feed_url(cfg, page), cfg))["data"]["items"]
+        except Exception as e:                                   # noqa: BLE001
+            record(con, "fetches", {"run_id": run_id, "ticker": f"page:{page}",
+                                    "ok": 0, "items": None, "error": str(e)[:800],
+                                    "fetched_at": common.now_iso()})
+            print(f"  page {page}: FAIL {str(e)[:90]}", flush=True)
+            continue
+        pages_ok += 1
+        record(con, "fetches", {"run_id": run_id, "ticker": f"page:{page}",
+                               "ok": 1, "items": len(got), "error": None,
+                               "fetched_at": common.now_iso()})
+        if not got:
+            break                       # past the end of the feed, not an error
+        for i in got:
+            if i["documentKey"] not in seen:
+                seen.add(i["documentKey"])
+                items.append(i)
+        time.sleep(cfg["http"]["pause_seconds"])
+    return items, pages_ok, pages
+
+
+def probe_universe(cfg, con, run_id, universe) -> int:
+    """Liveness only: no downloads. The one thing the sweep cannot do is tell a
+    delisted code from a company that simply has not announced anything."""
+    ok = 0
+    for entry in universe:
+        code = entry["code"]
+        try:
+            got = json.loads(common.fetch(index_url(cfg, code), cfg))["data"]["items"]
+        except Exception as e:                                   # noqa: BLE001
+            record(con, "fetches", {"run_id": run_id, "ticker": code, "ok": 0,
+                                    "items": None, "error": str(e)[:800],
+                                    "fetched_at": common.now_iso()})
+            continue
+        ok += 1
+        record(con, "fetches", {"run_id": run_id, "ticker": code, "ok": 1,
+                               "items": len(got), "error": None,
+                               "fetched_at": common.now_iso()})
+        time.sleep(cfg["http"]["pause_seconds"] / 2)
+    return ok
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
-    ap.add_argument("--only", help="comma-separated tickers, for testing")
+    ap.add_argument("--pages", type=int, help="limit the sweep, for testing")
+    ap.add_argument("--no-probe", action="store_true",
+                    help="skip the per-ticker liveness probe")
     ap.add_argument("--dry-run", action="store_true",
-                    help="read indexes and record them, download no documents")
+                    help="sweep and record, download no documents")
     args = ap.parse_args()
 
     cfg = common.load_config()
     universe = common.load_universe()
-    if args.only:
-        keep = {t.strip().upper() for t in args.only.split(",")}
-        universe = [t for t in universe if t["code"] in keep]
+    codes = {t["code"] for t in universe}
+    if args.pages:
+        # --pages is a test flag. Scale the completeness guard with it, or every
+        # deliberate short run exits 1 and the exit code stops meaning anything.
+        cfg["feed_max_pages"] = args.pages
+        cfg["feed_min_pages_ok"] = args.pages
 
-    # REBUILD FROM THE LEDGER, do not just open an empty database.
-    #
-    # corpus.db is gitignored, so a CI checkout has no database at all. The first
-    # CI run therefore saw every one of the 227 announcements as new and appended
-    # them all a second time. The ledger is the truth; the database is an index
-    # over it and has to be reconstructed before anything is deduped against it.
+    # Rebuild from the ledger. corpus.db is gitignored, so a CI checkout has
+    # none, and opening an empty one made every announcement look new.
     con = common.rebuild_db()
     run_id = uuid.uuid4().hex[:12]
     started_at = common.now_iso()
@@ -101,173 +174,144 @@ def main() -> int:
     tmp = common.ROOT / "data" / "_tmp"
     tmp.mkdir(parents=True, exist_ok=True)
 
-    ok_tickers = new_ann = new_doc = 0
+    probe_ok = 0
+    if not args.no_probe:
+        probe_ok = probe_universe(cfg, con, run_id, universe)
+        con.commit()
+        print(f"liveness probe: {probe_ok}/{len(universe)} universe indexes answered",
+              flush=True)
+
+    items, pages_ok, pages = sweep_market(cfg, con, run_id)
+    con.commit()
+    dates = sorted({i["date"][:10] for i in items}) or ["?", "?"]
+    print(f"sweep: {len(items):,} announcements over {dates[0]}..{dates[-1]} "
+          f"from {pages_ok}/{pages} pages", flush=True)
+
+    new_ann = new_doc = 0
     parse_failures: list[str] = []
 
-    for entry in universe:
-        code = entry["code"]
-        try:
-            items = json.loads(common.fetch(index_url(cfg, code), cfg))["data"]["items"]
-        except Exception as e:                                  # noqa: BLE001
-            # Recorded, not swallowed. A ticker whose index fails every day is
-            # otherwise indistinguishable from a ticker with nothing to announce,
-            # and the window will have moved on before anyone notices.
-            record(con, "fetches", {"run_id": run_id, "ticker": code, "ok": 0,
-                                    "items": None, "error": str(e)[:800],
-                                    "fetched_at": common.now_iso()})
-            con.commit()
-            print(f"{code}: INDEX FAIL {str(e)[:120]}", flush=True)
+    for it in items:
+        key, code = it["documentKey"], it["symbol"]
+        in_universe = code in codes
+
+        # Record metadata for universe tickers (all types) and for anything the
+        # ASX flagged price-sensitive market-wide. Everything else - director
+        # interests, quotation applications, substantial holdings for 1,800
+        # companies we do not follow - is 74% of the feed and will never be read.
+        if not (in_universe or it.get("isPriceSensitive")):
             continue
 
-        ok_tickers += 1
-        record(con, "fetches", {"run_id": run_id, "ticker": code, "ok": 1,
-                                "items": len(items), "error": None,
-                                "fetched_at": common.now_iso()})
+        if not con.execute("SELECT 1 FROM announcements WHERE document_key=?",
+                           (key,)).fetchone():
+            record(con, "announcements", {
+                "document_key": key, "ticker": code,
+                "announced_at": it["date"], "headline": it["headline"],
+                "announcement_type": (it.get("announcementTypes") or [None])[0]
+                                     if isinstance(it.get("announcementTypes"), list)
+                                     else it.get("announcementTypes"),
+                "price_sensitive": int(bool(it.get("isPriceSensitive"))),
+                "file_size": it.get("fileSize"),
+                "first_seen": common.now_iso()}, when=it["date"])
+            new_ann += 1
 
-        for it in items:
-            key = it["documentKey"]
+        if not in_universe or args.dry_run:
+            continue
+        if con.execute("SELECT 1 FROM documents WHERE document_key=? "
+                       "UNION SELECT 1 FROM rejections WHERE document_key=?",
+                       (key, key)).fetchone():
+            continue
 
-            if not con.execute("SELECT 1 FROM announcements WHERE document_key=?",
-                               (key,)).fetchone():
-                record(con, "announcements", {
-                    "document_key": key, "ticker": code,
-                    "announced_at": it["date"], "headline": it["headline"],
-                    "announcement_type": it.get("announcementType"),
-                    "price_sensitive": int(bool(it.get("isPriceSensitive"))),
-                    "file_size": it.get("fileSize"),
-                    "first_seen": common.now_iso()})
-                new_ann += 1
+        keep, why = wanted(it["headline"], cfg)
+        if not keep:
+            record(con, "rejections", {"document_key": key, "ticker": code,
+                                       "headline": it["headline"], "reason": why,
+                                       "detail": None,
+                                       "rejected_at": common.now_iso()})
+            continue
 
-            settled = con.execute(
-                "SELECT 1 FROM documents WHERE document_key=? "
-                "UNION SELECT 1 FROM rejections WHERE document_key=?",
-                (key, key)).fetchone()
-            if settled or args.dry_run:
-                continue
+        kb = size_kb(it.get("fileSize", ""))
+        if kb > cfg["max_document_kb"]:
+            record(con, "rejections", {"document_key": key, "ticker": code,
+                                       "headline": it["headline"],
+                                       "reason": "too-large", "detail": f"{kb}KB",
+                                       "rejected_at": common.now_iso()})
+            continue
 
-            keep, why = wanted(it["headline"], cfg)
-            if not keep:
-                record(con, "rejections", {"document_key": key, "ticker": code,
-                                           "headline": it["headline"],
-                                           "reason": why, "detail": None,
-                                           "rejected_at": common.now_iso()})
-                continue
+        try:
+            raw = common.fetch(doc_url(cfg, key), cfg, binary=True)
+        except Exception as e:                                   # noqa: BLE001
+            # Retryable and NOT settled: the document is still in the window.
+            print(f"{code}: doc fetch failed {key}: {str(e)[:90]}", flush=True)
+            continue
 
-            kb = size_kb(it.get("fileSize", ""))
-            if kb > cfg["max_document_kb"]:
-                record(con, "rejections", {"document_key": key, "ticker": code,
-                                           "headline": it["headline"],
-                                           "reason": "too-large", "detail": f"{kb}KB",
-                                           "rejected_at": common.now_iso()})
-                continue
+        if not common.pdf_is_complete(raw):
+            print(f"{code}: TRUNCATED {len(raw):,}B {key} (retry tomorrow)", flush=True)
+            continue
 
-            try:
-                raw = common.fetch(doc_url(cfg, key), cfg, binary=True)
-            except Exception as e:                              # noqa: BLE001
-                # Deliberately NOT recorded as a rejection. This is retryable and
-                # the document is still in the window, so leaving it unsettled
-                # means tomorrow's run picks it up again.
-                print(f"{code}: doc fetch failed {key}: {str(e)[:100]}", flush=True)
-                continue
+        path = tmp / f"{key}.pdf"
+        try:
+            path.write_bytes(raw)
+            reader = PdfReader(path)
+            text = "".join((p.extract_text() or "") for p in reader.pages)
+            pages_n = len(reader.pages)
+        except Exception as e:                                   # noqa: BLE001
+            # RETRYABLE. The first CI run wrote 32 of these down as permanent
+            # verdicts about the documents when the real cause was a missing
+            # cryptography extra on the runner.
+            print(f"{code}: parse failed {key}: {str(e)[:110]} (retry tomorrow)",
+                  flush=True)
+            parse_failures.append(f"{code} {it['headline'][:40]}: {str(e)[:80]}")
+            continue
+        finally:
+            path.unlink(missing_ok=True)
 
-            if not common.pdf_is_complete(raw):
-                print(f"{code}: TRUNCATED {len(raw):,}B {key} (retry tomorrow)",
-                      flush=True)
-                continue
+        s = cfg["substance"]
+        fwd = forward_markers(text, cfg)
+        if len(text) > s["max_chars"]:
+            record(con, "rejections", {"document_key": key, "ticker": code,
+                                       "headline": it["headline"], "reason": "too-long",
+                                       "detail": f"{pages_n}pp {len(text)}ch",
+                                       "rejected_at": common.now_iso()})
+            continue
+        if pages_n < s["min_pages"] or len(text) < s["min_chars"] \
+                or fwd < s["min_forward_markers"]:
+            record(con, "rejections", {"document_key": key, "ticker": code,
+                                       "headline": it["headline"], "reason": "thin",
+                                       "detail": f"{pages_n}pp {len(text)}ch fwd={fwd}",
+                                       "rejected_at": common.now_iso()})
+            continue
 
-            path = tmp / f"{key}.pdf"
-            try:
-                path.write_bytes(raw)
-                reader = PdfReader(path)
-                text = "".join((p.extract_text() or "") for p in reader.pages)
-                pages = len(reader.pages)
-            except Exception as e:                              # noqa: BLE001
-                # RETRYABLE, deliberately not recorded as a settled rejection.
-                #
-                # The first CI run recorded 32 of these as permanent and would
-                # never have looked at those documents again. The cause was not
-                # the documents: it was a missing `cryptography` extra on the
-                # runner, so every AES-encrypted ASX PDF failed to open. An
-                # environment fault written down as a verdict about the document
-                # is unrecoverable here, because the five-item window means there
-                # is no second chance to fetch it.
-                #
-                # A genuinely corrupt PDF is retried for the few days it stays in
-                # the window and then falls out. That costs a handful of wasted
-                # downloads. The alternative cost the whole day's corpus.
-                print(f"{code}: parse failed {key}: {str(e)[:120]} (retry tomorrow)",
-                      flush=True)
-                parse_failures.append(f"{code} {it['headline'][:40]}: {str(e)[:80]}")
-                continue
-            finally:
-                path.unlink(missing_ok=True)
-
-            s = cfg["substance"]
-            fwd = forward_markers(text, cfg)
-            if len(text) > s["max_chars"]:
-                # Statutory accounts and the like. Recorded rather than dropped,
-                # so it is visible that the document was seen and judged.
-                record(con, "rejections", {
-                    "document_key": key, "ticker": code,
-                    "headline": it["headline"], "reason": "too-long",
-                    "detail": f"{pages}pp {len(text)}ch",
-                    "rejected_at": common.now_iso()})
-                continue
-            if pages < s["min_pages"] or len(text) < s["min_chars"] \
-                    or fwd < s["min_forward_markers"]:
-                # The webcast-notice trap: headline says results, document is a
-                # one-page link to a video.
-                record(con, "rejections", {
-                    "document_key": key, "ticker": code,
-                    "headline": it["headline"], "reason": "thin",
-                    "detail": f"{pages}pp {len(text)}ch fwd={fwd}",
-                    "rejected_at": common.now_iso()})
-                continue
-
-            out = common.TEXT_DIR / code / f"{key}.txt"
-            out.parent.mkdir(parents=True, exist_ok=True)
-            out.write_text(text, encoding="utf-8")
-            record(con, "documents", {
-                "document_key": key, "ticker": code, "bytes": len(raw),
-                "pages": pages, "chars": len(text), "forward_markers": fwd,
-                "sha256": common.sha256(raw),
-                "text_path": str(out.relative_to(common.ROOT)).replace("\\", "/"),
-                "stored_at": common.now_iso()})
-            new_doc += 1
-            print(f"{code}: STORED {pages}pp {len(text):,}ch fwd={fwd}  "
-                  f"{it['headline'][:50]}", flush=True)
-
+        out = common.TEXT_DIR / code / f"{key}.txt"
+        out.parent.mkdir(parents=True, exist_ok=True)
+        out.write_text(text, encoding="utf-8")
+        record(con, "documents", {
+            "document_key": key, "ticker": code, "bytes": len(raw),
+            "pages": pages_n, "chars": len(text), "forward_markers": fwd,
+            "sha256": common.sha256(raw),
+            "text_path": str(out.relative_to(common.ROOT)).replace("\\", "/"),
+            "stored_at": common.now_iso()})
+        new_doc += 1
+        print(f"{code}: STORED {pages_n}pp {len(text):,}ch fwd={fwd}  "
+              f"{it['headline'][:50]}", flush=True)
         con.commit()
-        time.sleep(cfg["http"]["pause_seconds"])
 
-    # The run row is only appended to the ledger once it is COMPLETE, so a
-    # killed run leaves no finished_at and the health check sees it as missing
-    # rather than as a successful run that stored nothing.
     record(con, "runs", {"run_id": run_id, "started_at": started_at,
                          "finished_at": common.now_iso(), "tickers": len(universe),
-                         "tickers_ok": ok_tickers, "new_announcements": new_ann,
+                         "tickers_ok": probe_ok, "new_announcements": new_ann,
                          "new_documents": new_doc})
     con.commit()
 
-    print(f"\nrun {run_id}: {ok_tickers}/{len(universe)} indexes read, "
-          f"{new_ann} new announcements, {new_doc} new documents")
+    print(f"\nrun {run_id}: {len(items):,} announcements swept, "
+          f"{new_ann} new recorded, {new_doc} new documents")
 
-    # A run that reached almost nothing is a failure even though every individual
-    # step "handled" its own error. Exit non-zero so CI goes red rather than
-    # committing a day of near-nothing and reporting success.
-    if universe and ok_tickers < 0.6 * len(universe):
-        print(f"FAIL: only {ok_tickers} of {len(universe)} indexes reachable",
-              file=sys.stderr)
+    # A sweep that stopped early looks exactly like a quiet day from the outside.
+    if pages_ok < cfg["feed_min_pages_ok"]:
+        print(f"FAIL: sweep reached only {pages_ok} pages, "
+              f"minimum {cfg['feed_min_pages_ok']}", file=sys.stderr)
         return 1
-
-    # Every document that was attempted failed to open, and none succeeded. That
-    # is an environment fault, not a run of bad PDFs - it is what a missing
-    # `cryptography` extra looks like, and it cost 32 documents on the first CI
-    # run while the job reported success. It cannot fire on a quiet day, because
-    # a day with nothing to fetch has no parse failures either.
     if parse_failures and new_doc == 0:
-        print(f"FAIL: {len(parse_failures)} documents were fetched and NONE "
-              f"could be opened. First: {parse_failures[0]}", file=sys.stderr)
+        print(f"FAIL: {len(parse_failures)} documents fetched and NONE could be "
+              f"opened. First: {parse_failures[0]}", file=sys.stderr)
         return 1
     return 0
 

@@ -1,0 +1,768 @@
+Embark Early Education Limited 
+APPENDIX 4D 
+HALF-YEAR REPORT 
+1 
+Company Details         
+Name of Entity Embark Early Education Limited   
+ABN 52 667 611 752    
+Current Financial Period Ended 30-Jun-26    
+Previous Corresponding Reporting Period 30-Jun-25    
+     
+     
+Results for Announcement to the Market       
+     
+    
+June 2026 
+$'000 
+June 2025 
+$'000 
+Percentage 
+Change 
+Up or 
+(Down) 
+       
+Revenue from ordinary activities  47,250           49,410  (4.4%) 
+Profit/(loss) from ordinary activities after tax attributable to members (12,743)           4,036  (415.7%) 
+Profit/(loss) for the period attributable to members (12,743)           4,036  (415.7%) 
+          
+     
+Net Tangible Assets     June 2026 June 2025 
+       
+Net Tangible Assets (Liabilities) per Security   (0.06) (0.05) 
+          
+     
+Earnings Per Share (cents)     June 2026 June 2025 
+       
+Basic Earnings per Share   (6.26) 2.20 
+Diluted Earnings per Share   (6.26) 2.20 
+          
+     
+Dividends 
+    
+Amount per  
+Security 
+(cents) 
+Franked 
+amount 
+per 
+security 
+(cents) 
+       
+Interim dividend for the year ended 31 December 2025 paid on 23 March 2026 1.5 1.5 
+Final dividend for the year ended 31 December 2025 paid on 15 June 2026 1.5 1.5 
+              
+     
+ 
+Brief explanation of any figures reported above necessary to enable the figures to be understood 
+Refer to attached interim financial report. 
+Compliance Statement 
+This report is based on the interim financial report that has been reviewed by our external auditors. 
+ 
+ 
+       
+     
+     
+     
+     
+     
+Hamish Stevens 
+Chair 
+Embark Early Education Limited 
+   
+ 
+For personal use onlyEmbark Early Education Limited 
+CONTENTS 
+2 
+Directors' Report 3 
+Auditor’s Independence Declaration 5 
+Consolidated Statement of Comprehensive Income 6 
+Consolidated Statement of Changes in Equity 7 
+Consolidated Statement of Financial Position 8 
+Consolidated Statement of Cash Flows 9 
+Notes to the Consolidated Interim Financial Statements  
+1. Material Accounting Policies 10 
+2. Critical accounting judgements, estimates and assumptions 11 
+3. Revenue 11 
+4. Property, Plant and Equipment 12 
+5. Right-of-Use Assets and Lease Liabilities 12 
+6. Goodwill 13 
+7. Investment in Associate 13 
+8. Trade and Other Payables 14 
+9. Employee Entitlements 14 
+10. Dividends 14 
+11. Related Party Transactions 14 
+12. Subsequent Events 15 
+Directors’ Declaration 16 
+Auditor's Report 17 
+ 
+ 
+          
+For personal use onlyEmbark Early Education Limited
+DIRECTORS’ REPORT 
+3 
+The Directors present their report for Embark Early Education Limited (Embark) (ASX:EVO) and the entities it 
+controlled at the end of, or during, the half-year ended 30 June 2026. 
+Directors  
+The following persons were Directors of Embark Early Education Limited during the relevant period: 
+ Hamish Stevens (Chair)
+ Christopher Scott (Managing Director)
+ Kim Campbell
+ Renita Garard
+ Michelle Thomsen
+Principal Business 
+The principal business of Embark during the half-year was related to the operation of early education centres owned by 
+an Embark subsidiary. There was no significant change for the continuing operations of the Embark business during 
+the half-year ended 30 June 2026. 
+Review of operations 
+Embark reported a statutory loss after tax of $12.743 million for the half year ended 30 June 2026, compared 
+with a profit after tax of $4.036 million in the prior corresponding period. The statutory result included non-cash 
+impairment charges relating to certain right-of-use assets, goodwill and the Group’s investment in Mayfield 
+Childcare Limited. 
+Excluding these non-cash impairment charges and other non-recurring items, Centre EBITDA was $8.658 million, 
+compared with $10.807 million in the prior corresponding period. The reduction primarily reflected softer demand 
+conditions across the Group’s centres during the period, partially offset by disciplined management of labour and 
+support office costs. 
+The early childhood education sector continued to experience softer demand conditions in a number of markets, 
+together with increased supply of childcare places. Management remains focused on strengthening centre 
+performance, maintaining labour efficiency and improving long-term earnings across the portfolio. 
+Reconciliation of statutory results to Centre EBITDA: 
+ Half Year 
+30 June 
+2026 
+ Half Year 
+30 June 
+2025 
+Note  $'000  $'000 
+Profit/(loss) after income tax attributable to shareholders of the 
+company (12,743) 4,036 
+Income tax expense 793 2,035 
+AASB 16 interest 5,183 5,313 
+Net finance expenses1 222 80 
+AASB 16 depreciation 5a 2,324 2,303 
+Depreciation and amortisation2 417 413 
+AASB 16 rent add back3 (5,433) (5,085) 
+Impairment - right-of-use assets 5a 823 - 
+Impairment - goodwill 6 3,042 - 
+Impairment - investment in associate (Mayfield Childcare Limited) 11,399 - 
+Mayfield Childcare Limited investment adjustments4 7 725 4 
+Acquisition expenses - 126
+Redomiciling costs including wind up of NZ entity5 - (263)
+Underlying EBITDA 6,752 8,962 
+Support office costs6 1,294 1,289 
+Corporate costs7 612 556 
+Centre EBITDA 8,658 10,807 
+1. Net finance expense excluding AASB 16 lease interest, comprising interest income on bank deposits and interest expense on
+acquisition facility borrowings.
+2. Depreciation and amortisation as per the Consolidated Statement of Comprehensive Income less AASB 16 depreciation (above)
+3. Included under building occupancy expenses on the Consolidated Statement of Comprehensive Income
+For personal use onlyEmbark Early Education Limited
+DIRECTORS’ REPORT 
+4 
+4.Includes transaction costs associated with increasing the Group's investment in Mayfield Childcare Limited (including ASX, share
+registry, brokerage and legal fees) together with the fair value loss recognised on remeasurement of the previously held investment
+upon obtaining significant influence.
+5. Costs associated with redomiciling and the wind up of the NZ entities included under other expenses on the Consolidated
+Statement of Comprehensive Income
+6. Support office costs included under employee benefits expense, building occupancy expenses, centre operations expenses and
+other expenses on the Consolidated Statement of Comprehensive Income
+7. Corporate/public company costs included under employee benefits expense, centre operations expenses and other expenses on
+the Consolidated Statement of Comprehensive Income
+C
+entre EBITDA is a non-IFRS financial measure used by management to assess the underlying operating 
+performance of the Group's childcare centres. It should not be considered in isolation or as an alternative to 
+statutory measures prepared in accordance with Australian Accounting Standards. 
+Significant changes in the state of affairs 
+During the half year, Embark completed the acquisition of an additional interest in Mayfield Childcare Limited, 
+increasing its ownership to 49.8%. From the date significant influence was obtained, the investment has been 
+accounted for as an associate. 
+The Group also recognised non-cash impairment charges against certain right-of-use assets, goodwill and its 
+investment in Mayfield Childcare Limited following impairment assessments performed at 30 June 2026. 
+Events subsequent to the end of the half-year  
+On 4 August 2026, the Company announced a $4.0 million placement to a single US-based institutional investor. 
+Subsequent to period end, the Group also subscribed for its full entitlement under Mayfield Childcare Limited’s 
+entitlement offer for approximately $1.5 million. Further details are provided in Note 12 to the interim financial 
+statements. 
+Other than the matters described above, no other matter or circumstance has arisen since 30 June 2026 that has 
+significantly affected, or may significantly affect, the Group's operations, results or state of affairs in future financial 
+periods. 
+Rounding amounts 
+The Company is of a kind referred to in ASIC Corporations (Rounding in Financial/Directors' Reports) Instrument 
+2026/183, relating to the "rounding off" of amounts in the financial reports. In certain instances, amounts in the 
+financial statements have been rounded off in accordance with that Instrument to the nearest thousand dollars unless 
+otherwise stated. 
+Auditor's independence declaration  
+A copy of the Auditor's independence declaration as required under section 307C of the Corporations Act 2001 is set 
+out immediately after the Directors’ Report. 
+This report is made in accordance with a resolution of Directors. 
+Hamish Stevens 
+Chair 
+Embark Early Education Limited 
+27 August 2026 
+For personal use onlyGrant Thornton Audit Pty Ltd 
+King George Central 
+Level 18 
+145 Ann Street 
+Brisbane QLD 4000 
+GPO Box 1008 
+Brisbane QLD 4001 
+T +61 7 3222 0200 
+ 
+grantthornton.com.au 
+ACN-130 913 594 
+ 
+Grant Thornton Audit Pty Ltd ACN 130 913 594 a subsidiary or related entity of Grant Thornton Australia Limited ABN 41 127 556 389 ACN 127 556 389. 
+Grant Thornton’ refers to the brand under which the Grant Thornton member firms provide assurance, tax and advisory services to their clients and/or 
+refers to one or more member firms, as the context requires. Grant Thornton Australia Limited is a member firm of Grant Thornton International Ltd (GTIL). 
+GTIL and the member firms are not a worldwide partnership. GTIL and each member firm is a separate legal entity. Services are delivered by the member 
+firms. GTIL does not provide services to clients. GTIL and its member firms are not agents of, and do not obligate one another and are not liable for one 
+another’s acts or omissions. In the Australian context only, the use of the term ‘Grant Thornton’ may refer to Grant Thornton Australia Limited ABN 41 127 
+556 389 ACN 127 556 389 and its Australian subsidiaries and related entities. Liability limited by a scheme approved under Professional Standards 
+Legislation. 
+A
+uditor’s Independence Declaration 
+To the Directors of Embark Early Education Limited 
+In accordance with the requirements of section 307C of the Corporations Act 2001, as lead auditor for the review 
+of Embark Early Education Limited for the half-year ended 30 June 2026, I declare that, to the best of my 
+knowledge and belief, there have been: 
+a no contraventions of the auditor independence requirements of the Corporations Act 2001 in relation to 
+the review; and 
+b no contraventions of any applicable code of professional conduct in relation to the review. 
+Grant Thornton Audit Pty Ltd 
+Chartered Accountants 
+CDJ Smith 
+Partner – Audit & Assurance 
+Brisbane, 27 August 2026 
+For personal use onlyEmbark Early Education Limited 
+Consolidated Statement of Comprehensive Income 
+FOR THE SIX MONTHS ENDED 30 JUNE 2026 
+6 
+Consolidated Statement of Comprehensive Income  
+ Half Year 
+30 June 
+2026  
+ Half Year 
+30 June 2025  
+  Note  $'000   $'000  
+Revenue  47,250  49,410  
+Total Revenue 3 47,250  49,410  
+Expenses      
+Employee benefits expenses  (28,348) (28,910) 
+Building occupancy expenses  (859) (813) 
+Centre operations expenses  (5,035) (4,772) 
+Depreciation and amortisation  (2,740) (2,716) 
+Impairment of associate 7 (11,399) -  
+Impairment of goodwill & ROU assets 5a & 6 (3,865) -  
+Acquisition expenses  -  (126) 
+Other expenses  (1,549) (609) 
+Total expenses   (53,795) (37,946) 
+      
+Profit/(loss) before net finance expense and income tax  (6,545) 11,464  
+      
+Finance income  126  207  
+Finance costs  (5,531) (5,600) 
+Net finance expense   (5,405) (5,393) 
+      
+Profit/(loss) before income tax  (11,950) 6,071  
+      
+Income tax expense   (793) (2,035) 
+      
+Profit/(loss) after income tax attributable to the        
+shareholders of the Company   (12,743) 4,036  
+Other comprehensive income  -  -  
+       
+Total comprehensive income/(loss) attributed to the    (12,743) 4,036  
+shareholders of the Company       
+Earnings per share  Cents Cents 
+Basic earnings per share  (6.26) 2.20 
+Diluted earnings per share  (6.26) 2.20 
+ 
+The above Consolidated Statement of Comprehensive Income should be read in conjunction with the accompanying 
+notes. 
+ 
+ 
+For personal use onlyEmbark Early Education Limited 
+Consolidated Statement of Changes in Equity 
+FOR THE SIX MONTHS ENDED 30 JUNE 2026 
+7 
+    
+Issued 
+Share 
+Capital 
+Foreign 
+Currency 
+Translation 
+Reserve 
+Accumulated 
+Losses Total 
+  Note $'000 $'000 $'000 $'000 
+Balance at 1 January 2025  259,656  (1,912) (162,170) 95,574  
+Profit/(loss) after income tax  -  -  4,036  4,036  
+Other comprehensive income   -  -  -  -  
+Total comprehensive income (loss)   -  -  4,036  4,036  
+Dividends declared 10 -  -  (5,507) (5,507) 
+Transfer from Foreign Currency Translation 
+Reserve on windup of subsidiary   -  1,912  (1,912) -  
+As at 30 June 2025   259,656                        -   (165,553) 94,103  
+  Note $'000 $'000 $'000 $'000 
+Balance at 1 January 2026  271,003  -  (164,384) 106,619  
+Profit/(loss) after income tax  -  -  (12,743) (12,743) 
+Other comprehensive income   -  -  -  -  
+Total comprehensive income (loss)   -  -  (12,743) (12,743) 
+Issue of ordinary shares net of transaction costs    88  -  -  88  
+Dividends declared 10 -  -  (6,108) (6,108) 
+As at 30 June 2026   271,091                        -   (183,235) 87,856  
+ 
+The above Consolidated Statement of Changes in Equity should be read in conjunction with the accompanying notes. 
+ 
+For personal use onlyEmbark Early Education Limited 
+Consolidated Statement of Financial Position 
+AS AT 30 JUNE 2026 
+8 
+Statement of Financial Position  
+ 30 June 
+2026  
+ 31 December 
+2025  
+  Note  $'000   $'000  
+Cash and cash equivalents  6,292  20,660  
+Trade and other receivables  5,189  4,999  
+Total current assets   11,481  25,659  
+Property, plant and equipment 4 2,618  2,430  
+Investment in associate 7 6,762  -  
+Financial assets at fair value through profit or loss   -  7,280  
+Deferred tax asset  8,983  8,218  
+Right-of-use assets 5a 94,875  97,292  
+Goodwill 6 99,999  103,041  
+Total non-current assets   213,237  218,261  
+Trade and other payables 8 2,125  2,015  
+Current income tax liabilities  503  1,132  
+Contract liabilities  556  508  
+Employee entitlements 9 6,675  7,048  
+Other current liabilities  2,230  2,227  
+Lease liabilities - current 5b 10,430  10,393  
+Total current liabilities   22,519  23,323  
+Borrowings - non-current  6,410  6,410  
+Employee entitlements - non-current 9 480  558  
+Lease liabilities - non current 5b 107,453  107,010  
+Total non-current liabilities   114,343  113,978  
+Net assets   87,856  106,619  
+Issued share capital  271,091  271,003  
+Accumulated losses  (183,235) (164,384) 
+Total equity   87,856  106,619  
+ 
+The above Consolidated Statement of Financial Position should be read in conjunction with the accompanying notes.  
+ 
+For personal use onlyEmbark Early Education Limited 
+Consolidated Statement of Cash Flows 
+FOR THE SIX MONTHS ENDED 30 JUNE 2026 
+9 
+  
+ Half Year 
+30 June 2026  
+ Half Year 
+30 June 2025  
+  Note $'000 $'000 
+Cash flows from operating activities      
+Receipts from customers  46,067  48,390  
+Payments to suppliers and employees  (34,744) (33,917) 
+Interest paid  (337) (291) 
+Interest received  126  207  
+Income tax paid  (2,187) (4,568) 
+Net cash provided by operating activities   8,925  9,821  
+Cash flows from investing activities      
+Purchase of property, plant and equipment  (604) (496) 
+Consideration paid for the acquisition of childcare centres  - (2,060) 
+Transaction costs associated with the acquisition of childcare centres -  (126) 
+Investment in Mayfield Childcare Limited  (11,166) -  
+Net cash (used in) investing activities   (11,770) (2,682) 
+Cash flows from financing activities      
+Drawdown from borrowings  -  2,060  
+Share issue transaction costs  (2) -  
+Dividend paid  (6,108) (5,507) 
+Repayment of leases  (5,413) (5,099) 
+Net cash (used in) financing activities   (11,523) (8,546) 
+Net change in cash and cash equivalents held  (14,368) (1,407) 
+Cash and cash equivalents at beginning of period  20,660  13,348  
+Cash and cash equivalents at end of period   6,292  11,941  
+ 
+The above Consolidated Statement of Cash Flows should be read in conjunction with the accompanying notes.  
+ 
+For personal use onlyEmbark Early Education Limited 
+Notes to the Consolidated Interim Financial Statements 
+EMBARK EARLY EDUCATION LIMITED 
+10 
+1. Material Accounting Policies 
+(a)  Material accounting policy information 
+These general purpose financial statements for the interim half-year reporting period ended 30 June 2026 have been 
+prepared in accordance with Australian Accounting Standard AASB 134 Interim Financial Reporting and the 
+Corporations Act 2001, as appropriate for for-profit oriented entities. Compliance with AASB 134 ensures compliance 
+with International Financial Reporting Standard IAS 34 'Interim Financial Reporting'.  
+These general purpose financial statements do not include all the notes of the type normally included in annual 
+financial statements. Accordingly, these financial statements are to be read in conjunction with the annual report for 
+Embark Early Education Limited for the year ended 31 December 2025 and any public announcements made by 
+Embark Early Education Limited during the interim reporting period in accordance with the continuous disclosure 
+requirements of the Listing Rules.  
+The accounting policies adopted are consistent with those followed in the preparation of the Group's annual report for 
+the year ended 31 December 2025, unless otherwise stated. 
+ 
+(b)  New or amended Accounting Standards and Interpretations adopted 
+Embark Early Education Limited has adopted all the new or amended Accounting Standards and Interpretations issued 
+by the Australian Accounting Standards Board ('AASB') that are mandatory for the current reporting period. 
+Any new or amended Accounting Standards or Interpretations that are not yet mandatory have not been early 
+adopted. 
+ 
+(c)  Rounding of amounts 
+The Company is a company of the kind referred to in ASIC Corporations (Rounding in Financial/Directors’ Reports) 
+Instrument 2026/183, dated 27 March 2026, and in accordance with that Corporations Instrument amounts in the 
+half-year financial report are rounded off to the nearest $1,000, unless otherwise indicated. 
+ 
+(d)  Functional and Presentation Currency 
+Items included in the financial statements of each of the Group's entities are measured using the currency of the 
+primary economic environment in which the entity operates ("the functional currency"). The consolidated financial 
+statements are presented in Australian Dollars ($), which is the Company’s functional currency and Group's 
+presentation currency.  
+ 
+(e)  Comparatives 
+The comparative period is the six months ended 30 June 2025 for the Statement of Comprehensive Income and 
+Statement of Cash Flows, and 31 December 2025 for the Statement of Financial Position. 
+ 
+(f)  Segment Information 
+An operating segment is a component of an entity that engages in business activities from which it may earn and incur 
+expenses. The operating results of a segment are regularly reviewed by the entity’s Chief Operating Decision Maker to 
+make decisions about resources to be allocated to the segment and assess its performance, for which discrete financial 
+information is available. The Chief Operating Decision Maker, who is responsible for allocating resources and assessing 
+performance of the Group, has been identified as the Managing Director (“Group MD”). 
+The Group considers the business as one Group of centres and therefore has identified one operating segment of which 
+the principal activity is the operation of childcare centres. The Group currently operates in one geographical segment 
+in Australia. 
+ 
+For personal use onlyEmbark Early Education Limited 
+Notes to the Consolidated Interim Financial Statements 
+EMBARK EARLY EDUCATION LIMITED 
+11 
+1. Material Accounting Policies (continued) 
+ 
+(g)  Investment in associates 
+Associates are entities over which the Group has significant influence but not control or joint control. Investments in 
+associates are accounted for using the equity method. Under the equity method, investments in associates are initially 
+recognised at cost and subsequently adjusted for the Group's share of the associate's post-acquisition profits or losses 
+and other comprehensive income. Dividends received or receivable from associates reduce the carrying amount of the 
+investment.  
+Goodwill relating to an associate is included in the carrying amount of the investment and is neither amortised nor 
+separately tested for impairment. 
+When the Group's share of losses in an associate equals or exceeds its interest in the associate, the Group does not 
+recognise further losses unless it has incurred obligations or made payments on behalf of the associate. 
+The Group discontinues the use of the equity method when it ceases to have significant influence over the associate. 
+Any retained interest is remeasured to fair value, with any resulting difference recognised in profit or loss. 
+ 
+2. Critical accounting judgements, estimates and assumptions 
+The preparation of the interim financial statements requires management to make judgements and estimates 
+consistent with those applied in the Group’s annual financial statements. 
+During the half year, management performed impairment assessments over the Group’s right-of-use assets, goodwill 
+and investment in associate. These assessments required judgement regarding forecast cash flows, discount rates and 
+other assumptions used in determining recoverable amounts. Changes in these assumptions may result in different 
+impairment outcomes. 
+Following the increase in the Group’s ownership interest in Mayfield Childcare Limited to 49.8%, management 
+assessed whether the Group controls Mayfield in accordance with AASB 10. Management concluded that the Group 
+does not have control, having regard to its voting rights, the absence of unilateral decision-making authority over the 
+relevant activities of Mayfield and the absence of contractual arrangements providing control. Accordingly, the Group 
+has significant influence over Mayfield and the investment is accounted for as an associate. 
+ 
+3. Revenue 
+ 
+ Half Year 
+30 June 2026  
+ Half Year 
+30 June 2025  
+  $'000 $'000 
+Revenue from continuing operations recognised over time:     
+Childcare fees - Parent 13,501  13,790  
+Childcare fees - Government Funding 33,650  35,550  
+Other revenue 99  70  
+Total Revenue 47,250  49,410  
+ 
+(a)  Childcare Fees 
+Revenues are recognised over time when the Group satisfies its performance obligations by providing early childhood 
+education services to customers. 
+ 
+(b)  Government Funding 
+Australian Government funding relates to fees paid under the Child Care Subsidy and are recognised over time when 
+there is reasonable assurance that the funding will be received. Australian Government funding is received in arrears. 
+  
+For personal use onlyEmbark Early Education Limited 
+Notes to the Consolidated Interim Financial Statements 
+EMBARK EARLY EDUCATION LIMITED 
+12 
+4. Property, Plant and Equipment 
+ 
+ 
+Plant and 
+Equipment 
+Leasehold 
+Improvements 
+Motor 
+Vehicles Total 
+  $'000 $'000 $'000 $'000 
+Cost         
+Balance as at 31 December 2025 2,594  2,555  121  5,270  
+Additions/transfers 188  371  57  616  
+Disposals -  (11) -  (11) 
+Balance as at 30 June 2026 2,782  2,915  178  5,875  
+Depreciation and impairment         
+Balance as at 31 December 2025 (1,582) (1,237) (21) (2,840) 
+Depreciation charge for period (248) (160) (9) (417) 
+Disposals -  -  -  -  
+Balance as at 30 June 2026 (1,830) (1,397) (30) (3,257) 
+Carrying amounts as at 31 December 2025 1,012  1,318  100  2,430  
+Carrying amount at 30 June 2026 952  1,518  148  2,618  
+ 
+ 
+Property, plant and equipment are stated at historical cost less accumulated depreciation. 
+ 
+ 
+5. Right-of-Use Assets and Lease Liabilities 
+a) Right-of-Use Assets 
+ Leased 
+properties Total 
+  $'000 $'000 
+Opening net book value as at 31 December 2025      97,292       97,292  
+Additions 730  730  
+Acquisition of childcare centres -  -  
+Disposals -  -  
+Depreciation (2,324) (2,324) 
+Impairment (823) (823) 
+Closing net book value as at 30 June 2026 94,875  94,875  
+Cost 116,683  116,683  
+Accumulated depreciation (19,042) (19,042) 
+Accumulated impairment (2,766) (2,766) 
+As at 30 June 2026      94,875  94,875  
+ 
+b) Lease Liabilities 
+ 
+ 30 June 2026   31 December 
+2025  
+  $'000 $'000 
+Current lease liabilities 10,430  10,393  
+Non-current lease liabilities 107,453  107,010  
+Total lease liabilities 117,883  117,403  
+ 
+  
+For personal use onlyEmbark Early Education Limited 
+Notes to the Consolidated Interim Financial Statements 
+EMBARK EARLY EDUCATION LIMITED 
+13 
+6. Goodwill 
+ Total 
+  $'000 
+Gross carrying amount   
+Balance at 31 December 2025 103,041  
+Additions -  
+Balance at 30 June 2026 103,041  
+   
+Amortisation and impairment   
+Balance at 31 December 2025 -  
+Amortisation and impairment 3,042  
+Balance at 30 June 2026 3,042  
+   
+Carrying amounts as at 31 December 2025 103,041  
+Carrying amount at 30 June 2026 99,999  
+ 
+Impairment 
+The Group performed impairment assessments at 30 June 2026 in response to impairment indicators identified during 
+the period. Recoverable amounts were determined for individual cash-generating units (CGUs) using value-in-use 
+calculations. These calculations were based on actual trading results to 30 June 2026 and revised forecasts for the 
+remainder of the forecast period. 
+The updated forecasts reflected changes in the expected trading performance since the Group’s impairment 
+assessment at 31 December 2025, including revised occupancy expectations for certain centres. The key assumptions 
+used in determining recoverable amounts included forecast occupancy and fee growth, wage growth, discount rates 
+and terminal growth rates. 
+As a result of the assessments, impairment losses of $3.865 million were recognised in respect of three CGUs, 
+comprising $3.042 million against goodwill and $0.823 million against right-of-use assets. 
+The methodology and key assumptions applied were otherwise consistent with those used in the Group’s 31 December 
+2025 impairment assessment, updated where appropriate for current forecasts. 
+The impairment assessment is most sensitive to changes in forecast revenue and wage growth. Sensitivity analysis 
+was performed by applying reasonably possible changes to these assumptions across the individual CGUs, while 
+holding all other assumptions constant. A 2% reduction in forecast revenue growth would increase the aggregate 
+impairment to approximately $6.0 million, while a 2% increase in forecast wage growth would increase the aggregate 
+impairment to approximately $4.8 million. 
+ 
+7. Investment in Associate 
+On 5 March 2026, the Group obtained significant influence over Mayfield Childcare Limited following the acquisition of 
+an additional interest, increasing its ownership interest to 49.8%. From that date the investment has been accounted 
+for using the equity method. 
+At 30 June 2026, the carrying amount of the investment was $6.8 million (31 December 2025: financial asset at fair 
+value through profit or loss of $7.3 million). During the period the Group recognised an impairment loss of $11.4 
+million in relation to the investment. 
+ 
+ 
+ 
+For personal use onlyEmbark Early Education Limited 
+Notes to the Consolidated Interim Financial Statements 
+EMBARK EARLY EDUCATION LIMITED 
+14 
+8. Trade and Other Payables 
+ 
+ 30 June 2026   31 December 
+2025  
+  $'000 $'000 
+Goods and services tax payable 48  -  
+Other payables 359  458  
+State Government Subsidy 1,718  1,557  
+Total trade and other payables 2,125  2,015  
+ 
+Trade payables are unsecured and are usually paid within 30 days of recognition. The carrying amount of trade and 
+other payables are the same as their fair value, due to their short-term nature. 
+ 
+9. Employee Entitlements 
+ 
+ 30 June 2026   31 December  
+2025  
+  $'000 $'000 
+Accrued wages and salaries 1,784  2,295  
+Employee leave provisions - current 4,891  4,753  
+Total employee entitlements - current 6,675  7,048  
+      
+  30 June 2026   31 December 
+2025 
+  $'000 $'000 
+Employee leave provisions - non-current 480  558  
+Total employee entitlements - non-current 480  558  
+   
+ 
+10. Dividends 
+  CPS Total dividend 
+$'000 
+Financial year 2026   
+Fully franked dividend for the year ended 31 December 2025 (paid on 23 March 2026) 1.5               3,051  
+Fully franked dividend for the year ended 31 December 2025 (paid on 15 June 2026) 1.5               3,057  
+Franked dividend paid during the half-year ended 30 June 2026                6,108  
+   
+Financial year 2025   
+Fully franked dividend for the year ended 31 December 2024 (paid on 19 March 2025) 1.5               2,754  
+Fully franked dividend for the year ended 31 December 2024 (paid on 17 June 2025) 1.5               2,753  
+Franked dividend paid during the half-year ended 30 June 2025                5,507  
+ 
+ 
+11. Related Party Transactions 
+a) Parent entity 
+The Parent entity within the Group is Embark Early Education Limited. 
+ 
+b) Identity of Related Parties 
+Related parties of the Group are: 
+ The Board of Directors comprising Hamish Stevens, Kim Campbell, Christopher Scott, Renita Garard and 
+Michelle Thomsen. 
+For personal use onlyEmbark Early Education Limited 
+Notes to the Consolidated Interim Financial Statements 
+EMBARK EARLY EDUCATION LIMITED 
+15 
+ 
+12. Subsequent Events 
+On 4 August 2026, the Group announced that it had received a binding commitment from a single institutional investor 
+to subscribe for 10,000,000 fully paid ordinary shares at an issue price of $0.40 per share, raising gross proceeds of 
+$4.0 million before costs. The new shares were allotted on 10 August 2026. The proceeds from the placement will be 
+used to partly fund future asset acquisition opportunities and the transaction costs of the placement. 
+Subsequent to 30 June 2026, Mayfield Childcare Limited announced a non-renounceable pro-rata entitlement offer. 
+The Group subscribed for its full entitlement of 15,025,804 additional shares at $0.10 per share, for total consideration 
+of approximately $1.5 million. 
+Other than the matters described above, no other matter or circumstance has arisen since 30 June 2026 that has 
+significantly affected, or may significantly affect, the Group’s operations, results or state of affairs in future financial 
+periods. 
+ 
+For personal use onlyEmbark Early Education Limited 
+Directors’ Declaration 
+EMBARK EARLY EDUCATION LIMITED 
+ 
+16 
+In the directors’ opinion: 
+ The attached financial statements and notes comply with the Corporations Act 2001, Australian Accounting 
+Standard AASB 134 ‘Interim Financial Reporting’, the Corporations Regulations 2001 and other mandatory 
+professional reporting requirements; 
+ The attached financial statements and notes give a true and fair view of the consolidated entity’s financial 
+position as at 30 June 2026 and of its performance for the financial half-year ended on that date; and 
+ There are reasonable grounds to believe that the company will be able to pay its debts as and when they 
+become due and payable. 
+ 
+Signed in accordance with a resolution of directors made pursuant to section 303(5)(a) of the Corporations Act 2001. 
+ 
+On behalf of the directors 
+ 
+ 
+Hamish Stevens 
+Chair 
+Embark Early Education Limited 
+27 August 2026 
+ 
+For personal use onlyGrant Thornton Audit Pty Ltd 
+King George Central 
+Level 18 
+145 Ann Street 
+Brisbane QLD 4000 
+GPO Box 1008 
+Brisbane QLD 4001 
+T +61 7 3222 0200 
+ 
+ 
+grantthornton.com.au 
+ACN-130 913 594 
+ 
+Grant Thornton Audit Pty Ltd ACN 130 913 594 a subsidiary or related entity of Grant Thornton Australia Limited ABN 41 127 556 389 ACN 127 556 389. 
+Grant Thornton’ refers to the brand under which the Grant Thornton member firms provide assurance, tax and advisory services to their clients and/or 
+refers to one or more member firms, as the context requires. Grant Thornton Australia Limited is a member firm of Grant Thornton International Ltd (GTIL). 
+GTIL and the member firms are not a worldwide partnership. GTIL and each member firm is a separate legal entity. Services are delivered by the member 
+firms. GTIL does not provide services to clients. GTIL and its member firms are not agents of, and do not obligate one another and are not liable for one 
+another’s acts or omissions. In the Australian context only, the use of the term ‘Grant Thornton’ may refer to Grant Thornton Australia Limited ABN 41 127 
+556 389 ACN 127 556 389 and its Australian subsidiaries and related entities. Liability limited by a scheme approved under Professional Standards 
+Legislation. 
+I
+ndependent Auditor’s Review Report 
+To the Members of Embark Early Education Limited 
+Report on the half-year financial report 
+Conclusion 
+We have reviewed the accompanying half-year financial report of Embark Early Education Limited (the 
+Company) and its subsidiaries (the Group), which comprises the consolidated statement of financial position 
+as at 30 June 2026, and the consolidated statement of profit or loss and other comprehensive income, 
+consolidated statement of changes in equity and consolidated statement of cash flows for the half year 
+ended on that date, including material accounting policy information, other selected explanatory notes, and 
+the directors’ declaration. 
+Based on our review, which is not an audit, we have not become aware of any matter that makes us believe 
+that the accompanying half-year financial report of Embark Early Education Limited does not comply with the 
+Corporations Act 2001 including: 
+a giving a true and fair view of the Group’s financial position as at 30 June 2026 and of its performance for 
+the half year ended on that date; and 
+b complying with Accounting Standard AASB 134 Interim Financial Reporting and the Corporations 
+Regulations 2001. 
+Basis for Conclusion 
+We conducted our review in accordance with ASRE 2410 Review of a Financial Report Performed by the 
+Independent Auditor of the Entity. Our responsibilities are further described in the Auditor’s Responsibilities 
+for the Review of the Financial Report section of our report. We are independent of the Company in 
+accordance with the auditor independence requirements of the Corporations Act 2001 and the ethical 
+requirements of the Accounting Professional and Ethical Standards Board’s APES 110 Code of Ethics for 
+Professional Accountants (including Independence Standards) (the Code) that are relevant to our audit of 
+the annual financial report in Australia. We have also fulfilled our other ethical responsibilities in accordance 
+with the Code. 
+For personal use onlyGrant Thornton Audit Pty Ltd. 
+Directors’ responsibility for the half-year financial report 
+The Directors of the Company are responsible for the preparation of the half-year financial report that gives a 
+true and fair view in accordance with Australian Accounting Standards and the Corporations Act 2001 and for 
+such internal control as the Directors determine is necessary to enable the preparation of the half-year financial 
+report that gives a true and fair view and is free from material misstatement, whether due to fraud or error. 
+Auditor’s responsibility for the review of the financial report 
+Our responsibility is to express a conclusion on the half-year financial report based on our review. We conducted 
+our review in accordance with Auditing Standard on Review Engagements ASRE 2410 Review of a Financial 
+Report Performed by the Independent Auditor of the Entity, in order to state whether, on the basis of the 
+procedures described, we have become aware of any matter that makes us believe that the half year financial 
+report is not in accordance with the Corporations Act 2001 including giving a true and fair view of the Group’s 
+financial position as at 30 June 2026 and its performance for the half-year ended on that date, and complying 
+with Accounting Standard AASB 134 Interim Financial Reporting and the Corporations Regulations 2001.  
+A review of a half-year financial report consists of making enquiries, primarily of persons responsible for financial 
+and accounting matters, and applying analytical and other review procedures. A review is substantially less in 
+scope than an audit conducted in accordance with Australian Auditing Standards and consequently does not 
+enable us to obtain assurance that we would become aware of all significant matters that might be identified in 
+an audit. Accordingly, we do not express an audit opinion. 
+G
+rant Thornton Audit Pty Ltd 
+Chartered Accountants 
+CDJ Smith 
+Partner – Audit & Assurance 
+Brisbane, 27 August 2026 
+For personal use only

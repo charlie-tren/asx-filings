@@ -1,0 +1,674 @@
+Appen Limited. Suite 8.03, Level 8, 1 Market Street, Sydney, NSW 2067, Australia – ACN 138 878 298 
+ 
+  
+ASX Release  
+27 August 2026 
+  
+ 
+Investor Presentation 
+ 
+Further to Appen Limited’s (Appen) (ASX:APX) announcement to the market today on its 
+results for the half-year ended 30 June 2026, please ﬁnd attached the presentation to be 
+delivered to investors and analysts at 11.00am AEST.  Register for the webinar via the link 
+below: 
+ 
+ https://us02web.zoom.us/webinar/register/WN_emwiBN10TtGhyBiP8ZqJ6g 
+ 
+Authorised for release by the Board of Appen Limited. 
+ 
+For further information, please contact:  
+Investor Relations   
+investorrelations@appen.com  
++612 9468 6300  
+ 
+ 
+About Appen  
+Appen is a global market leader in data for the AI Lifecycle. With 30 years of experience in 
+data sourcing, data annotation, and model evaluation by humans, we enable organisations 
+to launch the world’s most innovative artiﬁcial intelligence systems.   
+  
+Our expertise includes a global crowd of more than 1 million skilled contractors who speak 
+over 500 languages
+1, in over 200 countries2, as well as our advanced AI data platform. Our 
+products and services give leaders in technology, automotive, ﬁnancial services, retail, 
+healthcare, and governments the conﬁdence to launch world-class AI products.  
+ 
+Founded in 1996, Appen has customers and ofﬁces globally. 
+ 
+ 
+1 Self-reported. 
+2 Self-reported, includes territories. 
+For personal use onlyH1 FY26 results
+27 August 2026
+For personal use only2
+Important Information
+The forward-looking statements included in these materials involve 
+subjective judgement and analysis and are subject to significant 
+uncertainties, risks and contingencies, many of which are outside the control 
+of, and are unknown to, Appen Limited. In particular, they speak only as of 
+the date of these materials, they are based on particular events, conditions 
+or circumstances stated in the materials, they assume the success of Appen 
+Limited’s business strategies, and they are subject to significant regulatory, 
+business, competitive, currency and economic uncertainties and risks. 
+Appen Limited disclaims any obligation or undertaking to disseminate any 
+updates or revisions to any forward-looking statements in these materials to 
+reflect any change in expectations in relation to any forward-looking 
+statements or any change in events, conditions or circumstances on which 
+any such statement is based. You should monitor any announcements by the 
+company lodged with the ASX. Nothing in these materials shall under any 
+circumstances create an implication that there has been no change in the 
+affairs of Appen Limited since the date of these materials. Organisation 
+structure is subject to change. 
+No representation, warranty or assurance (express or implied) is given or 
+made in relation to any forward-looking statement by any person (including 
+Appen Limited). In particular, no representation, warranty or assurance 
+(express or implied) is given in relation to any underlying assumption or that 
+any forward-looking statement will be achieved. Actual future events and 
+conditions may vary materially from the forward-looking statements and the 
+assumptions on which the forward-looking statements are based. Given 
+these uncertainties, readers are cautioned to not place undue reliance on 
+such forward-looking statements. To the maximum extent permitted by law, 
+Appen disclaims all liability and responsibility (including without limitation, 
+any liability arising from fault or negligence) for any direct or indirect loss or 
+damage which may arise or be suffered through use or reliance on anything 
+contained in, or omitted from, this presentation. 
+Appen Limited ACN 138 878 298 – Level 8, 1 Market Street, Sydney, NSW 
+2000, Australia 
+All amounts are in US$M unless stated otherwise. 
+Some amounts may not add due to rounding.
+Underlying results referenced in these materials are a non-IFRS measures 
+used by management to assess the performance of the business and are 
+calculated from statutory measures. Non-IFRS measures are not subject to 
+audit.
+For personal use only3
+Agenda
+Results Overview01
+H1 FY26 performance02
+Strategy & operational update03
+FY26 outlook & guidance04
+For personal use onlyH1 2026 Results Overview
+Ryan Kolln
+For personal use only© 2024 proprietary & confidential
+$119.9 million revenue 
+in H1 FY26
+Appen China breakout growth 
+ongoing
+Appen Global turnaround progress 
+continues 
+5
+H1 FY26 highlights
+Technology strategy 
+delivering benefits
+Expanding EBITDA Strong cash 
+balance remains
+• 80% growth on H1 FY25
+• Annualised revenue run-rate 
+exceeding $175 million in June
+• Further positive outcomes 
+delivered during Q2
+• Outside of our largest client, Q2 
+revenue grew 65% on Q1
+• 17% growth on H1 FY25
+• +$5.3m EBITDA vs a loss of $2.2m 
+in H1 FY25
+• 4.5% EBITDA margin
+• $44.7 million (A$64.8 million) at 
+30 June 2026
+• ~$12m annualised cost out 
+identified in Appen Global
+• ~70% to be executed by end of 
+Q4 FY26, remainder by Q1 FY27
+1.Converted at 30 June 2026 exchange rate of 0.6894
+For personal use onlyFinancial performance
+Justin Miles
+For personal use only7
+H1 FY26 profit and loss snapshot
+Commentary
+• Revenue increased 17.5% to $119.9 million, reflecting accelerated growth 
+for Appen China, and the continued turnaround of Appen Global 
+• Appen China revenue increased 80.4% to $76.2 million, predominately 
+driven by generative AI related projects
+• Appen Global turnaround continues, with revenue down 26.9% to $43.7 
+million. There has been progress throughout the period, however growth 
+in new areas has not yet offset a reduction in traditional work
+• Small decrease in gross margin % reflects a change in customer and 
+project mix. China margins traditionally lower versus rest of Group
+• EBITDA improvement of $7.5 million reflects revenue and gross margin 
+growth, prudent cost management, and operational leverage within Appen 
+China
+H1 
+FY26
+H1 
+FY25 Change
+Group Revenue 119.9 102.1 17.5%
+Appen China revenue 76.2 42.2 80.4%
+Appen Global revenue 43.7 59.8 (26.9%)
+Gross Margin1% 36.7% 37.0% -30 bps
+Underlying EBITDA2 before FX 5.3 (2.2) nm
+1.Gross margin refers to revenue less crowd expenses.
+2. Underlying EBITDA excludes restructure costs, transaction costs, and acquisition-related and one-time 
+share-based payment expense.
+For personal use only8
+Group financial performance
+Group revenue ($M) Group Gross Margin1 %
+• $119.9 million revenue for H1 FY26, up 17.5% 
+on H1 FY25 
+• 36.7% gross margin for H1 FY26, down 30 
+bps on H1 FY25
+• Small decrease reflects a change in customer 
+and project mix 
+Group underlying EBITDA2 before FX ($M)
+• $5.3 million underlying EBITDA before FX for H1 
+FY26, a $7.5 million improvement on H1 FY25
+• 4.5% EBITDA margin for the half, with a Q2 
+margin of 6.7%
+1.Gross margin refers to revenue less crowd expenses.
+2.Underlying EBITDA excludes restructure costs, transaction costs, and acquisition-related and one-time share-based payment expense.
+  
+102.1
+119.9
+0
+25
+50
+75
+100
+125
+1H25 1H26
+-2.2
+5.3
+-2.5
+0.0
+2.5
+5.0
+7.5
+1H25 1H26
+37.0% 36.7%
+0%
+10%
+20%
+30%
+40%
+1H25 1H26
+For personal use only9
+Appen Global: solid progress made
+Appen Global revenue ($M) Appen Global EBITDA ($M)
+• Q2 FY26 revenue reflects growth from expanding projects with leading AI 
+labs. Outside of the largest client, Q2 FY26 revenue grew 65% on Q1 FY26
+• $43.7 million revenue for H1 FY26, down 27% vs H1 FY25 due to lower 
+volumes from traditional work, not yet fully offset by growth in new areas
+• Traditional work currently stabilised
+• $4.5 million underlying EBITDA loss (before FX) for H1 FY26 reflects the 
+continued turnaround, with improvement throughout the period
+• Capturing cost efficiencies via AI enabled operations remains a focus for 
+Appen Global
+• Incremental ~$12 million in operational efficiencies have been identified, 
+with ~70% to be executed before the end of FY26 and the remainder in Q1 
+FY27 
+31.6 28.2 26.6
+41.4
+19.9
+23.8
+0
+10
+20
+30
+40
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26
+-1.1
+-2.5
+-0.8
+10.2
+-3.1
+-1.3
+-4
+-2
+0
+2
+4
+6
+8
+10
+12
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26
+For personal use only10
+Appen China: 80% revenue growth and expanding margins
+Appen China revenue ($M) Appen China EBITDA ($M)
+• $76.2 million revenue for H1 FY26, up 80% on H1 FY25
+• Appen China exited the quarter with an annualised revenue run-rate 
+growing to over $175 million, up from $144 million at the end of Q1  
+• The sustained growth demonstrates the strength of Appen China’s 
+relationship with Chinese model builders 
+• $12.1 million underlying EBITDA (before FX) for H1 FY26, up 316% on H1 
+FY25 
+• 15.9% EBITDA margin for H1 FY26, up from 6.9% in H1 FY25
+• EBITDA margin improvement driven by a greater mix of higher-margin 
+generative AI projects and capturing operating leverage 
+18.6
+23.7
+28.6 32.0 34.9
+41.3
+0
+10
+20
+30
+40
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26
+0.8
+2.1
+3.3
+4.3
+5.2
+7.0
+0
+2
+4
+6
+8
+Q1 FY25 Q2 FY25 Q3 FY25 Q4 FY25 Q1 FY26 Q2 FY26
+For personal use only11
+Profit and loss summary
+1. Gross margin refers to revenue less crowd expenses.
+2. Employee expenses per management reporting. Excludes direct project workers included in gross margin calculation (i.e. crowd expenses).
+3. Non-cash expense. Excludes acquisition-related and one-time share-based payment expense.
+4. All other expenses included in underlying EBITDA before FX.
+5. Underlying EBITDA excludes restructure costs, transaction costs, and acquisition-related and one-time share-based payment expense.
+6. Underlying NPAT excludes after tax impact of restructure costs, transaction costs, acquisition-related and one-time share-based payment expense, and amortisation of acquisition related intangibles.
+H1 FY26 H1 FY25 Change
+Revenue 119.9 102.1 17.5%
+Gross Margin1% 36.7% 37.0% -30 bps
+Employee expenses2 25.9 25.5 1.4%
+Share-based payments expense3 0.8 0.3 215.6%
+Other expenses4 11.9 14.1 (15.6%)
+Underlying EBITDA6 before FX 5.3 (2.2) nm%
+Underlying EBITDA6 3.7 (2.8) nm%
+Underlying NPAT7 (4.2) (12.2) 65.7%
+Statutory NPAT (4.4) (19.3) 76.9%
+Commentary
+• Revenue increased 17.5% to $119.9 million, reflecting accelerated 
+growth for Appen China, and the continued turnaround of Appen 
+Global 
+• Small decrease in gross margin % reflects a change in customer 
+and project mix. China margins traditionally lower versus rest of 
+Group
+• Decrease in employee and other expenses in Appen Global offset 
+by additional expense from the Appen China division to enable the 
+delivery of strong revenue growth
+• Decrease in expenses achieved by the Appen Global division 
+through technology innovation and automation
+• Underlying and Statutory NPAT improvement reflects improved 
+EBITDA as well as decrease in amortisation
+For personal use only12
+Cash flow summary
+Commentary
+• Cash balance of $44.7 million (AUD 64.8 million1), despite the decrease a 
+strong balance remains
+• Cash flow used in operations impacted by timing of customer receipts, 
+annual payments during the period, and working capital required to 
+support strong Appen China growth
+• Cash flow from operations in H1 FY25 was positively impacted by the 
+receipt of a payment from a major customer in the first week of January 
+2025 versus December 2024 as scheduled
+• Cash used in investing activities $1.9 million higher compared to H1 FY25, 
+due to higher investment in product development and new facilities for the 
+Appen China division
+• Cash used in financing activities of $2.7 million reflects lease payments
+• Cash used to fund operations and capex
+H1 FY26 H1 FY25
+Receipts 107.3 122.1
+Payments and other (110.0) (109.2)
+Cash flow - operations before interest and tax (2.7) 12.9
+Net interest 0.3 0.4
+Taxes (1.7) (0.1)
+Net cash used in / from operating activities (4.1) 13.2
+Cash flows – investing activities (9.2) (7.3)
+Cash flows – financing activities (2.7) (2.4)
+Net cash flow for the period (16.0) 3.5
+Opening cash balance 59.8 54.8
+FX impact 0.9 2.6
+Closing cash balance 44.7 60.9
+Cash flow reconciliation 
+Underlying EBITDA 3.7 (2.8)
+Net working capital (6.4) 15.7
+Cash flow from operations before interest and tax (2.7) 12.9
+Underlying EBITDA cash conversion nm% nm%
+1.Converted at 30 June 2026 exchange rate of 0.6894
+For personal use onlyStrategy & operational 
+update
+Ryan Kolln
+For personal use onlyAI building blocks
+14
+AI model performance is driven by bespoke, real-world data
+Public data Synthetic dataReal-world data
+Largely exhausted, already captured in 
+existing models
+Provides little ability to differentiate
+Reliant on other models to produce
+Does not solve new or novel situations
+Can result in model collapse
+Unique data that enables new AI 
+approaches
+Brings real-world human expertise and 
+reinforcement learning environments to 
+improve and evaluate models
+Compute Data Algorithms
+Abundant and 
+commoditizing
+Open and largely 
+commoditised
+Scarce, and the source of 
+lasting differentiation
+For personal use only15
+Appen creates data for leading model builders
+Client 
+requirements
+Description of task
+Expertise  
+requirement
+Data quality rubrics
+Volume of data 
+required
+Task duration
+Data for leading 
+AI 
+Appen research and delivery experts
+Internal workforce and project 
+management platform Data annotation platforms
+Expert workforce marketplace
+Expert Global workforce
+Proprietary software stack
+Tier 1 AI labs
+B2C and B2B tech
+Vertical specific AI
+Robotics
+Neo Labs
+For personal use only16
+A global expert
+workforce built for
+Generative AI
+1M+ Workforce
+100+ Domains covered
+24% Masters or PhD level education
+200+ Countries and cultures
+500+ Languages and dialects
+Domain expertise across industries
+Thousands of verified experts in each domain
+Computer 
+Science
+ Linguistics
+ Math
+ Statistics
+ Biology
+Chemistry
+ Psychology
+ Economics
+ Finance
+ Law
+Health Science
+ Nursing
+ Engineering
+ Accounting
+ Music
+Business
+ Consulting
+ Graphic Design
+ Marketing
+ Data Science
+For personal use only17
+Examples of how Appen supports its customers
+01 LLM training data
+Supervised fine-tuning, RLHF and preference 
+annotation, chain-of-thought trajectory labeling, 
+pre-training data production
+02 Multimodal data
+Text-to-image annotation, aesthetic scoring, 
+video labeling, embodied intelligence data
+03 Speech and audio
+Text-to-speech collection, ASR evaluation, dialect 
+and multilanguage audio across 60+ languages
+04 Domain expert annotation
+Medical, scientific (PhD-level maths and biology), 
+legal and financial
+05 Model evaluation
+LLM and vision language model benchmarking, 
+GUI agent eval, search quality
+06 Computer vision and 
+physical AI
+Autonomous driving, robotics, smart home, 
+AR/VR, embodied AI
+07 RL environments
+Data and environments to support reinforcement 
+learning training techniques
+08 Off-the-shelf datasets
+Pre-built dialect, minor language, image editing, 
+company data and coding repository sets
+09 Platform and tooling
+On-premise annotation platform deployments 
+and SaaS licensing for enterprise AI teams
+For personal use only18
+Appen’s services now include highly engineered datasets for LLM training
+DATASET CATOGORY EXAMPLES INCLUDED SCALE AVAILABLE STATUS
+Audio catalog for speech 
+models
+Real-world and simulated call-centre / dictation 
+audio, 15+ languages
+~200k raw hours across 58 
+language/domain lines
+EXISTING
+Reinforcement learning tasks 
+& validators
+RL tasks, verifiers and agentic trajectories for 
+enterprise domains
+>10 task categories — software 
+engineering, healthcare, support NEW
+Code repositories Production commercial codebases with full 
+commit history, PRs and metrics
+>500 repositories, >500k commits 
+captured
+Book corpuses Text and academic corpora — training sets, 
+journals, course textbooks
+~10 LLM-training sets, ~20 academic 
+journal corpora
+Enterprise data for 
+agent training
+Full operational data estates — Slack, GitHub, 
+CRM, email, financials
+~25 enterprise datasets, including full 
+codebase access
+Other standalone datasets Multimodal sets — STEM Q&A, medical dictation, 
+SOAP notes, infographics
+>1m Q&A pairs; >1.2m images
+NEW
+NEW
+NEW
+NEW
+For personal use only19
+Dedicated operations to cover major AI markets
+Regions 
+covered
+Customer 
+segments
+Technology and 
+operations Demand drivers
+GLOBAL
+CHINA
+USA
+Europe
+China
+Japan
+Korea
+Hyperscalers
+Foundational AI
+Vertical AI
+Chinese big tech
+Foundational AI
+Vertical AI
+Dedicated 
+operations and 
+technology stack
+Dedicated 
+operations and 
+technology stack
+Expanding AI 
+capabilities
+New customers
+New data modalities
+Expanding AI 
+capabilities
+New data modalities
+International 
+expansion
+For personal use only20
+Ongoing Opex focus within Appen Global
+Appen Global Opex1,2 Commentary
+• Appen Global technology roadmap continues to deliver 
+operational efficiencies in the business
+• Approximately $12 million in incremental annualised cost 
+efficiencies identified and will be executed over the 
+remainder of FY26 and Q1 FY27
+• ~70% planned to be executed by the end of Q4 FY26 and 
+the balance by the end of Q1 FY27
+• There has been no operational impact of cost out executed 
+to date
+1.Employee expense and direct project workers included in gross margin calculation (i.e. crowd expenses).
+2.All other expenses are all expenses included in underlying EBITDA before FX less employee expenses.
+22.2 
+19.7 17.7 
+14.7 14.4 
+12.5 
+11.1 
+11.4 
+11.2 
+8.1 
+ -
+ 10.0
+ 20.0
+ 30.0
+ 40.0
+H1 FY24 H2 FY24 H1 FY25 H2 FY25 H1 FY26
+Employee expenses All other expenses
+For personal use onlyFY26 outlook & guidance
+Ryan Kolln
+For personal use only22
+FY26 outlook & guidance
+The Company remains confident on the AI data market, and the potential for Appen to meaningfully contribute to the 
+development of leading foundation models.
+The Company continues to see positive signals on LLM related growth including from Appen Global and Appen 
+China customers.
+We remain highly focused on driving technology led efficiencies across our operations.
+As in previous years, Appen Global revenue continues to be mostly derived from project-based work and seasonality 
+skews revenue to H2.
+Considering this, Appen reaffirms the following FY26 group guidance:
+Revenue of $270 - $300 million; and
+Underlying EBITDA (before FX) margin of ~5-10%
+For personal use onlyAppendix
+For personal use only24
+Appendix 1: Appen operating and reporting segments
+Appen ChinaAppen Global
+This segment represents all operations outside of the 
+China Group. 
+All project types and data modalities
+Corporate unallocated costs are not included in this 
+segment (listing fees, directors fees etc. that are not 
+applicable to operating the segment)
+This segment represents the China Group operations and 
+includes China, Japan and Korea customers.
+All project types and data modalities
+For personal use only25
+Appendix 2: Balance sheet
+Commentary
+• Cash balance of $44.7 million (AUD 64.8 million1), despite the decrease a 
+strong balance remains
+• Receivables and contract assets combined increased $14 million 
+predominately due to timing of customer receipts and strong growth of 
+Appen China which has a longer collection cycle compared to Appen 
+Global
+• Current liabilities $7.4 million higher mainly due to an increase in contract 
+liabilities aligned to the growth of the Appen China segment and timing of 
+trade & other payables
+• Non-current liabilities $4.8 million lower due to a decrease in lease 
+liabilities and deferred tax liabilities
+Jun 2026 Dec 2025
+Cash 44.7 59.8
+Receivables 37.7 36.5
+Contract assets 30.7 17.9
+Other current assets 9.8 8.5
+Non-current assets 30.6 29.8
+Total assets 153.5 152.5
+Current liabilities 54.8 47.4
+Non-current liabilities 5.7 10.5
+Total liabilities 60.5 57.9
+Net Assets 93.0 94.6
+Total equity 93.0 94.6
+1.Converted at 30 June 2026 exchange rate of 0.6894
+For personal use only26
+Appendix 3: Investment in product development
+Commentary
+• $7.6 million investment in product development during H1 FY26. Overall 
+spend is reducing due to technology led efficiencies and does not reflect a 
+reduction in product development activities and output
+• ~74% of spend capitalised, up on FY25 due to increased effort on 
+development vs. maintenance as well as reduction in overall spend. 6.3% 
+of revenue reinvested in product development
+• H2 FY26 investment in product development expected to be contained 
+within existing product and engineering spend
+• Appen remains committed to the development of industry-leading 
+products and tools to deliver high-quality data for our customers, including 
+supporting generative AI
+Investment in product development¹
+Product development (exc. amortisation) as a % of revenue
+FY24 FY25 H1 FY26
+1.Product development relates to investment in engineering to ensure our AI data platform and tools support 
+our clients and their use cases, drive efficiencies and scale. These amounts exclude amortization expense.
+74%
+capitalised
+26%
+expensed
+8.3 7.5 
+2.0 
+11.3 11.5 
+5.6 
+19.6 19.0
+7.6
+8.4% 8.2%
+6.3%
+For personal use only27
+Appendix 4: Reconciliation between statutory and underlying results
+1. Underlying results are a non-IFRS measure used by management to assess 
+the performance of the business and have been calculated from statutory 
+measures. Non-IFRS measures have not been subject to audit. Underlying 
+EBITDA excludes restructure costs, transaction costs, and acquisition-
+related and one-time share-based payments expense.
+2. EBIT is defined as earnings before interest and tax. 
+3. EBITDA is EBIT before depreciation and amortisation.
+Half-year ended Half-year ended
+30-Jun-26 30-Jun-25
+$000 $000
+Underlying net loss after tax (NPAT)1 (4,204) (12,240) 65.7%
+Less underlying adjustments (net of tax)
+Amortisation of acquisition-related identifiable intangible assets (191) (6,266)
+Restructure costs (59) (705)
+Transaction costs 0 (46)
+Acquisition-related and one-time share-based payments - (6)
+Statutory NPAT (4,454) (19,263) 76.9%
+Add:  tax benefit (29) (21)
+Add:  net interest income (23) (33)
+EBIT2 (4,506) (19,317) 76.7%
+Add:  depreciation and amortisation 8,110 15,511
+Statutory EBITDA3 3,604 (3,806) nm%
+Add: underlying adjustments
+Restructure costs 59 903
+Transaction costs - 66
+Acquisition-related and one-time3 share-based payments - 6
+Underlying EBITDA1 3,663 (2,831) nm%
+Net foreign exchange gain 1,673 681
+Underlying EBITDA excluding FX 1 5,336 (2,150) nm%
+Statutory diluted earnings per share (cents) 1.67 (7.31)
+Underlying diluted earnings per share (cents) 1.57 (4.65)
+% Statutory EBITDA/sales revenue 3.0% (3.7%)
+% Underlying EBITDA/sales revenue 3.1% (2.7%)
+% Underlying EBITDA before FX/sales revenue 4.5% (2.1%)
+Change
+For personal use only© 2024 proprietary & confidential
+28
+Thank you 
+For personal use only

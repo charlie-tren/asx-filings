@@ -1,10 +1,10 @@
 name: collect
 
-# DAILY, AND THAT IS THE WHOLE POINT. The free ASX index returns the last five
-# announcements per ticker and will not paginate, so anything that falls out of
-# the window is gone permanently. Of 20 tickers probed on 09/09/2026, eight had
-# already lost their August FY26 results. This job is not gathering data that
-# will still be there tomorrow.
+# DAILY, AND THAT IS THE WHOLE POINT. Ingestion is the market-wide feed, which
+# pages back about 20 days before its 100-page cap. That is more slack than the
+# per-ticker index's five items, and it is still a window: anything that falls
+# out of it is gone permanently. This job is not gathering data that will still
+# be there next month.
 #
 # 06:20 UTC / 16:20 AEST, an hour after the ASX close at 16:00 AEST, so the
 # day's announcements are in. Odd minute on purpose: GitHub's scheduler drops
@@ -59,7 +59,7 @@ jobs:
           # Explicit pathspecs, never `git add -A`. Other sessions leave work in
           # these trees, and a sweep with -A has twice committed changes it did
           # not make under a message describing something else.
-          git add data/*.jsonl data/text
+          git add data/*.jsonl data/announcements data/text
           if git diff --cached --quiet; then
             echo "nothing new today"
             exit 0
@@ -73,7 +73,7 @@ jobs:
             git push && exit 0
             git fetch origin
             git reset --mixed origin/main
-            git add data/*.jsonl data/text
+            git add data/*.jsonl data/announcements data/text
             git commit -m "collect: $(date -u +%Y-%m-%d)" || exit 0
           done
           exit 1

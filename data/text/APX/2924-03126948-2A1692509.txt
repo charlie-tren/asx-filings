@@ -1,0 +1,177 @@
+ 
+Appen Limited . Level 8, 1 Market Street, NSW 20 00 Australia. ACN 138 878 298  1 
+ 
+ASX Announcement 
+ 
+27 August 2026 
+ 
+H1 FY26 results 
+ 
+Appen Limited  (Appen) (ASX: APX), a global market leader in data for the Artificial 
+Intelligence (AI) Lifecycle, is pleased to provide its half-year results for the six months 
+ended 30 June 2026 (H1 FY26) as well as FY26 outlook and guidance. 
+ 
+H1 FY26 Highlights: 
+• Revenue of $119.9 million, +17% vs prior corresponding period (pcp)  
+• Underlying EBITDA
+1 (before FX) of $5.3 million, a $7.5 million improvement vs pcp 
+• Ongoing strong half-yearly performance achieved by Appen China, reflected by: 
+o Revenue of $76.2 million, +80% vs pcp;  
+o Underlying EBITDA¹ (before FX) of $12.1 million, +316% vs pcp; and 
+o Annualised revenue run-rate exceeding $175 million in June 
+• Appen Global turnaround continues  with solid progress made resulting in  
+improved revenue mix throughout the period 
+o Revenue of $43.7 million, -27% vs pcp;  
+o Underlying EBITDA¹ loss (before FX) of $4.5 million, -25% vs pcp; and 
+o Performance improved during the half with Q2 +20% vs Q1, and outside of 
+the largest client, Q2 revenue grew 65% vs Q1 
+• Expanded use of AI in operations continues, ~$12 million annualised cost out 
+identified within Appen Global 
+o ~70% to be executed by the end of FY26, remainder by the end of Q1 FY27 
+• Strong cash balance at 30 June 2026: $44.7 million (A$64.8 million2) 
+• FY26 group guidance reaffirmed:  
+o Revenue of $270 - $300 million; and  
+o Underlying EBITDA (before FX) margin of ~5-10% 
+• Investor webinar to be held today, 2 7 August 2026, at 11.00am AEST (click here 
+to register) 
+ 
+  
+ 
+1 Underlying EBITDA excludes restructure costs, transaction costs, and acquisition -related and one-time share-based 
+payment expense. 
+2 Converted at 30 June 2026 exchange rate of 0.6894  
+For personal use only 
+Appen Limited . Level 8, 1 Market Street, NSW 20 00 Australia. ACN 138 878 298  2 
+ 
+Commenting on the performance for the h alf, Appen’s CEO & Managing Director Ryan 
+Kolln said: 
+  
+“The AI market continues to grow rapidly, the competition is intensifying across Western 
+and Chinese AI model builders.  Appen is one of the few AI data partners working across 
+both frontiers of AI, enabling us to grow as the global AI market evolves.  We are proud to 
+be supporting many of the most innovative model releases in the first half and  are deeply 
+engaged in the next wave of AI advancement.” 
+ 
+“At the Group level, we delivered 17% revenue growth vs pcp , supported by expanding 
+projects from existing accounts and exciting new customer wins.”   
+ 
+“Appen China continues to be a major growth driver, with H1 revenue up 80% versus first 
+half 2025.  Appen China exited the first half with an annualised revenue run -rate growing 
+to over $175 million (June), up from $135 million at the end of 2025.  The sustained growth 
+demonstrates the strength of our relationship with Chinese model builders.” 
+ 
+“Appen Global continues to also show solid progress with momentum throughout the half 
+from expanding projects with leading AI labs. We are progressing well in our ambition to 
+expand across frontier AI labs in the USA. At the same time, we continue to realise 
+efficiencies as we adopt AI across our operations.” 
+ 
+“With a strong balance sheet and a dedication to delivering quality data at speed we remain 
+focused on revenue growth from the global growth in AI, and ongoing underlying EBITDA 
+profitability.” 
+ 
+Financial and Operating Performance 
+Group performance 
+Group revenue increased 17% to $119.9 million in H1 FY26, reflecting accelerated growth 
+for Appen China, and the continued turnaround of Appen Global. 
+ 
+During the half, the small decrease in gross margin to 36.7% from 37.0% reflects
+ a change 
+in customer and project mix. Appen China margins are traditionally lower compared to 
+Appen Global. 
+ 
+Group Underlying EBITDA (before FX) improved meaningfullly during the half, delivering 
+a turnaround of approximately $7.5 million versus H1 FY25.  The improvement reflects 
+revenue and gross margin growth, prudent cost management, and operational leverage 
+within Appen China. 
+ 
+  
+For personal use only 
+Appen Limited . Level 8, 1 Market Street, NSW 20 00 Australia. ACN 138 878 298  3 
+ 
+Appen China 
+Appen China continued to perform well during the first half, delivering strong revenue 
+growth (+80% vs pcp). The China business exited the first half with an annualised run-rate 
+for June exceeding $175 million. Additionally, it achieved underlying EBITDA of $ 12.1 
+million in H1 (+$9.2 million or +316% vs pcp), reflecting 15.9% EBITDA margin.  
+ 
+Revenue growth for Appen China continues to be driven by generative AI related projects, 
+including supporting international expansion for Chinese technology companies. EBITDA 
+margin improvement has also been driven by a greater mix of higher -margin generative 
+AI projects and increased revenue from high-margin prebuilt datasets. In addition, a focus 
+on opex as revenue expands is positively contributing to segment performance. 
+ 
+Appen Global 
+Appen Global first half revenue was $43.7 million (-27% vs pcp) with an underlying EBITDA 
+loss of $4.5 million. The decrease in revenue reflects the continued turnaround with lower 
+volumes from traditional work, not yet fully offset by growth in new areas.   
+ 
+Appen Global made strong progress  during the period  to capture growth in the 
+generative AI market and to diversify revenue. Outside of the largest client, Q2 revenue 
+grew 65% on Q1, reflecting growth from projects that were directly related to some of the 
+most innovative AI releases . The new projects the Company is winning cover areas that 
+Appen has long -standing strengths (including speech and relevance). Appen is also 
+winning new work in domains including coding, STEM, finance, and robotics. 
+ 
+Cost reduction program 
+Capturing cost efficiencies via AI enabled operations remains a focus for Appen Global . 
+This focus has identified an incremental ~$12 million in operational efficiencies . ~70% of 
+cost out will be  executed before the end of the year and the remainder in Q1 FY27 . The 
+cost-out does not impact the ability to deliver high-quality data at speed for our customers. 
+ 
+FY26 Outlook & Guidance  
+The Company  remains confident on the AI data market, and the potential for  Appen to 
+meaningfully contribute to the development of leading foundation models.   
+  
+The Company  continues to see positive signals on LLM related growth including from 
+Appen Global and Appen China customers.   
+  
+We remain highly focused on driving technology led efficiencies across our operations. 
+  
+As in previous years, Appen Global revenue continues to be mostly derived from project-
+based work and seasonality skews revenue to H2.  
+  
+  
+For personal use only 
+Appen Limited . Level 8, 1 Market Street, NSW 20 00 Australia. ACN 138 878 298  4 
+ 
+Considering this, Appen reaffirms the following FY26 group guidance:  
+• Revenue of $270 - $300 million; and  
+• Underlying EBITDA (before FX) margin of ~5-10%  
+ 
+Investor webinar 
+The Company will host an investor webinar to discuss the results with Ryan Kolln, CEO & 
+Managing Director and Justin Miles, CFO. The webinar will be hosted at 1 1.00am AEST 
+today, Thursday, 27 August 2026. Register for the investor webinar via the link below:  
+ 
+https://us02web.zoom.us/webinar/register/WN_emwiBN10TtGhyBiP8ZqJ6g 
+ 
+Following the presentation, participants will have an opportunity to ask questions.  
+ 
+ 
+Authorised by the Board of Appen Limited. 
+ 
+For further information, please contact: 
+Ryan Kolln  Justin Miles   Sam Wells 
+CEO   CFO    NWR Communications
+ 
+investorrelations@appen.com   sam@nwrcommunications.com.au 
++612 9468 6300      +61 427 630 152 
+ 
+ 
+About Appen  
+ 
+Appen is a global market leader in data for the AI Lifecycle. With 30 years of experience in 
+data sourcing, data annotation, and model evaluation by humans, we enable organisations 
+to launch the world’s most innovative artificial intelligence systems.   
+  
+Our expertise includes a global crowd of more than 1 million skilled contractors who speak 
+over 500 languages3, in over 200 countries4, as well as our advanced AI data platform. Our 
+products and services give leaders in technology, automotive, financial services, retail, 
+healthcare, and governments the confidence to launch world-class AI products.  
+ 
+Founded in 1996, Appen has customers and offices globally.  
+ 
+ 
+3 Self-reported. 
+4 Self-reported, includes territories.  
+For personal use only

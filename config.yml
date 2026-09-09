@@ -19,6 +19,18 @@ access_token: "83ff96335c2d45a094df02a206a39ff4"
 # the job runs daily rather than in reporting season.
 index_page_size: 20          # asked for; five is what arrives
 
+# INGESTION IS THE MARKET-WIDE FEED at /markets/announcements. It pages where
+# the per-ticker index will not: measured 9,900 announcements over 20 calendar
+# days, ~550 a day across 1,845 tickers.
+#
+# itemsPerPage is the parameter that works. pageSize is silently ignored and
+# returns 25. startDate, endDate, date and days are all ignored too.
+feed_items_per_page: 100
+feed_max_pages: 100          # the server's own hard cap; page 100 is the last
+# A sweep that stops early looks exactly like a quiet day. Measured runs reach
+# 99-100 pages, so anything under 80 means the sweep, not the market.
+feed_min_pages_ok: 80
+
 http:
   user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
   timeout_seconds: 180
