@@ -15,9 +15,23 @@ name: collect
 # the repository_dispatch from site-stats/heartbeat, because a deadline that
 # has to be met cannot be met by a GitHub cron on this account.
 on:
-  schedule:
-    - cron: "23 6 * * *"
-    - cron: "17 9 * * *"      # second pass, in case the first was dropped
+  # PARKED 10/09/2026. Schedules commented out so pushing this repo cannot
+  # silently restart collection, and so nothing fires in an estate nobody is
+  # watching. Same treatment as public-eye.
+  #
+  # The repository_dispatch trigger stays, but site-stats/heartbeat no longer
+  # names this repo, so nothing sends one. workflow_dispatch stays so a future
+  # session can run it by hand without editing anything.
+  #
+  # TO RESTART: uncomment the two crons below AND re-add
+  #   { slot: "content", repo: "charlie-tren/asx-outlook-watch", what: "ASX Outlook Watch collector" }
+  # to TARGETS in site-stats/heartbeat/src/index.js, then `npx wrangler deploy`
+  # from site-stats/heartbeat and check the status endpoint lists it. One
+  # without the other is silent.
+  #
+  # schedule:
+  #   - cron: "23 6 * * *"
+  #   - cron: "17 9 * * *"
   repository_dispatch:
     types: [heartbeat]
   workflow_dispatch:

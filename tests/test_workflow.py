@@ -90,14 +90,21 @@ def test_it_accepts_the_heartbeat_dispatch(wf):
     assert "heartbeat" in on["repository_dispatch"]["types"]
 
 
-def test_it_has_a_second_daily_cron(wf):
-    """One schedule is not a schedule here: GitHub drops runs, and a dropped run
-    is a permanently lost document rather than a late one."""
+def test_the_project_is_parked_consistently(wf, raw):
+    """PARKED 10/09/2026. Two halves have to agree, and a half-parked project is
+    worse than either state: crons on with no heartbeat target is a job firing
+    into an estate nobody watches, and a heartbeat target with no crons is a
+    Worker dispatching at a repo that ignores it.
+
+    Guards the restart too - anyone uncommenting these crons has to read the
+    instruction that says to re-add the heartbeat target as well."""
     on = wf[True] if True in wf else wf["on"]
-    crons = [c["cron"] for c in on["schedule"]]
-    assert len(crons) >= 2
-    # Off the hour on purpose: on-the-hour slots are the congested ones.
-    assert all(not c.startswith("0 ") for c in crons), crons
+    assert "schedule" not in on, "crons are live again; is the heartbeat target back?"
+    assert "# schedule:" in raw, "the parked crons should stay as comments, not be deleted"
+    assert "TO RESTART" in raw
+    assert "TARGETS in site-stats/heartbeat" in raw
+    # A hand-run must still be possible without editing the file.
+    assert "workflow_dispatch" in on
 
 
 def test_it_stages_the_sharded_announcements_directory(script):

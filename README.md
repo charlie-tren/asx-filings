@@ -1,5 +1,22 @@
 # ASX Outlook Watch
 
+> **PARKED 10/09/2026.** Nothing runs on a schedule. The crons in
+> `.github/workflows/collect.yml` are commented out and this repo is no longer a
+> target in `site-stats/heartbeat`. Everything collected is kept: 77 documents,
+> ~2,900 announcements, and a 43-document hand-labelled gold set.
+>
+> **It was not parked because it broke.** The collector works, ran unattended,
+> and its last scheduled run went green. It was parked because the *signal* is
+> unlikely to clear the bar - see "Why this was parked" at the bottom before
+> restarting anything.
+>
+> **To restart:** uncomment the two crons in the workflow AND re-add the target
+> to `TARGETS` in `site-stats/heartbeat/src/index.js`, then `npx wrangler deploy`
+> from `site-stats/heartbeat` and confirm the status endpoint lists it. One
+> without the other is silent. A test in `tests/test_workflow.py` asserts the two
+> halves stay consistent.
+
+
 A daily collector for ASX results announcements. It sweeps the market-wide
 announcement feed, records what it saw, and stores the extracted text of
 anything results-shaped from the companies in `universe.json`.
@@ -223,3 +240,27 @@ daily cap.
 `GROQ_API_KEY` in `.env` is dead (401) and needs re-issuing. Groq's 100K
 tokens/day suits this far better than 20 calls/day, since a selected passage
 bundle is ~1,500 tokens.
+
+## Why this was parked
+
+The collector works. The signal fails on structure, not engineering, and the
+numbers were all measured here rather than assumed:
+
+- **Sample.** ~60 names x 2 reporting events a year is ~120 observations
+  annually. A usable sample arrives around 2029.
+- **Measurement noise.** Of 12 companies that filed both a presentation and a
+  release, **four disagreed on stance between their own two documents on the same
+  day**. A third of the time the answer depends on which file you opened.
+- **No backtest is possible.** First like-for-like pair is August 2027.
+- **Only 4 of 21 companies** gave a quantified guide for the next period. The
+  rest is language, which is the noisy part.
+
+**If it is ever picked up again, the feature to build is current-trading
+disclosure, not tone.** Lovisa printed "first 8 weeks total sales +16.4%"; Shaver
+Shop printed "-3.2% YTD, first two weeks -9.5%". Hard numbers, reliably
+extractable, present in roughly a sixth of results documents, and testable
+forward from the next reporting season instead of needing a pair. That is a
+measurable question. "Did the tone change" is not, yet.
+
+Note that the announcement window keeps moving, so a restart begins collecting
+from that day forward. The gap between parking and restarting is not recoverable.
