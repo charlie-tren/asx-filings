@@ -460,3 +460,19 @@
 {"detail": "2pp 2447ch fwd=0", "document_key": "2924-03123968-2A1690929", "headline": "Preliminary Final Report", "reason": "thin", "rejected_at": "2026-09-09T12:51:37+00:00", "ticker": "EGG"}
 {"detail": null, "document_key": "2924-03123935-2A1690903", "headline": "Update - Notification of buy-back - TPW", "reason": "not-results-shaped", "rejected_at": "2026-09-09T12:51:37+00:00", "ticker": "TPW"}
 {"detail": null, "document_key": "2924-03123890-6A1339549", "headline": "Application for quotation of securities - GNP", "reason": "not-results-shaped", "rejected_at": "2026-09-09T12:51:37+00:00", "ticker": "GNP"}
+{"detail": null, "document_key": "2924-03134169-2A1696535", "headline": "Ceasing to be a substantial holder", "reason": "skip:substantial", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "JIN"}
+{"detail": null, "document_key": "2924-03134165-2A1696530", "headline": "Change in substantial holding", "reason": "skip:substantial", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "CTD"}
+{"detail": null, "document_key": "2924-03134156-2A1696528", "headline": "Change of Director's Interest Notice - Matthew Bryson", "reason": "skip:change of director", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "PWH"}
+{"detail": null, "document_key": "2924-03134152-2A1696527", "headline": "Notification regarding unquoted securities - PWH", "reason": "not-results-shaped", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "PWH"}
+{"detail": null, "document_key": "2924-03134138-6A1343225", "headline": "Response to ASX Letter about Director Trading", "reason": "not-results-shaped", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "MAH"}
+{"detail": null, "document_key": "2924-03134126-3A701499", "headline": "Becoming a substantial holder", "reason": "skip:substantial", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "BAP"}
+{"detail": null, "document_key": "2924-03134104-6A1343199", "headline": "Notification of cessation of securities - DUR", "reason": "not-results-shaped", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "DUR"}
+{"detail": null, "document_key": "2924-03134102-6A1343198", "headline": "Application for quotation of securities - DUR", "reason": "not-results-shaped", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "DUR"}
+{"detail": null, "document_key": "2924-03134064-2A1696487", "headline": "Change in substantial holding", "reason": "skip:substantial", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "PPE"}
+{"detail": null, "document_key": "2924-03134054-2A1696483", "headline": "Becoming a substantial holder", "reason": "skip:substantial", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "JIN"}
+{"detail": null, "document_key": "2924-03133980-3A701484", "headline": "Change of Director's Interest Notice - DS", "reason": "skip:change of director", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "KGN"}
+{"detail": null, "document_key": "2924-03133973-3A701481", "headline": "Change of Director's Interest Notice - RK", "reason": "skip:change of director", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "KGN"}
+{"detail": null, "document_key": "2924-03133968-2A1696448", "headline": "Change of Director's Interest Notice", "reason": "skip:change of director", "rejected_at": "2026-09-10T11:34:53+00:00", "ticker": "BRG"}
+{"detail": null, "document_key": "2924-03133895-3A701463", "headline": "Notification regarding unquoted securities - HSN", "reason": "not-results-shaped", "rejected_at": "2026-09-10T11:34:54+00:00", "ticker": "HSN"}
+{"detail": null, "document_key": "2924-03133884-3A701458", "headline": "Update - Notification of buy-back - ABB", "reason": "not-results-shaped", "rejected_at": "2026-09-10T11:34:54+00:00", "ticker": "ABB"}
+{"detail": null, "document_key": "2924-03133874-2A1696406", "headline": "Update - Notification of buy-back - JIN", "reason": "not-results-shaped", "rejected_at": "2026-09-10T11:34:54+00:00", "ticker": "JIN"}
